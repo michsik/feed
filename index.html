@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Kadr</title>
+<meta name="description" content="Codzienny feed: street photo, filmy krótkometrażowe, teledyski, artykuły i wiadomości.">
+<meta name="theme-color" content="#0f0e0d">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Kadr">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&family=Newsreader:opsz,wght@6..72,400;6..72,500&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: one full-height frame per item, snapping vertically like a contact sheet run through a projector */
+:root{
+  --ink:#0f0e0d;        /* projection-room black, warm */
+  --ink-2:#1a1816;
+  --paper:#ece6dc;      /* print paper */
+  --dim:#958c80;
+  --line:#2c2925;
+  --sodium:#e2a54a;     /* street-lamp amber, the one accent */
+  --display:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;
+  --text:"Newsreader",Georgia,"Times New Roman",serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+  --sat:env(safe-area-inset-top,0px);
+  --sab:env(safe-area-inset-bottom,0px);
+  --sal:env(safe-area-inset-left,0px);
+  --sar:env(safe-area-inset-right,0px);
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0;background:var(--ink);color:var(--paper)}
+body{font-family:var(--display);-webkit-font-smoothing:antialiased;overflow:hidden}
+button{font:inherit;color:inherit;background:none;border:0;padding:0;cursor:pointer}
+a{color:inherit}
+:focus-visible{outline:2px solid var(--sodium);outline-offset:3px}
+[hidden]{display:none!important}
+
+/* top bar */
+.bar{position:fixed;inset:0 0 auto;z-index:20;padding:calc(var(--sat) + 10px) max(16px,var(--sar)) 10px max(16px,var(--sal));
+  display:flex;align-items:center;gap:14px;
+  background:linear-gradient(var(--ink) 30%,transparent);pointer-events:none}
+.bar > *{pointer-events:auto}
+.logo{font-weight:800;font-size:20px;letter-spacing:-.02em;display:flex;align-items:baseline;gap:6px}
+.logo i{width:8px;height:8px;border-radius:50%;background:var(--sodium);display:inline-block;transform:translateY(-1px)}
+.chips{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;margin-left:auto;min-width:0}
+.chips::-webkit-scrollbar{display:none}
+.chip{font-size:13px;padding:6px 11px;border-radius:999px;border:1px solid var(--line);color:var(--dim);white-space:nowrap;background:rgba(15,14,13,.6)}
+.chip[aria-pressed="true"]{color:var(--ink);background:var(--paper);border-color:var(--paper)}
+
+/* feed */
+.feed{height:100%;overflow-y:auto;scroll-snap-type:y mandatory;overscroll-behavior:contain}
+.slide{position:relative;height:100dvh;scroll-snap-align:start;scroll-snap-stop:always;overflow:hidden;
+  display:flex;flex-direction:column;justify-content:center}
+.meta{position:absolute;left:0;right:0;bottom:0;z-index:3;
+  padding:60px max(72px,calc(var(--sar) + 72px)) calc(var(--sab) + 22px) max(16px,var(--sal));
+  background:linear-gradient(transparent,rgba(15,14,13,.92) 55%)}
+.counter{font-family:var(--mono);font-size:11px;letter-spacing:.08em;color:var(--dim);text-transform:uppercase;display:flex;gap:10px;flex-wrap:wrap}
+.counter b{color:var(--sodium);font-weight:500}
+.meta h2{font-weight:600;font-size:clamp(20px,5.4vw,30px);line-height:1.08;letter-spacing:-.015em;margin:8px 0 4px;text-wrap:balance}
+.meta .by{font-size:14px;color:var(--dim)}
+.meta p{font-family:var(--text);font-size:16px;line-height:1.45;margin:10px 0 0;max-width:60ch;color:#d8d1c6}
+
+/* side actions */
+.actions{position:absolute;z-index:4;right:max(12px,calc(var(--sar) + 12px));bottom:calc(var(--sab) + 26px);display:flex;flex-direction:column;gap:14px}
+.act{width:44px;height:44px;border-radius:50%;display:grid;place-items:center;background:rgba(26,24,22,.75);border:1px solid var(--line);text-decoration:none}
+.act svg{width:20px;height:20px;stroke:currentColor;fill:none;stroke-width:1.7}
+.act[aria-pressed="true"] svg{fill:var(--sodium);stroke:var(--sodium)}
+
+/* photo */
+.photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:var(--ink)}
+.photo .meta{padding-top:80px}
+
+/* video */
+.video .bg{position:absolute;inset:-40px;background-size:cover;background-position:center;filter:blur(36px) brightness(.35);transform:scale(1.1)}
+.frame{position:relative;z-index:2;width:100%;max-width:100%;aspect-ratio:16/9;background:#000;margin-top:-90px}
+.frame img{width:100%;height:100%;object-fit:cover;display:block}
+.frame iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.play{position:absolute;inset:0;display:grid;place-items:center}
+.play span{width:68px;height:68px;border-radius:50%;background:rgba(15,14,13,.7);border:1px solid rgba(236,230,220,.4);display:grid;place-items:center}
+.play svg{width:24px;height:24px;fill:var(--paper);margin-left:4px}
+
+/* text slides (article / news) */
+.text{background:var(--ink-2);padding:calc(var(--sat) + 80px) max(24px,calc(var(--sar) + 24px)) calc(var(--sab) + 100px) max(24px,calc(var(--sal) + 24px));justify-content:center}
+.text.news{background:var(--ink)}
+.text .counter{margin-bottom:22px}
+.text h2{font-weight:800;font-size:clamp(30px,8.5vw,52px);line-height:1;letter-spacing:-.03em;margin:0 0 22px;text-wrap:balance;max-width:16ch}
+.text.news h2{font-weight:600;font-size:clamp(26px,7vw,42px);letter-spacing:-.02em;max-width:20ch}
+.text p{font-family:var(--text);font-size:19px;line-height:1.5;margin:0 0 26px;max-width:36ch;color:#d8d1c6}
+.read{font-family:var(--mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--sodium);text-decoration:none;display:inline-flex;gap:8px;align-items:center;padding:10px 0}
+.text .actions{bottom:calc(var(--sab) + 26px)}
+.rule{width:36px;height:3px;background:var(--sodium);margin-bottom:18px}
+
+/* end card */
+.end{padding:calc(var(--sat) + 80px) max(24px,var(--sar)) calc(var(--sab) + 40px) max(24px,var(--sal));align-items:flex-start;justify-content:center;background:var(--ink)}
+.end .big{font-weight:800;font-size:clamp(40px,12vw,72px);line-height:.95;letter-spacing:-.04em;margin:0 0 18px;max-width:10ch}
+.end p{font-family:var(--text);font-size:18px;line-height:1.5;color:#d8d1c6;max-width:34ch;margin:0 0 28px}
+.end .row{display:flex;gap:10px;flex-wrap:wrap}
+.btn{padding:12px 18px;border-radius:999px;border:1px solid var(--line);font-size:15px}
+.btn.primary{background:var(--paper);color:var(--ink);border-color:var(--paper)}
+.stats{font-family:var(--mono);font-size:12px;color:var(--dim);letter-spacing:.06em;text-transform:uppercase;margin-bottom:20px;font-variant-numeric:tabular-nums}
+
+.empty{height:100dvh;display:grid;place-items:center;text-align:center;padding:24px;color:var(--dim);font-family:var(--text);font-size:18px}
+.toast{position:fixed;left:50%;bottom:calc(var(--sab) + 24px);transform:translateX(-50%);background:var(--paper);color:var(--ink);padding:10px 16px;border-radius:999px;font-size:14px;z-index:30;opacity:0;transition:opacity .2s}
+.toast.on{opacity:1}
+@media (prefers-reduced-motion:reduce){.feed{scroll-behavior:auto}.toast{transition:none}}
+</style>
+</head>
+<body>
+<header class="bar">
+  <div class="logo"><i></i>Kadr</div>
+  <nav class="chips" id="chips" aria-label="Filtr">
+    <button class="chip" data-f="all" aria-pressed="true">Wszystko</button>
+    <button class="chip" data-f="photo" aria-pressed="false">Foto</button>
+    <button class="chip" data-f="video" aria-pressed="false">Filmy</button>
+    <button class="chip" data-f="article" aria-pressed="false">Czytaj</button>
+    <button class="chip" data-f="news" aria-pressed="false">News</button>
+    <button class="chip" data-f="saved" aria-pressed="false">Zapisane</button>
+  </nav>
+</header>
+<main class="feed" id="feed"><div class="empty">Ładuję dzisiejsze kadry…</div></main>
+<div class="toast" id="toast" role="status"></div>
+
+<script>
+const ICONS={
+  save:'<svg viewBox="0 0 24 24"><path d="M6 3h12v18l-6-4-6 4z"/></svg>',
+  open:'<svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-9 9M18 14v6H4V6h6"/></svg>',
+  share:'<svg viewBox="0 0 24 24"><path d="M12 3v12M7 8l5-5 5 5M5 13v8h14v-8"/></svg>',
+  play:'<svg viewBox="0 0 24 24"><path d="M6 4l14 8-14 8z"/></svg>'
+};
+const LABEL={photo:'Street photo',video:'Film',article:'Artykuł',news:'Wiadomości'};
+const store={
+  get(k,d){try{const v=localStorage.getItem(k);return v?JSON.parse(v):d}catch(e){return d}},
+  set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
+};
+let saved=new Set(store.get('kadr.saved',[]));
+let all=[],filter=store.get('kadr.filter','all'),showArchive=false;
+const feed=document.getElementById('feed');
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+function poster(it){
+  if(it.img) return it.img;
+  if(it.embed?.p==='yt') return `https://i.ytimg.com/vi/${it.embed.id}/hqdefault.jpg`;
+  if(it.embed?.p==='vimeo') return `https://vumbnail.com/${it.embed.id}.jpg`;
+  return '';
+}
+function embedUrl(e){
+  return e.p==='yt'
+    ? `https://www.youtube-nocookie.com/embed/${e.id}?autoplay=1&playsinline=1&rel=0`
+    : `https://player.vimeo.com/video/${e.id}?autoplay=1&playsinline=1&dnt=1`;
+}
+function watchUrl(it){
+  if(it.embed?.p==='yt') return `https://www.youtube.com/watch?v=${it.embed.id}`;
+  if(it.embed?.p==='vimeo') return `https://vimeo.com/${it.embed.id}`;
+  return it.src;
+}
+function actions(it){
+  return `<div class="actions">
+    <button class="act" data-save="${esc(it.id)}" aria-pressed="${saved.has(it.id)}" aria-label="Zapisz">${ICONS.save}</button>
+    <button class="act" data-share="${esc(it.id)}" aria-label="Udostępnij">${ICONS.share}</button>
+    <a class="act" href="${esc(it.type==='video'?watchUrl(it):it.src)}" target="_blank" rel="noopener" aria-label="Otwórz źródło">${ICONS.open}</a>
+  </div>`;
+}
+function counter(it,i,n){
+  const lang=it.lang?` · ${it.lang.toUpperCase()}`:'';
+  return `<div class="counter"><b>${String(i+1).padStart(2,'0')}/${String(n).padStart(2,'0')}</b><span>${esc(it.kind||LABEL[it.type])}${lang}</span><span>${esc(it.srcName||'')}</span></div>`;
+}
+function slide(it,i,n){
+  if(it.type==='photo') return `<section class="slide photo" data-id="${esc(it.id)}">
+    <img src="${esc(it.img)}" alt="${esc(it.title)}, fot. ${esc(it.by)}" loading="${i<2?'eager':'lazy'}">
+    <div class="meta">${counter(it,i,n)}<h2>${esc(it.title)}</h2><div class="by">fot. ${esc(it.by)}</div></div>${actions(it)}</section>`;
+  if(it.type==='video'){
+    const p=poster(it);
+    return `<section class="slide video" data-id="${esc(it.id)}">
+      <div class="bg" style="background-image:url('${esc(p)}')"></div>
+      <div class="frame">${p?`<img src="${esc(p)}" alt="" loading="lazy">`:''}
+        ${it.embed?`<button class="play" data-play="${esc(it.id)}" aria-label="Odtwórz ${esc(it.title)}"><span>${ICONS.play}</span></button>`
+                  :`<a class="play" href="${esc(it.src)}" target="_blank" rel="noopener" aria-label="Obejrzyj w źródle"><span>${ICONS.play}</span></a>`}
+      </div>
+      <div class="meta">${counter(it,i,n)}<h2>${esc(it.title)}</h2>${it.by?`<div class="by">${esc(it.by)}</div>`:''}${it.text?`<p>${esc(it.text)}</p>`:''}</div>${actions(it)}</section>`;
+  }
+  return `<section class="slide text ${it.type}" data-id="${esc(it.id)}"><div class="rule"></div>
+    ${counter(it,i,n)}<h2>${esc(it.title)}</h2><p>${esc(it.text)}</p>
+    <a class="read" href="${esc(it.src)}" target="_blank" rel="noopener">${it.lang==='en'?'Read at source':'Czytaj w źródle'} →</a>${actions(it)}</section>`;
+}
+function endCard(today,n,olderCount){
+  const counts={photo:0,video:0,article:0,news:0};today.forEach(i=>counts[i.type]++);
+  return `<section class="slide end"><div class="stats">${n} kadrów · ${counts.photo} foto · ${counts.video} filmów · ${counts.article+counts.news} do czytania</div>
+    <div class="big">Na dziś to wszystko.</div>
+    <p>Nowe kadry pojawią się jutro rano. Odłóż telefon albo zajrzyj do tego, co zapisałeś.</p>
+    <div class="row"><button class="btn primary" data-goto="saved">Zapisane (${saved.size})</button>
+    ${olderCount?`<button class="btn" data-archive>Starsze (${olderCount})</button>`:''}</div></section>`;
+}
+function render(){
+  document.querySelectorAll('.chip').forEach(c=>c.setAttribute('aria-pressed',c.dataset.f===filter));
+  let list=all;
+  if(filter==='saved') list=all.filter(i=>saved.has(i.id));
+  else if(filter!=='all') list=all.filter(i=>i.type===filter);
+  const newest=all.length?all[0].date:null;
+  const today=filter==='saved'?list:list.filter(i=>i.date===newest);
+  const older=filter==='saved'?[]:list.filter(i=>i.date!==newest);
+  const shown=showArchive?today.concat(older):today;
+  if(!shown.length){feed.innerHTML=`<div class="empty">${filter==='saved'?'Nic jeszcze nie zapisałeś. Stuknij zakładkę na kadrze, by go tu odłożyć.':'Brak kadrów w tej kategorii.'}</div>`;return}
+  feed.innerHTML=shown.map((it,i)=>slide(it,i,shown.length)).join('')+(filter==='saved'?'':endCard(today,today.length,showArchive?0:older.length));
+  feed.scrollTop=0;observe();
+}
+let io;
+function observe(){
+  io?.disconnect();
+  io=new IntersectionObserver(es=>es.forEach(e=>{
+    if(!e.isIntersecting){const f=e.target.querySelector('iframe');if(f)f.remove()}
+  }),{root:feed,threshold:.25});
+  feed.querySelectorAll('.slide.video').forEach(s=>io.observe(s));
+}
+let tt;function toast(m){const t=document.getElementById('toast');t.textContent=m;t.classList.add('on');clearTimeout(tt);tt=setTimeout(()=>t.classList.remove('on'),1600)}
+
+document.addEventListener('click',async e=>{
+  const c=e.target.closest('.chip');
+  if(c){filter=c.dataset.f;showArchive=false;store.set('kadr.filter',filter);render();return}
+  const p=e.target.closest('[data-play]');
+  if(p){const it=all.find(i=>i.id===p.dataset.play);const f=document.createElement('iframe');
+    f.src=embedUrl(it.embed);f.allow='autoplay; fullscreen; picture-in-picture; encrypted-media';f.allowFullscreen=true;f.title=it.title;
+    p.parentElement.appendChild(f);return}
+  const s=e.target.closest('[data-save]');
+  if(s){const id=s.dataset.save;saved.has(id)?saved.delete(id):saved.add(id);store.set('kadr.saved',[...saved]);
+    s.setAttribute('aria-pressed',saved.has(id));toast(saved.has(id)?'Zapisano':'Usunięto z zapisanych');return}
+  const sh=e.target.closest('[data-share]');
+  if(sh){const it=all.find(i=>i.id===sh.dataset.share);const url=it.type==='video'?watchUrl(it):it.src;
+    try{if(navigator.share){await navigator.share({title:it.title,url})}else{await navigator.clipboard.writeText(url);toast('Skopiowano link')}}catch(_){}
+    return}
+  if(e.target.closest('[data-archive]')){const y=feed.scrollTop;showArchive=true;render();feed.scrollTop=y;return}
+  const g=e.target.closest('[data-goto]');if(g){filter=g.dataset.goto;render();}
+});
+
+fetch('feed.json?v='+Date.now()).then(r=>r.json()).then(d=>{
+  all=(d.items||[]).slice().sort((a,b)=>a.date<b.date?1:a.date>b.date?-1:0);
+  render();
+}).catch(()=>{feed.innerHTML='<div class="empty">Nie udało się wczytać feedu. Sprawdź połączenie i odśwież stronę.</div>'});
+</script>
+</body>
+</html>

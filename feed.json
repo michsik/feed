@@ -1,0 +1,318 @@
+{
+  "updated": "2026-10-16",
+  "items": [
+    {
+      "id": "2026-10-16-dn-everything-fine",
+      "date": "2026-10-16",
+      "type": "video",
+      "kind": "Film krótkometrażowy · dokument",
+      "title": "Everything Will Be Totally Fine",
+      "by": "Sam Baron",
+      "text": "W 2016 roku reżyser poprosił bliskich, by przewidzieli, jak będzie wyglądał świat w 2026. Z nagrań wyszedł film o czymś innym: o żałobie po matce, wspólnocie i niepewności.",
+      "embed": { "p": "vimeo", "id": "1235812698" },
+      "img": "https://directorsnotes.com/wp-content/uploads/2026/10/everything_will_be_totally_fine_03a.jpg",
+      "src": "https://directorsnotes.com/2026/10/15/sam-baron-everything-will-be-totally-fine/",
+      "srcName": "Directors Notes"
+    },
+    {
+      "id": "2026-10-16-photo-porter",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Kobieta idąca jezdnią",
+      "by": "Molly Porter",
+      "img": "https://images.unsplash.com/photo-1429292394373-ddbcc6bb7468?w=1400&q=80&auto=format",
+      "src": "https://unsplash.com/photos/K7oqWgDJQ6E",
+      "srcName": "Unsplash"
+    },
+    {
+      "id": "2026-10-16-news-pl-bomba",
+      "date": "2026-10-16",
+      "type": "news",
+      "lang": "pl",
+      "title": "Ćwierćtonowa bomba lotnicza na budowie we Wrocławiu",
+      "text": "Przy ul. Kolejowej robotnicy odkopali niemiecką bombę z czasów II wojny światowej. Saperzy mają ją wywieźć na poligon w Biedrusku; niewykluczona jest ewakuacja okolicznych budynków.",
+      "src": "https://gazetawroclawska.pl/niemiecka-bomba-lotnicza-w-centrum-wroclawia-wazy-az-cwierc-tony-mozliwa-ewakuacja/ar/c1p2-29442169",
+      "srcName": "Gazeta Wrocławska"
+    },
+    {
+      "id": "2026-10-16-mv-tinariwen",
+      "date": "2026-10-16",
+      "type": "video",
+      "kind": "Teledysk · animacja",
+      "title": "Tinariwen – Erghad Afewo",
+      "by": "reż. Axel Digoix",
+      "text": "Rysowana, komiksowa animacja osadzona na Saharze, w której polityczny konflikt splata się z osobistym dramatem.",
+      "embed": { "p": "yt", "id": "Snu2cGohYC4" },
+      "src": "https://www.promonews.tv/videos/2026/10/14/tinariwen-erghad-afewo-axel-digoix/96384",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-16-photo-13on",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Przejście dla pieszych",
+      "by": "13on",
+      "img": "https://images.unsplash.com/photo-1522897048979-e407743f3603?w=1400&q=80&auto=format",
+      "src": "https://unsplash.com/photos/a4gn0tegY_g",
+      "srcName": "Unsplash"
+    },
+    {
+      "id": "2026-10-16-art-montblanc",
+      "date": "2026-10-16",
+      "type": "article",
+      "lang": "en",
+      "title": "Mont Blanc has grown by almost two metres",
+      "text": "The latest survey puts the summit at 4,807.47 m. The height of the ice cap shifts from year to year with snowfall and wind, so the mountain's official number keeps moving.",
+      "src": "https://www.euronews.com/video/2026/10/14/mont-blanc-rises-by-almost-two-metres-now-standing-at-480747-metres",
+      "srcName": "Euronews"
+    },
+    {
+      "id": "2026-10-16-dn-busy-bodies",
+      "date": "2026-10-16",
+      "type": "video",
+      "kind": "Animacja",
+      "title": "Busy Bodies",
+      "by": "Kate Renshaw-Lewis",
+      "text": "Ręcznie drukowana animacja w trzech kolorach: domowa „fabryka”, w której maleńcy robotnicy obsługują maszyny Rube’a Goldberga produkujące gumowe rękawiczki. Film o niewidocznej pracy stojącej za masową produkcją.",
+      "embed": { "p": "yt", "id": "k0po0DzYZws" },
+      "img": "https://directorsnotes.com/wp-content/uploads/2026/10/busy_bodies_01.jpg",
+      "src": "https://directorsnotes.com/2026/10/01/kate-renshaw-lewis-busy-bodies/",
+      "srcName": "Directors Notes"
+    },
+    {
+      "id": "2026-10-16-news-en-hormuz",
+      "date": "2026-10-16",
+      "type": "news",
+      "lang": "en",
+      "title": "Another tanker on fire near the Strait of Hormuz",
+      "text": "The fire follows attacks that sank two cargo ships in the area, raising fresh concerns about one of the world's key oil shipping routes.",
+      "src": "https://www.euronews.com/video/2026/10/15/another-tanker-catches-fire-near-hormuz-after-two-cargo-ships-sunk-in-attacks",
+      "srcName": "Euronews"
+    },
+    {
+      "id": "2026-10-16-photo-chechi",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Ulica nocą",
+      "by": "Che-Chi Lin",
+      "img": "https://images.unsplash.com/photo-1722153023306-a0618a3340c6?w=1400&q=80&auto=format",
+      "src": "https://unsplash.com/photos/h2coDswHOAw",
+      "srcName": "Unsplash"
+    },
+    {
+      "id": "2026-10-16-dn-faranooka",
+      "date": "2026-10-16",
+      "type": "video",
+      "kind": "Film krótkometrażowy · sci-fi",
+      "title": "FARANOOKA",
+      "by": "Craig Bingham",
+      "text": "Mityczne fantasy na praktycznych efektach i eksperymentalnym dźwięku. W świecie wiecznej ciemności rodzi się dziecko niosące pierwsze światło, a łowca Angbor rusza w mrok, trochę jak u Dantego.",
+      "embed": { "p": "yt", "id": "2UjAN2zget0" },
+      "img": "https://directorsnotes.com/wp-content/uploads/2026/10/faranooka_short_film_02.jpg",
+      "src": "https://directorsnotes.com/2026/10/14/craig-bingham-faranooka/",
+      "srcName": "Directors Notes"
+    },
+    {
+      "id": "2026-10-16-news-pl-emerytury",
+      "date": "2026-10-16",
+      "type": "news",
+      "lang": "pl",
+      "title": "Marcowa waloryzacja emerytur: co najmniej 3,48 proc.",
+      "text": "Według aktualnych prognoz świadczenia wzrosną w marcu 2027 r. o minimum 3,48 proc., czyli od kilkudziesięciu do ponad 200 zł miesięcznie, zależnie od wysokości emerytury.",
+      "src": "https://nto.pl/to-juz-w-zasadzie-pewne-bedzie-kolejna-podwyzka-emerytur/ar/c1p2-29411615",
+      "srcName": "NTO"
+    },
+    {
+      "id": "2026-10-16-photo-tudor",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Dworzec",
+      "by": "Robert Tudor",
+      "img": "https://images.unsplash.com/photo-1520720812953-4544b935ead8?w=1400&q=80&auto=format",
+      "src": "https://unsplash.com/photos/G7bXcUgh_xk",
+      "srcName": "Unsplash"
+    },
+    {
+      "id": "2026-10-16-lff-clouds-odessa",
+      "date": "2026-10-16",
+      "type": "video",
+      "kind": "Animowany dokument · BFI London Film Festival",
+      "title": "The Clouds of Odessa",
+      "by": "Luca Arcangeli",
+      "text": "Animacja przeplata się z dokumentem w historii miłosnej na tle wojny w Ukrainie, opowiedzianej z dziecięcą perspektywą.",
+      "embed": { "p": "vimeo", "id": "1179227306" },
+      "src": "https://directorsnotes.com/2026/10/13/london-film-festival-2026-best-shorts/",
+      "srcName": "Directors Notes"
+    },
+    {
+      "id": "2026-10-16-art-frieze",
+      "date": "2026-10-16",
+      "type": "article",
+      "lang": "en",
+      "title": "Frieze London blurs art, gaming and reality",
+      "text": "This year's edition of the London art fair leans into works that borrow from video games and interactive worlds, making visitors players as much as viewers.",
+      "src": "https://www.euronews.com/video/2026/10/15/uk-frieze-london-blurs-the-lines-between-art-gaming-and-reality",
+      "srcName": "Euronews"
+    },
+    {
+      "id": "2026-10-16-photo-gibbons",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Beton",
+      "by": "John Gibbons",
+      "img": "https://images.unsplash.com/photo-1500069329338-1f270dce111f?w=1400&q=80&auto=format",
+      "src": "https://unsplash.com/photos/y03Eh7H-dqQ",
+      "srcName": "Unsplash"
+    },
+    {
+      "id": "2026-10-16-dn-dont-puke",
+      "date": "2026-10-16",
+      "type": "video",
+      "kind": "Film krótkometrażowy · komedia",
+      "title": "Don't Puke",
+      "by": "Daniel Chisholm",
+      "text": "Siedem minut w głowie bardzo pijanej Charlie wracającej na kanapę. Subiektywna kamera, fotogrametria i Gaussian splatting oddają chwiejną dezorientację tej nocy.",
+      "embed": { "p": "yt", "id": "OIC4AUMNk0E" },
+      "img": "https://directorsnotes.com/wp-content/uploads/2026/09/dont_puke_01.jpg",
+      "src": "https://directorsnotes.com/2026/10/05/daniel-chisholm-dont-puke/",
+      "srcName": "Directors Notes"
+    },
+    {
+      "id": "2026-10-16-news-en-prices",
+      "date": "2026-10-16",
+      "type": "news",
+      "lang": "en",
+      "title": "US producer prices rise at fastest pace in 4½ years",
+      "text": "The jump comes after a surge in consumer inflation and adds to expectations that the Federal Reserve could come under pressure to raise interest rates.",
+      "src": "https://news.sbs.co.kr/english/article.do?news_id=N1008800941",
+      "srcName": "SBS News"
+    },
+    {
+      "id": "2026-10-16-photo-henry",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Parasol na przejściu",
+      "by": "Matthew Henry",
+      "img": "https://images.unsplash.com/photo-1488034976201-ffbaa99cbf5c?w=1400&q=80&auto=format",
+      "src": "https://unsplash.com/photos/Ix1TiS-E17E",
+      "srcName": "Unsplash"
+    },
+    {
+      "id": "2026-10-16-lff-untitled-woman",
+      "date": "2026-10-16",
+      "type": "video",
+      "kind": "Film krótkometrażowy · BFI London Film Festival",
+      "title": "Untitled Woman",
+      "by": "Camille Summers-Valli",
+      "text": "Subtelna historia w galerii sztuki o starzeniu się i presji, by kobiety zawsze wyglądały młodo.",
+      "embed": { "p": "yt", "id": "8ZC36C2NJkI" },
+      "src": "https://directorsnotes.com/2026/10/13/london-film-festival-2026-best-shorts/",
+      "srcName": "Directors Notes"
+    },
+    {
+      "id": "2026-10-16-news-pl-nik",
+      "date": "2026-10-16",
+      "type": "news",
+      "lang": "pl",
+      "title": "NIK o powodzi z 2024 r.: zawiódł przepływ informacji",
+      "text": "Kontrolerzy wskazali liczne błędy w akcji przeciwpowodziowej, a prokuratura zgromadziła już 15 tomów akt. Najsłabszym ogniwem była szybka wymiana informacji.",
+      "src": "https://nto.pl/prokuratorzy-zgromadzili-15-tomow-akt-nik-wskazuje-na-bledy-kto-odpowiada-za-powodz/ar/c1p2-29438011",
+      "srcName": "NTO"
+    },
+    {
+      "id": "2026-10-16-photo-andolfatto",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "W autobusie",
+      "by": "Filippo Andolfatto",
+      "img": "https://images.unsplash.com/photo-1511348449913-2a0c196a7232?w=1400&q=80&auto=format",
+      "src": "https://unsplash.com/photos/d7TCav4VTQE",
+      "srcName": "Unsplash"
+    },
+    {
+      "id": "2026-10-16-dn-pierre",
+      "date": "2026-10-16",
+      "type": "video",
+      "kind": "Film krótkometrażowy · czarna komedia",
+      "title": "PIERRE THE GREAT",
+      "by": "Kiyan Ahmadi",
+      "text": "Omar przyjmuje pod dach rannego wujka Pierre’a, a ciasne mieszkanie i napięta relacja z dziewczyną szybko zamieniają się w chaotyczną noc. Nakręcone w trzy dni.",
+      "embed": { "p": "yt", "id": "A6TdrmllwOw" },
+      "img": "https://directorsnotes.com/wp-content/uploads/2026/10/pierre_the_great_09.jpg",
+      "src": "https://directorsnotes.com/2026/10/02/kiyan-ahmadi-pierre-the-great/",
+      "srcName": "Directors Notes"
+    },
+    {
+      "id": "2026-10-16-art-glacier",
+      "date": "2026-10-16",
+      "type": "article",
+      "lang": "en",
+      "title": "Slovenia fights to keep its last glacier",
+      "text": "With the ice melting from every side, Slovenia is trying drastic measures to slow the disappearance of the country's final glacier.",
+      "src": "https://www.euronews.com/video/2026/10/15/it-melts-all-sides-slovenia-takes-drastic-measures-to-stop-its-last-glacier-from-vanishing",
+      "srcName": "Euronews"
+    },
+    {
+      "id": "2026-10-16-photo-chan",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Wieczorny tłum",
+      "by": "Thomas Chan",
+      "img": "https://images.unsplash.com/photo-1534847004764-b93737310da1?w=1400&q=80&auto=format",
+      "src": "https://unsplash.com/photos/JdvJIqFPLDA",
+      "srcName": "Unsplash"
+    },
+    {
+      "id": "2026-10-16-lff-to-the-north",
+      "date": "2026-10-16",
+      "type": "video",
+      "kind": "Film krótkometrażowy · BFI London Film Festival",
+      "title": "To The North",
+      "by": "Amer Nasser",
+      "text": "Czarno-biała etiuda o cierpieniu i stracie w Gazie, zbudowana wokół roli Ferasa Almasriego.",
+      "embed": { "p": "yt", "id": "cQYYZwb15ag" },
+      "src": "https://directorsnotes.com/2026/10/13/london-film-festival-2026-best-shorts/",
+      "srcName": "Directors Notes"
+    },
+    {
+      "id": "2026-10-16-news-en-yalu",
+      "date": "2026-10-16",
+      "type": "news",
+      "lang": "en",
+      "title": "China and North Korea open the New Yalu River Bridge",
+      "text": "The crossing was finished years ago but stood unused; it opens to traffic after a 12-year delay.",
+      "src": "https://www.euronews.com/video/2026/10/15/china-and-north-korea-open-new-yalu-river-bridge-after-12-year-delay",
+      "srcName": "Euronews"
+    },
+    {
+      "id": "2026-10-16-photo-iwata",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Skrzyżowanie z góry",
+      "by": "Ryoji Iwata",
+      "img": "https://images.unsplash.com/photo-1517586979036-b7d1e86b3345?w=1400&q=80&auto=format",
+      "src": "https://unsplash.com/photos/vWfKaO0k9pc",
+      "srcName": "Unsplash"
+    },
+    {
+      "id": "2026-10-16-art-golden-hour",
+      "date": "2026-10-16",
+      "type": "article",
+      "lang": "en",
+      "title": "Where golden hour looks best, according to a meteorologist",
+      "text": "A ranking of places with the most reliable warm, low evening light, topped by spots like Namibia's Etosha National Park. Useful reading for anyone who plans shoots around the sun.",
+      "src": "https://www.euronews.com/2026/10/16/these-are-the-worlds-best-destinations-for-golden-hour-according-to-a-meteorologist",
+      "srcName": "Euronews"
+    },
+    {
+      "id": "2026-10-16-photo-sara-aho",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Schody",
+      "by": "Sara Aho",
+      "img": "https://images.unsplash.com/photo-1447887781034-d96bb36d5e00?w=1400&q=80&auto=format",
+      "src": "https://unsplash.com/photos/JMD2xOvcLVw",
+      "srcName": "Unsplash"
+    }
+  ]
+}
