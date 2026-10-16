@@ -39,6 +39,16 @@
       "srcName": "Gazeta Wrocławska"
     },
     {
+      "id": "2026-10-16-news-pl-paliwa",
+      "date": "2026-10-16",
+      "type": "news",
+      "lang": "pl",
+      "title": "Benzyna 95 tanieje drugi dzień z rzędu",
+      "text": "Cena maksymalna Pb95 spadła w piątek do 6,95 zł za litr, a oleju napędowego do 8,03 zł. Limity cen obowiązują w ramach rządowego programu obniżki VAT i akcyzy na paliwa do końca roku.",
+      "src": "https://www.auto-swiat.pl/wiadomosci/aktualnosci/ceny-paliw-16-pazdziernika-2026-r-w-polsce-benzyna-95-tansza-drugi-dzien-z-rzedu/bqk5l8j",
+      "srcName": "Auto Świat"
+    },
+    {
       "id": "2026-10-16-mv-tinariwen",
       "date": "2026-10-16",
       "type": "video",
@@ -75,6 +85,16 @@
       "srcName": "Euronews"
     },
     {
+      "id": "2026-10-16-art-stirling-2026",
+      "date": "2026-10-16",
+      "type": "article",
+      "lang": "en",
+      "title": "Lion Green Road housing wins the 2026 Stirling Prize",
+      "text": "A housing scheme took Britain's top architecture award this year, and Dezeen's weekly asks whether it was the right pick.",
+      "src": "https://www.dezeen.com/2026/10/15/lion-green-road-riba-stirling-prize-2026/",
+      "srcName": "Dezeen"
+    },
+    {
       "id": "2026-10-16-mv-bicep-viper",
       "date": "2026-10-16",
       "type": "video",
@@ -109,6 +129,16 @@
       "text": "The fire follows attacks that sank two cargo ships in the area, raising fresh concerns about one of the world's key oil shipping routes.",
       "src": "https://www.euronews.com/video/2026/10/15/another-tanker-catches-fire-near-hormuz-after-two-cargo-ships-sunk-in-attacks",
       "srcName": "Euronews"
+    },
+    {
+      "id": "2026-10-16-news-en-apple-china",
+      "date": "2026-10-16",
+      "type": "news",
+      "lang": "en",
+      "title": "Apple Intelligence cleared for launch in China",
+      "text": "Tim Cook says Apple's AI features have won approval from Chinese regulators, opening the door to a rollout in one of the company's key markets.",
+      "src": "https://www.reuters.com/business/retail-consumer/tim-cook-says-apple-intelligence-approved-china-paper-reports-2026-10-15/",
+      "srcName": "Reuters"
     },
     {
       "id": "2026-10-16-dn-busy-bodies",
@@ -148,6 +178,16 @@
       "srcName": "NTO"
     },
     {
+      "id": "2026-10-16-art-tate-90s",
+      "date": "2026-10-16",
+      "type": "article",
+      "lang": "en",
+      "title": "Edward Enninful curates the 90s at Tate Britain",
+      "text": "A new show revisits 1990s Britain through fashion by Westwood and McQueen alongside photographs by Juergen Teller and Corinne Day. Runs until mid-February 2027.",
+      "src": "https://dazeddigital.com/art-photography/article/69376/1/photography-shows-2026-guide-exhibitions-london-denmark-new-york",
+      "srcName": "Dazed"
+    },
+    {
       "id": "2026-10-16-mv-elmiene",
       "date": "2026-10-16",
       "type": "video",
@@ -182,6 +222,16 @@
       "text": "This year's edition of the London art fair leans into works that borrow from video games and interactive worlds, making visitors players as much as viewers.",
       "src": "https://www.euronews.com/video/2026/10/15/uk-frieze-london-blurs-the-lines-between-art-gaming-and-reality",
       "srcName": "Euronews"
+    },
+    {
+      "id": "2026-10-16-news-pl-baza-wroclaw",
+      "date": "2026-10-16",
+      "type": "news",
+      "lang": "pl",
+      "title": "Na lotnisku we Wrocławiu powstanie baza dla US Air Force",
+      "text": "Plany obejmują nowe płyty postojowe, drogi kołowania i budynki techniczne dla największych amerykańskich samolotów transportowych, w tym C-5 Galaxy.",
+      "src": "https://gazetawroclawska.pl/najwieksze-wojskowe-samoloty-beda-stacjonowac-we-wroclawiu-na-lotnisku-zbuduja-nowa-baze-amerykanskich-sil-powietrznych/ar/c1p2-29440333",
+      "srcName": "Gazeta Wrocławska"
     },
     {
       "id": "2026-10-16-dn-dont-puke",
@@ -221,6 +271,16 @@
       "srcName": "SBS News"
     },
     {
+      "id": "2026-10-16-art-wright-planetarium",
+      "date": "2026-10-16",
+      "type": "article",
+      "lang": "en",
+      "title": "Frank Lloyd Wright's planetarium restored",
+      "text": "Florida Southern College, home to the largest single-site collection of Wright buildings, has brought his campus planetarium back to life.",
+      "src": "https://www.dezeen.com/2026/10/15/florida-southern-college-frank-lloyd-wright-planetarium-restoration/",
+      "srcName": "Dezeen"
+    },
+    {
       "id": "2026-10-16-mv-lambrini",
       "date": "2026-10-16",
       "type": "video",
@@ -255,6 +315,16 @@
       "text": "Kontrolerzy wskazali liczne błędy w akcji przeciwpowodziowej, a prokuratura zgromadziła już 15 tomów akt. Najsłabszym ogniwem była szybka wymiana informacji.",
       "src": "https://nto.pl/prokuratorzy-zgromadzili-15-tomow-akt-nik-wskazuje-na-bledy-kto-odpowiada-za-powodz/ar/c1p2-29438011",
       "srcName": "NTO"
+    },
+    {
+      "id": "2026-10-16-news-en-ukraine-refineries",
+      "date": "2026-10-16",
+      "type": "news",
+      "lang": "en",
+      "title": "Ukraine resumes strikes on Russian refineries",
+      "text": "After a three-day energy truce brokered by Washington, Kyiv says it will again target Russian oil infrastructure, while Zelensky accuses the US of pulling back key support.",
+      "src": "https://www.reuters.com/world/zelenskiy-says-ukraine-will-resume-strikes-russian-refineries-ft-reports-2026-10-15/",
+      "srcName": "Reuters"
     },
     {
       "id": "2026-10-16-mv-lil-nas-x",
@@ -293,6 +363,16 @@
       "srcName": "Euronews"
     },
     {
+      "id": "2026-10-16-art-irish-rainforest",
+      "date": "2026-10-16",
+      "type": "article",
+      "lang": "en",
+      "title": "A guesthouse in an Irish rainforest",
+      "text": "Tokyo studio Schemata Architects has restored Linden House, a guesthouse tucked into one of Ireland's surviving temperate rainforests.",
+      "src": "https://www.dezeen.com/2026/10/15/schemata-architects-linden-house/",
+      "srcName": "Dezeen"
+    },
+    {
       "id": "2026-10-16-mv-knats",
       "date": "2026-10-16",
       "type": "video",
@@ -327,6 +407,16 @@
       "img": "https://www.artic.edu/iiif/2/e1e9fd02-4695-1f99-2930-df8e08f4f615/full/843,/0/default.jpg",
       "src": "https://www.artic.edu/artworks/189718",
       "srcName": "Art Institute of Chicago"
+    },
+    {
+      "id": "2026-10-16-news-pl-zmiana-czasu",
+      "date": "2026-10-16",
+      "type": "news",
+      "lang": "pl",
+      "title": "Zmiana czasu zostaje – przynajmniej na razie",
+      "text": "UE wciąż nie porozumiała się w sprawie zniesienia przestawiania zegarków, a obecne przepisy regulują zmiany czasu tylko do końca 2026 roku. Pod koniec października znów cofamy wskazówki.",
+      "src": "https://nto.pl/tyle-zostalo-z-glosnych-planow-rezygnacji-z-uciazliwej-zmiany-czasu-wkrotce-znow-przestawimy-zegarki/ar/c1p2-29439865",
+      "srcName": "NTO"
     },
     {
       "id": "2026-10-16-aic-71868",
