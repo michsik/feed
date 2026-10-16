@@ -2,6 +2,26 @@
   "updated": "2026-10-16",
   "items": [
     {
+      "id": "2026-10-16-fotograf-dnia-alex-webb",
+      "date": "2026-10-16",
+      "type": "profile",
+      "kind": "Fotograf dnia",
+      "title": "Alex Webb",
+      "text": "Fotograf Magnum, mistrz gęstego, nasyconego koloru. Jego kadry z Meksyku, Haiti i Karaibów układają kilka planów akcji w jednym ujęciu, w ostrym świetle i głębokich cieniach. Warto zacząć od książki „La Calle”.",
+      "links": [
+        [
+          "Portfolio w Magnum",
+          "https://www.magnumphotos.com/photographer/alex-webb/"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/alexwebbphoto/"
+        ]
+      ],
+      "src": "https://www.magnumphotos.com/photographer/alex-webb/",
+      "srcName": "Magnum Photos"
+    },
+    {
       "id": "2026-10-16-dn-faranooka",
       "date": "2026-10-16",
       "type": "video",
@@ -17,6 +37,16 @@
       "src": "https://directorsnotes.com/2026/10/14/craig-bingham-faranooka/",
       "srcName": "Directors Notes",
       "dur": 413
+    },
+    {
+      "id": "2026-10-16-bjp-sanle-sory",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Sanlé Sory – kolor w The Photographers' Gallery",
+      "by": "Sanlé Sory",
+      "img": "https://www.1854.photography/wp-content/uploads/2026/09/SSc-0065.jpg",
+      "src": "https://www.1854.photography/2026/10/sanle-sory/",
+      "srcName": "British Journal of Photography"
     },
     {
       "id": "2026-10-16-wm-01",
@@ -43,6 +73,16 @@
       "src": "https://www.promonews.tv/videos/2026/10/14/tinariwen-erghad-afewo-axel-digoix/96384",
       "srcName": "Promonews",
       "dur": 221
+    },
+    {
+      "id": "2026-10-16-bjp-iwane-ai",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Iwane Ai – A New River (Kyotographie)",
+      "by": "Iwane Ai",
+      "img": "https://www.1854.photography/wp-content/uploads/2026/10/From-the-series-A-NEW-RIVER-c-Iwane-Ai.jpg",
+      "src": "https://www.1854.photography/2026/10/last-chance-to-see-kyotographie-kawada-kikuji-x-iwane-ai/",
+      "srcName": "British Journal of Photography"
     },
     {
       "id": "2026-10-16-wm-02",
@@ -79,6 +119,16 @@
       "dur": 286,
       "src": "https://www.promonews.tv/videos/2026/10/07/bicep-viper-air-and-lemonder-ryan-doubiago/96487",
       "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-16-bjp-heinrich",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Doble perfil – piktorializm w Tate Modern",
+      "by": "Annemarie Heinrich, 1942",
+      "img": "https://www.1854.photography/wp-content/uploads/2026/09/Annemarie-Heinrich-Doble-perfil-1942.-Poniatowksi-Collection.jpg",
+      "src": "https://www.1854.photography/2026/10/tate-modern-explores-the-history-of-pictorialism-in-major-exhibition/",
+      "srcName": "British Journal of Photography"
     },
     {
       "id": "2026-10-16-wm-03",

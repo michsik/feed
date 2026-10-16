@@ -95,6 +95,8 @@ a{color:inherit}
 .text p{font-family:var(--text);font-size:19px;line-height:1.5;margin:0 0 26px;max-width:36ch;color:#d8d1c6}
 .read{font-family:var(--mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--sodium);text-decoration:none;display:inline-flex;gap:8px;align-items:center;padding:10px 0}
 .text .actions{bottom:calc(var(--sab) + 26px)}
+.plinks{display:flex;flex-direction:column;gap:2px}
+.text.profile h2{font-size:clamp(40px,12vw,72px)}
 .rule{width:36px;height:3px;background:var(--sodium);margin-bottom:18px}
 
 /* end card */
@@ -133,7 +135,7 @@ const ICONS={
   share:'<svg viewBox="0 0 24 24"><path d="M12 3v12M7 8l5-5 5 5M5 13v8h14v-8"/></svg>',
   play:'<svg viewBox="0 0 24 24"><path d="M6 4l14 8-14 8z"/></svg>'
 };
-const LABEL={photo:'Street photo',video:'Film',article:'Artykuł',news:'Wiadomości'};
+const LABEL={photo:'Fotografia',video:'Film',article:'Artykuł',news:'Wiadomości',profile:'Fotograf dnia'};
 const store={
   get(k,d){try{const v=localStorage.getItem(k);return v?JSON.parse(v):d}catch(e){return d}},
   set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
@@ -185,6 +187,9 @@ function slide(it,i,n){
       </div>
       <div class="meta">${counter(it,i,n)}<h2>${esc(it.title)}</h2>${it.by?`<div class="by">${esc(it.by)}</div>`:''}${it.text?`<p>${esc(it.text)}</p>`:''}</div>${actions(it)}</section>`;
   }
+  if(it.type==='profile') return `<section class="slide text profile" data-id="${esc(it.id)}"><div class="rule"></div>
+    ${counter(it,i,n)}<h2>${esc(it.title)}</h2><p>${esc(it.text)}</p>
+    <div class="plinks">${(it.links||[]).map(l=>`<a class="read" href="${esc(l[1])}" target="_blank" rel="noopener">${esc(l[0])} →</a>`).join('')}</div>${actions(it)}</section>`;
   return `<section class="slide text ${it.type}" data-id="${esc(it.id)}"><div class="rule"></div>
     ${counter(it,i,n)}<h2>${esc(it.title)}</h2><p>${esc(it.text)}</p>
     <a class="read" href="${esc(it.src)}" target="_blank" rel="noopener">${it.lang==='en'?'Read at source':'Czytaj w źródle'} →</a>${actions(it)}</section>`;
@@ -201,7 +206,8 @@ function render(){
   document.querySelectorAll('.chip').forEach(c=>c.setAttribute('aria-pressed',c.dataset.f===filter));
   let list=all.filter(i=>i.type!=='news');
   if(filter==='saved') list=all.filter(i=>saved.has(i.id));
-  else if(filter!=='all') list=all.filter(i=>i.type===filter);
+  else if(filter==='photo') list=list.filter(i=>i.type==='photo'||i.type==='profile');
+  else if(filter!=='all') list=list.filter(i=>i.type===filter);
   const newest=all.length?all[0].date:null;
   const today=filter==='saved'?list:list.filter(i=>i.date===newest);
   const older=filter==='saved'?[]:list.filter(i=>i.date!==newest);
