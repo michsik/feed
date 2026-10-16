@@ -75,6 +75,7 @@ a{color:inherit}
 /* photo */
 .photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:var(--ink)}
 .photo .meta{padding-top:80px}
+.imgfail{position:absolute;inset:0;display:grid;place-items:center;padding:24px;text-align:center;color:var(--sodium);font-family:var(--mono);font-size:13px;text-decoration:none}
 
 /* video */
 .video .bg{position:absolute;inset:-40px;background-size:cover;background-position:center;filter:blur(36px) brightness(.35);transform:scale(1.1)}
@@ -168,11 +169,12 @@ function actions(it){
 }
 function counter(it,i,n){
   const lang=it.lang?` · ${it.lang.toUpperCase()}`:'';
-  return `<div class="counter"><b>${String(i+1).padStart(2,'0')}/${String(n).padStart(2,'0')}</b><span>${esc(it.kind||LABEL[it.type])}${lang}</span><span>${esc(it.srcName||'')}</span></div>`;
+  const dur=it.dur?`<span>${Math.floor(it.dur/60)}:${String(it.dur%60).padStart(2,'0')}</span>`:'';
+  return `<div class="counter"><b>${String(i+1).padStart(2,'0')}/${String(n).padStart(2,'0')}</b><span>${esc(it.kind||LABEL[it.type])}${lang}</span>${dur}<span>${esc(it.srcName||'')}</span></div>`;
 }
 function slide(it,i,n){
   if(it.type==='photo') return `<section class="slide photo" data-id="${esc(it.id)}">
-    <img src="${esc(it.img)}" alt="${esc(it.title)}, fot. ${esc(it.by)}" loading="${i<2?'eager':'lazy'}">
+    <img src="${esc(it.img)}" alt="${esc(it.title)}, fot. ${esc(it.by)}" loading="${i<3?'eager':'lazy'}" referrerpolicy="no-referrer" onerror="this.replaceWith(Object.assign(document.createElement('a'),{className:'imgfail',href:'${esc(it.src)}',target:'_blank',rel:'noopener',textContent:'Zdjęcie nie wczytało się. Zobacz w źródle →'}))">
     <div class="meta">${counter(it,i,n)}<h2>${esc(it.title)}</h2><div class="by">fot. ${esc(it.by)}</div></div>${actions(it)}</section>`;
   if(it.type==='video'){
     const p=poster(it);

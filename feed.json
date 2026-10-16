@@ -2,27 +2,31 @@
   "updated": "2026-10-16",
   "items": [
     {
-      "id": "2026-10-16-dn-everything-fine",
+      "id": "2026-10-16-dn-faranooka",
       "date": "2026-10-16",
       "type": "video",
-      "kind": "Film krótkometrażowy · dokument",
-      "title": "Everything Will Be Totally Fine",
-      "by": "Sam Baron",
-      "text": "W 2016 roku reżyser poprosił bliskich, by przewidzieli, jak będzie wyglądał świat w 2026. Z nagrań wyszedł film o czymś innym: o żałobie po matce, wspólnocie i niepewności.",
-      "embed": { "p": "vimeo", "id": "1235812698" },
-      "img": "https://directorsnotes.com/wp-content/uploads/2026/10/everything_will_be_totally_fine_03a.jpg",
-      "src": "https://directorsnotes.com/2026/10/15/sam-baron-everything-will-be-totally-fine/",
-      "srcName": "Directors Notes"
+      "kind": "Film krótkometrażowy · sci-fi",
+      "title": "FARANOOKA",
+      "by": "Craig Bingham",
+      "text": "Mityczne fantasy na praktycznych efektach i eksperymentalnym dźwięku. W świecie wiecznej ciemności rodzi się dziecko niosące pierwsze światło, a łowca Angbor rusza w mrok, trochę jak u Dantego.",
+      "embed": {
+        "p": "yt",
+        "id": "2UjAN2zget0"
+      },
+      "img": "https://directorsnotes.com/wp-content/uploads/2026/10/faranooka_short_film_02.jpg",
+      "src": "https://directorsnotes.com/2026/10/14/craig-bingham-faranooka/",
+      "srcName": "Directors Notes",
+      "dur": 413
     },
     {
-      "id": "2026-10-16-photo-porter",
+      "id": "2026-10-16-aic-50148",
       "date": "2026-10-16",
       "type": "photo",
-      "title": "Kobieta idąca jezdnią",
-      "by": "Molly Porter",
-      "img": "https://images.unsplash.com/photo-1429292394373-ddbcc6bb7468?w=1400&q=80&auto=format",
-      "src": "https://unsplash.com/photos/K7oqWgDJQ6E",
-      "srcName": "Unsplash"
+      "title": "Hyères, Francja",
+      "by": "Henri Cartier-Bresson, 1932",
+      "img": "https://www.artic.edu/iiif/2/31be2c64-df24-5e2d-a60e-0de9f21d2284/full/843,/0/default.jpg",
+      "src": "https://www.artic.edu/artworks/50148",
+      "srcName": "Art Institute of Chicago"
     },
     {
       "id": "2026-10-16-news-pl-bomba",
@@ -42,19 +46,23 @@
       "title": "Tinariwen – Erghad Afewo",
       "by": "reż. Axel Digoix",
       "text": "Rysowana, komiksowa animacja osadzona na Saharze, w której polityczny konflikt splata się z osobistym dramatem.",
-      "embed": { "p": "yt", "id": "Snu2cGohYC4" },
+      "embed": {
+        "p": "yt",
+        "id": "Snu2cGohYC4"
+      },
       "src": "https://www.promonews.tv/videos/2026/10/14/tinariwen-erghad-afewo-axel-digoix/96384",
-      "srcName": "Promonews"
+      "srcName": "Promonews",
+      "dur": 221
     },
     {
-      "id": "2026-10-16-photo-13on",
+      "id": "2026-10-16-aic-189724",
       "date": "2026-10-16",
       "type": "photo",
-      "title": "Przejście dla pieszych",
-      "by": "13on",
-      "img": "https://images.unsplash.com/photo-1522897048979-e407743f3603?w=1400&q=80&auto=format",
-      "src": "https://unsplash.com/photos/a4gn0tegY_g",
-      "srcName": "Unsplash"
+      "title": "Deszcz",
+      "by": "Saul Leiter, ok. 1953",
+      "img": "https://www.artic.edu/iiif/2/17fb2257-84d7-697e-0251-c6fcad798bc6/full/843,/0/default.jpg",
+      "src": "https://www.artic.edu/artworks/189724",
+      "srcName": "Art Institute of Chicago"
     },
     {
       "id": "2026-10-16-art-montblanc",
@@ -67,17 +75,30 @@
       "srcName": "Euronews"
     },
     {
-      "id": "2026-10-16-dn-busy-bodies",
+      "id": "2026-10-16-mv-bicep-viper",
       "date": "2026-10-16",
       "type": "video",
-      "kind": "Animacja",
-      "title": "Busy Bodies",
-      "by": "Kate Renshaw-Lewis",
-      "text": "Ręcznie drukowana animacja w trzech kolorach: domowa „fabryka”, w której maleńcy robotnicy obsługują maszyny Rube’a Goldberga produkujące gumowe rękawiczki. Film o niewidocznej pracy stojącej za masową produkcją.",
-      "embed": { "p": "yt", "id": "k0po0DzYZws" },
-      "img": "https://directorsnotes.com/wp-content/uploads/2026/10/busy_bodies_01.jpg",
-      "src": "https://directorsnotes.com/2026/10/01/kate-renshaw-lewis-busy-bodies/",
-      "srcName": "Directors Notes"
+      "kind": "Teledysk",
+      "title": "BICEP & Clark – Viper",
+      "by": "reż. Ryan Doubiago",
+      "text": "Część trzyczęściowego filmu o dwóch brytyjskich ekipach na jednej 24-godzinnej imprezie. Kulminacja nocy nakręcona dynamiczną kamerą i własnym systemem bullet-time.",
+      "embed": {
+        "p": "yt",
+        "id": "xouLR3XcFWQ"
+      },
+      "dur": 286,
+      "src": "https://www.promonews.tv/videos/2026/10/07/bicep-viper-air-and-lemonder-ryan-doubiago/96487",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-16-aic-70756",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Nowy Jork",
+      "by": "Helen Levitt, ok. 1940",
+      "img": "https://www.artic.edu/iiif/2/0df541fd-c1d1-7254-cba4-70095f2cd510/full/843,/0/default.jpg",
+      "src": "https://www.artic.edu/artworks/70756",
+      "srcName": "Art Institute of Chicago"
     },
     {
       "id": "2026-10-16-news-en-hormuz",
@@ -90,27 +111,31 @@
       "srcName": "Euronews"
     },
     {
-      "id": "2026-10-16-photo-chechi",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Ulica nocą",
-      "by": "Che-Chi Lin",
-      "img": "https://images.unsplash.com/photo-1722153023306-a0618a3340c6?w=1400&q=80&auto=format",
-      "src": "https://unsplash.com/photos/h2coDswHOAw",
-      "srcName": "Unsplash"
-    },
-    {
-      "id": "2026-10-16-dn-faranooka",
+      "id": "2026-10-16-dn-busy-bodies",
       "date": "2026-10-16",
       "type": "video",
-      "kind": "Film krótkometrażowy · sci-fi",
-      "title": "FARANOOKA",
-      "by": "Craig Bingham",
-      "text": "Mityczne fantasy na praktycznych efektach i eksperymentalnym dźwięku. W świecie wiecznej ciemności rodzi się dziecko niosące pierwsze światło, a łowca Angbor rusza w mrok, trochę jak u Dantego.",
-      "embed": { "p": "yt", "id": "2UjAN2zget0" },
-      "img": "https://directorsnotes.com/wp-content/uploads/2026/10/faranooka_short_film_02.jpg",
-      "src": "https://directorsnotes.com/2026/10/14/craig-bingham-faranooka/",
-      "srcName": "Directors Notes"
+      "kind": "Animacja",
+      "title": "Busy Bodies",
+      "by": "Kate Renshaw-Lewis",
+      "text": "Ręcznie drukowana animacja w trzech kolorach: domowa „fabryka”, w której maleńcy robotnicy obsługują maszyny Rube’a Goldberga produkujące gumowe rękawiczki. Film o niewidocznej pracy stojącej za masową produkcją.",
+      "embed": {
+        "p": "yt",
+        "id": "k0po0DzYZws"
+      },
+      "img": "https://directorsnotes.com/wp-content/uploads/2026/10/busy_bodies_01.jpg",
+      "src": "https://directorsnotes.com/2026/10/01/kate-renshaw-lewis-busy-bodies/",
+      "srcName": "Directors Notes",
+      "dur": 348
+    },
+    {
+      "id": "2026-10-16-aic-129987",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Wystawa światowa, Nowy Jork",
+      "by": "Garry Winogrand, 1964",
+      "img": "https://www.artic.edu/iiif/2/85d5ede5-300f-e54b-d811-b733c999f58b/full/843,/0/default.jpg",
+      "src": "https://www.artic.edu/artworks/129987",
+      "srcName": "Art Institute of Chicago"
     },
     {
       "id": "2026-10-16-news-pl-emerytury",
@@ -123,26 +148,30 @@
       "srcName": "NTO"
     },
     {
-      "id": "2026-10-16-photo-tudor",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Dworzec",
-      "by": "Robert Tudor",
-      "img": "https://images.unsplash.com/photo-1520720812953-4544b935ead8?w=1400&q=80&auto=format",
-      "src": "https://unsplash.com/photos/G7bXcUgh_xk",
-      "srcName": "Unsplash"
-    },
-    {
-      "id": "2026-10-16-lff-clouds-odessa",
+      "id": "2026-10-16-mv-elmiene",
       "date": "2026-10-16",
       "type": "video",
-      "kind": "Animowany dokument · BFI London Film Festival",
-      "title": "The Clouds of Odessa",
-      "by": "Luca Arcangeli",
-      "text": "Animacja przeplata się z dokumentem w historii miłosnej na tle wojny w Ukrainie, opowiedzianej z dziecięcą perspektywą.",
-      "embed": { "p": "vimeo", "id": "1179227306" },
-      "src": "https://directorsnotes.com/2026/10/13/london-film-festival-2026-best-shorts/",
-      "srcName": "Directors Notes"
+      "kind": "Teledysk",
+      "title": "Elmiene & Fujii Kaze – Comets + Gold",
+      "by": "reż. Peter Reinstein",
+      "text": "Jedno ujęcie przez obiektyw 1200 mm: wschód księżyca obliczony co do sekundy i nakręcony na żywo za plecami wokalisty.",
+      "embed": {
+        "p": "yt",
+        "id": "7E9ZXITzgcc"
+      },
+      "dur": 190,
+      "src": "https://www.promonews.tv/videos/2026/10/15/elmiene-comets-and-gold-moon-rising-peter-reinstein/96649",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-16-aic-80344",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Allées du Prado, Marsylia",
+      "by": "Henri Cartier-Bresson, 1932",
+      "img": "https://www.artic.edu/iiif/2/752852cd-1e6a-f1ea-f63c-9c93781bcb53/full/843,/0/default.jpg",
+      "src": "https://www.artic.edu/artworks/80344",
+      "srcName": "Art Institute of Chicago"
     },
     {
       "id": "2026-10-16-art-frieze",
@@ -155,16 +184,6 @@
       "srcName": "Euronews"
     },
     {
-      "id": "2026-10-16-photo-gibbons",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Beton",
-      "by": "John Gibbons",
-      "img": "https://images.unsplash.com/photo-1500069329338-1f270dce111f?w=1400&q=80&auto=format",
-      "src": "https://unsplash.com/photos/y03Eh7H-dqQ",
-      "srcName": "Unsplash"
-    },
-    {
       "id": "2026-10-16-dn-dont-puke",
       "date": "2026-10-16",
       "type": "video",
@@ -172,10 +191,24 @@
       "title": "Don't Puke",
       "by": "Daniel Chisholm",
       "text": "Siedem minut w głowie bardzo pijanej Charlie wracającej na kanapę. Subiektywna kamera, fotogrametria i Gaussian splatting oddają chwiejną dezorientację tej nocy.",
-      "embed": { "p": "yt", "id": "OIC4AUMNk0E" },
+      "embed": {
+        "p": "yt",
+        "id": "OIC4AUMNk0E"
+      },
       "img": "https://directorsnotes.com/wp-content/uploads/2026/09/dont_puke_01.jpg",
       "src": "https://directorsnotes.com/2026/10/05/daniel-chisholm-dont-puke/",
-      "srcName": "Directors Notes"
+      "srcName": "Directors Notes",
+      "dur": 517
+    },
+    {
+      "id": "2026-10-16-aic-189723",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Okno w śniegu",
+      "by": "Saul Leiter, 1959",
+      "img": "https://www.artic.edu/iiif/2/a0009dd2-954f-6ec9-c81c-ac713cc4a77a/full/843,/0/default.jpg",
+      "src": "https://www.artic.edu/artworks/189723",
+      "srcName": "Art Institute of Chicago"
     },
     {
       "id": "2026-10-16-news-en-prices",
@@ -188,26 +221,30 @@
       "srcName": "SBS News"
     },
     {
-      "id": "2026-10-16-photo-henry",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Parasol na przejściu",
-      "by": "Matthew Henry",
-      "img": "https://images.unsplash.com/photo-1488034976201-ffbaa99cbf5c?w=1400&q=80&auto=format",
-      "src": "https://unsplash.com/photos/Ix1TiS-E17E",
-      "srcName": "Unsplash"
-    },
-    {
-      "id": "2026-10-16-lff-untitled-woman",
+      "id": "2026-10-16-mv-lambrini",
       "date": "2026-10-16",
       "type": "video",
-      "kind": "Film krótkometrażowy · BFI London Film Festival",
-      "title": "Untitled Woman",
-      "by": "Camille Summers-Valli",
-      "text": "Subtelna historia w galerii sztuki o starzeniu się i presji, by kobiety zawsze wyglądały młodo.",
-      "embed": { "p": "yt", "id": "8ZC36C2NJkI" },
-      "src": "https://directorsnotes.com/2026/10/13/london-film-festival-2026-best-shorts/",
-      "srcName": "Directors Notes"
+      "kind": "Teledysk",
+      "title": "Lambrini Girls – Bang Bang Bang",
+      "by": "reż. Harv Frost",
+      "text": "Zespół gra w ciasnym pomieszczeniu: konfrontacja przechodzi we wspólny trans, przecinany zwolnionymi zbliżeniami.",
+      "embed": {
+        "p": "yt",
+        "id": "_JgO7EP9k7A"
+      },
+      "dur": 143,
+      "src": "https://www.promonews.tv/videos/2026/10/09/lambrini-girls-bang-bang-bang-harv-frost/96561",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-16-aic-159944",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Meksyk",
+      "by": "Helen Levitt, 1941",
+      "img": "https://www.artic.edu/iiif/2/bbf9d27c-ac27-34e2-54a3-69a9037a0436/full/843,/0/default.jpg",
+      "src": "https://www.artic.edu/artworks/159944",
+      "srcName": "Art Institute of Chicago"
     },
     {
       "id": "2026-10-16-news-pl-nik",
@@ -220,27 +257,30 @@
       "srcName": "NTO"
     },
     {
-      "id": "2026-10-16-photo-andolfatto",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "W autobusie",
-      "by": "Filippo Andolfatto",
-      "img": "https://images.unsplash.com/photo-1511348449913-2a0c196a7232?w=1400&q=80&auto=format",
-      "src": "https://unsplash.com/photos/d7TCav4VTQE",
-      "srcName": "Unsplash"
-    },
-    {
-      "id": "2026-10-16-dn-pierre",
+      "id": "2026-10-16-mv-lil-nas-x",
       "date": "2026-10-16",
       "type": "video",
-      "kind": "Film krótkometrażowy · czarna komedia",
-      "title": "PIERRE THE GREAT",
-      "by": "Kiyan Ahmadi",
-      "text": "Omar przyjmuje pod dach rannego wujka Pierre’a, a ciasne mieszkanie i napięta relacja z dziewczyną szybko zamieniają się w chaotyczną noc. Nakręcone w trzy dni.",
-      "embed": { "p": "yt", "id": "A6TdrmllwOw" },
-      "img": "https://directorsnotes.com/wp-content/uploads/2026/10/pierre_the_great_09.jpg",
-      "src": "https://directorsnotes.com/2026/10/02/kiyan-ahmadi-pierre-the-great/",
-      "srcName": "Directors Notes"
+      "kind": "Teledysk",
+      "title": "Lil Nas X – World's Greatest!",
+      "by": "reż. Phillip Youmans",
+      "text": "Wspomnienia z dzieciństwa, taniec i filmowe, nastrojowe kadry. Młodszy i obecny artysta idą obok siebie w hołdzie dla jego zmarłej matki.",
+      "embed": {
+        "p": "yt",
+        "id": "clkCS0Fk8Hk"
+      },
+      "dur": 369,
+      "src": "https://www.promonews.tv/videos/2026/10/12/lil-nas-x-world%E2%80%99s-greatest-phillip-youmans/96606",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-16-aic-58377",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Albuquerque, Nowy Meksyk",
+      "by": "Lee Friedlander, 1972",
+      "img": "https://www.artic.edu/iiif/2/73a411f9-7005-43ac-a4ca-87de0b7d09b2/full/843,/0/default.jpg",
+      "src": "https://www.artic.edu/artworks/58377",
+      "srcName": "Art Institute of Chicago"
     },
     {
       "id": "2026-10-16-art-glacier",
@@ -253,26 +293,60 @@
       "srcName": "Euronews"
     },
     {
-      "id": "2026-10-16-photo-chan",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Wieczorny tłum",
-      "by": "Thomas Chan",
-      "img": "https://images.unsplash.com/photo-1534847004764-b93737310da1?w=1400&q=80&auto=format",
-      "src": "https://unsplash.com/photos/JdvJIqFPLDA",
-      "srcName": "Unsplash"
-    },
-    {
-      "id": "2026-10-16-lff-to-the-north",
+      "id": "2026-10-16-mv-knats",
       "date": "2026-10-16",
       "type": "video",
-      "kind": "Film krótkometrażowy · BFI London Film Festival",
-      "title": "To The North",
-      "by": "Amer Nasser",
-      "text": "Czarno-biała etiuda o cierpieniu i stracie w Gazie, zbudowana wokół roli Ferasa Almasriego.",
-      "embed": { "p": "yt", "id": "cQYYZwb15ag" },
-      "src": "https://directorsnotes.com/2026/10/13/london-film-festival-2026-best-shorts/",
-      "srcName": "Directors Notes"
+      "kind": "Teledysk",
+      "title": "Knats – Bowling Ball",
+      "by": "reż. Lulu Vicedomini",
+      "text": "Teledysk duetu jazzowego z Newcastle w reżyserii Lulu Vicedomini.",
+      "embed": {
+        "p": "yt",
+        "id": "k42lZqDbaZw"
+      },
+      "dur": 258,
+      "src": "https://www.promonews.tv/videos/2026/10/14/knats-bowling-ball-lulu-vicedomini/96405",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-16-aic-13799",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Juvisy, Francja",
+      "by": "Henri Cartier-Bresson, 1955",
+      "img": "https://www.artic.edu/iiif/2/4828c23f-6ac3-f29f-a10b-87433caea17c/full/843,/0/default.jpg",
+      "src": "https://www.artic.edu/artworks/13799",
+      "srcName": "Art Institute of Chicago"
+    },
+    {
+      "id": "2026-10-16-aic-189718",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Markiza",
+      "by": "Saul Leiter, 1958",
+      "img": "https://www.artic.edu/iiif/2/e1e9fd02-4695-1f99-2930-df8e08f4f615/full/843,/0/default.jpg",
+      "src": "https://www.artic.edu/artworks/189718",
+      "srcName": "Art Institute of Chicago"
+    },
+    {
+      "id": "2026-10-16-aic-71868",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Dwaj mężczyźni z gazetami",
+      "by": "Helen Levitt, 1938",
+      "img": "https://www.artic.edu/iiif/2/989be519-f92c-7ebf-fa94-44878cdf2c75/full/843,/0/default.jpg",
+      "src": "https://www.artic.edu/artworks/71868",
+      "srcName": "Art Institute of Chicago"
+    },
+    {
+      "id": "2026-10-16-aic-121165",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Demonstracja pokojowa, Central Park",
+      "by": "Garry Winogrand, 1970",
+      "img": "https://www.artic.edu/iiif/2/eeed44bf-4dd4-f950-f550-720c3d5136d9/full/843,/0/default.jpg",
+      "src": "https://www.artic.edu/artworks/121165",
+      "srcName": "Art Institute of Chicago"
     },
     {
       "id": "2026-10-16-news-en-yalu",
@@ -285,16 +359,6 @@
       "srcName": "Euronews"
     },
     {
-      "id": "2026-10-16-photo-iwata",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Skrzyżowanie z góry",
-      "by": "Ryoji Iwata",
-      "img": "https://images.unsplash.com/photo-1517586979036-b7d1e86b3345?w=1400&q=80&auto=format",
-      "src": "https://unsplash.com/photos/vWfKaO0k9pc",
-      "srcName": "Unsplash"
-    },
-    {
       "id": "2026-10-16-art-golden-hour",
       "date": "2026-10-16",
       "type": "article",
@@ -303,16 +367,6 @@
       "text": "A ranking of places with the most reliable warm, low evening light, topped by spots like Namibia's Etosha National Park. Useful reading for anyone who plans shoots around the sun.",
       "src": "https://www.euronews.com/2026/10/16/these-are-the-worlds-best-destinations-for-golden-hour-according-to-a-meteorologist",
       "srcName": "Euronews"
-    },
-    {
-      "id": "2026-10-16-photo-sara-aho",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Schody",
-      "by": "Sara Aho",
-      "img": "https://images.unsplash.com/photo-1447887781034-d96bb36d5e00?w=1400&q=80&auto=format",
-      "src": "https://unsplash.com/photos/JMD2xOvcLVw",
-      "srcName": "Unsplash"
     }
   ]
 }
