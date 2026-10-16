@@ -19,34 +19,14 @@
       "dur": 413
     },
     {
-      "id": "2026-10-16-aic-50148",
+      "id": "2026-10-16-wm-01",
       "date": "2026-10-16",
       "type": "photo",
-      "title": "Hyères, Francja",
-      "by": "Henri Cartier-Bresson, 1932",
-      "img": "https://www.artic.edu/iiif/2/31be2c64-df24-5e2d-a60e-0de9f21d2284/full/843,/0/default.jpg",
-      "src": "https://www.artic.edu/artworks/50148",
-      "srcName": "Art Institute of Chicago"
-    },
-    {
-      "id": "2026-10-16-news-pl-bomba",
-      "date": "2026-10-16",
-      "type": "news",
-      "lang": "pl",
-      "title": "Ćwierćtonowa bomba lotnicza na budowie we Wrocławiu",
-      "text": "Przy ul. Kolejowej robotnicy odkopali niemiecką bombę z czasów II wojny światowej. Saperzy mają ją wywieźć na poligon w Biedrusku; niewykluczona jest ewakuacja okolicznych budynków.",
-      "src": "https://gazetawroclawska.pl/niemiecka-bomba-lotnicza-w-centrum-wroclawia-wazy-az-cwierc-tony-mozliwa-ewakuacja/ar/c1p2-29442169",
-      "srcName": "Gazeta Wrocławska"
-    },
-    {
-      "id": "2026-10-16-news-pl-paliwa",
-      "date": "2026-10-16",
-      "type": "news",
-      "lang": "pl",
-      "title": "Benzyna 95 tanieje drugi dzień z rzędu",
-      "text": "Cena maksymalna Pb95 spadła w piątek do 6,95 zł za litr, a oleju napędowego do 8,03 zł. Limity cen obowiązują w ramach rządowego programu obniżki VAT i akcyzy na paliwa do końca roku.",
-      "src": "https://www.auto-swiat.pl/wiadomosci/aktualnosci/ceny-paliw-16-pazdziernika-2026-r-w-polsce-benzyna-95-tansza-drugi-dzien-z-rzedu/bqk5l8j",
-      "srcName": "Auto Świat"
+      "title": "Terminal",
+      "by": "Alfred Stieglitz, 1893",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/The_Terminal_MET_DP232986.jpg/1280px-The_Terminal_MET_DP232986.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:The_Terminal_MET_DP232986.jpg",
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-16-mv-tinariwen",
@@ -65,14 +45,14 @@
       "dur": 221
     },
     {
-      "id": "2026-10-16-aic-189724",
+      "id": "2026-10-16-wm-02",
       "date": "2026-10-16",
       "type": "photo",
-      "title": "Deszcz",
-      "by": "Saul Leiter, ok. 1953",
-      "img": "https://www.artic.edu/iiif/2/17fb2257-84d7-697e-0251-c6fcad798bc6/full/843,/0/default.jpg",
-      "src": "https://www.artic.edu/artworks/189724",
-      "srcName": "Art Institute of Chicago"
+      "title": "Wall Street",
+      "by": "Paul Strand, 1915",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wall_Street_by_Paul_Strand%2C_1915.jpg/1280px-Wall_Street_by_Paul_Strand%2C_1915.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Wall_Street_by_Paul_Strand,_1915.jpg",
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-16-art-montblanc",
@@ -83,16 +63,6 @@
       "text": "The latest survey puts the summit at 4,807.47 m. The height of the ice cap shifts from year to year with snowfall and wind, so the mountain's official number keeps moving.",
       "src": "https://www.euronews.com/video/2026/10/14/mont-blanc-rises-by-almost-two-metres-now-standing-at-480747-metres",
       "srcName": "Euronews"
-    },
-    {
-      "id": "2026-10-16-art-stirling-2026",
-      "date": "2026-10-16",
-      "type": "article",
-      "lang": "en",
-      "title": "Lion Green Road housing wins the 2026 Stirling Prize",
-      "text": "A housing scheme took Britain's top architecture award this year, and Dezeen's weekly asks whether it was the right pick.",
-      "src": "https://www.dezeen.com/2026/10/15/lion-green-road-riba-stirling-prize-2026/",
-      "srcName": "Dezeen"
     },
     {
       "id": "2026-10-16-mv-bicep-viper",
@@ -111,34 +81,14 @@
       "srcName": "Promonews"
     },
     {
-      "id": "2026-10-16-aic-70756",
+      "id": "2026-10-16-wm-03",
       "date": "2026-10-16",
       "type": "photo",
-      "title": "Nowy Jork",
-      "by": "Helen Levitt, ok. 1940",
-      "img": "https://www.artic.edu/iiif/2/0df541fd-c1d1-7254-cba4-70095f2cd510/full/843,/0/default.jpg",
-      "src": "https://www.artic.edu/artworks/70756",
-      "srcName": "Art Institute of Chicago"
-    },
-    {
-      "id": "2026-10-16-news-en-hormuz",
-      "date": "2026-10-16",
-      "type": "news",
-      "lang": "en",
-      "title": "Another tanker on fire near the Strait of Hormuz",
-      "text": "The fire follows attacks that sank two cargo ships in the area, raising fresh concerns about one of the world's key oil shipping routes.",
-      "src": "https://www.euronews.com/video/2026/10/15/another-tanker-catches-fire-near-hormuz-after-two-cargo-ships-sunk-in-attacks",
-      "srcName": "Euronews"
-    },
-    {
-      "id": "2026-10-16-news-en-apple-china",
-      "date": "2026-10-16",
-      "type": "news",
-      "lang": "en",
-      "title": "Apple Intelligence cleared for launch in China",
-      "text": "Tim Cook says Apple's AI features have won approval from Chinese regulators, opening the door to a rollout in one of the company's key markets.",
-      "src": "https://www.reuters.com/business/retail-consumer/tim-cook-says-apple-intelligence-approved-china-paper-reports-2026-10-15/",
-      "srcName": "Reuters"
+      "title": "Blossom Restaurant, Bowery",
+      "by": "Berenice Abbott, 1935",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Blossom_Restaurant%3B_103_Bowery_by_Berenice_Abbott_in_1935.jpg/1280px-Blossom_Restaurant%3B_103_Bowery_by_Berenice_Abbott_in_1935.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Blossom_Restaurant;_103_Bowery_by_Berenice_Abbott_in_1935.jpg",
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-16-dn-busy-bodies",
@@ -158,34 +108,24 @@
       "dur": 348
     },
     {
-      "id": "2026-10-16-aic-129987",
+      "id": "2026-10-16-wm-04",
       "date": "2026-10-16",
       "type": "photo",
-      "title": "Wystawa światowa, Nowy Jork",
-      "by": "Garry Winogrand, 1964",
-      "img": "https://www.artic.edu/iiif/2/85d5ede5-300f-e54b-d811-b733c999f58b/full/843,/0/default.jpg",
-      "src": "https://www.artic.edu/artworks/129987",
-      "srcName": "Art Institute of Chicago"
+      "title": "Podwórze, rue de Valence",
+      "by": "Eugène Atget, 1922",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cour%2C_rue_de_Valence_MET_DP112707.jpg/1280px-Cour%2C_rue_de_Valence_MET_DP112707.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Cour,_rue_de_Valence_MET_DP112707.jpg",
+      "srcName": "Wikimedia Commons"
     },
     {
-      "id": "2026-10-16-news-pl-emerytury",
-      "date": "2026-10-16",
-      "type": "news",
-      "lang": "pl",
-      "title": "Marcowa waloryzacja emerytur: co najmniej 3,48 proc.",
-      "text": "Według aktualnych prognoz świadczenia wzrosną w marcu 2027 r. o minimum 3,48 proc., czyli od kilkudziesięciu do ponad 200 zł miesięcznie, zależnie od wysokości emerytury.",
-      "src": "https://nto.pl/to-juz-w-zasadzie-pewne-bedzie-kolejna-podwyzka-emerytur/ar/c1p2-29411615",
-      "srcName": "NTO"
-    },
-    {
-      "id": "2026-10-16-art-tate-90s",
+      "id": "2026-10-16-art-stirling-2026",
       "date": "2026-10-16",
       "type": "article",
       "lang": "en",
-      "title": "Edward Enninful curates the 90s at Tate Britain",
-      "text": "A new show revisits 1990s Britain through fashion by Westwood and McQueen alongside photographs by Juergen Teller and Corinne Day. Runs until mid-February 2027.",
-      "src": "https://dazeddigital.com/art-photography/article/69376/1/photography-shows-2026-guide-exhibitions-london-denmark-new-york",
-      "srcName": "Dazed"
+      "title": "Lion Green Road housing wins the 2026 Stirling Prize",
+      "text": "A housing scheme took Britain's top architecture award this year, and Dezeen's weekly asks whether it was the right pick.",
+      "src": "https://www.dezeen.com/2026/10/15/lion-green-road-riba-stirling-prize-2026/",
+      "srcName": "Dezeen"
     },
     {
       "id": "2026-10-16-mv-elmiene",
@@ -204,34 +144,14 @@
       "srcName": "Promonews"
     },
     {
-      "id": "2026-10-16-aic-80344",
+      "id": "2026-10-16-wm-05",
       "date": "2026-10-16",
       "type": "photo",
-      "title": "Allées du Prado, Marsylia",
-      "by": "Henri Cartier-Bresson, 1932",
-      "img": "https://www.artic.edu/iiif/2/752852cd-1e6a-f1ea-f63c-9c93781bcb53/full/843,/0/default.jpg",
-      "src": "https://www.artic.edu/artworks/80344",
-      "srcName": "Art Institute of Chicago"
-    },
-    {
-      "id": "2026-10-16-art-frieze",
-      "date": "2026-10-16",
-      "type": "article",
-      "lang": "en",
-      "title": "Frieze London blurs art, gaming and reality",
-      "text": "This year's edition of the London art fair leans into works that borrow from video games and interactive worlds, making visitors players as much as viewers.",
-      "src": "https://www.euronews.com/video/2026/10/15/uk-frieze-london-blurs-the-lines-between-art-gaming-and-reality",
-      "srcName": "Euronews"
-    },
-    {
-      "id": "2026-10-16-news-pl-baza-wroclaw",
-      "date": "2026-10-16",
-      "type": "news",
-      "lang": "pl",
-      "title": "Na lotnisku we Wrocławiu powstanie baza dla US Air Force",
-      "text": "Plany obejmują nowe płyty postojowe, drogi kołowania i budynki techniczne dla największych amerykańskich samolotów transportowych, w tym C-5 Galaxy.",
-      "src": "https://gazetawroclawska.pl/najwieksze-wojskowe-samoloty-beda-stacjonowac-we-wroclawiu-na-lotnisku-zbuduja-nowa-baze-amerykanskich-sil-powietrznych/ar/c1p2-29440333",
-      "srcName": "Gazeta Wrocławska"
+      "title": "Gazeciarze, St. Louis",
+      "by": "Lewis Hine, 1910",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Lewis_Hine%2C_Newsies_smoking_at_Skeeter%27s_Branch%2C_St._Louis%2C_1910.jpg/1280px-Lewis_Hine%2C_Newsies_smoking_at_Skeeter%27s_Branch%2C_St._Louis%2C_1910.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Lewis_Hine,_Newsies_smoking_at_Skeeter%27s_Branch,_St._Louis,_1910.jpg",
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-16-dn-dont-puke",
@@ -251,34 +171,24 @@
       "dur": 517
     },
     {
-      "id": "2026-10-16-aic-189723",
+      "id": "2026-10-16-wm-06",
       "date": "2026-10-16",
       "type": "photo",
-      "title": "Okno w śniegu",
-      "by": "Saul Leiter, 1959",
-      "img": "https://www.artic.edu/iiif/2/a0009dd2-954f-6ec9-c81c-ac713cc4a77a/full/843,/0/default.jpg",
-      "src": "https://www.artic.edu/artworks/189723",
-      "srcName": "Art Institute of Chicago"
+      "title": "Stacja rozrządowa, Chicago",
+      "by": "Jack Delano, 1942",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/C%26NWRR_Proviso_yard_fsac.1a34627u.jpg/1280px-C%26NWRR_Proviso_yard_fsac.1a34627u.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:C%26NWRR_Proviso_yard_fsac.1a34627u.jpg",
+      "srcName": "Wikimedia Commons"
     },
     {
-      "id": "2026-10-16-news-en-prices",
-      "date": "2026-10-16",
-      "type": "news",
-      "lang": "en",
-      "title": "US producer prices rise at fastest pace in 4½ years",
-      "text": "The jump comes after a surge in consumer inflation and adds to expectations that the Federal Reserve could come under pressure to raise interest rates.",
-      "src": "https://news.sbs.co.kr/english/article.do?news_id=N1008800941",
-      "srcName": "SBS News"
-    },
-    {
-      "id": "2026-10-16-art-wright-planetarium",
+      "id": "2026-10-16-art-tate-90s",
       "date": "2026-10-16",
       "type": "article",
       "lang": "en",
-      "title": "Frank Lloyd Wright's planetarium restored",
-      "text": "Florida Southern College, home to the largest single-site collection of Wright buildings, has brought his campus planetarium back to life.",
-      "src": "https://www.dezeen.com/2026/10/15/florida-southern-college-frank-lloyd-wright-planetarium-restoration/",
-      "srcName": "Dezeen"
+      "title": "Edward Enninful curates the 90s at Tate Britain",
+      "text": "A new show revisits 1990s Britain through fashion by Westwood and McQueen alongside photographs by Juergen Teller and Corinne Day. Runs until mid-February 2027.",
+      "src": "https://dazeddigital.com/art-photography/article/69376/1/photography-shows-2026-guide-exhibitions-london-denmark-new-york",
+      "srcName": "Dazed"
     },
     {
       "id": "2026-10-16-mv-lambrini",
@@ -297,34 +207,14 @@
       "srcName": "Promonews"
     },
     {
-      "id": "2026-10-16-aic-159944",
+      "id": "2026-10-16-wm-07",
       "date": "2026-10-16",
       "type": "photo",
-      "title": "Meksyk",
-      "by": "Helen Levitt, 1941",
-      "img": "https://www.artic.edu/iiif/2/bbf9d27c-ac27-34e2-54a3-69a9037a0436/full/843,/0/default.jpg",
-      "src": "https://www.artic.edu/artworks/159944",
-      "srcName": "Art Institute of Chicago"
-    },
-    {
-      "id": "2026-10-16-news-pl-nik",
-      "date": "2026-10-16",
-      "type": "news",
-      "lang": "pl",
-      "title": "NIK o powodzi z 2024 r.: zawiódł przepływ informacji",
-      "text": "Kontrolerzy wskazali liczne błędy w akcji przeciwpowodziowej, a prokuratura zgromadziła już 15 tomów akt. Najsłabszym ogniwem była szybka wymiana informacji.",
-      "src": "https://nto.pl/prokuratorzy-zgromadzili-15-tomow-akt-nik-wskazuje-na-bledy-kto-odpowiada-za-powodz/ar/c1p2-29438011",
-      "srcName": "NTO"
-    },
-    {
-      "id": "2026-10-16-news-en-ukraine-refineries",
-      "date": "2026-10-16",
-      "type": "news",
-      "lang": "en",
-      "title": "Ukraine resumes strikes on Russian refineries",
-      "text": "After a three-day energy truce brokered by Washington, Kyiv says it will again target Russian oil infrastructure, while Zelensky accuses the US of pulling back key support.",
-      "src": "https://www.reuters.com/world/zelenskiy-says-ukraine-will-resume-strikes-russian-refineries-ft-reports-2026-10-15/",
-      "srcName": "Reuters"
+      "title": "Mężczyzna przed kinem, Omar",
+      "by": "Walker Evans, 1935",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/-Man_Standing_in_Front_of_Movie_Theater%2C_Omar%2C_West_Virginia-_MET_PH8827.jpg/1280px--Man_Standing_in_Front_of_Movie_Theater%2C_Omar%2C_West_Virginia-_MET_PH8827.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:-Man_Standing_in_Front_of_Movie_Theater,_Omar,_West_Virginia-_MET_PH8827.jpg",
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-16-mv-lil-nas-x",
@@ -343,14 +233,90 @@
       "srcName": "Promonews"
     },
     {
-      "id": "2026-10-16-aic-58377",
+      "id": "2026-10-16-wm-08",
       "date": "2026-10-16",
       "type": "photo",
-      "title": "Albuquerque, Nowy Meksyk",
-      "by": "Lee Friedlander, 1972",
-      "img": "https://www.artic.edu/iiif/2/73a411f9-7005-43ac-a4ca-87de0b7d09b2/full/843,/0/default.jpg",
-      "src": "https://www.artic.edu/artworks/58377",
-      "srcName": "Art Institute of Chicago"
+      "title": "Bandits' Roost, Mulberry Street",
+      "by": "Jacob Riis, 1888",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandits%27_Roost%2C_59_1-2_Mulberry_Street_by_Jacob_August_Riis%2C_1888.jpg/1280px-Bandits%27_Roost%2C_59_1-2_Mulberry_Street_by_Jacob_August_Riis%2C_1888.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Bandits%27_Roost,_59_1-2_Mulberry_Street_by_Jacob_August_Riis,_1888.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-16-art-frieze",
+      "date": "2026-10-16",
+      "type": "article",
+      "lang": "en",
+      "title": "Frieze London blurs art, gaming and reality",
+      "text": "This year's edition of the London art fair leans into works that borrow from video games and interactive worlds, making visitors players as much as viewers.",
+      "src": "https://www.euronews.com/video/2026/10/15/uk-frieze-london-blurs-the-lines-between-art-gaming-and-reality",
+      "srcName": "Euronews"
+    },
+    {
+      "id": "2026-10-16-mv-knats",
+      "date": "2026-10-16",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Knats – Bowling Ball",
+      "by": "reż. Lulu Vicedomini",
+      "text": "Teledysk duetu jazzowego z Newcastle w reżyserii Lulu Vicedomini.",
+      "embed": {
+        "p": "yt",
+        "id": "k42lZqDbaZw"
+      },
+      "dur": 258,
+      "src": "https://www.promonews.tv/videos/2026/10/14/knats-bowling-ball-lulu-vicedomini/96405",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-16-wm-09",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Pike i Henry Street",
+      "by": "Berenice Abbott, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pike_and_Henry_Street_by_Berenice_Abbott_in_1936.jpg/1280px-Pike_and_Henry_Street_by_Berenice_Abbott_in_1936.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Pike_and_Henry_Street_by_Berenice_Abbott_in_1936.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-16-wm-10",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Śpiewające dzieci, Pie Town",
+      "by": "Russell Lee, 1940",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/School_children_singing%2C_Pie_Town%2C_New_Mexico_LOC_2178353269.jpg/1280px-School_children_singing%2C_Pie_Town%2C_New_Mexico_LOC_2178353269.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:School_children_singing,_Pie_Town,_New_Mexico_LOC_2178353269.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-16-wm-11",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "97 rue du Bac",
+      "by": "Eugène Atget, 1903",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/97_Rue_du_Bac_MET_DP124786.jpg/1280px-97_Rue_du_Bac_MET_DP124786.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:97_Rue_du_Bac_MET_DP124786.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-16-wm-12",
+      "date": "2026-10-16",
+      "type": "photo",
+      "title": "Matka migrantka",
+      "by": "Dorothea Lange, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Lange-MigrantMother02.jpg/1280px-Lange-MigrantMother02.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Lange-MigrantMother02.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-16-art-wright-planetarium",
+      "date": "2026-10-16",
+      "type": "article",
+      "lang": "en",
+      "title": "Frank Lloyd Wright's planetarium restored",
+      "text": "Florida Southern College, home to the largest single-site collection of Wright buildings, has brought his campus planetarium back to life.",
+      "src": "https://www.dezeen.com/2026/10/15/florida-southern-college-frank-lloyd-wright-planetarium-restoration/",
+      "srcName": "Dezeen"
     },
     {
       "id": "2026-10-16-art-glacier",
@@ -371,82 +337,6 @@
       "text": "Tokyo studio Schemata Architects has restored Linden House, a guesthouse tucked into one of Ireland's surviving temperate rainforests.",
       "src": "https://www.dezeen.com/2026/10/15/schemata-architects-linden-house/",
       "srcName": "Dezeen"
-    },
-    {
-      "id": "2026-10-16-mv-knats",
-      "date": "2026-10-16",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Knats – Bowling Ball",
-      "by": "reż. Lulu Vicedomini",
-      "text": "Teledysk duetu jazzowego z Newcastle w reżyserii Lulu Vicedomini.",
-      "embed": {
-        "p": "yt",
-        "id": "k42lZqDbaZw"
-      },
-      "dur": 258,
-      "src": "https://www.promonews.tv/videos/2026/10/14/knats-bowling-ball-lulu-vicedomini/96405",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-16-aic-13799",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Juvisy, Francja",
-      "by": "Henri Cartier-Bresson, 1955",
-      "img": "https://www.artic.edu/iiif/2/4828c23f-6ac3-f29f-a10b-87433caea17c/full/843,/0/default.jpg",
-      "src": "https://www.artic.edu/artworks/13799",
-      "srcName": "Art Institute of Chicago"
-    },
-    {
-      "id": "2026-10-16-aic-189718",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Markiza",
-      "by": "Saul Leiter, 1958",
-      "img": "https://www.artic.edu/iiif/2/e1e9fd02-4695-1f99-2930-df8e08f4f615/full/843,/0/default.jpg",
-      "src": "https://www.artic.edu/artworks/189718",
-      "srcName": "Art Institute of Chicago"
-    },
-    {
-      "id": "2026-10-16-news-pl-zmiana-czasu",
-      "date": "2026-10-16",
-      "type": "news",
-      "lang": "pl",
-      "title": "Zmiana czasu zostaje – przynajmniej na razie",
-      "text": "UE wciąż nie porozumiała się w sprawie zniesienia przestawiania zegarków, a obecne przepisy regulują zmiany czasu tylko do końca 2026 roku. Pod koniec października znów cofamy wskazówki.",
-      "src": "https://nto.pl/tyle-zostalo-z-glosnych-planow-rezygnacji-z-uciazliwej-zmiany-czasu-wkrotce-znow-przestawimy-zegarki/ar/c1p2-29439865",
-      "srcName": "NTO"
-    },
-    {
-      "id": "2026-10-16-aic-71868",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Dwaj mężczyźni z gazetami",
-      "by": "Helen Levitt, 1938",
-      "img": "https://www.artic.edu/iiif/2/989be519-f92c-7ebf-fa94-44878cdf2c75/full/843,/0/default.jpg",
-      "src": "https://www.artic.edu/artworks/71868",
-      "srcName": "Art Institute of Chicago"
-    },
-    {
-      "id": "2026-10-16-aic-121165",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Demonstracja pokojowa, Central Park",
-      "by": "Garry Winogrand, 1970",
-      "img": "https://www.artic.edu/iiif/2/eeed44bf-4dd4-f950-f550-720c3d5136d9/full/843,/0/default.jpg",
-      "src": "https://www.artic.edu/artworks/121165",
-      "srcName": "Art Institute of Chicago"
-    },
-    {
-      "id": "2026-10-16-news-en-yalu",
-      "date": "2026-10-16",
-      "type": "news",
-      "lang": "en",
-      "title": "China and North Korea open the New Yalu River Bridge",
-      "text": "The crossing was finished years ago but stood unused; it opens to traffic after a 12-year delay.",
-      "src": "https://www.euronews.com/video/2026/10/15/china-and-north-korea-open-new-yalu-river-bridge-after-12-year-delay",
-      "srcName": "Euronews"
     },
     {
       "id": "2026-10-16-art-golden-hour",

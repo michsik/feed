@@ -120,7 +120,6 @@ a{color:inherit}
     <button class="chip" data-f="photo" aria-pressed="false">Foto</button>
     <button class="chip" data-f="video" aria-pressed="false">Filmy</button>
     <button class="chip" data-f="article" aria-pressed="false">Czytaj</button>
-    <button class="chip" data-f="news" aria-pressed="false">News</button>
     <button class="chip" data-f="saved" aria-pressed="false">Zapisane</button>
   </nav>
 </header>
@@ -200,7 +199,7 @@ function endCard(today,n,olderCount){
 }
 function render(){
   document.querySelectorAll('.chip').forEach(c=>c.setAttribute('aria-pressed',c.dataset.f===filter));
-  let list=all;
+  let list=all.filter(i=>i.type!=='news');
   if(filter==='saved') list=all.filter(i=>saved.has(i.id));
   else if(filter!=='all') list=all.filter(i=>i.type===filter);
   const newest=all.length?all[0].date:null;
