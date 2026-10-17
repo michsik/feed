@@ -19,6 +19,16 @@
       "type": "video"
     },
     {
+      "id": "2026-10-17-news-papiez-operacja",
+      "date": "2026-10-17",
+      "type": "news",
+      "lang": "pl",
+      "title": "Papież Leon XIV po operacji płuca",
+      "text": "W poniedziałek chirurdzy z kliniki Gemelli usunęli papieżowi dolny płat prawego płuca, a badanie potwierdziło nowotwór złośliwy. Watykan mówi o rekonwalescencji bez powikłań; pobyt w szpitalu ma potrwać około tygodnia, audiencje odwołano do 20 października.",
+      "src": "https://www.eska.pl/news/swiat/papiez-leon-xiv-ma-raka-oto-najnowszy-komunikat-chodzi-o-noc-aa-Ma9D-cPKF-fpQz.html",
+      "srcName": "Eska.pl"
+    },
+    {
       "id": "2026-10-17-wm-01",
       "date": "2026-10-17",
       "type": "photo",
@@ -29,21 +39,30 @@
       "srcName": "Wikimedia Commons"
     },
     {
-      "id": "2026-10-17-pn-anna-meredith-dusky",
-      "kind": "Teledysk · animacja poklatkowa",
-      "title": "Anna Meredith – „Dusky”",
-      "by": "reż. Ewan Jones Morris",
-      "text": "Ręcznie robiona podróż przez kolejne portale i coraz dziwniejsze pokoje – plastelina, wycinanki i lalki z szopy reżysera. Każda część utworu ma inną twarz i inny nastrój.",
+      "id": "2026-10-17-pn-phoebe-bridgers-cant-wait",
+      "kind": "Teledysk",
+      "title": "Phoebe Bridgers – „I Can't Wait”",
+      "by": "reż. Pablo Rochat i Chris Maggio (Iconoclast)",
+      "text": "Nowy singiel z albumu „Lost Weekend” w klipie duetu z Iconoclast. Ujęcia z drona, osiedle i supermarket pełen statystów, podkręcone efektami.",
       "embed": {
         "p": "yt",
-        "id": "6_9pQCfbZSQ"
+        "id": "hU-gnl8WLP0"
       },
-      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Dusky%2001%20still.png?itok=Ecytfy4w",
-      "src": "https://www.promonews.tv/videos/2026/10/13/anna-meredith-dusky-ewan-jones-morris/96626",
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/hU-gnl8WLP0.jpg?itok=hDrgNj02",
+      "src": "https://www.promonews.tv/videos/2026/08/14/phoebe-bridgers-i-cant-wait-pablo-rochat-and-chris-maggio/95946",
       "srcName": "Promonews",
-      "dur": 403,
       "date": "2026-10-17",
       "type": "video"
+    },
+    {
+      "id": "2026-10-17-news-szczyt-ue",
+      "date": "2026-10-17",
+      "type": "news",
+      "lang": "pl",
+      "title": "Szczyt UE: Ukraina, budżet i sankcje",
+      "text": "Przywódcy Unii zakończyli w piątek dwudniowy szczyt w Brukseli. Poparli gwarancje bezpieczeństwa dla Ukrainy i 21. pakiet sankcji wobec Rosji, a negocjacje nowego wieloletniego budżetu mają się zamknąć do końca roku.",
+      "src": "https://www.consilium.europa.eu/en/meetings/european-council/2026/10/15-16/",
+      "srcName": "Rada Europejska"
     },
     {
       "id": "2026-10-17-wm-02",
@@ -66,62 +85,14 @@
       "lang": "en"
     },
     {
-      "id": "2026-10-17-wm-03",
+      "id": "2026-10-17-news-nisko-strazacy",
       "date": "2026-10-17",
-      "type": "photo",
-      "title": "Londyńscy wędrowcy, wóz na przedmieściu",
-      "by": "John Thomson, 1877",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/John_Thomson_(Scottish,_1837-1921)_-_London_Nomades_-_2019.48_-_Cleveland_Museum_of_Art.jpg/1280px-John_Thomson_(Scottish,_1837-1921)_-_London_Nomades_-_2019.48_-_Cleveland_Museum_of_Art.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:John_Thomson_(Scottish,_1837-1921)_-_London_Nomades_-_2019.48_-_Cleveland_Museum_of_Art.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
-      "id": "2026-10-17-sotw-jesus-2",
-      "kind": "Animacja · fantasy",
-      "title": "JESUS 2",
-      "by": "Jesse Moynihan",
-      "text": "W świecie, w którym zniesiono śmierć, przywódca narodu zombie wskrzesza Jezusa dla rozgłosu, a ten zaczyna rozlewać po planetach maź nieśmiertelności. Zatrzymać go muszą dwaj kosmiczni piraci – szalona animacja twórcy związanego z „Porą na przygodę”.",
-      "embed": {
-        "p": "yt",
-        "id": "7lcS0NZyN7o"
-      },
-      "img": "https://static.shortoftheweek.com/wp-content/uploads/2026/09/jesus-2-short-film-07.jpeg",
-      "src": "https://www.shortoftheweek.com/2026/09/30/jesus-2",
-      "srcName": "Short of the Week",
-      "dur": 491,
-      "date": "2026-10-17",
-      "type": "video"
-    },
-    {
-      "id": "2026-10-17-wm-04",
-      "date": "2026-10-17",
-      "type": "photo",
-      "title": "„Ośmiornica” – Madison Square z góry",
-      "by": "Alvin Langdon Coburn, 1912",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alvin_Langdon_Coburn_-_The_Octopus,_New_York_-_Google_Art_Project.jpg/1280px-Alvin_Langdon_Coburn_-_The_Octopus,_New_York_-_Google_Art_Project.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Alvin_Langdon_Coburn_-_The_Octopus,_New_York_-_Google_Art_Project.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
-      "id": "2026-10-17-art-rudnick-arsenal",
-      "title": "Four years drawing a blackletter for Arsenal",
-      "text": "David Rudnick hand-built Rocastle, a three-weight blackletter named after club legend David Rocastle. A conversation about why a football club wants a typeface reserved for its biggest moments.",
-      "src": "https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026",
-      "srcName": "It's Nice That",
-      "img": "https://m.itsnicethat.com/original_images/Arsenal_Rocastle_16x9_001.png?class=w1440",
-      "date": "2026-10-17",
-      "type": "article",
-      "lang": "en"
-    },
-    {
-      "id": "2026-10-17-wm-05",
-      "date": "2026-10-17",
-      "type": "photo",
-      "title": "Gazeciarz w Harlemie",
-      "by": "Gordon Parks, 1943",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Harlem-newsboy-May-1943.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Harlem-newsboy-May-1943.jpg",
-      "srcName": "Wikimedia Commons"
+      "type": "news",
+      "lang": "pl",
+      "title": "Nisko: w pożarze magazynu zginęło dwóch strażaków",
+      "text": "Pożar hali z częściami do ciągników wybuchł w piątek rano i został opanowany, trwa dogaszanie. W trakcie akcji zginęło dwóch strażaków.",
+      "src": "https://nowiny24.pl/tragiczny-pozar-magazynu-w-nisku-nie-zyje-dwoch-strazakow-sp-bartlomiej-i-sp-wojciech-poniesli-najwyzsza-cene/ar/c1p2-29444175",
+      "srcName": "Nowiny24"
     },
     {
       "id": "2026-10-17-pn-jamie-t-waist",
@@ -139,6 +110,137 @@
       "dur": 262,
       "date": "2026-10-17",
       "type": "video"
+    },
+    {
+      "id": "2026-10-17-wm-03",
+      "date": "2026-10-17",
+      "type": "photo",
+      "title": "Londyńscy wędrowcy, wóz na przedmieściu",
+      "by": "John Thomson, 1877",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/John_Thomson_(Scottish,_1837-1921)_-_London_Nomades_-_2019.48_-_Cleveland_Museum_of_Art.jpg/1280px-John_Thomson_(Scottish,_1837-1921)_-_London_Nomades_-_2019.48_-_Cleveland_Museum_of_Art.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:John_Thomson_(Scottish,_1837-1921)_-_London_Nomades_-_2019.48_-_Cleveland_Museum_of_Art.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-17-news-ukraina-patrioty",
+      "date": "2026-10-17",
+      "type": "news",
+      "lang": "pl",
+      "title": "Ukrainie skończyły się pociski do Patriotów",
+      "text": "Według źródła CNN Kijów wyczerpał zapas rakiet do amerykańskich systemów Patriot. Przez to podczas ostatniego ataku prawie żaden rosyjski pocisk balistyczny nie został przechwycony.",
+      "src": "https://edition.cnn.com/2026/10/15/europe/ukraine-us-patriot-interceptor-missiles-run-out-intl",
+      "srcName": "CNN"
+    },
+    {
+      "id": "2026-10-17-art-rudnick-arsenal",
+      "title": "Four years drawing a blackletter for Arsenal",
+      "text": "David Rudnick hand-built Rocastle, a three-weight blackletter named after club legend David Rocastle. A conversation about why a football club wants a typeface reserved for its biggest moments.",
+      "src": "https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026",
+      "srcName": "It's Nice That",
+      "img": "https://m.itsnicethat.com/original_images/Arsenal_Rocastle_16x9_001.png?class=w1440",
+      "date": "2026-10-17",
+      "type": "article",
+      "lang": "en"
+    },
+    {
+      "id": "2026-10-17-wm-04",
+      "date": "2026-10-17",
+      "type": "photo",
+      "title": "„Ośmiornica” – Madison Square z góry",
+      "by": "Alvin Langdon Coburn, 1912",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alvin_Langdon_Coburn_-_The_Octopus,_New_York_-_Google_Art_Project.jpg/1280px-Alvin_Langdon_Coburn_-_The_Octopus,_New_York_-_Google_Art_Project.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Alvin_Langdon_Coburn_-_The_Octopus,_New_York_-_Google_Art_Project.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-17-pn-miss-madeline-moon",
+      "kind": "Teledysk",
+      "title": "Miss Madeline – „Trip To The Moon”",
+      "by": "reż. Ben Cole",
+      "text": "Zaczyna się jak romans science fiction w miejskim parku, a potem pędzi przez kolorowe sceny między brudną ulicą a błyszczącym Księżycem. Pełno efektów i mrugnięć do kina SF z lat 60.",
+      "embed": {
+        "p": "yt",
+        "id": "sW4XjinYP2E"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Screenshot%202026-10-08%20at%2011.49.39.jpeg?itok=bJ02VKnu",
+      "src": "https://www.promonews.tv/videos/2026/10/08/miss-madeline-trip-moon-ben-cole/96604",
+      "srcName": "Promonews",
+      "dur": 218,
+      "date": "2026-10-17",
+      "type": "video"
+    },
+    {
+      "id": "2026-10-17-news-wroclaw-bomba",
+      "date": "2026-10-17",
+      "type": "news",
+      "lang": "pl",
+      "title": "Wrocław: niewybuch w centrum, ewakuacja ok. 3 tys. osób",
+      "text": "Na budowie przy ul. Kolejowej znaleziono niemiecką bombę lotniczą SC 250 z czasów wojny. Jej usunięcie będzie wymagało ewakuacji okolicznych budynków.",
+      "src": "https://gazetawroclawska.pl/niemiecka-bomba-lotnicza-w-centrum-wroclawia-wazy-az-cwierc-tony-bedzie-wielka-ewakuacja-ok-3000-ludzi/ar/c1p2-29442169",
+      "srcName": "Gazeta Wrocławska"
+    },
+    {
+      "id": "2026-10-17-sotw-one-of-those",
+      "kind": "Film krótkometrażowy · thriller",
+      "title": "One of Those",
+      "by": "Cosmo Salovaara",
+      "text": "Do zakładu fryzjerki wchodzi mężczyzna z jej przeszłości, a ona nie wie, czy ją rozpoznał. Pięć minut napięcia w jednym wnętrzu, gdzie brzytwa i nożyczki nagle wyglądają groźnie.",
+      "embed": {
+        "p": "yt",
+        "id": "dmIDpUhgr3w"
+      },
+      "img": "https://static.shortoftheweek.com/wp-content/uploads/2026/10/one-of-those-short-film.jpeg",
+      "src": "https://www.shortoftheweek.com/2026/10/08/one-of-those",
+      "srcName": "Short of the Week",
+      "dur": 334,
+      "date": "2026-10-17",
+      "type": "video"
+    },
+    {
+      "id": "2026-10-17-news-iran-paliwo",
+      "date": "2026-10-17",
+      "type": "news",
+      "lang": "pl",
+      "title": "Iran wysyła paliwo mimo blokady USA",
+      "text": "Dane żeglugowe pokazują, że od lipca z Zatoki Omańskiej wypłynęło co najmniej osiem tankowców z irańskim LPG i paliwem lotniczym. Amerykańska blokada morska okazuje się więc nieszczelna.",
+      "src": "https://www.reuters.com/business/energy/iran-ships-some-lpg-jet-fuel-despite-us-blockade-data-shows-2026-10-16/",
+      "srcName": "Reuters"
+    },
+    {
+      "id": "2026-10-17-wm-05",
+      "date": "2026-10-17",
+      "type": "photo",
+      "title": "Gazeciarz w Harlemie",
+      "by": "Gordon Parks, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Harlem-newsboy-May-1943.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Harlem-newsboy-May-1943.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-17-pn-rose-gray-blink-twice",
+      "kind": "Teledysk",
+      "title": "Rose Gray – „Blink Twice”",
+      "by": "reż. Ben Cole",
+      "text": "Wokół Rose Gray wszystko płonie i się rozpada, a ona dalej śpiewa. Klip do utworu, który przyniósł jej przełom.",
+      "embed": {
+        "p": "yt",
+        "id": "V_Vk9AopM0Q"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Rose%20Gray%20%27Blink%20Twice%27%20by%20Ben%20Cole.png?itok=nNkxO9cP",
+      "src": "https://www.promonews.tv/videos/2026/10/12/rose-gray-blink-twice-ben-cole/96617",
+      "srcName": "Promonews",
+      "date": "2026-10-17",
+      "type": "video"
+    },
+    {
+      "id": "2026-10-17-news-jemen-aden",
+      "date": "2026-10-17",
+      "type": "news",
+      "lang": "pl",
+      "title": "Jemen: atak Huti na pałac rządowy w Adenie",
+      "text": "Rebelianci uderzyli w siedzibę uznawanego międzynarodowo rządu; zginęło pięć osób, co najmniej 16 jest rannych. Premier nie ucierpiał.",
+      "src": "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html",
+      "srcName": "New York Times"
     },
     {
       "id": "2026-10-17-wm-06",
@@ -161,6 +263,31 @@
       "lang": "en"
     },
     {
+      "id": "2026-10-17-news-brazylia-meta",
+      "date": "2026-10-17",
+      "type": "news",
+      "lang": "pl",
+      "title": "Brazylia: sąd wyborczy kontra Meta",
+      "text": "Przed drugą turą wyborów prezydenckich 25 października sąd nakazał Mecie równe traktowanie obu kandydatów pod groźbą dziennej kary. Skargę złożył prezydent Lula, zarzucając firmie faworyzowanie Flávia Bolsonaro.",
+      "src": "https://apnews.com/article/brazil-lula-meta-complaint-electoral-court-42270ca42bf27b3c9c30d73961759bc9",
+      "srcName": "AP"
+    },
+    {
+      "id": "2026-10-17-papaya-malasana",
+      "kind": "Teledysk",
+      "title": "Hania Rani & Dobrawa Czocher – „Malasana”",
+      "by": "reż. Mateusz Miszczyński (Papaya Films)",
+      "text": "Opowieść o wojnie i migracji widziana oczami dzieci, w konwencji realizmu magicznego. Zdjęcia powstały na Suwalszczyźnie, z udziałem czeczeńskich rodzin.",
+      "embed": {
+        "p": "yt",
+        "id": "qoYv9H_UCvE"
+      },
+      "src": "https://www.youtube.com/watch?v=qoYv9H_UCvE",
+      "srcName": "YouTube · Deutsche Grammophon",
+      "date": "2026-10-17",
+      "type": "video"
+    },
+    {
       "id": "2026-10-17-wm-07",
       "date": "2026-10-17",
       "type": "photo",
@@ -171,31 +298,14 @@
       "srcName": "Wikimedia Commons"
     },
     {
-      "id": "2026-10-17-sotw-crow-man",
-      "kind": "Animacja · baśń",
-      "title": "Crow Man",
-      "by": "Yohann Abdelnour",
-      "text": "Dziewczynka z chaty nad jeziorem nie pozwala Śmierci zabrać chorego dziadka i rzuca się z nią do walki. Gwałtowne starcie kończy się zaskakująco łagodnie – animacja pokazywana w Cannes.",
-      "embed": {
-        "p": "yt",
-        "id": "DP2xXxRNQ5U"
-      },
-      "img": "https://static.shortoftheweek.com/wp-content/uploads/2026/05/crow-man-Yohann-Abdelnour-01.jpg",
-      "src": "https://www.shortoftheweek.com/2026/05/19/crow-man/",
-      "srcName": "Short of the Week",
-      "dur": 480,
+      "id": "2026-10-17-news-alberta-glosowanie",
       "date": "2026-10-17",
-      "type": "video"
-    },
-    {
-      "id": "2026-10-17-wm-08",
-      "date": "2026-10-17",
-      "type": "photo",
-      "title": "Kolejka po pracę przed biurem FERA, Nowy Orlean",
-      "by": "Ben Shahn, 1935",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/6/62/FERA_New_Orleans_1935_Looking.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:FERA_New_Orleans_1935_Looking.jpg",
-      "srcName": "Wikimedia Commons"
+      "type": "news",
+      "lang": "pl",
+      "title": "Alberta zagłosuje w sprawie drogi do separacji",
+      "text": "W poniedziałek mieszkańcy prowincji zdecydują, czy zacząć procedurę prowadzącą do referendum o odłączeniu od Kanady. Premier Mark Carney ostrzegał na wiecu w Calgary, że USA chcą osłabić kraj.",
+      "src": "https://apnews.com/article/canada-alberta-carney-separation-vote-referendum-4e39eb0f5bda2438b3c2fedbf6088d09",
+      "srcName": "AP"
     },
     {
       "id": "2026-10-17-art-foam-25",
@@ -208,6 +318,41 @@
       "lang": "en"
     },
     {
+      "id": "2026-10-17-wm-08",
+      "date": "2026-10-17",
+      "type": "photo",
+      "title": "Kolejka po pracę przed biurem FERA, Nowy Orlean",
+      "by": "Ben Shahn, 1935",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/62/FERA_New_Orleans_1935_Looking.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:FERA_New_Orleans_1935_Looking.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-17-papaya-tam-gdzie-wy",
+      "kind": "Teledysk",
+      "title": "Kali, Klaudia Szafrańska, PlanBe, Sir Mich – „Tam gdzie Wy”",
+      "by": "reż. Magdalena Zielińska (Papaya Films)",
+      "text": "Wakacyjny, ciepły klip z projektu Pepsi Taste The Beat. Polski hip-hop w wersji na lato.",
+      "embed": {
+        "p": "yt",
+        "id": "SF_trLfivBU"
+      },
+      "src": "https://papaya.rocks/pl/news/tam-gdzie-wy-klaudia-szafranska-kali-planbe-sirmich",
+      "srcName": "Papaya Films",
+      "date": "2026-10-17",
+      "type": "video"
+    },
+    {
+      "id": "2026-10-17-news-swiat-sobota",
+      "date": "2026-10-17",
+      "type": "news",
+      "lang": "pl",
+      "title": "Sobota na świecie: protesty we Francji, wybory w Czechach",
+      "text": "We Francji trwają ogólnokrajowe protesty przeciw kosztom życia i cenom paliw, choć bez udziału największych związków. W Czechach kończy się druga tura częściowych wyborów do Senatu.",
+      "src": "https://www.wnp.pl/polityka-i-sondaze/dzis-sobota-17-pazdziernika-na-swiecie,1110016.html",
+      "srcName": "WNP.pl"
+    },
+    {
       "id": "2026-10-17-wm-09",
       "date": "2026-10-17",
       "type": "photo",
@@ -216,23 +361,6 @@
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_vegetable_peddler,_Chinatown,_San_Francisco_LOC_agc.7a09129.jpg/1280px-The_vegetable_peddler,_Chinatown,_San_Francisco_LOC_agc.7a09129.jpg",
       "src": "https://commons.wikimedia.org/wiki/File:The_vegetable_peddler,_Chinatown,_San_Francisco_LOC_agc.7a09129.jpg",
       "srcName": "Wikimedia Commons"
-    },
-    {
-      "id": "2026-10-17-pn-miss-madeline-moon",
-      "kind": "Teledysk",
-      "title": "Miss Madeline – „Trip To The Moon”",
-      "by": "reż. Ben Cole",
-      "text": "Zaczyna się jak romans science fiction w miejskim parku, a potem pędzi przez kolorowe sceny między brudną ulicą a błyszczącym Księżycem. Pełno efektów i mrugnięć do kina SF z lat 60.",
-      "embed": {
-        "p": "yt",
-        "id": "sW4XjinYP2E"
-      },
-      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Screenshot%202026-10-08%20at%2011.49.39.jpeg?itok=bJ02VKnu",
-      "src": "https://www.promonews.tv/videos/2026/10/08/miss-madeline-trip-moon-ben-cole/96604",
-      "srcName": "Promonews",
-      "dur": 218,
-      "date": "2026-10-17",
-      "type": "video"
     },
     {
       "id": "2026-10-17-wm-10",
@@ -265,21 +393,15 @@
       "srcName": "Wikimedia Commons"
     },
     {
-      "id": "2026-10-17-sotw-one-of-those",
-      "kind": "Film krótkometrażowy · thriller",
-      "title": "One of Those",
-      "by": "Cosmo Salovaara",
-      "text": "Do zakładu fryzjerki wchodzi mężczyzna z jej przeszłości, a ona nie wie, czy ją rozpoznał. Pięć minut napięcia w jednym wnętrzu, gdzie brzytwa i nożyczki nagle wyglądają groźnie.",
-      "embed": {
-        "p": "yt",
-        "id": "dmIDpUhgr3w"
-      },
-      "img": "https://static.shortoftheweek.com/wp-content/uploads/2026/10/one-of-those-short-film.jpeg",
-      "src": "https://www.shortoftheweek.com/2026/10/08/one-of-those",
-      "srcName": "Short of the Week",
-      "dur": 334,
+      "id": "2026-10-17-art-amok-island",
+      "title": "Amok Island's geometric wildlife murals",
+      "text": "A Dutch-born artist living in Fremantle paints huge, hard-edged murals of local plants and animals. The bright geometry is a way of pointing at how fragile those species are.",
+      "src": "https://www.thisiscolossal.com/2026/10/amok-island-geometric-nature-murals/",
+      "srcName": "Colossal",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/amok-8.jpeg",
       "date": "2026-10-17",
-      "type": "video"
+      "type": "article",
+      "lang": "en"
     },
     {
       "id": "2026-10-17-wm-12",
@@ -290,17 +412,6 @@
       "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Plaquemines_Parish_1943_E_Riche_Sign_Shack_by_Vachon.jpg",
       "src": "https://commons.wikimedia.org/wiki/File:Plaquemines_Parish_1943_E_Riche_Sign_Shack_by_Vachon.jpg",
       "srcName": "Wikimedia Commons"
-    },
-    {
-      "id": "2026-10-17-art-amok-island",
-      "title": "Amok Island's geometric wildlife murals",
-      "text": "A Dutch-born artist living in Fremantle paints huge, hard-edged murals of local plants and animals. The bright geometry is a way of pointing at how fragile those species are.",
-      "src": "https://www.thisiscolossal.com/2026/10/amok-island-geometric-nature-murals/",
-      "srcName": "Colossal",
-      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/amok-8.jpeg",
-      "date": "2026-10-17",
-      "type": "article",
-      "lang": "en"
     },
     {
       "id": "2026-10-17-art-midnight-parasites",
