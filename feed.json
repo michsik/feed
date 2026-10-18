@@ -1,6 +1,493 @@
 {
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "items": [
+    {
+      "id": "2026-10-18-lbb-fontaines-dc-tongue",
+      "date": "2026-10-18",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Fontaines D.C. – „Tongue”",
+      "by": "reż. PHC / John Angus Stewart (Academy Films)",
+      "text": "Surowa, ziarnista jazda przez nocny Nowy Jork, nakręcona w plenerze, w duchu lo-fi. Zespół wraca w klipie, który brzmi jak sam utwór: nerwowo i bez wygładzania.",
+      "embed": {
+        "p": "yt",
+        "id": "5OsIwKHppho"
+      },
+      "img": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-10/academy-films.572ie0hR.png",
+      "src": "https://lbbonline.com/news/fontaines-d-c-tongue-music-video",
+      "srcName": "LBB"
+    },
+    {
+      "id": "2026-10-18-wm-01",
+      "date": "2026-10-18",
+      "type": "photo",
+      "title": "Paryż, La Villette: kobieta w drzwiach przy rue Asselin",
+      "by": "Eugène Atget, 1921",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Eug%C3%A8ne_Atget_-_La_Villette._Rue_Asselin,_prostitute_waiting_in_front_of_her_door_-_Google_Art_Project.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Atget_-_La_Villette._Rue_Asselin,_prostitute_waiting_in_front_of_her_door_-_Google_Art_Project.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-18-news-manifestacja-pis-tk",
+      "date": "2026-10-18",
+      "type": "news",
+      "lang": "pl",
+      "title": "Manifestacja PiS przed Trybunałem",
+      "text": "W sobotę przed siedzibą Trybunału Konstytucyjnego w Warszawie zebrały się tłumy zwolenników PiS z Jarosławem Kaczyńskim na czele. Protest to kolejny etap sporu o wybranego przez Sejm sędziego Macieja Berka, którego prezes TK nie dopuszcza do orzekania.",
+      "src": "https://www.rmf24.pl/fakty/polska/news-goraco-przed-trybunalem-konstytucyjnym-tu-jest-polska,nIdn,1022312",
+      "srcName": "RMF24"
+    },
+    {
+      "id": "2026-10-18-art-ann-toebbe-paintings",
+      "date": "2026-10-18",
+      "type": "article",
+      "lang": "en",
+      "title": "Ann Toebbe paints rooms as they feel, not as they look",
+      "text": "The Chicago artist builds patterned interiors from gouache, oil and collage, bending perspective so homes turn into maps of memory. A selection is on show at Andrew Rafacz in Chicago until the end of October.",
+      "src": "https://www.thisiscolossal.com/2026/10/ann-toebbe-mixed-media-paintings/",
+      "srcName": "Colossal",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/toebbe-8.jpg"
+    },
+    {
+      "id": "2026-10-18-pn-son-lux-out-into-us",
+      "date": "2026-10-18",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Son Lux – „Out Into Us”",
+      "by": "reż. Alex Cook (Caviar)",
+      "text": "Rodzina w samotnym domu na równinie szykuje się na nadciągającą burzę, aż okazuje się, że żywioł jest zbudowany jak dekoracja. Pięciominutowa wersja 17-minutowego utworu, powiązana z instalacją pokazywaną w amerykańskich muzeach.",
+      "embed": {
+        "p": "yt",
+        "id": "qOJ2taoQBwM"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Son%20Lux%20%27Out%20Into%20Us%27%20by%20Alex%20Cook.png?itok=HUXbujUc",
+      "src": "https://www.promonews.tv/videos/2026/09/30/son-lux-out-us-alex-cook/96447",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-18-wm-02",
+      "date": "2026-10-18",
+      "type": "photo",
+      "title": "Nowy Jork: zima na Piątej Alei",
+      "by": "Alfred Stieglitz, 1893",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/20/Winter_-_Fifth_Avenue_MET_DP234514.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Winter_-_Fifth_Avenue_MET_DP234514.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-18-news-manewry-nato-polska",
+      "date": "2026-10-18",
+      "type": "news",
+      "lang": "pl",
+      "title": "Europejscy żołnierze na manewrach w Polsce",
+      "text": "Według brytyjskiego dziennika The Times w listopadzie co najmniej 1500 żołnierzy z Wielkiej Brytanii, Francji i Niemiec przyjedzie do Polski na specjalne ćwiczenia. Mają one przygotować europejski kontyngent do ewentualnej misji w Ukrainie po zawieszeniu broni.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-10-17/zolnierze-nato-maja-przyjechac-do-polski-w-tle-misja-w-ukrainie/",
+      "srcName": "Polsat News"
+    },
+    {
+      "id": "2026-10-18-art-robin-f-williams-act-natural",
+      "date": "2026-10-18",
+      "type": "article",
+      "lang": "en",
+      "title": "Robin F. Williams mixes Disney princesses with cyborgs",
+      "text": "In a London pop-up during Frieze week, the Brooklyn painter fuses pop culture and art history to picture people slowly merging with their machines. The canvases make technology look both seductive and quietly horrifying, like a figure swallowed by a phone in bed.",
+      "src": "https://www.thisiscolossal.com/2026/10/robin-f-williams-paintings-act-natural/",
+      "srcName": "Colossal",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/williams-6.jpg"
+    },
+    {
+      "id": "2026-10-18-pn-u2-silencio",
+      "date": "2026-10-18",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "U2 – „Silencio”",
+      "by": "reż. Cliqua (Somesuch)",
+      "text": "Klubowy salonik w Meksyku z czerwonymi kotarami i niebieskim światłem, jak wyjęty z filmów Lyncha. Zespół gra na środku, a wokół krążą wyrzutki, w tym sam diabeł.",
+      "embed": {
+        "p": "yt",
+        "id": "1mCN-RDh0-0"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/U2%20%27Silencio%27%20by%20Cliqua.png?itok=3dzJBxLf",
+      "src": "https://www.promonews.tv/videos/2026/09/30/u2-silencio-cliqua/96480",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-18-wm-03",
+      "date": "2026-10-18",
+      "type": "photo",
+      "title": "Utica: mali gazeciarze na ulicy",
+      "by": "Lewis Hine, 1910",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Lewis_Hine,_Pasquale_Lolara,_Ercola_Guallilo,_Jerry_Paciello,_Frank_Graciana,_newsboys,_Utica,_New_York,_1910.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Lewis_Hine,_Pasquale_Lolara,_Ercola_Guallilo,_Jerry_Paciello,_Frank_Graciana,_newsboys,_Utica,_New_York,_1910.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-18-news-konwoj-dyplomatow-zachodni-brzeg",
+      "date": "2026-10-18",
+      "type": "news",
+      "lang": "pl",
+      "title": "Atak na konwój z polskimi dyplomatami",
+      "text": "Na Zachodnim Brzegu Jordanu zaatakowano konwój dyplomatów, w którym jechali także Polacy; nikt z nich nie ucierpiał. Polskie MSZ wskazuje na izraelskich osadników i domaga się od Izraela ukarania sprawców, a izraelski szef dyplomacji zapowiedział śledztwo.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-10-17/konwoj-zaatakowany-na-zachodnim-brzegu-znajdowali-sie-w-nim-polacy/",
+      "srcName": "Polsat News"
+    },
+    {
+      "id": "2026-10-18-pn-dfa1979-private-lives",
+      "date": "2026-10-18",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Death From Above 1979 – „Private Lives”",
+      "by": "reż. Eva Michon",
+      "text": "Kim Bodnia, aktor kultowego kina, tańczy sam w prywatnym studiu w Los Angeles. Czarno-biała taśma 16 mm i zdjęcia Edu Graua.",
+      "embed": {
+        "p": "yt",
+        "id": "jTU413OX9Ig"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Death%20From%20Above%201979%20%27Private%20Lives%27%20by%20Eva%20Michon.png?itok=4QOQH749",
+      "src": "https://www.promonews.tv/videos/2026/10/05/death-above-1979-private-lives-eva-michon/96521",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-18-wm-04",
+      "date": "2026-10-18",
+      "type": "photo",
+      "title": "Nowy Jork: bezdomni przed posterunkiem na Mulberry Street",
+      "by": "Jacob Riis, ok. 1890",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/12/Jacob_A._Riis_-_Waiting_to_Be_Let_in_the_Mulberry_Street_Station_-_Google_Art_Project.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Jacob_A._Riis_-_Waiting_to_Be_Let_in_the_Mulberry_Street_Station_-_Google_Art_Project.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-18-news-ceny-paliw-maksymalne",
+      "date": "2026-10-18",
+      "type": "news",
+      "lang": "pl",
+      "title": "Niższe maksymalne ceny paliw",
+      "text": "Od soboty do poniedziałku litr benzyny 95 może kosztować najwyżej 6,89 zł, a oleju napędowego 8 zł, czyli nieco mniej niż w piątek. Limity są częścią rządowego pakietu Ceny Paliwa Niżej, finansowanego m.in. podatkiem od nadmiarowych zysków koncernów.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-10-16/kierowcy-moga-odetchnac-z-ulga-nowe-ceny-na-stacjach-paliw-1/",
+      "srcName": "Polsat News"
+    },
+    {
+      "id": "2026-10-18-art-objects-with-narratives-pad",
+      "date": "2026-10-18",
+      "type": "article",
+      "lang": "en",
+      "title": "Collectible furniture that looks dug up rather than made",
+      "text": "Brussels gallery Objects with Narratives brought a show called What Remains? to PAD London, with an onyx coffee table shaped like a cushion and a rusted-steel shelf by Paul Cocksedge. Volcanic clay vessels, mohair lamps and patchwork copper lights complete the set.",
+      "src": "https://www.dezeen.com/2026/10/16/objects-with-narratives-collectible-design-pad/",
+      "srcName": "Dezeen",
+      "img": "https://static.dezeen.com/uploads/2026/10/pad-london-objects-with-narratives-sq.jpg"
+    },
+    {
+      "id": "2026-10-18-daft-punk-around-the-world",
+      "date": "2026-10-18",
+      "type": "video",
+      "kind": "Teledysk · klasyka",
+      "title": "Daft Punk – „Around the World”",
+      "by": "reż. Michel Gondry",
+      "text": "Gondry zamienił pętlę Daft Punk w żywą partyturę: roboty, mumie, szkielety, pływaczki i sportowcy z maleńkimi głowami krążą po scenie-płycie, a każda grupa tańczy dokładnie jeden instrument. Choreografię ułożyła Blanca Li, a klip z 1997 roku wciąż bywa podawany jako wzorcowy przykład wizualizacji muzyki.",
+      "embed": {
+        "p": "yt",
+        "id": "K0HSD_i2DvA"
+      },
+      "img": "https://i.ytimg.com/vi/K0HSD_i2DvA/hqdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/Around_the_World_(Daft_Punk_song)",
+      "srcName": "Wikipedia"
+    },
+    {
+      "id": "2026-10-18-wm-05",
+      "date": "2026-10-18",
+      "type": "photo",
+      "title": "Nowy Jork: niewidoma kobieta na ulicy",
+      "by": "Paul Strand, 1916",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/46/Blind_Woman.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Blind_Woman.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-18-news-tranzyt-zboza-ukraina",
+      "date": "2026-10-18",
+      "type": "news",
+      "lang": "pl",
+      "title": "Zełenski prosi o tranzyt zboża",
+      "text": "Prezydent Ukrainy zwrócił się do Polski, Węgier, Słowacji i Rumunii o zgodę na przewóz ukraińskiego zboża przez ich terytorium do Europy Zachodniej, np. w plombowanych wagonach. Premier Węgier Péter Magyar zadeklarował, że nie widzi przeszkód, jeśli ładunek będzie tylko przejeżdżał przez kraj.",
+      "src": "https://www.rp.pl/handel/art45351551-zelenski-chce-nowego-porozumienia-w-sprawie-zboza-wegry-mowia-tak",
+      "srcName": "Rzeczpospolita"
+    },
+    {
+      "id": "2026-10-18-pn-sugababes-ghost",
+      "date": "2026-10-18",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Sugababes – „Ghost”",
+      "by": "reż. Thomas James (Artclass)",
+      "text": "Gotycki, nocny kondukt żałobny, w którym trio idzie na cmentarz. Mroczniej i dziwniej niż w ich dotychczasowych klipach.",
+      "embed": {
+        "p": "yt",
+        "id": "5y0prFnG1e8"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Screenshot%202026-09-28%20at%2014.02.37.png?itok=IO61Fq2w",
+      "src": "https://www.promonews.tv/videos/2026/09/28/sugababes-ghost-thomas-james/96432",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-18-wm-06",
+      "date": "2026-10-18",
+      "type": "photo",
+      "title": "Savannah: witryna fotografa za grosze",
+      "by": "Walker Evans, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Penny_Picture_Display,_Savannah_MET_DP204586.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Penny_Picture_Display,_Savannah_MET_DP204586.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-18-art-sewell-killingstad",
+      "date": "2026-10-18",
+      "type": "article",
+      "lang": "en",
+      "title": "Why personal projects bring the best commissions",
+      "text": "Baltimore designer Sewell Killingstad says their animated buttercup lettering for Olivia Rodrigo's festival grew out of work made purely for fun. Their advice: build a distinct voice of your own, keep reaching out, and let the right clients find you.",
+      "src": "https://www.itsnicethat.com/articles/sewell-killingstad-graphic-design-discover-151026",
+      "srcName": "It's Nice That",
+      "img": "https://m.itsnicethat.com/original_images/sewell_grassstains.png?class=w1440"
+    },
+    {
+      "id": "2026-10-18-pn-charlie-jeer-jennifer",
+      "date": "2026-10-18",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Charlie Jeer – „Jennifer”",
+      "by": "reż. Douglas Reddan (FRIEND)",
+      "text": "Minimusical nakręcony w jednym ujęciu ze steadicamu: były saksofonista i trzech tancerzy przechodzą przez modernistyczny dom w stylizacjach z lat 70.",
+      "embed": {
+        "p": "yt",
+        "id": "9-iaBFppsME"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/webform/jenniferstills_1.3.15.jpeg?itok=58SVVt5q",
+      "src": "https://www.promonews.tv/videos/2026/10/02/charlie-jeer-jennifer-douglas-reddan/96510",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-18-wm-07",
+      "date": "2026-10-18",
+      "type": "photo",
+      "title": "Kalifornia: piechurzy w drodze do Los Angeles",
+      "by": "Dorothea Lange, 1937",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Toward_Los_Angeles,_California_LOC_3549663710.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Toward_Los_Angeles,_California_LOC_3549663710.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-18-news-trump-sankcje-rosja",
+      "date": "2026-10-18",
+      "type": "news",
+      "lang": "pl",
+      "title": "Trump zawiesza sankcje wobec Rosji",
+      "text": "Donald Trump bronił decyzji o wstrzymaniu ceł i sankcji przewidzianych w ustawie Grahama, w tym 500-procentowych taryf na rosyjskie towary. Marco Rubio tłumaczył, że przez 60 dni Waszyngton zbada skutki tych kroków dla gospodarki, sugerując, że sprawa nie jest jeszcze ostatecznie przesądzona.",
+      "src": "https://www.wnp.pl/rynki/usa-trump-decyzja-w-sprawie-sankcji-na-rosje-dobra-dla-kraju-i-swiata,1110174.html",
+      "srcName": "wnp.pl / PAP"
+    },
+    {
+      "id": "2026-10-18-childish-gambino-this-is-america",
+      "date": "2026-10-18",
+      "type": "video",
+      "kind": "Teledysk · nagroda",
+      "title": "Childish Gambino – „This Is America”",
+      "by": "reż. Hiro Murai",
+      "text": "Klip zdobył nagrodę Grammy 2019 (61. gala) w kategorii Best Music Video, a na Camerimage nagrodzono jego zdjęcia. Murai prowadzi kamerę przez jeden magazyn, w którym taniec i nagłe akty przemocy przeplatają się tak, że widz nie nadąża z oddechem.",
+      "embed": {
+        "p": "yt",
+        "id": "VYOjWnS4cMY"
+      },
+      "img": "https://i.ytimg.com/vi/VYOjWnS4cMY/hqdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/This_Is_America_(Childish_Gambino_song)",
+      "srcName": "Wikipedia"
+    },
+    {
+      "id": "2026-10-18-wm-08",
+      "date": "2026-10-18",
+      "type": "photo",
+      "title": "Chicago: poczekalnia dworca Union Station",
+      "by": "Jack Delano, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Chicago,_Illinois._In_the_waiting_room_of_the_Union_Station_LOC_3548859587.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Chicago,_Illinois._In_the_waiting_room_of_the_Union_Station_LOC_3548859587.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-18-art-aeon-deskilled-bodies",
+      "date": "2026-10-18",
+      "type": "article",
+      "lang": "en",
+      "title": "Outsourcing effort to gadgets may be weakening our bodies",
+      "text": "Philosopher Melanie Challenger argues that GPS, phones and AI are quietly eroding our sense of direction, memory and attention. She claims intelligence lives in physical engagement with the world, so removing all friction leaves us more fragile.",
+      "src": "https://aeon.co/essays/the-more-we-rely-on-tech-the-more-we-deskill-our-bodies",
+      "srcName": "Aeon",
+      "img": "https://images.aeonmedia.co/images/b060a785-e136-4e8e-bd82-6085cc21e62a/essay-final-nn11563596.jpg?width=1200&quality=75&format=jpeg"
+    },
+    {
+      "id": "2026-10-18-news-moskwa-lotniska-drony",
+      "date": "2026-10-18",
+      "type": "news",
+      "lang": "pl",
+      "title": "Paraliż moskiewskich lotnisk",
+      "text": "Z powodu zagrożenia dronami lotniska pod Moskwą przez wiele godzin nie przyjmowały samolotów, a od piątku opóźniono lub odwołano ponad 350 lotów. To już czwarte takie zakłócenie w ciągu tygodnia.",
+      "src": "https://www.rmf24.pl/fakty/swiat/news-pieklo-moskiewskie-lotniska-zostaly-sparalizowane,nIdn,1022338",
+      "srcName": "RMF24"
+    },
+    {
+      "id": "2026-10-18-pn-pretty-sick-anarchy",
+      "date": "2026-10-18",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Pretty Sick – „Anarchy”",
+      "by": "reż. Rodrigo Inada",
+      "text": "Banda dzieciaków porywa wokalistkę Sabrinę Fuentes z samochodu, bo wierzy, że jej gitara ściągnie kosmitów. Szybka, absurdalna komedia akcji z punkowym zębem.",
+      "embed": {
+        "p": "yt",
+        "id": "NW3zr0tffr4"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Pretty%20Sick%20%27Anarchy%27%20by%20Rodrigo%20Inada.png?itok=sf9X_vAs",
+      "src": "https://www.promonews.tv/videos/2026/10/07/pretty-sick-anarchy-rodrigo-inada/96552",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-18-wm-09",
+      "date": "2026-10-18",
+      "type": "photo",
+      "title": "Oklahoma: farmer z synami w burzy pyłowej",
+      "by": "Arthur Rothstein, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Farmer_walking_in_dust_storm_Cimarron_County_Oklahoma.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Farmer_walking_in_dust_storm_Cimarron_County_Oklahoma.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-18-news-onz-ofiary-cywilne-ukraina",
+      "date": "2026-10-18",
+      "type": "news",
+      "lang": "pl",
+      "title": "Rośnie liczba ofiar cywilnych w Ukrainie",
+      "text": "Według misji ONZ we wrześniu w Ukrainie zginęło co najmniej 328 cywilów, a ponad 2,1 tys. zostało rannych, o 85 proc. więcej niż rok wcześniej. Początek października był jednym z najtragiczniejszych okresów od lat, a ataki na energetykę zostawiły setki tysięcy kijowian bez prądu.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-10-17/tragiczny-miesiac-dla-ukrainy-rosyjskie-ataki-zbieraja-straszliwe-zniwo/",
+      "srcName": "Polsat News"
+    },
+    {
+      "id": "2026-10-18-art-punk-na-lemkowszczyznie",
+      "date": "2026-10-18",
+      "type": "article",
+      "lang": "pl",
+      "title": "Punkowy festiwal w sercu Beskidu Niskiego",
+      "text": "Konstanty Usenko wybrał się na Zdynia DIY Fest, oddolną imprezę organizowaną na terenie Łemkowskiej Watry, i splata relację z koncertów z historią wysiedleń Łemków. Są młode kobiece zespoły, wegańskie łemkowskie jedzenie i zero zasięgu w telefonie.",
+      "src": "https://www.dwutygodnik.com/artykul/12714-punk-na-lemkowszczyznie.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "id": "2026-10-18-pn-keo-be-happy",
+      "date": "2026-10-18",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Keo – „Be Happy”",
+      "by": "reż. Tommy Davis",
+      "text": "Londyński zespół gra w ogrodzie pełnym słoneczników, a montaż przeskakuje do ponurej sali kinowej. Napięcie rośnie, aż obie przestrzenie wybuchają energią.",
+      "embed": {
+        "p": "yt",
+        "id": "gCOc-aWn158"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Keo%20%27Be%20Happy%27%20by%20Tommy%20Davis.png?itok=bLXyIi3z",
+      "src": "https://www.promonews.tv/videos/2026/09/29/keo-be-happy-tommy-davis/96459",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-18-wm-10",
+      "date": "2026-10-18",
+      "type": "photo",
+      "title": "Kierowca Greyhounda w noclegowni dla kierowców",
+      "by": "Esther Bubley, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/88/A_Greyhound_bus_driver_signing_in_for_a_bed_at_the_dormitory_8d32954v.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:A_Greyhound_bus_driver_signing_in_for_a_bed_at_the_dormitory_8d32954v.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-18-news-kijow-protest-kliczko",
+      "date": "2026-10-18",
+      "type": "news",
+      "lang": "pl",
+      "title": "Kijowianie żądają dymisji Kliczki",
+      "text": "Kilkaset osób protestowało w centrum Kijowa, domagając się odejścia mera Witalija Kliczki. Zarzucają mu złe przygotowanie miasta do wojennej zimy, brak schronów i zasilania awaryjnego oraz korupcję.",
+      "src": "https://www.rmf24.pl/fakty/swiat/news-kijow-bez-kliczki-manifestacja-w-centrum-stolicy-ukrainy,nIdn,1022303",
+      "srcName": "RMF24"
+    },
+    {
+      "id": "2026-10-18-syny-nag-champa",
+      "date": "2026-10-18",
+      "type": "video",
+      "kind": "Teledysk · nagroda",
+      "title": "Syny – „Nag Champa”",
+      "by": "reż. Sebastian Pańczyk",
+      "text": "Teledysk do utworu duetu Syny zdobył Grand Prix festiwalu Yach Film w 2019 roku oraz nagrodę za montaż. Sebastian Pańczyk był zarówno scenarzystą, jak i reżyserem klipu, który promował album „Sen” wydany przez Latarnię.",
+      "embed": {
+        "p": "yt",
+        "id": "47LDQue0jRg"
+      },
+      "img": "https://i.ytimg.com/vi/47LDQue0jRg/hqdefault.jpg",
+      "src": "https://platige.com/news/teledysk-syny-nag-champa-z-grand-prix-festiwalu-yach-film-2019/",
+      "srcName": "Platige Image"
+    },
+    {
+      "id": "2026-10-18-wm-11",
+      "date": "2026-10-18",
+      "type": "photo",
+      "title": "Los Angeles: japońsko-amerykańska rodzina przed przesiedleniem",
+      "by": "Russell Lee, 1942",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Russell_Lee,_Japanese-American_family_waiting_for_relocation,_Los_Angeles,_1942.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Russell_Lee,_Japanese-American_family_waiting_for_relocation,_Los_Angeles,_1942.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-18-art-polski-plakat-warda",
+      "date": "2026-10-18",
+      "type": "article",
+      "lang": "pl",
+      "title": "Krótka historia polskiego plakatu",
+      "text": "Michał Warda, kurator Muzeum Plakatu w Wilanowie, opowiada, jak zabory, wojna, cenzura PRL i transformacja kształtowały polski plakat. Rozmowa dotyka też plakatów cyfrowych i nowej wystawy stałej muzeum.",
+      "src": "https://www.dwutygodnik.com/artykul/12710-szybko-utracona-niewinnosc.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "id": "2026-10-18-news-francja-protesty-drozyzna",
+      "date": "2026-10-18",
+      "type": "news",
+      "lang": "pl",
+      "title": "Protesty przeciw drożyźnie we Francji",
+      "text": "Dziesiątki tysięcy Francuzów wyszły w sobotę na ulice, protestując przeciw rosnącym kosztom życia, w nawiązaniu do ruchu żółtych kamizelek. W Paryżu policja użyła gazu łzawiącego, w Marsylii demonstranci wdarli się do ratusza, a dziesiątki osób zatrzymano.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-10-17/chaos-na-ulicach-we-francji-policja-starla-sie-z-protestujacymi/",
+      "srcName": "Polsat News"
+    },
+    {
+      "id": "2026-10-18-cgm-livka-poza-toba-nic",
+      "date": "2026-10-18",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Livka – „poza Tobą nic”",
+      "by": "reż. Alex Pak",
+      "text": "Pierwszy singiel Livki po debiutanckim albumie „z papieru”, otwierający nowy rozdział jej solowej kariery. Klip podkreśla zmianę wizerunku artystki.",
+      "embed": {
+        "p": "yt",
+        "id": "3hvuEvFtmdg"
+      },
+      "img": "https://cgm.pl/wp-content/uploads/2026/08/livka-poza-toba-nic-scaled.jpg",
+      "src": "https://cgm.pl/news/livka-otwiera-nowy-rozdzial-solowej-kariery-znakomitym-teledyskiem-do-singla-poza-toba-nic/",
+      "srcName": "CGM.pl"
+    },
+    {
+      "id": "2026-10-18-wm-12",
+      "date": "2026-10-18",
+      "type": "photo",
+      "title": "Pokład trzeciej klasy na transatlantyku",
+      "by": "Alfred Stieglitz, 1907",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Alfred_Stieglitz_-_The_Steerage_-_Google_Art_Project.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Alfred_Stieglitz_-_The_Steerage_-_Google_Art_Project.jpg",
+      "srcName": "Wikimedia Commons"
+    },
     {
       "id": "2026-10-17-sotw-distance-sky",
       "kind": "Film krótkometrażowy · dramat",
