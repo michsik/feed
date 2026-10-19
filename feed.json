@@ -1,6 +1,513 @@
 {
-  "updated": "2026-10-18",
+  "updated": "2026-10-19",
   "items": [
+    {
+      "id": "2026-10-19-olivia-rodrigo-expectations",
+      "date": "2026-10-19",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Olivia Rodrigo feat. Chappell Roan – „expectations”",
+      "by": "reż. Bardia Zeinali",
+      "text": "David Byrne jako wodzirej staroświeckich teleturniejów w stylu „The Dating Game” i „Family Feud”, a Rodrigo i Roan grają po kilka postaci naraz. Rozbrajająco kiczowata, kostiumowa zabawa z cameo Dana Nigro i Aquarii.",
+      "embed": {
+        "p": "yt",
+        "id": "gsZauX8gwxo"
+      },
+      "dur": 293,
+      "img": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Expectations.jpeg",
+      "src": "https://stereogum.com/2514731/chappell-roan-joins-olivia-rodrigo-on-expectations-remix-watch-their-kitschy-video-feat-david-byrne/music",
+      "srcName": "Stereogum"
+    },
+    {
+      "id": "2026-10-19-news-petersburg-drony",
+      "date": "2026-10-19",
+      "type": "news",
+      "lang": "pl",
+      "title": "Zmasowany atak dronów na Petersburg",
+      "text": "Ukraińskie drony uderzyły w niedzielę w Petersburg, gdzie zapalił się jeden z największych rosyjskich terminali naftowych, a także centrum logistyczne Ozon i serwerownia VK. Zginęła co najmniej jedna osoba, a obrona powietrzna obwodu leningradzkiego mówi o ponad 140 zestrzelonych maszynach.",
+      "src": "https://www.rmf24.pl/fakty/swiat/news-potezne-uderzenie-dronow-w-petersburg-terminal-w-ogniu-pozar,nIdn,1022359",
+      "srcName": "RMF24"
+    },
+    {
+      "id": "2026-10-19-wm-01",
+      "date": "2026-10-19",
+      "type": "photo",
+      "title": "Waszyngton, pokój w pensjonacie",
+      "by": "Esther Bubley, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/78/Esther_Bubley,_A_radio_is_company_for_this_girl_in_her_boardinghouse_room,_Washington,_D.C.,_1943.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Esther_Bubley,_A_radio_is_company_for_this_girl_in_her_boardinghouse_room,_Washington,_D.C.,_1943.jpg",
+      "srcName": "Wikimedia Commons",
+      "text": "Wojenna samotność: dziewczyna w pokoju pensjonatu, a towarzystwa dotrzymuje jej tylko radio."
+    },
+    {
+      "id": "2026-10-19-avalanches-i-give-everything",
+      "date": "2026-10-19",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "The Avalanches feat. Loaded Honey – „I Give Everything I Have 2 U”",
+      "by": "reż. Jonathan Zawada i Robbie Chater (Twin Brains Films)",
+      "text": "Haley Joel Osment jako rozanielony kurier, który tańczy, lawirując w korkach Shibuyi – wszystko w jednym ujęciu nakręconym w Tokio. Klip zapowiada też 35-minutowy film towarzyszący „No Bad Memories”.",
+      "embed": {
+        "p": "yt",
+        "id": "EpNSk8qu_Vo"
+      },
+      "img": "https://images.slatecdn.net/bwQdkJL-7Zvsnexg7fuGfcY5sjrGhkSppZCyU5jUpgA/rs:fill:1200:630:1/q:80/aHR0cHM6Ly9zMy11/cy13ZXN0LTEuYW1h/em9uYXdzLmNvbS9t/ZWRpYS11cy13ZXN0/c2xhdGVhcHBjb20v/c2hvdHNtYWcvcHJv/ZHVjdGlvbi9uZXdz/LzEzNzMwMjJkLWI0/ZWUtNGNmOS04YWQz/LWU4MzAzNDgyMTMy/OC9pLWdpdmUtZXZl/cnl0aGluZy1pLWhh/dmUtMi11LWNyb3Bw/ZWQuanBn?v=1&quality=70&format=jpeg",
+      "src": "https://shots.net/news/view/haley-joel-osment-delivers-the-avalanches",
+      "srcName": "Shots"
+    },
+    {
+      "id": "2026-10-19-news-sikorski-hegseth",
+      "date": "2026-10-19",
+      "type": "news",
+      "lang": "pl",
+      "title": "Sikorski odpowiada Hegsethowi",
+      "text": "Szef Pentagonu Pete Hegseth zbagatelizował bojową rolę sojuszników USA w Afganistanie, co wywołało oburzenie w Polsce. Radosław Sikorski przypomniał mu o 44 polskich żołnierzach poległych w prowincji Ghazni, a szef KPRM Jan Grabiec stwierdził, że należą się przeprosiny.",
+      "src": "https://www.rmf24.pl/fakty/swiat/news-sikorski-zwrocil-sie-do-sekretarza-wojny-usa-powiedz-to-rodz,nIdn,1022404",
+      "srcName": "RMF24"
+    },
+    {
+      "id": "2026-10-19-wm-02",
+      "date": "2026-10-19",
+      "type": "photo",
+      "title": "San Francisco, róg Jackson Street",
+      "by": "Arnold Genthe, ok. 1900",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gambling_hall,_Jackson_Street_corner,_Chinatown,_San_Francisco_LOC_agc.7a08913.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Gambling_hall,_Jackson_Street_corner,_Chinatown,_San_Francisco_LOC_agc.7a08913.jpg",
+      "srcName": "Wikimedia Commons",
+      "text": "Przed wejściem do domu gry w starym Chinatown, jeszcze sprzed trzęsienia ziemi z 1906 roku."
+    },
+    {
+      "id": "2026-10-19-art-wildlife-photographer-2026",
+      "date": "2026-10-19",
+      "type": "article",
+      "lang": "en",
+      "title": "An elephant carrying her dead calf wins Wildlife Photographer of the Year",
+      "text": "Federico Veronesi took the 2026 title with a black-and-white shot from Namibia's Huab River Valley, after following strange drag marks to a mother elephant holding her calf's body. Researchers still argue over whether such behaviour amounts to grief.",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/wpy-4.jpg",
+      "src": "https://www.thisiscolossal.com/2026/10/wildlife-photographer-of-the-year-2026-winners/",
+      "srcName": "Colossal"
+    },
+    {
+      "id": "2026-10-19-rolling-stones-mr-charm",
+      "date": "2026-10-19",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "The Rolling Stones – „Mr Charm”",
+      "by": "reż. Henry Scholfield (Academy)",
+      "text": "Alexander Skarsgård jako tytułowy Mr Charm wkracza do wystylizowanego pustynnego świata nakręconego w Lancaster w Kalifornii. To trzecia współpraca Academy ze Stonesami – po klipach z Anyą Taylor-Joy i Charlesem Meltonem.",
+      "embed": {
+        "p": "yt",
+        "id": "3e5LxvRZjVw"
+      },
+      "dur": 310,
+      "img": "https://images.slatecdn.net/PGYs_-tzy0Yp0ZqzuJFBqfYnyhHgNWtrOkKIBocjgZg/rs:fill:1200:630:1/q:80/aHR0cHM6Ly9zMy11cy13ZXN0LTEuYW1hem9uYXdzLmNvbS9tZWRpYS11cy13ZXN0c2xhdGVhcHBjb20vc2hvdHNtYWcvcHJvZHVjdGlvbi9uZXdzLzQyOTlmZTU3LTI4ZWQtNDNhZi04MzI2LTJkOTBjYTYwOWU5MC9tci1jaGFybS1jcm9wcGVkLmpwZw?v=1&quality=70&format=jpeg",
+      "src": "https://shots.net/news/view/henry-scholfield-charms-the-rolling-stones",
+      "srcName": "Shots"
+    },
+    {
+      "id": "2026-10-19-news-zelenski-starlink-wywiad",
+      "date": "2026-10-19",
+      "type": "news",
+      "lang": "pl",
+      "title": "Zełenski: to Waszyngton ograniczył Starlinka",
+      "text": "Prezydent Ukrainy powiedział w NBC, że za ograniczeniami Starlinka stoi amerykański rząd, a USA na pewien czas wstrzymały też przekazywanie danych wywiadowczych o rosyjskich rakietach, które już wznowiono. Zełenski rozmawiał z wysłannikami Trumpa o kolejnym spotkaniu pokojowym, możliwym nawet w przyszłym tygodniu.",
+      "src": "https://www.rp.pl/konflikty-zbrojne/art45353541-zelenski-oskarza-administracje-trumpa-o-zaklocenia-starlinka-sygnal-wyszedl-od-rzadu",
+      "srcName": "Rzeczpospolita"
+    },
+    {
+      "id": "2026-10-19-wm-03",
+      "date": "2026-10-19",
+      "type": "photo",
+      "title": "Luizjana, bezrobotny traper",
+      "by": "Ben Shahn, 1935",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9d/UnemployedTrapperPlaqueminesShahn.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:UnemployedTrapperPlaqueminesShahn.jpg",
+      "srcName": "Wikimedia Commons",
+      "text": "Malarz z aparatem w ręku notuje twarz kryzysu w delcie Missisipi."
+    },
+    {
+      "id": "2026-10-19-gurriers-waiting-for-fisher",
+      "date": "2026-10-19",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Gurriers – „Waiting For Fisher”",
+      "by": "reż. Thomas James",
+      "text": "Po montażu udającym telewizję kablową i telezakupy Anna Clifford wciela się w zabójczynię polującą na kiepskich stand-uperów. Inspirowana Markiem Fisherem satyra na kulturę bezlitosnej rywalizacji.",
+      "embed": {
+        "p": "yt",
+        "id": "XbXowMR52eg"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Gurriers%20%27Waiting%20For%20Fisher%27%20by%20Thomas%20James2.png?itok=Gt2T9Edr",
+      "src": "https://www.promonews.tv/videos/2026/10/06/gurriers-waiting-fisher-thomas-james/96554",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-19-news-sejm-tydzien",
+      "date": "2026-10-19",
+      "type": "news",
+      "lang": "pl",
+      "title": "Gorący tydzień w Sejmie",
+      "text": "Na posiedzeniu 20-23 października posłowie zajmą się m.in. limitami wynagrodzeń medyków, dwoma projektami dotyczącymi aborcji i zdrowotną częścią budżetu na 2027 rok. PiS złożyło też wniosek o wotum nieufności wobec ministra finansów Andrzeja Domańskiego.",
+      "src": "https://www.rynekzdrowia.pl/Prawo/Wynagrodzenia-medykow-budzet-na-zdrowie-odwolanie-ministra-Gorace-dni-w-Sejmie,290081,2.html",
+      "srcName": "Rynek Zdrowia"
+    },
+    {
+      "id": "2026-10-19-wm-04",
+      "date": "2026-10-19",
+      "type": "photo",
+      "title": "Nowy Jork, McSorley's Ale House",
+      "by": "Berenice Abbott, 1937",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/McSorley%27s_Ale_House,_15_East_7th_Street,_Manhattan_(NYPL_b13668355-482590).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:McSorley%27s_Ale_House,_15_East_7th_Street,_Manhattan_(NYPL_b13668355-482590).jpg",
+      "srcName": "Wikimedia Commons",
+      "text": "Wnętrze najstarszego irlandzkiego pubu Manhattanu, w którym czas jakby się zatrzymał."
+    },
+    {
+      "id": "2026-10-19-art-pelechian-nyff",
+      "date": "2026-10-19",
+      "type": "article",
+      "lang": "en",
+      "title": "Artavazd Pelechian's cinema of distant montage",
+      "text": "Eight restored films by the Armenian director screened at this year's New York Film Festival, showing how he builds meaning from echoes between distant shots rather than from story. The review treats the retrospective as a chance to rediscover a quiet giant of documentary form.",
+      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/10/We_NYFF64_01.png",
+      "src": "https://hyperallergic.com/artavazd-pelechians-distant-connections/",
+      "srcName": "Hyperallergic"
+    },
+    {
+      "id": "2026-10-19-beastie-boys-sabotage",
+      "date": "2026-10-19",
+      "type": "video",
+      "kind": "Teledysk · klasyka",
+      "title": "Beastie Boys – „Sabotage”",
+      "by": "reż. Spike Jonze",
+      "text": "Spike Jonze zrobił z zespołu ekipę gliniarzy z czołówki wymyślonego serialu, parodiując kryminały lat 70. w stylu „Hawaii Five-O” i „Starsky’ego i Hutcha” – peruki, wąsy i pościgi kręcone niemal partyzancko. W 1994 r. klip zdobył pięć nominacji do MTV VMA, a dziś uchodzi za jeden z najczęściej cytowanych teledysków w historii.",
+      "embed": {
+        "p": "yt",
+        "id": "z5rRZdiu1UE"
+      },
+      "img": "https://i.ytimg.com/vi/z5rRZdiu1UE/hqdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/Sabotage_(Beastie_Boys_song)",
+      "srcName": "Wikipedia"
+    },
+    {
+      "id": "2026-10-19-news-litwa-alarm-dron",
+      "date": "2026-10-19",
+      "type": "news",
+      "lang": "pl",
+      "title": "Alarm powietrzny na Litwie i Łotwie",
+      "text": "W niedzielę rano Litwa ogłosiła czerwony alarm w trzech okręgach, wstrzymano loty w Kownie i Szawlach, a nad północą kraju eksplodował niezidentyfikowany obiekt, prawdopodobnie dron. Wilno zaproponowało Polsce wspólne śledztwo, choć według nieoficjalnych informacji z MON obiekt nie przeleciał przez polską przestrzeń.",
+      "src": "https://polsatnews.pl/wiadomosc/2026-10-18/alert-na-litwie-i-lotwie-czerwone-ostrzezenia-nakaz-udania-sie-do-schronu",
+      "srcName": "Polsat News"
+    },
+    {
+      "id": "2026-10-19-wm-05",
+      "date": "2026-10-19",
+      "type": "photo",
+      "title": "Paryż, kiosk na bulwarze",
+      "by": "Charles Marville, ok. 1866–70",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Charles_Marville,_Promenades_de_Paris_-_Kiosques_2,_ca._1866%E2%80%9370.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Charles_Marville,_Promenades_de_Paris_-_Kiosques_2,_ca._1866%E2%80%9370.jpg",
+      "srcName": "Wikimedia Commons",
+      "text": "Nowe miejskie meble Haussmanna: kiosk ustawiony przy świeżo wytyczonym bulwarze."
+    },
+    {
+      "id": "2026-10-19-gap-denim-on-your-own",
+      "date": "2026-10-19",
+      "type": "video",
+      "kind": "Film modowy",
+      "title": "Gap – „Denim On Your Own”",
+      "by": "reż. Tanu Muiño (Invisible Productions)",
+      "text": "Malcolm Todd i Inde Navarrette tańczą na białym tle do przerobionego „Dancing On My Own” Robyn. Zamiast wielkiej choreografii z poprzednich kampanii Gapa – luźny, indywidualny ruch i dżins jako sposób wyrażenia siebie.",
+      "embed": {
+        "p": "yt",
+        "id": "6eQ6NWuFaCk"
+      },
+      "dur": 109,
+      "img": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-08/Gap-Denim-On-Your-Own.w1y0VJoA.png",
+      "src": "https://lbbonline.com/news/Gap-Denim-on-Your-Own-Malcolm-Todd-Inde-Navarrette",
+      "srcName": "LBB Online"
+    },
+    {
+      "id": "2026-10-19-news-lublin-obiekt",
+      "date": "2026-10-19",
+      "type": "news",
+      "lang": "pl",
+      "title": "Poszukiwania obiektu pod Lublinem",
+      "text": "Po nocnych zgłoszeniach mieszkańców o głośnym latającym obiekcie wojsko, policja i żandarmeria przeszukiwały okolice na południe od Lublina, ale niczego nie znaleziono. Dowództwo Operacyjne nie potwierdziło naruszenia przestrzeni powietrznej i dopuszcza, że sygnał radarowy wywołały zjawiska pogodowe.",
+      "src": "https://polsatnews.pl/wiadomosc/2026-10-18/niezidentyfikowany-obiekt-mogl-naruszyc-polska-przestrzen-powietrzna-komunikat-wojska",
+      "srcName": "Polsat News"
+    },
+    {
+      "id": "2026-10-19-wm-06",
+      "date": "2026-10-19",
+      "type": "photo",
+      "title": "Waszyngton, „American Gothic”",
+      "by": "Gordon Parks, 1942",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gordon_Parks_-_American_Gothic.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Gordon_Parks_-_American_Gothic.jpg",
+      "srcName": "Wikimedia Commons",
+      "text": "Sprzątaczka Ella Watson z mopem i miotłą na tle amerykańskiej flagi."
+    },
+    {
+      "id": "2026-10-19-art-asics-karimoku-sofa",
+      "date": "2026-10-19",
+      "type": "article",
+      "lang": "en",
+      "title": "Old ASICS trainers become sofa cushioning",
+      "text": "Karimoku New Standard now sells worldwide a sofa and lounge chair padded with foam recovered from unused ASICS shoes. The idea started as seating for the sportswear brand's Tokyo office.",
+      "img": "https://static.dezeen.com/uploads/2026/10/kns-x-asics-furniture-karimoku_dezeen_2364_col_sq.jpg",
+      "src": "https://www.dezeen.com/2026/10/18/karimoku-new-standard-asics-furniture-crushed-trainers/",
+      "srcName": "Dezeen"
+    },
+    {
+      "id": "2026-10-19-laurel-crying-on-the-tennis-court",
+      "date": "2026-10-19",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Laurel – „Crying On The Tennis Court”",
+      "by": "reż. Abigail Wilson (Park Pictures)",
+      "text": "Nostalgiczna opowieść o pierwszej miłości i przyjaźni w brytyjskiej szkole z internatem, gdzie „uczniów” grają ewidentnie dorośli. Taśma VHS miesza się z cyfrą, a szczere emocje Laurel z absurdem dziejącym się wokół.",
+      "embed": {
+        "p": "yt",
+        "id": "BYdJbuuznM0"
+      },
+      "dur": 277,
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/webform/Laurel%20MV%20image.png?itok=xjibKN7I",
+      "src": "https://www.promonews.tv/videos/2026/09/24/laurel-crying-tennis-court-abigail-wilson/96382",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-19-news-trump-netanjahu",
+      "date": "2026-10-19",
+      "type": "news",
+      "lang": "pl",
+      "title": "Trump popiera Netanjahu przed wyborami",
+      "text": "Na tydzień przed wyborami w Izraelu, zaplanowanymi na 27 października, Donald Trump otwarcie poparł Benjamina Netanjahu, argumentując to zagrożeniem ze strony Iranu. Sondaże dają minimalne prowadzenie centrowej partii Gadiego Eisenkota przed Likudem.",
+      "src": "https://www.rp.pl/polityka/art45353601-trump-poparl-netanjahu-wskazal-na-zagrozenie-ze-strony-iranu",
+      "srcName": "Rzeczpospolita"
+    },
+    {
+      "id": "2026-10-19-wm-07",
+      "date": "2026-10-19",
+      "type": "photo",
+      "title": "Londyn, plakatowy „wall worker”",
+      "by": "John Thomson, 1877",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Wall_Worker,_1877,_by_John_Thomson_and_Adolphe_Smith.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:The_Wall_Worker,_1877,_by_John_Thomson_and_Adolphe_Smith.jpg",
+      "srcName": "Wikimedia Commons",
+      "text": "Uliczny zarobkowicz, który żył z oklejania londyńskich murów reklamami."
+    },
+    {
+      "id": "2026-10-19-kendrick-lamar-not-like-us",
+      "date": "2026-10-19",
+      "type": "video",
+      "kind": "Teledysk · nagroda",
+      "title": "Kendrick Lamar – „Not Like Us”",
+      "by": "reż. Dave Free i Kendrick Lamar",
+      "text": "Grammy 2025 za najlepszy teledysk (67. gala) – wygrana z klipami A$AP Rocky’ego, Charli XCX, Eminema i Taylor Swift. Nakręcony w Compton wideo-hymn to zarazem uliczna impreza całej społeczności i finał głośnego beefu z Drakiem.",
+      "embed": {
+        "p": "yt",
+        "id": "H58vbez_m4E"
+      },
+      "img": "https://i.ytimg.com/vi/H58vbez_m4E/hqdefault.jpg",
+      "src": "https://www.promonews.tv/news/2025/02/03/2025-grammys-kendrick-lamars-not-us-wins-best-music-video/89914",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-19-news-tusk-migracja",
+      "date": "2026-10-19",
+      "type": "news",
+      "lang": "pl",
+      "title": "Tusk po szczycie UE o migracji",
+      "text": "Premier po powrocie z Brukseli zapowiedział, że Polska nie powtórzy migracyjnych błędów innych państw i będzie bezwzględna w sprawach bezpieczeństwa. Podczas szczytu Polska wraz z Czechami, Słowacją i Węgrami domagała się też zmian w unijnym systemie ETS i przesunięcia ETS2.",
+      "src": "https://www.rp.pl/polityka/art45353001-donald-tusk-po-szczycie-ue-polska-nie-powtorzy-bledow-innych-panstw-ws-migracji",
+      "srcName": "Rzeczpospolita"
+    },
+    {
+      "id": "2026-10-19-wm-08",
+      "date": "2026-10-19",
+      "type": "photo",
+      "title": "Teksas, dzieci przed wiejską szkołą",
+      "by": "John Vachon, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/06/Rural_school_children,_San_Augustine_County,_Texas_(LOC_fsac.1a35425).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Rural_school_children,_San_Augustine_County,_Texas_(LOC_fsac.1a35425).jpg",
+      "srcName": "Wikimedia Commons",
+      "text": "Rzadki kolorowy kadr z archiwum FSA/OWI: uczniowie z hrabstwa San Augustine."
+    },
+    {
+      "id": "2026-10-19-art-hohle-fels-ice-age-birds",
+      "date": "2026-10-19",
+      "type": "article",
+      "lang": "en",
+      "title": "Tiny ivory birds from an Ice Age cave",
+      "text": "Archaeologist Nicholas Conard walks through Hohle Fels in southern Germany, where finds up to 43,000 years old include two miniature ivory birds. He argues that such symbolic culture may have given our species an edge over Neanderthals.",
+      "img": "https://images.aeonmedia.co/images/9f1a0738-66cb-49a0-b67f-285630b0eac7/the-secrets-of-hohle-fels-cave-landscape-1.jpg?width=1200&quality=75&format=jpeg",
+      "src": "https://aeon.co/videos/hohle-fels-cave-illuminates-the-rich-symbolic-world-of-ice-age-humans",
+      "srcName": "Aeon"
+    },
+    {
+      "id": "2026-10-19-clean-bandit-company",
+      "date": "2026-10-19",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Clean Bandit x Chlöe x Omah Lay – „Company”",
+      "by": "reż. Jack Patterson",
+      "text": "Gładki, dopracowany klip performance'owy w surowej industrialnej przestrzeni. Obok artystów występują tancerze w choreografii Maggz, dyrektorki kreatywnej Clean Bandit.",
+      "embed": {
+        "p": "yt",
+        "id": "SddTkFVfw1k"
+      },
+      "dur": 179,
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/webform/Screenshot%202026-10-02%20at%2017.52.23.png?itok=2T6L_HI1",
+      "src": "https://www.promonews.tv/videos/2026/10/07/clean-bandit-ft-chl%C3%B6e-bailey-omah-lay-company-jack-patterson/96568",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-19-news-kanada-pozar-baza",
+      "date": "2026-10-19",
+      "type": "news",
+      "lang": "pl",
+      "title": "Tragiczny pożar w bazie wojskowej w Kanadzie",
+      "text": "W pożarze, który wybuchł podczas ćwiczeń w bazie Wainwright w Albercie, zginęło czterech żołnierzy, a dziesiątki osób trafiły do szpitali. Według resortu obrony nic nie wskazuje na zamach, a przyczyny bada wojsko.",
+      "src": "https://www.rp.pl/wypadki/art45352581-pozar-w-kanadyjskiej-bazie-wojskowej-premier-potwierdzil-smierc-czterech-zolnierzy",
+      "srcName": "Rzeczpospolita"
+    },
+    {
+      "id": "2026-10-19-wm-09",
+      "date": "2026-10-19",
+      "type": "photo",
+      "title": "Woodstock, zebranie mieszkańców",
+      "by": "Marion Post Wolcott, 1940",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/58/Townspeople_at_town_meeting._Woodstock,_Vermont,_by_Marion_Post_Wolcott,_United_States_Office_of_War_Information,_March_1940,_from_the_Library_of_Congress_-_service-pnp-fsa-8c11000-8c11600-8c11632v.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Townspeople_at_town_meeting._Woodstock,_Vermont,_by_Marion_Post_Wolcott,_United_States_Office_of_War_Information,_March_1940,_from_the_Library_of_Congress_-_service-pnp-fsa-8c11000-8c11600-8c11632v.jpg",
+      "srcName": "Wikimedia Commons",
+      "text": "Doroczne zebranie miasteczka w Vermont, czyli demokracja bezpośrednia w praktyce."
+    },
+    {
+      "id": "2026-10-19-diiv-trillions",
+      "date": "2026-10-19",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "DIIV – „Trillions”",
+      "by": "reż. Jaxon Whittington",
+      "text": "Najbardziej popowy singiel DIIV dostał bombastyczny klip pełen rezydencji, stosów gotówki i szybkich aut. Przerysowana fantazja o bogactwie jako ironiczny komentarz do późnego kapitalizmu.",
+      "embed": {
+        "p": "yt",
+        "id": "6Fb97C_dv0A"
+      },
+      "img": "https://undertheradarmag.com/uploads/article_images/DIIV_Share_Video_for_New_Song_Trillions.jpg",
+      "src": "https://www.undertheradarmag.com/news/diiv_share_video_for_new_song_trillions",
+      "srcName": "Under the Radar"
+    },
+    {
+      "id": "2026-10-19-news-chinska-rakieta",
+      "date": "2026-10-19",
+      "type": "news",
+      "lang": "pl",
+      "title": "Człon chińskiej rakiety nad Polską",
+      "text": "W niedzielę rano nad Polską przeleciał ważący ok. 5 ton górny stopień chińskiej rakiety ZQ-2E, który kamery sieci Skytinel śledziły od Bielska-Białej po wybrzeże Szwecji. Polska Agencja Kosmiczna potwierdziła, że przelot przebiegł zgodnie z prognozami i nie groził upadkiem na terytorium kraju.",
+      "src": "https://www.rmf24.pl/fakty/polska/news-czlon-chinskiej-rakiety-przelecial-nad-polska-nasze-kamery-g,nIdn,1022390",
+      "srcName": "RMF24"
+    },
+    {
+      "id": "2026-10-19-wm-10",
+      "date": "2026-10-19",
+      "type": "photo",
+      "title": "Waszyngton, lekcja z wiatraczkami",
+      "by": "Frances Benjamin Johnston, ok. 1899",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Children_in_a_classroom_blowing_pinwheels_in_a_Washington,_D.C.,_grade_school_LCCN2001703714.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Children_in_a_classroom_blowing_pinwheels_in_a_Washington,_D.C.,_grade_school_LCCN2001703714.jpg",
+      "srcName": "Wikimedia Commons",
+      "text": "Uczniowie dmuchają w papierowe wiatraczki podczas lekcji w szkole podstawowej."
+    },
+    {
+      "id": "2026-10-19-art-cannupa-hanska-luger",
+      "date": "2026-10-19",
+      "type": "article",
+      "lang": "en",
+      "title": "Cannupa Hanska Luger's bison on a blackened table",
+      "text": "In his SoHo show at Garth Greenan Gallery, Luger combines wood, ink and archival material to link the near-extinction of the bison with violence against the Plains nations. Critic Hrag Vartanian calls it his strongest body of work yet.",
+      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/10/DSC02975-1.jpeg",
+      "src": "https://hyperallergic.com/cannupa-hanska-lugers-truth-about-america/",
+      "srcName": "Hyperallergic"
+    },
+    {
+      "id": "2026-10-19-lona-konieczny-krupa-bym-poszedl",
+      "date": "2026-10-19",
+      "type": "video",
+      "kind": "Teledysk · nagroda",
+      "title": "Łona x Konieczny x Krupa – „Bym poszedł”",
+      "by": "reż. Krzysztof Kiziewicz",
+      "text": "Fryderyk 2024 w kategorii Teledysk Roku – klip pokonał m.in. „mori” Dawida Podsiadły i „FIFI HOLLYWOOD” Darii Zawiałow. Kiziewicz odpowiada tu nie tylko za reżyserię, ale też za scenariusz i zdjęcia do tego numeru z płyty „Taxi”.",
+      "embed": {
+        "p": "yt",
+        "id": "uMyVqU7KNN0"
+      },
+      "dur": 251,
+      "img": "https://i.ytimg.com/vi/uMyVqU7KNN0/hqdefault.jpg",
+      "src": "https://www.wroclaw.pl/kultura/fryderyki-2024-lista-zwyciezcow-kto-wygral-wyniki-lech-janerka-mrozu",
+      "srcName": "wroclaw.pl"
+    },
+    {
+      "id": "2026-10-19-wm-11",
+      "date": "2026-10-19",
+      "type": "photo",
+      "title": "Poranek, postać w bieli",
+      "by": "Clarence H. White, 1905",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Clarence_Hudson_White_-_Morning_-_Google_Art_Project.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Clarence_Hudson_White_-_Morning_-_Google_Art_Project.jpg",
+      "srcName": "Wikimedia Commons",
+      "text": "Piktorialistyczny poranek: miękkie światło, postać w bieli i niemal malarski nastrój."
+    },
+    {
+      "id": "2026-10-19-miu-miu-fw26",
+      "date": "2026-10-19",
+      "type": "video",
+      "kind": "Film modowy",
+      "title": "Miu Miu – kampania jesień/zima 2026",
+      "by": "reż. Renell Medrano",
+      "text": "Hailey Bieber i Xiao Wen Ju o północy, na tle oświetlonych industrialnych dekoracji, w niebiesko-żółtej, sennej poświacie. Minutowy film, w którym siła bierze się z bezruchu i spojrzenia prosto w obiektyw.",
+      "embed": {
+        "p": "yt",
+        "id": "APKToc2iKds"
+      },
+      "dur": 60,
+      "img": "https://assets.metalmagazine.eu/derived/8923814f-71ab-4b34-8bf4-bb491acebe60.webp/metal-miu-miu-f-w-2026-08-og.jpg",
+      "src": "https://metalmagazine.eu/en/post/miu-miu-fw-2026-1",
+      "srcName": "METAL Magazine"
+    },
+    {
+      "id": "2026-10-19-wm-12",
+      "date": "2026-10-19",
+      "type": "photo",
+      "title": "Berlin, chłopcy na podwórku",
+      "by": "Heinrich Zille, ok. 1900",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/41/Zille,_Heinrich_-_Kinder_und_Kinderspielpl%C3%A4tze,_acht_Jungen_%C3%BCben_Handstand_(Zeno_Fotografie).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Zille,_Heinrich_-_Kinder_und_Kinderspielpl%C3%A4tze,_acht_Jungen_%C3%BCben_Handstand_(Zeno_Fotografie).jpg",
+      "srcName": "Wikimedia Commons",
+      "text": "Ośmiu berlińskich chłopców ćwiczy stanie na rękach pod ścianą kamienicy."
+    },
+    {
+      "id": "2026-10-19-art-roza-schleinzer",
+      "date": "2026-10-19",
+      "type": "article",
+      "lang": "pl",
+      "title": "„Róża” – kobieta, która po wojnie żyje jako mężczyzna",
+      "text": "Film Markusa Schleinzera opowiada o kobiecie z XVII wieku, która po wojnie trzydziestoletniej przyjmuje męską tożsamość. Agnieszka Jakimiak widzi w nim szczery i wolny od prostych etykiet traktat o prawie do decydowania o sobie.",
+      "src": "https://www.dwutygodnik.com/artykul/12716-sama-sobie-panem.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "id": "2026-10-19-art-dwurnik-msn",
+      "date": "2026-10-19",
+      "type": "article",
+      "lang": "pl",
+      "title": "Dwurnik w MSN: duma, wstyd i awans społeczny",
+      "text": "Monika Borys docenia, że wystawa w Muzeum Sztuki Nowoczesnej czyta Dwurnika przez napięcie między dumą a wstydem awansu klasowego. Brakuje jej jednak pytań o dzisiejszą klasę średnią i komercyjny okres malarza w latach 90.",
+      "img": "https://magazynszum.pl/wp-content/uploads/2026/10/msn-ed-100826-089-1440x1080.jpg",
+      "src": "https://magazynszum.pl/klasa-srednia-patrzy-na-geby-roboli-edward-dwurnik-duma-i-wstyd-w-muzeum-sztuki-nowoczesnej-w-warszawie/",
+      "srcName": "Szum"
+    },
     {
       "id": "2026-10-18-lbb-fontaines-dc-tongue",
       "date": "2026-10-18",
