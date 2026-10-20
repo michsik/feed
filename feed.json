@@ -1,6 +1,473 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "items": [
+    {
+      "id": "2026-10-20-fontaines-dc-japan",
+      "date": "2026-10-20",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Fontaines D.C. – „Japan”",
+      "by": "reż. Luna Carmoon (ProdCo)",
+      "text": "Autorka „Hoard” nakręciła dla zespołu mroczny trójkąt miłosny: Rosa i Kaspar (Charlie Heaton) wdają się w potajemny romans, a zaborczy mąż doprowadza historię do brutalnego finału.",
+      "embed": {
+        "p": "yt",
+        "id": "GPNbnromGgk"
+      },
+      "img": "https://images.slatecdn.net/yNLtkcZgQE1VSpPVYEAPRrb_9FSYrdECfj217NJzWi4/rs:fill:1200:630:1/q:80/aHR0cHM6Ly9zMy11cy13ZXN0LTEuYW1hem9uYXdzLmNvbS9tZWRpYS11cy13ZXN0c2xhdGVhcHBjb20vc2hvdHNtYWcvcHJvZHVjdGlvbi9uZXdzLzE2ZDQwMmZjLWViMTAtNDc0OS05MDk4LWEwYTYzMWRmODNlZS9qYXBhbi1jcm9wZWQuanBn?v=1&quality=70&format=jpeg",
+      "src": "https://shots.net/news/view/luna-carmoon-heads-to-japan-with-fontaines-dc",
+      "srcName": "Shots"
+    },
+    {
+      "id": "2026-10-20-news-szczyt-xi-trump-putin",
+      "date": "2026-10-20",
+      "type": "news",
+      "lang": "pl",
+      "title": "Czarzasty: szczyt o Ukrainie bez Ukrainy to skandal",
+      "text": "Marszałek Sejmu ostro skrytykował pomysł spotkania Xi, Trumpa i Putina w sprawie przyszłości Ukrainy, o którym napisał „Wall Street Journal”; Kreml potwierdza rozmowy o szczycie przy okazji APEC w Shenzhen 18–19 listopada. Czarzasty wezwał prezydenta Nawrockiego do zajęcia stanowiska.",
+      "src": "https://www.rmf24.pl/fakty/polityka/news-druga-jalta-marszalek-czarzasty-robienie-spotkania-w-tym-gro,nIdn,1022633",
+      "srcName": "RMF24"
+    },
+    {
+      "id": "2026-10-20-wm-01",
+      "date": "2026-10-20",
+      "type": "photo",
+      "title": "Paryż, rue de la Montagne-Sainte-Geneviève",
+      "by": "Eugène Atget, 1924",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Eug%C3%A8ne_Atget,_Rue_de_la_Montagne-Sainte-Genevi%C3%A8ve,_1924.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Atget,_Rue_de_la_Montagne-Sainte-Genevi%C3%A8ve,_1924.jpg",
+      "srcName": "Wikimedia Commons",
+      "text": "Brukowana, stroma uliczka Dzielnicy Łacińskiej z dawnymi kamienicami, utrwalona przez Atgeta jako znikający obraz starego Paryża."
+    },
+    {
+      "id": "2026-10-20-zara-larsson-blue-moon",
+      "date": "2026-10-20",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Zara Larsson – „Blue Moon”",
+      "by": "reż. Charlotte Rutherford (Someday Studio)",
+      "text": "Larsson świeci w ciemności na parkingu motelu, dworcu autobusowym i billboardzie, po drodze zmieniając się we wróżkę i syrenę wyrzuconą na ląd. Brokatowe dopowiedzenie świata albumu „Midnight Sun”.",
+      "embed": {
+        "p": "yt",
+        "id": "LB72Mbd88mU"
+      },
+      "img": "https://imgix.bustle.com/uploads/image/2026/10/15/8273dbfb/photo-collagepng-7.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.5&fp-y=0.3854",
+      "src": "https://www.nylon.com/entertainment/charlotte-rutherford-zara-larsson-blue-moon-music-video",
+      "srcName": "Nylon"
+    },
+    {
+      "id": "2026-10-20-news-drony-przy-granicy",
+      "date": "2026-10-20",
+      "type": "news",
+      "lang": "pl",
+      "title": "Rosyjskie drony 15 km od polskiej granicy",
+      "text": "Nad ranem co najmniej pięć rosyjskich dronów odrzutowych leciało wzdłuż granicy, zanim skręciło na Lwów i Łuck; dwa trafiły w obiekt energetyczny pod Lwowem. RCB ogłosiło alert dla Lubelszczyzny, wojsko zapewnia, że polska przestrzeń nie została naruszona.",
+      "src": "https://www.rmf24.pl/fakty/polska/news-co-najmniej-5-rosyjskich-dronow-15-km-od-polskiej-granicy-to,nIdn,1022599",
+      "srcName": "RMF24"
+    },
+    {
+      "id": "2026-10-20-wm-02",
+      "date": "2026-10-20",
+      "type": "photo",
+      "title": "Nowy Jork, Manhattan z wody",
+      "by": "Alfred Stieglitz, 1910",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/27/The_City_of_Ambitions_MET_DP232975.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:The_City_of_Ambitions_MET_DP232975.jpg",
+      "srcName": "Wikimedia Commons",
+      "text": "Dolny Manhattan wyrasta zza nabrzeża i dymiących statków jak ściana wież, symbol miasta pędzącego w górę."
+    },
+    {
+      "id": "2026-10-20-wm-11",
+      "date": "2026-10-20",
+      "type": "photo",
+      "title": "Nowy Jork, zaułek Mullen's Alley",
+      "by": "Jacob Riis, ok. 1888",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Mullen%27s_Alley,_New_York,_by_Jacob_Riis.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Mullen%27s_Alley,_New_York,_by_Jacob_Riis.jpg",
+      "srcName": "Wikimedia Commons",
+      "text": "Wąski, zaśmiecony przesmyk między kamienicami Cherry Hill, w którym stoją dzieci i dorośli, pokazuje nędzę dzielnicy czynszówek."
+    },
+    {
+      "id": "2026-10-20-art-pneuhaus-camera-obscura",
+      "date": "2026-10-20",
+      "type": "article",
+      "lang": "en",
+      "title": "An inflatable room made of 221 camera obscuras",
+      "text": "Pneuhaus has built a walk-in inflatable that uses 221 tiny lenses and nothing but sunlight to project the sky and surroundings onto its curved inner walls. It records nothing at all, and is meant as a gentle counterpoint to surveillance that asks visitors to simply look more closely.",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/pneuhaus-7.jpg",
+      "src": "https://www.thisiscolossal.com/2026/10/pneuhaus-compound-camera-3-inflatable-installation/",
+      "srcName": "Colossal"
+    },
+    {
+      "id": "2026-10-20-michael-kiwanuka-summer-clothes",
+      "date": "2026-10-20",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Michael Kiwanuka – „Summer Clothes”",
+      "by": "reż. YOUT",
+      "text": "Chłopiec w garniturze, rodzina i igła z nitką: klip inspirowany krawcami z Southampton śledzi pierwsze krawieckie próby dziecka. Cicha pochwała codziennej kreatywności na otwarcie nowej płyty.",
+      "embed": {
+        "p": "yt",
+        "id": "gyv7buFhdvk"
+      },
+      "img": "https://i.ytimg.com/vi/gyv7buFhdvk/hqdefault.jpg",
+      "src": "https://music.mxdwn.com/2026/10/03/news/michael-kiwanuka-shares-creative-new-single-video-summer-clothes/amp/",
+      "srcName": "mxdwn"
+    },
+    {
+      "id": "2026-10-20-news-trump-ultimatum-europa",
+      "date": "2026-10-20",
+      "type": "news",
+      "lang": "pl",
+      "title": "Trump grozi, że USA „odejdą” od Europy",
+      "text": "Na wiecu w Kansas prezydent USA stwierdził, że Ameryka może się wycofać, jeśli Europa szybko nie zmieni kursu, i wezwał do zamknięcia granic. Wytknął też sojusznikom brak wsparcia w konflikcie z Iranem.",
+      "src": "https://www.rmf24.pl/fakty/swiat/news-donald-trump-stawia-ultimatum-europie-odejdziemy-jesli-nie-z,nIdn,1022589",
+      "srcName": "RMF24"
+    },
+    {
+      "id": "2026-10-20-wm-03",
+      "date": "2026-10-20",
+      "type": "photo",
+      "title": "Augusta, mała prządka w przędzalni",
+      "by": "Lewis Hine, 1909",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/5f/No_Known_Restrictions_A_little_spinner_in_Globe_Cotton_Mill._Augusta,_Ga.,_by_Lewis_W._Hine,_1909_(LOC).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:No_Known_Restrictions_A_little_spinner_in_Globe_Cotton_Mill._Augusta,_Ga.,_by_Lewis_W._Hine,_1909_(LOC).jpg",
+      "srcName": "Wikimedia Commons",
+      "text": "Drobna dziewczynka stoi przy długim rzędzie wrzecion w hali fabrycznej, dokumentując skalę pracy dzieci w amerykańskich przędzalniach."
+    },
+    {
+      "id": "2026-10-20-andy-cant-wait",
+      "date": "2026-10-20",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "ANDY – „can't wait”",
+      "by": "reż. Harry Welsh (DIVISION)",
+      "text": "Australijski futbol jako scena dorastania: od boiska do szatni fizyczny kontakt młodego ANDY'ego z kolegami z drużyny staje się coraz bardziej intymny. Pot, czułość, humor i odrobina fantazji.",
+      "embed": {
+        "p": "yt",
+        "id": "2ZCumy6G294"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/webform/PROMONEWS_01_1.jpg?itok=VHyA4Dym",
+      "src": "https://www.promonews.tv/videos/2026/10/19/andy-cant-wait-harry-welsh/96665",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-20-news-francja-godzina-policyjna",
+      "date": "2026-10-20",
+      "type": "news",
+      "lang": "pl",
+      "title": "Francja wprowadza godziny policyjne",
+      "text": "Po weekendzie zamieszek na tle drożyzny Paryż, Lille, Nicea, Lyon i Marsylia ograniczyły nocne wyjścia lub zgromadzenia, a premier Lecornu nie wyklucza stanu wyjątkowego. Zatrzymano już ponad 2500 osób, zniszczonych zostało co najmniej 3000 sklepów.",
+      "src": "https://www.rp.pl/przestepczosc/art45360981-czesciowy-zakaz-protestow-w-paryzu-premier-francji-nie-wyklucza-stanu-wyjatkowego",
+      "srcName": "Rzeczpospolita"
+    },
+    {
+      "id": "2026-10-20-wm-04",
+      "date": "2026-10-20",
+      "type": "photo",
+      "title": "Nowy Jork, szwalnia przy Ludlow Street",
+      "by": "Jacob Riis, ok. 1889",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Jacob_Riis_-_A_Ludlow_Street_Sweater%27s_Shop.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Jacob_Riis_-_A_Ludlow_Street_Sweater%27s_Shop.jpg",
+      "srcName": "Wikimedia Commons",
+      "text": "Stłoczeni krawcy pracują w ciasnym mieszkaniu na Lower East Side, gdzie dom i chałupnicza szwalnia stanowiły jedno."
+    },
+    {
+      "id": "2026-10-20-wm-12",
+      "date": "2026-10-20",
+      "type": "photo",
+      "title": "Okolice Birmingham, przydrożny stragan",
+      "by": "Walker Evans, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Roadside_stand_near_Birmingham,_Alabama.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Roadside_stand_near_Birmingham,_Alabama.jpg",
+      "srcName": "Wikimedia Commons",
+      "text": "Drewniana budka z ręcznie malowanymi szyldami przy drodze w Alabamie, uchwycona z typową dla Evansa frontalną prostotą."
+    },
+    {
+      "id": "2026-10-20-art-ramses-ii-statues-nile-delta",
+      "date": "2026-10-20",
+      "type": "article",
+      "lang": "en",
+      "title": "Colossal Ramses II statues found in a Nile Delta village",
+      "text": "Excavators at Behbeit Al-Hagar recovered a crowned stone head of Ramses II, suggesting a statue over eight metres tall, plus part of a pillar bearing his Horus name. The dig began after a local resident reported an inscribed stone on his land.",
+      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/10/846410211_1527305336097674_3525688836626315606_n.jpg",
+      "src": "https://hyperallergic.com/massive-king-ramses-ii-statues-unearthed-in-egypt/",
+      "srcName": "Hyperallergic"
+    },
+    {
+      "id": "2026-10-20-tate-mcrae-housewife",
+      "date": "2026-10-20",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Tate McRae – „Housewife”",
+      "by": "reż. Pierre-Ange Carlotti",
+      "text": "Fantazja o życiu „pani domu”: jacht u wybrzeży Lazurowego Wybrzeża, taniec w salonie rezydencji i wózek dziecięcy pełen gotówki. Pełno tu mrugnięć do Britney Spears, z czapką à la „Toxic” na czele.",
+      "embed": {
+        "p": "yt",
+        "id": "DPEodkHzH-s"
+      },
+      "img": "https://imgix.bustle.com/uploads/getty/2026/10/16/b2c824ec/new-york-ny-october.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+      "src": "https://www.bustle.com/entertainment/tate-mcrae-housewife-music-video-britney-spears",
+      "srcName": "Bustle"
+    },
+    {
+      "id": "2026-10-20-news-alberta-zostaje",
+      "date": "2026-10-20",
+      "type": "news",
+      "lang": "pl",
+      "title": "Alberta zostaje w Kanadzie",
+      "text": "W pierwszym w historii referendum w sprawie separacji około 76 proc. głosujących opowiedziało się za pozostaniem prowincji w Kanadzie. Premier Carney mówi o jasnym wyborze jedności, separatyści zapowiadają dalszą walkę.",
+      "src": "https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show",
+      "srcName": "Al Jazeera"
+    },
+    {
+      "id": "2026-10-20-wm-05",
+      "date": "2026-10-20",
+      "type": "photo",
+      "title": "Okolice Vicksburga, autostopowicze",
+      "by": "Walker Evans, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Walker_Evans_Hitchhidkers_Vicksburg_(vicinity)_March_1936.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Walker_Evans_Hitchhidkers_Vicksburg_(vicinity)_March_1936.jpg",
+      "srcName": "Wikimedia Commons",
+      "text": "Dwóch wędrowców czeka przy drodze w Missisipi na podwózkę, obraz bezdomnej mobilności czasów kryzysu."
+    },
+    {
+      "id": "2026-10-20-yendry-no-me-vuelvo",
+      "date": "2026-10-20",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "YEИDRY – „No me vuelvo a enamorar”",
+      "by": "reż. Katharina Hingst (Aguita)",
+      "text": "Finał trylogii o życiu między Włochami a Dominikaną: artystka wraca do rodziny na wyspie, a babcia spina przeszłość z teraźniejszością. Szybki montaż występu, portretów i kolorowych przebitek.",
+      "embed": {
+        "p": "yt",
+        "id": "AKB5n5l2EPU"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Screenshot%202026-10-19%20at%2009.42.02.png?itok=4mdSzPTi",
+      "src": "https://www.promonews.tv/videos/2026/10/19/ye%D0%B8dry-no-me-vuelvo-enamorar-katharina-hingst/96655",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-20-news-sudan-abyei-drony",
+      "date": "2026-10-20",
+      "type": "news",
+      "lang": "pl",
+      "title": "73 zabitych w ataku dronów na targ w Abyei",
+      "text": "Drony uderzyły w targowisko w spornym regionie Abyei na granicy Sudanu i Sudanu Południowego. Lokalne władze obwiniają armię sudańską, a Dżuba wezwała ambasadora Sudanu.",
+      "src": "https://www.rmf24.pl/fakty/swiat/news-krwawy-atak-dronow-na-targowisko-w-sudanie-zginely-73-osoby,nIdn,1022626",
+      "srcName": "RMF24"
+    },
+    {
+      "id": "2026-10-20-wm-06",
+      "date": "2026-10-20",
+      "type": "photo",
+      "title": "Gordonton, wiejski sklep przy gruntowej drodze",
+      "by": "Dorothea Lange, 1939",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/03/Dorothea_Lange,_Country_store_on_dirt_road,_Gordonton,_North_Carolina,_1939.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Dorothea_Lange,_Country_store_on_dirt_road,_Gordonton,_North_Carolina,_1939.jpg",
+      "srcName": "Wikimedia Commons",
+      "text": "Prosty wiejski sklep przy nieutwardzonej drodze był w latach 30. sercem małej osady na południu USA."
+    },
+    {
+      "id": "2026-10-20-art-wisla-performans-pelczynska",
+      "date": "2026-10-20",
+      "type": "article",
+      "lang": "pl",
+      "title": "Wisła jako scena: performans Weroniki Pelczyńskiej",
+      "text": "Ada Tymińska opisuje site-specific „Wisła” z Chórem w Ruchu na lewym brzegu rzeki, wpisując go w nurt ekopoetyk i hydrofeminizmu. Docenia zaangażowanie ciał widzów, ale zauważa, że wyciszenie miejskiego hałasu czyni ten obraz rzeki zbyt sielankowym.",
+      "src": "https://www.dwutygodnik.com/artykul/12715-ciala-na-brzegu-wielkiej-rzeki.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "id": "2026-10-20-art-nik-arthur-duckweed-animation",
+      "date": "2026-10-20",
+      "type": "article",
+      "lang": "en",
+      "title": "Animating with duckweed, wool and fire",
+      "text": "Canadian animator Nik Arthur treats natural materials as collaborators, shooting analogue work frame by frame. For an A24 ident he and Emi Takahashi coaxed duckweed across Montreal swamp water and ran the footage in reverse.",
+      "img": "https://m.itsnicethat.com/original_images/nik-arthur-animation-itsnicethat-Still_1.1_-_A24_by_Nik_Arthur__Emi_Takaha.jpg?class=w1440",
+      "src": "https://www.itsnicethat.com/articles/nik-arthur-animation-discover-191026",
+      "srcName": "It's Nice That"
+    },
+    {
+      "id": "2026-10-20-forrest-nolan-make-it-to-the-end",
+      "date": "2026-10-20",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Forrest Nolan – „Make It To The End”",
+      "by": "reż. Jooystin i Lance Redeker (Sworn Friends Studios)",
+      "text": "Jeden z wyróżnionych przez IMVDb klipów tygodnia: nowy singiel Forresta Nolana w reżyserii duetu Jooystin i Lance Redeker, który sam też go zmontował.",
+      "embed": {
+        "p": "yt",
+        "id": "mHOaCgZqJ1o"
+      },
+      "img": "https://s3.amazonaws.com/images.imvdb.com/video/378526410917-forrest-nolan-make-it-to-the-end_music_video_ov.jpg?v=2",
+      "src": "https://imvdb.com/video/forrest-nolan/make-it-to-the-end",
+      "srcName": "IMVDb"
+    },
+    {
+      "id": "2026-10-20-news-nbp-nominacje",
+      "date": "2026-10-20",
+      "type": "news",
+      "lang": "pl",
+      "title": "Nawrocki znów wysyła Tuskowi nominacje do zarządu NBP",
+      "text": "Prezydent ponownie przekazał premierowi do kontrasygnaty cztery kandydatury do zarządu banku centralnego, które Tusk odesłał w maju. Bez nowych członków zarząd NBP może w listopadzie spaść poniżej ustawowego minimum.",
+      "src": "https://money.pl/gospodarka/pilna-sprawa-w-nbp-nawrocki-wykonal-ruch-teraz-kolej-tuska-7341651285628928a.html",
+      "srcName": "Money.pl / PAP"
+    },
+    {
+      "id": "2026-10-20-wm-07",
+      "date": "2026-10-20",
+      "type": "photo",
+      "title": "Nowy Jork, Manhattan z pokładu S.S. Coamo",
+      "by": "Jack Delano, 1941",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/82/Jack_Delano,_Lower_Manhattan_seen_from_the_S.S._Coamo_leaving_New_York,_1941.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Jack_Delano,_Lower_Manhattan_seen_from_the_S.S._Coamo_leaving_New_York,_1941.jpg",
+      "srcName": "Wikimedia Commons",
+      "text": "Wieżowce dolnego Manhattanu oglądane z pokładu statku wypływającego z portu w rejs do Portoryko."
+    },
+    {
+      "id": "2026-10-20-art-feynman-down-with-heaven",
+      "date": "2026-10-20",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Art Feynman – „Down With Heaven”",
+      "by": "reż. Dillon Hayes i Hayden Mason",
+      "text": "Kolejny wybór z listy najlepszych nowych klipów IMVDb: Hayden Mason był tu jednocześnie współreżyserem i operatorem, a Dillon Hayes – montażystą.",
+      "embed": {
+        "p": "yt",
+        "id": "HfdomXUgvpc"
+      },
+      "img": "https://s3.amazonaws.com/images.imvdb.com/video/197050911572-art-feynman-down-with-heaven_music_video_ov.jpg?v=2",
+      "src": "https://imvdb.com/video/art-feynman/down-with-heaven",
+      "srcName": "IMVDb"
+    },
+    {
+      "id": "2026-10-20-news-pellet-ceny",
+      "date": "2026-10-20",
+      "type": "news",
+      "lang": "pl",
+      "title": "Pellet po ponad 2000 zł za tonę",
+      "text": "Minister energii Miłosz Motyka przyznaje, że sytuacja na rynku pelletu jest trudna w całym regionie, m.in. przez zablokowany import z Białorusi i Ukrainy. Rząd chce zwiększyć krajową podaż, a autogazu nie obejmie program „Ceny Paliwa Niżej”.",
+      "src": "https://www.rmf24.pl/rozmowy/poranna-rozmowa/news-ponad-2000-zl-za-tone-pelletu-motyka-sytuacja-ponadregionaln,nIdn,1022524",
+      "srcName": "RMF24"
+    },
+    {
+      "id": "2026-10-20-wm-08",
+      "date": "2026-10-20",
+      "type": "photo",
+      "title": "Raceland, Luizjana: piwo w barze",
+      "by": "Russell Lee, 1938",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Raceland_Louisiana_Beer_Drinkers_Russell_Lee.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Raceland_Louisiana_Beer_Drinkers_Russell_Lee.jpg",
+      "srcName": "Wikimedia Commons",
+      "text": "Mężczyźni z cajuńskiego miasteczka spotykają się przy piwie w lokalnym barze, w codziennej scenie z życia Luizjany."
+    },
+    {
+      "id": "2026-10-20-art-pterodaktyl-anouk-herman",
+      "date": "2026-10-20",
+      "type": "article",
+      "lang": "pl",
+      "title": "Kryminał z czatów i Reddita: „Pterodaktyl” Anouk Herman",
+      "text": "Bohaterka powieści, Polka na emigracji w Norwegii, zaczyna badać śmierć wykładowcy, a narrację budują m.in. czaty, hasła z Wikipedii i wątki z forów. Magdalena Romanowska chwali grozę emigracyjnego doświadczenia i humor, choć gęsty początek bywa męczący.",
+      "src": "https://www.dwutygodnik.com/artykul/12721-groza-z-komputera.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "id": "2026-10-20-art-mcgirr-mcqueen-pile-on",
+      "date": "2026-10-20",
+      "type": "article",
+      "lang": "en",
+      "title": "When fashion criticism turns into a pile-on",
+      "text": "After Seán McGirr's exit from Alexander McQueen, the online mockery went far beyond critiquing his clothes. Dazed argues the industry should judge the work hard but resist cruelty toward a young designer handed an almost impossible legacy.",
+      "img": "https://images-prod.dazeddigital.com/1200/0-99-2842-1895/azure/dazed-prod/1450/7/1457806.jpg",
+      "src": "https://www.dazeddigital.com/fashion/article/71186/1/sean-mcgirr-leaves-alexander-mcqueen-online-fashion-criticism-internet-reaction",
+      "srcName": "Dazed"
+    },
+    {
+      "id": "2026-10-20-radiohead-karma-police",
+      "date": "2026-10-20",
+      "type": "video",
+      "kind": "Teledysk · klasyka",
+      "title": "Radiohead – „Karma Police”",
+      "by": "reż. Jonathan Glazer",
+      "text": "Kamera z miejsca kierowcy ściga mężczyznę nocną drogą, aż ten zapałką odwraca bieg wydarzeń – a cała historia mieści się w jednym zdaniu, tak jak chciał Glazer. Klip z 1997 r. dostał nagrodę MTV VMA za najlepszą reżyserię.",
+      "embed": {
+        "p": "yt",
+        "id": "1uYWYWPc9HU"
+      },
+      "img": "https://i.ytimg.com/vi/1uYWYWPc9HU/hqdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/Karma_Police",
+      "srcName": "Wikipedia"
+    },
+    {
+      "id": "2026-10-20-news-sondaz-ibris",
+      "date": "2026-10-20",
+      "type": "news",
+      "lang": "pl",
+      "title": "Sondaż: KO prowadzi, Polska 2050 z marginalnym poparciem",
+      "text": "W badaniu IBRiS dla Polsat News Koalicja Obywatelska ma 27,8 proc., PiS 19,1 proc., a Konfederacja 12,7 proc. Koalicyjna Polska 2050 notuje zaledwie 0,5 proc.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-10-20/koalicjant-poza-sejmem-glos-z-ko-o-nowym-sondazu/",
+      "srcName": "Polsat News"
+    },
+    {
+      "id": "2026-10-20-wm-09",
+      "date": "2026-10-20",
+      "type": "photo",
+      "title": "Badlands, wybielona czaszka wołu",
+      "by": "Arthur Rothstein, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Arthur_Rothstein_-_The_bleached_skull_of_a_steer,_South_Dakota_Badlands,_1936.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Arthur_Rothstein_-_The_bleached_skull_of_a_steer,_South_Dakota_Badlands,_1936.jpg",
+      "srcName": "Wikimedia Commons",
+      "text": "Wyschnięta czaszka zwierzęcia na spękanej ziemi stała się jednym z najbardziej znanych symboli suszy lat 30."
+    },
+    {
+      "id": "2026-10-20-johnny-cash-hurt",
+      "date": "2026-10-20",
+      "type": "video",
+      "kind": "Teledysk · nagroda",
+      "title": "Johnny Cash – „Hurt”",
+      "by": "reż. Mark Romanek",
+      "text": "Nakręcone w muzeum House of Cash pożegnanie: archiwalne kadry młodego Casha, gnijące owoce jak w martwej naturze vanitas i June Carter patrząca na męża. Grammy 2004 za najlepszy krótki teledysk i nagroda MTV VMA 2003 za zdjęcia.",
+      "embed": {
+        "p": "yt",
+        "id": "8AHCfZTRGiI"
+      },
+      "img": "https://i.ytimg.com/vi/8AHCfZTRGiI/hqdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/Hurt_(Nine_Inch_Nails_song)",
+      "srcName": "Wikipedia"
+    },
+    {
+      "id": "2026-10-20-news-gibala-krakow",
+      "date": "2026-10-20",
+      "type": "news",
+      "lang": "pl",
+      "title": "Gibała dziś obejmuje urząd prezydenta Krakowa",
+      "text": "Za czwartym podejściem Łukasz Gibała złoży wieczorem ślubowanie przed radą miasta po wygranej w drugiej turze z wynikiem 62 proc. Wybory były konsekwencją majowego referendum, w którym odwołano Aleksandra Miszalskiego.",
+      "src": "https://www.rmf24.pl/regiony/krakow/news-do-czterech-razy-sztuka-lukasz-gibala-zostanie-dzis-zaprzysi,nIdn,1022595",
+      "srcName": "RMF24"
+    },
+    {
+      "id": "2026-10-20-wm-10",
+      "date": "2026-10-20",
+      "type": "photo",
+      "title": "Londyn, Tower Bridge",
+      "by": "Alvin Langdon Coburn, 1909",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Coburn_The_Tower_bridge2.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Coburn_The_Tower_bridge2.jpg",
+      "srcName": "Wikimedia Commons",
+      "text": "Masywne wieże mostu nad Tamizą w miękkiej, piktorialnej tonacji z albumu Coburna o Londynie."
+    },
+    {
+      "id": "2026-10-20-art-colombia-museo-nacional-removals",
+      "date": "2026-10-20",
+      "type": "article",
+      "lang": "en",
+      "title": "Colombia's government strips works from its national museum",
+      "text": "About 30 objects tied to LGBTQ+ history, feminism and the FARC peace deal were pulled from Bogotá's Museo Nacional on government orders, sparking street protests. Directors of six modern art museums have publicly voiced concern.",
+      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/10/GettyImages-2300222879.jpg",
+      "src": "https://hyperallergic.com/hundreds-protest-in-colombia-after-far-right-president-removes-works-from-national-museum/",
+      "srcName": "Hyperallergic"
+    },
     {
       "id": "2026-10-19-olivia-rodrigo-expectations",
       "date": "2026-10-19",
