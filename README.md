@@ -1,6 +1,6 @@
 # Kadr
 
-Prywatny feed zamiast scrollowania: street photo, filmy krótkometrażowe i teledyski, krótkie artykuły i wiadomości (PL/EN). Codziennie rano Claude dopisuje nową porcję do `feed.json`.
+Prywatny feed zamiast scrollowania: teledyski, filmy modowe i krótkie artykuły (PL/EN). Codziennie rano Claude dopisuje nową porcję do `feed.json`.
 
 - `index.html` – aplikacja (pełnoekranowy pionowy feed, filtry, zapisane, karta „Na dziś to wszystko”)
 - `feed.json` – treści; najnowsza data = dzisiejsza porcja, starsze trafiają do „Starsze”

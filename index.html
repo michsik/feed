@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Kadr</title>
-<meta name="description" content="Codzienny feed: street photo, filmy krótkometrażowe, teledyski, artykuły i wiadomości.">
+<meta name="description" content="Codzienny feed: teledyski, filmy modowe i krótkie artykuły.">
 <meta name="theme-color" content="#0f0e0d">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -119,10 +119,8 @@ a{color:inherit}
   <div class="logo"><i></i>Kadr</div>
   <nav class="chips" id="chips" aria-label="Filtr">
     <button class="chip" data-f="all" aria-pressed="true">Wszystko</button>
-    <button class="chip" data-f="photo" aria-pressed="false">Foto</button>
     <button class="chip" data-f="video" aria-pressed="false">Filmy</button>
     <button class="chip" data-f="article" aria-pressed="false">Czytaj</button>
-    <button class="chip" data-f="news" aria-pressed="false">Newsy</button>
     <button class="chip" data-f="saved" aria-pressed="false">Zapisane</button>
   </nav>
 </header>
@@ -197,7 +195,7 @@ function slide(it,i,n){
 }
 function endCard(today,n,olderCount){
   const counts={photo:0,video:0,article:0,news:0};today.forEach(i=>counts[i.type]++);
-  return `<section class="slide end"><div class="stats">${n} kadrów · ${counts.photo} foto · ${counts.video} filmów · ${counts.article+counts.news} do czytania</div>
+  return `<section class="slide end"><div class="stats">${n} kadrów · ${counts.video} filmów · ${counts.article+counts.news} do czytania</div>
     <div class="big">Na dziś to wszystko.</div>
     <p>Nowe kadry pojawią się jutro rano. Odłóż telefon albo zajrzyj do tego, co zapisałeś.</p>
     <div class="row"><button class="btn primary" data-goto="saved">Zapisane (${saved.size})</button>

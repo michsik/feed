@@ -18,27 +18,6 @@
       "srcName": "Promonews"
     },
     {
-      "id": "2026-10-21-news-sejm-aborcja",
-      "date": "2026-10-21",
-      "type": "news",
-      "lang": "pl",
-      "title": "Sejm za częściową dekryminalizacją aborcji",
-      "text": "Posłowie minimalną większością (217 do 213) zdecydowali, że pomoc w przerwaniu ciąży za zgodą kobiety przestanie być przestępstwem; przyjęli też projekt przywracający przesłankę ciężkiej wady płodu, usuniętą wyrokiem TK z 2020 r. Ustawy trafią teraz do dalszych etapów procesu legislacyjnego.",
-      "src": "https://www.rmf24.pl/fakty/polityka/news-dekryminalizacja-aborcji-sejm-zaglosowal-za-drugi-projekt-ro,nIdn,1022726",
-      "srcName": "RMF24"
-    },
-    {
-      "id": "2026-10-21-wm-01",
-      "date": "2026-10-21",
-      "type": "photo",
-      "title": "Rome (Georgia): poczekalnia dla „kolorowych”",
-      "by": "Esther Bubley, 1943",
-      "text": "Szyld nad drzwiami dworca autobusowego Greyhound wskazuje osobną poczekalnię dla czarnoskórych podróżnych. Bubley uchwyciła codzienną twarz segregacji podczas swojej podróży autobusem przez Południe.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/1943_Colored_Waiting_Room_Sign.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:1943_Colored_Waiting_Room_Sign.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-21-joy-crookes-painkiller",
       "date": "2026-10-21",
       "type": "video",
@@ -55,25 +34,20 @@
       "srcName": "Promonews"
     },
     {
-      "id": "2026-10-21-news-domanski-zostaje",
+      "id": "2026-10-21-prada-simple-stories-hunter-schafer",
       "date": "2026-10-21",
-      "type": "news",
-      "lang": "pl",
-      "title": "Domański obronił się w Sejmie, Tusk chce go zrobić wicepremierem",
-      "text": "Wniosek PiS o wotum nieufności wobec ministra finansów i gospodarki poparło tylko 204 posłów, przeciw było 234. Premier zapowiedział, że poprosi prezydenta Nawrockiego o powołanie Andrzeja Domańskiego na wicepremiera.",
-      "src": "https://www.rmf24.pl/fakty/polityka/news-minister-finansow-zostaje-bedzie-wicepremierem,nIdn,1022714",
-      "srcName": "RMF24"
-    },
-    {
-      "id": "2026-10-21-wm-02",
-      "date": "2026-10-21",
-      "type": "photo",
-      "title": "Chinatown w San Francisco: kupiec z ochroniarzem",
-      "by": "Arnold Genthe, 1896–1906",
-      "text": "Zamożny kupiec idzie ulicą starego Chinatown w towarzystwie ochroniarza. Genthe fotografował dzielnicę ukradkiem, zanim trzęsienie ziemi w 1906 roku zmiotło ją z powierzchni.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Arnold_Genthe_-_Merchant_and_Body_Guard,_Old_Chinatown,_San_Francisco_-_Google_Art_Project.jpg/1280px-Arnold_Genthe_-_Merchant_and_Body_Guard,_Old_Chinatown,_San_Francisco_-_Google_Art_Project.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Arnold_Genthe_-_Merchant_and_Body_Guard,_Old_Chinatown,_San_Francisco_-_Google_Art_Project.jpg",
-      "srcName": "Wikimedia Commons"
+      "type": "video",
+      "kind": "Film modowy",
+      "title": "Prada – „Simple Stories” z Hunter Schafer",
+      "by": "reż. Barry Jenkins",
+      "text": "Reżyser „Moonlight” nakręcił dla Prady jesienno-zimową kampanię z codziennych, intymnych chwil, w których ubranie staje się przedłużeniem ciała. W tej odsłonie bohaterką jest Hunter Schafer.",
+      "embed": {
+        "p": "yt",
+        "id": "RmzdK0Iu0Kc"
+      },
+      "img": "https://i.ytimg.com/vi/RmzdK0Iu0Kc/hqdefault.jpg",
+      "src": "https://www.youtube.com/watch?v=RmzdK0Iu0Kc",
+      "srcName": "Prada (YouTube)"
     },
     {
       "id": "2026-10-21-mit-kamery-z-cekinami",
@@ -103,27 +77,6 @@
       "srcName": "Promonews"
     },
     {
-      "id": "2026-10-21-news-oslo-witkoff",
-      "date": "2026-10-21",
-      "type": "news",
-      "lang": "pl",
-      "title": "Po rozmowach w Oslo Witkoff leci do Putina",
-      "text": "Zełenski spotkał się w Oslo z amerykańskim wysłannikiem Steve’em Witkoffem, a fiński prezydent Stubb mówi o pierwszych zapisanych elementach porozumienia pokojowego. W środę Witkoff ma rozmawiać z Putinem w Petersburgu, choć Ławrow zapowiada, że Rosja nie pójdzie na ustępstwa polityczne.",
-      "src": "https://www.rmf24.pl/fakty/swiat/news-zelenski-zabral-glos-po-spotkaniu-w-oslo-witkoff-leci-do-pet,nIdn,1022732",
-      "srcName": "RMF24"
-    },
-    {
-      "id": "2026-10-21-wm-03",
-      "date": "2026-10-21",
-      "type": "photo",
-      "title": "Nowy Jork: budka z hot dogami przy West Street",
-      "by": "Berenice Abbott, 1936",
-      "text": "Mała budka z przekąskami stoi na rogu West Street i North Moore, w portowej części dolnego Manhattanu. Zdjęcie pochodzi z cyklu „Changing New York”.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Hot_Dog_Stand,_West_St._and_North_Moore,_Manhattan_(NYPL_b13668355-1219152).jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Hot_Dog_Stand,_West_St._and_North_Moore,_Manhattan_(NYPL_b13668355-1219152).jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-21-james-arthur-waste-my-tears",
       "date": "2026-10-21",
       "type": "video",
@@ -141,27 +94,6 @@
       "srcName": "Promonews"
     },
     {
-      "id": "2026-10-21-news-lwow-rok-upa",
-      "date": "2026-10-21",
-      "type": "news",
-      "lang": "pl",
-      "title": "Lwów ogłasza rok 2027 rokiem UPA",
-      "text": "Rada obwodu lwowskiego postanowiła uczcić w 2027 r. UPA i Romana Szuchewycza, co wywołało ostrą reakcję w Polsce. IPN przypomina odpowiedzialność Szuchewycza za zbrodnie na Polakach, a wicepremier Kosiniak-Kamysz nazwał decyzję nieakceptowalną.",
-      "src": "https://www.rmf24.pl/fakty/swiat/news-decyzja-wladz-lwowa-2027-bedzie-rokiem-upa,nIdn,1022720",
-      "srcName": "RMF24"
-    },
-    {
-      "id": "2026-10-21-wm-04",
-      "date": "2026-10-21",
-      "type": "photo",
-      "title": "Nowy Jork: automat-bar na Ósmej Alei",
-      "by": "Berenice Abbott, 1936",
-      "text": "Fasada baru samoobsługowego, w którym jedzenie wyjmowało się z przeszklonych okienek po wrzuceniu monety. Abbott dokumentowała takie miejsca jako znak nowoczesnego, pośpiesznego miasta.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/Automat,_977_Eighth_Avenue,_Manhattan_(NYPL_b13668355-482752).jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Automat,_977_Eighth_Avenue,_Manhattan_(NYPL_b13668355-482752).jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-21-mglawica-lew-webb",
       "date": "2026-10-21",
       "type": "article",
@@ -171,6 +103,22 @@
       "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/lion.jpeg",
       "src": "https://www.thisiscolossal.com/2026/10/nasa-james-webb-space-telescope-lion-nebula/",
       "srcName": "Colossal"
+    },
+    {
+      "id": "2026-10-21-prada-simple-stories-chen-haoyu",
+      "date": "2026-10-21",
+      "type": "video",
+      "kind": "Film modowy",
+      "title": "Prada – „Simple Stories” z Chen Haoyu",
+      "by": "reż. Barry Jenkins",
+      "text": "Kolejny rozdział kampanii Prady na jesień i zimę 2026: drobne gesty i prywatne momenty, którym kamera Jenkinsa nadaje wagę. Tym razem przed obiektywem Chen Haoyu.",
+      "embed": {
+        "p": "yt",
+        "id": "3tbVe0xRc_g"
+      },
+      "img": "https://i.ytimg.com/vi/3tbVe0xRc_g/hqdefault.jpg",
+      "src": "https://www.youtube.com/watch?v=3tbVe0xRc_g",
+      "srcName": "Prada (YouTube)"
     },
     {
       "id": "2026-10-21-aphex-twin-come-to-daddy",
@@ -189,27 +137,6 @@
       "srcName": "Wikipedia"
     },
     {
-      "id": "2026-10-21-news-sondaz-trump",
-      "date": "2026-10-21",
-      "type": "news",
-      "lang": "pl",
-      "title": "Dwie trzecie Polaków źle ocenia politykę Trumpa",
-      "text": "W sondażu IBRiS dla „Rzeczpospolitej” 66,5 proc. badanych uznało, że polityka prezydenta USA nie służy interesom Polski, a dobrze ocenia ją niespełna co piąty. Pozytywne zdanie przeważa tylko wśród wyborców Nawrockiego i Brauna.",
-      "src": "https://www.polsatnews.pl/wiadomosc/2026-10-21/polacy-ocenili-donalda-trumpa-jednoznaczne-wyniki-sondazu/",
-      "srcName": "Polsat News"
-    },
-    {
-      "id": "2026-10-21-wm-05",
-      "date": "2026-10-21",
-      "type": "photo",
-      "title": "Paryż: rue du Haut-Pavé z Panteonem w tle",
-      "by": "Charles Marville, 1865–1869",
-      "text": "Wąska, brukowana uliczka w Dzielnicy Łacińskiej prowadzi wzrok ku kopule Panteonu. Marville utrwalał stary Paryż na zlecenie miasta, tuż przed przebudową Haussmanna.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Charles_Marville,_Rue_du_Haut-Pave_(Pantheon_in_Distance),_1865%E2%80%9369.jpg/1280px-Charles_Marville,_Rue_du_Haut-Pave_(Pantheon_in_Distance),_1865%E2%80%9369.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Charles_Marville,_Rue_du_Haut-Pave_(Pantheon_in_Distance),_1865%E2%80%9369.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-21-troye-sivan-party",
       "date": "2026-10-21",
       "type": "video",
@@ -224,27 +151,6 @@
       "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Troye%20Sivan%20%27Party%27%20by%20GVS.png?itok=Wp1qwuij",
       "src": "https://www.promonews.tv/videos/2026/09/21/troye-sivan-party-gordon-von-steiner/96329",
       "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-21-news-nocny-alarm-mysliwce",
-      "date": "2026-10-21",
-      "type": "news",
-      "lang": "pl",
-      "title": "Nocny atak na Ukrainę, polskie myśliwce w powietrzu",
-      "text": "W nocy ze wtorku na środę RCB ostrzegało mieszkańców Lubelszczyzny i Podkarpacia przed zagrożeniem z powietrza, a polskie lotnictwo operowało nad krajem. Przed 5 rano alarm odwołano – na terytorium Polski nie było zagrożenia.",
-      "src": "https://www.polsatnews.pl/wiadomosc/2026-10-21/rosyjski-atak-na-ukraine-polska-poderwala-mysliwce-2/",
-      "srcName": "Polsat News"
-    },
-    {
-      "id": "2026-10-21-wm-06",
-      "date": "2026-10-21",
-      "type": "photo",
-      "title": "Fuzhou: most Wanshou nad rzeką Min",
-      "by": "John Thomson, 1871",
-      "text": "Długi kamienny most na wielu filarach spina brzegi rzeki Min w portowym Fuzhou. Thomson przywiózł z Chin jeden z pierwszych rzetelnych fotoreportaży z tego kraju.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Foochow_(Fuzhou),_Fukien_province,_China;_Wanshou_Bridge_Wellcome_L0055564.jpg/1280px-Foochow_(Fuzhou),_Fukien_province,_China;_Wanshou_Bridge_Wellcome_L0055564.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Foochow_(Fuzhou),_Fukien_province,_China;_Wanshou_Bridge_Wellcome_L0055564.jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-21-pawilon-kiefer-chipperfield",
@@ -274,27 +180,6 @@
       "srcName": "Promonews"
     },
     {
-      "id": "2026-10-21-news-kijow-energetyka",
-      "date": "2026-10-21",
-      "type": "news",
-      "lang": "pl",
-      "title": "Rosja znów uderzyła w energetykę Kijowa",
-      "text": "Drony trafiły w obiekt energetyczny w centrum stolicy Ukrainy, odcinając prąd w czterech dzielnicach i na chwilę wstrzymując komunikację miejską. Uszkodzone zostały też dwa szpitale, rannych jest pięć osób.",
-      "src": "https://www.polsatnews.pl/wiadomosc/2026-10-20/rosja-zaatakowala-kijow-uderzyli-w-kluczowe-obiekty/",
-      "srcName": "Polsat News"
-    },
-    {
-      "id": "2026-10-21-wm-07",
-      "date": "2026-10-21",
-      "type": "photo",
-      "title": "Ozarki (Missouri): dzieci przy skrzynce pocztowej",
-      "by": "John Vachon, 1940",
-      "text": "Dzieci z wiejskiej rodziny odbierają pocztę ze skrzynki stojącej przy drodze. Prosta scena pokazuje, jak poczta łączyła odcięte farmy ze światem.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/John_Vachon,_Ozark_children_getting_mail_from_RFD_box,_Missouri,_1940.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:John_Vachon,_Ozark_children_getting_mail_from_RFD_box,_Missouri,_1940.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-21-orville-peck-already-gone",
       "date": "2026-10-21",
       "type": "video",
@@ -310,27 +195,6 @@
       "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Orville%20Peck%20%27Already%20Gone%27%20by%20Austin%20Peters.png?itok=xII-ltdf",
       "src": "https://www.promonews.tv/videos/2026/08/19/orville-peck-already-gone-austin-peters/95955",
       "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-21-news-kaczynski-ukarany",
-      "date": "2026-10-21",
-      "type": "news",
-      "lang": "pl",
-      "title": "Komisja etyki ukarała Kaczyńskiego",
-      "text": "Sejmowa komisja etyki ukarała prezesa PiS za lipcowe słowa, w których nazwał policjantów „bojówkami” partii rządzącej. Kaczyński ma 14 dni na odwołanie się od uchwały.",
-      "src": "https://www.rmf24.pl/fakty/polityka/news-kara-dla-kaczynskiego-za-slowa-o-policji,nIdn,1022730",
-      "srcName": "RMF24"
-    },
-    {
-      "id": "2026-10-21-wm-08",
-      "date": "2026-10-21",
-      "type": "photo",
-      "title": "Alabama: prom linowy do Gee’s Bend",
-      "by": "Marion Post Wolcott, 1939",
-      "text": "Stary prom przeciągany po linie kursuje przez rzekę Alabama między Camden a Gee’s Bend. Dla odizolowanej społeczności była to jedyna droga do miasta.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Marion_Post_Wolcott_-_Old_cable_ferry_between_Camden_and_Gees_Bend,_Alabama.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Marion_Post_Wolcott_-_Old_cable_ferry_between_Camden_and_Gees_Bend,_Alabama.jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-21-podgladanie-w-fotografii",
@@ -360,27 +224,6 @@
       "srcName": "eBilet"
     },
     {
-      "id": "2026-10-21-news-weber-epl",
-      "date": "2026-10-21",
-      "type": "news",
-      "lang": "pl",
-      "title": "Weber dalej szefem frakcji EPL, Halicki wiceszefem",
-      "text": "Manfred Weber, kierujący największą grupą w Parlamencie Europejskim od 2014 r., został ponownie wybrany na jej przewodniczącego. Na stanowisku wiceprzewodniczącego pozostaje Andrzej Halicki z KO, wymieniany wcześniej jako możliwy następca Webera.",
-      "src": "https://www.rmf24.pl/fakty/swiat/news-manfred-weber-ponownie-szefem-frakcji-epl-andrzej-halicki-je,nIdn,1022739",
-      "srcName": "RMF24"
-    },
-    {
-      "id": "2026-10-21-wm-09",
-      "date": "2026-10-21",
-      "type": "photo",
-      "title": "Nowy Orlean: „Dom Turka” przy Dauphine Street",
-      "by": "Frances Benjamin Johnston, 1938",
-      "text": "Fasada starej kamienicy w Dzielnicy Francuskiej, z balkonami i okiennicami nad ulicą. Johnston fotografowała ją w ramach wielkiego przeglądu architektury amerykańskiego Południa.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Frances_Benjamin_Johnston,_House_of_the_Turk,_Dauphine_Street,_New_Orleans,_1937-8.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Frances_Benjamin_Johnston,_House_of_the_Turk,_Dauphine_Street,_New_Orleans,_1937-8.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-21-natanya-show-me-right",
       "date": "2026-10-21",
       "type": "video",
@@ -395,17 +238,6 @@
       "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Natanya%20%27Show%20Me%20Right%27%20by%20Tally%20Francis.png?itok=dmECIQAT",
       "src": "https://www.promonews.tv/videos/2026/09/23/natanya-show-me-right-tally-francis/96373",
       "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-21-wm-10",
-      "date": "2026-10-21",
-      "type": "photo",
-      "title": "Berlin: roboty drogowe na Dircksenstraße",
-      "by": "Heinrich Zille, ok. 1900",
-      "text": "Na berlińskiej ulicy w dzielnicy Mitte trwają roboty drogowe i rozkopany bruk staje się częścią codziennego krajobrazu. Zille, znany głównie jako rysownik, prywatnie fotografował życie robotniczego Berlina.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Zille,_Heinrich_-_Berlin_%E2%80%93_Stra%C3%9Fen_und_Stra%C3%9Fenszenen,_Stra%C3%9Fenbauarbeiten,_Berlin,_Dircksenstra%C3%9Fe_(Zeno_Fotografie).jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Zille,_Heinrich_-_Berlin_%E2%80%93_Stra%C3%9Fen_und_Stra%C3%9Fenszenen,_Stra%C3%9Fenbauarbeiten,_Berlin,_Dircksenstra%C3%9Fe_(Zeno_Fotografie).jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-21-translations-bwa-katowice",
@@ -435,17 +267,6 @@
       "srcName": "Promonews"
     },
     {
-      "id": "2026-10-21-wm-11",
-      "date": "2026-10-21",
-      "type": "photo",
-      "title": "Natchez (Missisipi): handel końmi i mułami",
-      "by": "Ben Shahn, 1935",
-      "text": "Szyld firmy Lum Bros. reklamuje handel końmi i mułami w rzecznym mieście nad Missisipi. Shahn, malarz pracujący dla FSA, notował aparatem życie małych miasteczek Południa.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Natchez,_Mississippi_October_1935_-_Lum_Bros_Horses_and_Mules_crop.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Natchez,_Mississippi_October_1935_-_Lum_Bros_Horses_and_Mules_crop.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-21-taylor-swift-fate-of-ophelia",
       "date": "2026-10-21",
       "type": "video",
@@ -460,17 +281,6 @@
       "img": "https://i.ytimg.com/vi/ko70cExuzZM/hqdefault.jpg",
       "src": "https://www.promonews.tv/news/2026/09/28/madonna-and-taylor-swift-are-big-winners-2026-mtv-video-music-awards/96411",
       "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-21-wm-12",
-      "date": "2026-10-21",
-      "type": "photo",
-      "title": "Ohio: dziewczęta grające w rzucanie kółek",
-      "by": "Clarence H. White, 1899",
-      "text": "Trzy dziewczynki w jasnych sukienkach bawią się w rzucanie kółkami na tle ciemnego wnętrza. White zamieniał zwyczajne chwile z życia rodziny i sąsiadów w Newark w nastrojowe obrazy.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/8/83/The_ring_toss_-_Clarence_H._White._LCCN96513079.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:The_ring_toss_-_Clarence_H._White._LCCN96513079.jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-21-dla-marii-czaplickiej",
@@ -511,27 +321,6 @@
       "srcName": "Shots"
     },
     {
-      "id": "2026-10-20-news-szczyt-xi-trump-putin",
-      "date": "2026-10-20",
-      "type": "news",
-      "lang": "pl",
-      "title": "Czarzasty: szczyt o Ukrainie bez Ukrainy to skandal",
-      "text": "Marszałek Sejmu ostro skrytykował pomysł spotkania Xi, Trumpa i Putina w sprawie przyszłości Ukrainy, o którym napisał „Wall Street Journal”; Kreml potwierdza rozmowy o szczycie przy okazji APEC w Shenzhen 18–19 listopada. Czarzasty wezwał prezydenta Nawrockiego do zajęcia stanowiska.",
-      "src": "https://www.rmf24.pl/fakty/polityka/news-druga-jalta-marszalek-czarzasty-robienie-spotkania-w-tym-gro,nIdn,1022633",
-      "srcName": "RMF24"
-    },
-    {
-      "id": "2026-10-20-wm-01",
-      "date": "2026-10-20",
-      "type": "photo",
-      "title": "Paryż, rue de la Montagne-Sainte-Geneviève",
-      "by": "Eugène Atget, 1924",
-      "text": "Brukowana, stroma uliczka Dzielnicy Łacińskiej z dawnymi kamienicami, utrwalona przez Atgeta jako znikający obraz starego Paryża.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Eug%C3%A8ne_Atget,_Rue_de_la_Montagne-Sainte-Genevi%C3%A8ve,_1924.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Atget,_Rue_de_la_Montagne-Sainte-Genevi%C3%A8ve,_1924.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-20-zara-larsson-blue-moon",
       "date": "2026-10-20",
       "type": "video",
@@ -546,38 +335,6 @@
       "img": "https://imgix.bustle.com/uploads/image/2026/10/15/8273dbfb/photo-collagepng-7.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.5&fp-y=0.3854",
       "src": "https://www.nylon.com/entertainment/charlotte-rutherford-zara-larsson-blue-moon-music-video",
       "srcName": "Nylon"
-    },
-    {
-      "id": "2026-10-20-news-drony-przy-granicy",
-      "date": "2026-10-20",
-      "type": "news",
-      "lang": "pl",
-      "title": "Rosyjskie drony 15 km od polskiej granicy",
-      "text": "Nad ranem co najmniej pięć rosyjskich dronów odrzutowych leciało wzdłuż granicy, zanim skręciło na Lwów i Łuck; dwa trafiły w obiekt energetyczny pod Lwowem. RCB ogłosiło alert dla Lubelszczyzny, wojsko zapewnia, że polska przestrzeń nie została naruszona.",
-      "src": "https://www.rmf24.pl/fakty/polska/news-co-najmniej-5-rosyjskich-dronow-15-km-od-polskiej-granicy-to,nIdn,1022599",
-      "srcName": "RMF24"
-    },
-    {
-      "id": "2026-10-20-wm-02",
-      "date": "2026-10-20",
-      "type": "photo",
-      "title": "Nowy Jork, Manhattan z wody",
-      "by": "Alfred Stieglitz, 1910",
-      "text": "Dolny Manhattan wyrasta zza nabrzeża i dymiących statków jak ściana wież, symbol miasta pędzącego w górę.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/2/27/The_City_of_Ambitions_MET_DP232975.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:The_City_of_Ambitions_MET_DP232975.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
-      "id": "2026-10-20-wm-11",
-      "date": "2026-10-20",
-      "type": "photo",
-      "title": "Nowy Jork, zaułek Mullen's Alley",
-      "by": "Jacob Riis, ok. 1888",
-      "text": "Wąski, zaśmiecony przesmyk między kamienicami Cherry Hill, w którym stoją dzieci i dorośli, pokazuje nędzę dzielnicy czynszówek.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Mullen%27s_Alley,_New_York,_by_Jacob_Riis.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Mullen%27s_Alley,_New_York,_by_Jacob_Riis.jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-20-art-pneuhaus-camera-obscura",
@@ -607,27 +364,6 @@
       "srcName": "mxdwn"
     },
     {
-      "id": "2026-10-20-news-trump-ultimatum-europa",
-      "date": "2026-10-20",
-      "type": "news",
-      "lang": "pl",
-      "title": "Trump grozi, że USA „odejdą” od Europy",
-      "text": "Na wiecu w Kansas prezydent USA stwierdził, że Ameryka może się wycofać, jeśli Europa szybko nie zmieni kursu, i wezwał do zamknięcia granic. Wytknął też sojusznikom brak wsparcia w konflikcie z Iranem.",
-      "src": "https://www.rmf24.pl/fakty/swiat/news-donald-trump-stawia-ultimatum-europie-odejdziemy-jesli-nie-z,nIdn,1022589",
-      "srcName": "RMF24"
-    },
-    {
-      "id": "2026-10-20-wm-03",
-      "date": "2026-10-20",
-      "type": "photo",
-      "title": "Augusta, mała prządka w przędzalni",
-      "by": "Lewis Hine, 1909",
-      "text": "Drobna dziewczynka stoi przy długim rzędzie wrzecion w hali fabrycznej, dokumentując skalę pracy dzieci w amerykańskich przędzalniach.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/5/5f/No_Known_Restrictions_A_little_spinner_in_Globe_Cotton_Mill._Augusta,_Ga.,_by_Lewis_W._Hine,_1909_(LOC).jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:No_Known_Restrictions_A_little_spinner_in_Globe_Cotton_Mill._Augusta,_Ga.,_by_Lewis_W._Hine,_1909_(LOC).jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-20-andy-cant-wait",
       "date": "2026-10-20",
       "type": "video",
@@ -642,38 +378,6 @@
       "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/webform/PROMONEWS_01_1.jpg?itok=VHyA4Dym",
       "src": "https://www.promonews.tv/videos/2026/10/19/andy-cant-wait-harry-welsh/96665",
       "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-20-news-francja-godzina-policyjna",
-      "date": "2026-10-20",
-      "type": "news",
-      "lang": "pl",
-      "title": "Francja wprowadza godziny policyjne",
-      "text": "Po weekendzie zamieszek na tle drożyzny Paryż, Lille, Nicea, Lyon i Marsylia ograniczyły nocne wyjścia lub zgromadzenia, a premier Lecornu nie wyklucza stanu wyjątkowego. Zatrzymano już ponad 2500 osób, zniszczonych zostało co najmniej 3000 sklepów.",
-      "src": "https://www.rp.pl/przestepczosc/art45360981-czesciowy-zakaz-protestow-w-paryzu-premier-francji-nie-wyklucza-stanu-wyjatkowego",
-      "srcName": "Rzeczpospolita"
-    },
-    {
-      "id": "2026-10-20-wm-04",
-      "date": "2026-10-20",
-      "type": "photo",
-      "title": "Nowy Jork, szwalnia przy Ludlow Street",
-      "by": "Jacob Riis, ok. 1889",
-      "text": "Stłoczeni krawcy pracują w ciasnym mieszkaniu na Lower East Side, gdzie dom i chałupnicza szwalnia stanowiły jedno.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Jacob_Riis_-_A_Ludlow_Street_Sweater%27s_Shop.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Jacob_Riis_-_A_Ludlow_Street_Sweater%27s_Shop.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
-      "id": "2026-10-20-wm-12",
-      "date": "2026-10-20",
-      "type": "photo",
-      "title": "Okolice Birmingham, przydrożny stragan",
-      "by": "Walker Evans, 1936",
-      "text": "Drewniana budka z ręcznie malowanymi szyldami przy drodze w Alabamie, uchwycona z typową dla Evansa frontalną prostotą.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Roadside_stand_near_Birmingham,_Alabama.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Roadside_stand_near_Birmingham,_Alabama.jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-20-art-ramses-ii-statues-nile-delta",
@@ -703,27 +407,6 @@
       "srcName": "Bustle"
     },
     {
-      "id": "2026-10-20-news-alberta-zostaje",
-      "date": "2026-10-20",
-      "type": "news",
-      "lang": "pl",
-      "title": "Alberta zostaje w Kanadzie",
-      "text": "W pierwszym w historii referendum w sprawie separacji około 76 proc. głosujących opowiedziało się za pozostaniem prowincji w Kanadzie. Premier Carney mówi o jasnym wyborze jedności, separatyści zapowiadają dalszą walkę.",
-      "src": "https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show",
-      "srcName": "Al Jazeera"
-    },
-    {
-      "id": "2026-10-20-wm-05",
-      "date": "2026-10-20",
-      "type": "photo",
-      "title": "Okolice Vicksburga, autostopowicze",
-      "by": "Walker Evans, 1936",
-      "text": "Dwóch wędrowców czeka przy drodze w Missisipi na podwózkę, obraz bezdomnej mobilności czasów kryzysu.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Walker_Evans_Hitchhidkers_Vicksburg_(vicinity)_March_1936.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Walker_Evans_Hitchhidkers_Vicksburg_(vicinity)_March_1936.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-20-yendry-no-me-vuelvo",
       "date": "2026-10-20",
       "type": "video",
@@ -738,27 +421,6 @@
       "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Screenshot%202026-10-19%20at%2009.42.02.png?itok=4mdSzPTi",
       "src": "https://www.promonews.tv/videos/2026/10/19/ye%D0%B8dry-no-me-vuelvo-enamorar-katharina-hingst/96655",
       "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-20-news-sudan-abyei-drony",
-      "date": "2026-10-20",
-      "type": "news",
-      "lang": "pl",
-      "title": "73 zabitych w ataku dronów na targ w Abyei",
-      "text": "Drony uderzyły w targowisko w spornym regionie Abyei na granicy Sudanu i Sudanu Południowego. Lokalne władze obwiniają armię sudańską, a Dżuba wezwała ambasadora Sudanu.",
-      "src": "https://www.rmf24.pl/fakty/swiat/news-krwawy-atak-dronow-na-targowisko-w-sudanie-zginely-73-osoby,nIdn,1022626",
-      "srcName": "RMF24"
-    },
-    {
-      "id": "2026-10-20-wm-06",
-      "date": "2026-10-20",
-      "type": "photo",
-      "title": "Gordonton, wiejski sklep przy gruntowej drodze",
-      "by": "Dorothea Lange, 1939",
-      "text": "Prosty wiejski sklep przy nieutwardzonej drodze był w latach 30. sercem małej osady na południu USA.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/0/03/Dorothea_Lange,_Country_store_on_dirt_road,_Gordonton,_North_Carolina,_1939.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Dorothea_Lange,_Country_store_on_dirt_road,_Gordonton,_North_Carolina,_1939.jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-20-art-wisla-performans-pelczynska",
@@ -798,27 +460,6 @@
       "srcName": "IMVDb"
     },
     {
-      "id": "2026-10-20-news-nbp-nominacje",
-      "date": "2026-10-20",
-      "type": "news",
-      "lang": "pl",
-      "title": "Nawrocki znów wysyła Tuskowi nominacje do zarządu NBP",
-      "text": "Prezydent ponownie przekazał premierowi do kontrasygnaty cztery kandydatury do zarządu banku centralnego, które Tusk odesłał w maju. Bez nowych członków zarząd NBP może w listopadzie spaść poniżej ustawowego minimum.",
-      "src": "https://money.pl/gospodarka/pilna-sprawa-w-nbp-nawrocki-wykonal-ruch-teraz-kolej-tuska-7341651285628928a.html",
-      "srcName": "Money.pl / PAP"
-    },
-    {
-      "id": "2026-10-20-wm-07",
-      "date": "2026-10-20",
-      "type": "photo",
-      "title": "Nowy Jork, Manhattan z pokładu S.S. Coamo",
-      "by": "Jack Delano, 1941",
-      "text": "Wieżowce dolnego Manhattanu oglądane z pokładu statku wypływającego z portu w rejs do Portoryko.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/8/82/Jack_Delano,_Lower_Manhattan_seen_from_the_S.S._Coamo_leaving_New_York,_1941.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Jack_Delano,_Lower_Manhattan_seen_from_the_S.S._Coamo_leaving_New_York,_1941.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-20-art-feynman-down-with-heaven",
       "date": "2026-10-20",
       "type": "video",
@@ -833,27 +474,6 @@
       "img": "https://s3.amazonaws.com/images.imvdb.com/video/197050911572-art-feynman-down-with-heaven_music_video_ov.jpg?v=2",
       "src": "https://imvdb.com/video/art-feynman/down-with-heaven",
       "srcName": "IMVDb"
-    },
-    {
-      "id": "2026-10-20-news-pellet-ceny",
-      "date": "2026-10-20",
-      "type": "news",
-      "lang": "pl",
-      "title": "Pellet po ponad 2000 zł za tonę",
-      "text": "Minister energii Miłosz Motyka przyznaje, że sytuacja na rynku pelletu jest trudna w całym regionie, m.in. przez zablokowany import z Białorusi i Ukrainy. Rząd chce zwiększyć krajową podaż, a autogazu nie obejmie program „Ceny Paliwa Niżej”.",
-      "src": "https://www.rmf24.pl/rozmowy/poranna-rozmowa/news-ponad-2000-zl-za-tone-pelletu-motyka-sytuacja-ponadregionaln,nIdn,1022524",
-      "srcName": "RMF24"
-    },
-    {
-      "id": "2026-10-20-wm-08",
-      "date": "2026-10-20",
-      "type": "photo",
-      "title": "Raceland, Luizjana: piwo w barze",
-      "by": "Russell Lee, 1938",
-      "text": "Mężczyźni z cajuńskiego miasteczka spotykają się przy piwie w lokalnym barze, w codziennej scenie z życia Luizjany.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Raceland_Louisiana_Beer_Drinkers_Russell_Lee.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Raceland_Louisiana_Beer_Drinkers_Russell_Lee.jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-20-art-pterodaktyl-anouk-herman",
@@ -893,27 +513,6 @@
       "srcName": "Wikipedia"
     },
     {
-      "id": "2026-10-20-news-sondaz-ibris",
-      "date": "2026-10-20",
-      "type": "news",
-      "lang": "pl",
-      "title": "Sondaż: KO prowadzi, Polska 2050 z marginalnym poparciem",
-      "text": "W badaniu IBRiS dla Polsat News Koalicja Obywatelska ma 27,8 proc., PiS 19,1 proc., a Konfederacja 12,7 proc. Koalicyjna Polska 2050 notuje zaledwie 0,5 proc.",
-      "src": "https://www.polsatnews.pl/wiadomosc/2026-10-20/koalicjant-poza-sejmem-glos-z-ko-o-nowym-sondazu/",
-      "srcName": "Polsat News"
-    },
-    {
-      "id": "2026-10-20-wm-09",
-      "date": "2026-10-20",
-      "type": "photo",
-      "title": "Badlands, wybielona czaszka wołu",
-      "by": "Arthur Rothstein, 1936",
-      "text": "Wyschnięta czaszka zwierzęcia na spękanej ziemi stała się jednym z najbardziej znanych symboli suszy lat 30.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Arthur_Rothstein_-_The_bleached_skull_of_a_steer,_South_Dakota_Badlands,_1936.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Arthur_Rothstein_-_The_bleached_skull_of_a_steer,_South_Dakota_Badlands,_1936.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-20-johnny-cash-hurt",
       "date": "2026-10-20",
       "type": "video",
@@ -928,27 +527,6 @@
       "img": "https://i.ytimg.com/vi/8AHCfZTRGiI/hqdefault.jpg",
       "src": "https://en.wikipedia.org/wiki/Hurt_(Nine_Inch_Nails_song)",
       "srcName": "Wikipedia"
-    },
-    {
-      "id": "2026-10-20-news-gibala-krakow",
-      "date": "2026-10-20",
-      "type": "news",
-      "lang": "pl",
-      "title": "Gibała dziś obejmuje urząd prezydenta Krakowa",
-      "text": "Za czwartym podejściem Łukasz Gibała złoży wieczorem ślubowanie przed radą miasta po wygranej w drugiej turze z wynikiem 62 proc. Wybory były konsekwencją majowego referendum, w którym odwołano Aleksandra Miszalskiego.",
-      "src": "https://www.rmf24.pl/regiony/krakow/news-do-czterech-razy-sztuka-lukasz-gibala-zostanie-dzis-zaprzysi,nIdn,1022595",
-      "srcName": "RMF24"
-    },
-    {
-      "id": "2026-10-20-wm-10",
-      "date": "2026-10-20",
-      "type": "photo",
-      "title": "Londyn, Tower Bridge",
-      "by": "Alvin Langdon Coburn, 1909",
-      "text": "Masywne wieże mostu nad Tamizą w miękkiej, piktorialnej tonacji z albumu Coburna o Londynie.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Coburn_The_Tower_bridge2.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Coburn_The_Tower_bridge2.jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-20-art-colombia-museo-nacional-removals",
@@ -979,27 +557,6 @@
       "srcName": "Stereogum"
     },
     {
-      "id": "2026-10-19-news-petersburg-drony",
-      "date": "2026-10-19",
-      "type": "news",
-      "lang": "pl",
-      "title": "Zmasowany atak dronów na Petersburg",
-      "text": "Ukraińskie drony uderzyły w niedzielę w Petersburg, gdzie zapalił się jeden z największych rosyjskich terminali naftowych, a także centrum logistyczne Ozon i serwerownia VK. Zginęła co najmniej jedna osoba, a obrona powietrzna obwodu leningradzkiego mówi o ponad 140 zestrzelonych maszynach.",
-      "src": "https://www.rmf24.pl/fakty/swiat/news-potezne-uderzenie-dronow-w-petersburg-terminal-w-ogniu-pozar,nIdn,1022359",
-      "srcName": "RMF24"
-    },
-    {
-      "id": "2026-10-19-wm-01",
-      "date": "2026-10-19",
-      "type": "photo",
-      "title": "Waszyngton, pokój w pensjonacie",
-      "by": "Esther Bubley, 1943",
-      "text": "Wojenna samotność: dziewczyna w pokoju pensjonatu, a towarzystwa dotrzymuje jej tylko radio.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/7/78/Esther_Bubley,_A_radio_is_company_for_this_girl_in_her_boardinghouse_room,_Washington,_D.C.,_1943.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Esther_Bubley,_A_radio_is_company_for_this_girl_in_her_boardinghouse_room,_Washington,_D.C.,_1943.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-19-avalanches-i-give-everything",
       "date": "2026-10-19",
       "type": "video",
@@ -1014,27 +571,6 @@
       "img": "https://images.slatecdn.net/bwQdkJL-7Zvsnexg7fuGfcY5sjrGhkSppZCyU5jUpgA/rs:fill:1200:630:1/q:80/aHR0cHM6Ly9zMy11/cy13ZXN0LTEuYW1h/em9uYXdzLmNvbS9t/ZWRpYS11cy13ZXN0/c2xhdGVhcHBjb20v/c2hvdHNtYWcvcHJv/ZHVjdGlvbi9uZXdz/LzEzNzMwMjJkLWI0/ZWUtNGNmOS04YWQz/LWU4MzAzNDgyMTMy/OC9pLWdpdmUtZXZl/cnl0aGluZy1pLWhh/dmUtMi11LWNyb3Bw/ZWQuanBn?v=1&quality=70&format=jpeg",
       "src": "https://shots.net/news/view/haley-joel-osment-delivers-the-avalanches",
       "srcName": "Shots"
-    },
-    {
-      "id": "2026-10-19-news-sikorski-hegseth",
-      "date": "2026-10-19",
-      "type": "news",
-      "lang": "pl",
-      "title": "Sikorski odpowiada Hegsethowi",
-      "text": "Szef Pentagonu Pete Hegseth zbagatelizował bojową rolę sojuszników USA w Afganistanie, co wywołało oburzenie w Polsce. Radosław Sikorski przypomniał mu o 44 polskich żołnierzach poległych w prowincji Ghazni, a szef KPRM Jan Grabiec stwierdził, że należą się przeprosiny.",
-      "src": "https://www.rmf24.pl/fakty/swiat/news-sikorski-zwrocil-sie-do-sekretarza-wojny-usa-powiedz-to-rodz,nIdn,1022404",
-      "srcName": "RMF24"
-    },
-    {
-      "id": "2026-10-19-wm-02",
-      "date": "2026-10-19",
-      "type": "photo",
-      "title": "San Francisco, róg Jackson Street",
-      "by": "Arnold Genthe, ok. 1900",
-      "text": "Przed wejściem do domu gry w starym Chinatown, jeszcze sprzed trzęsienia ziemi z 1906 roku.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gambling_hall,_Jackson_Street_corner,_Chinatown,_San_Francisco_LOC_agc.7a08913.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Gambling_hall,_Jackson_Street_corner,_Chinatown,_San_Francisco_LOC_agc.7a08913.jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-19-art-wildlife-photographer-2026",
@@ -1065,27 +601,6 @@
       "srcName": "Shots"
     },
     {
-      "id": "2026-10-19-news-zelenski-starlink-wywiad",
-      "date": "2026-10-19",
-      "type": "news",
-      "lang": "pl",
-      "title": "Zełenski: to Waszyngton ograniczył Starlinka",
-      "text": "Prezydent Ukrainy powiedział w NBC, że za ograniczeniami Starlinka stoi amerykański rząd, a USA na pewien czas wstrzymały też przekazywanie danych wywiadowczych o rosyjskich rakietach, które już wznowiono. Zełenski rozmawiał z wysłannikami Trumpa o kolejnym spotkaniu pokojowym, możliwym nawet w przyszłym tygodniu.",
-      "src": "https://www.rp.pl/konflikty-zbrojne/art45353541-zelenski-oskarza-administracje-trumpa-o-zaklocenia-starlinka-sygnal-wyszedl-od-rzadu",
-      "srcName": "Rzeczpospolita"
-    },
-    {
-      "id": "2026-10-19-wm-03",
-      "date": "2026-10-19",
-      "type": "photo",
-      "title": "Luizjana, bezrobotny traper",
-      "by": "Ben Shahn, 1935",
-      "text": "Malarz z aparatem w ręku notuje twarz kryzysu w delcie Missisipi.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9d/UnemployedTrapperPlaqueminesShahn.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:UnemployedTrapperPlaqueminesShahn.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-19-gurriers-waiting-for-fisher",
       "date": "2026-10-19",
       "type": "video",
@@ -1100,27 +615,6 @@
       "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Gurriers%20%27Waiting%20For%20Fisher%27%20by%20Thomas%20James2.png?itok=Gt2T9Edr",
       "src": "https://www.promonews.tv/videos/2026/10/06/gurriers-waiting-fisher-thomas-james/96554",
       "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-19-news-sejm-tydzien",
-      "date": "2026-10-19",
-      "type": "news",
-      "lang": "pl",
-      "title": "Gorący tydzień w Sejmie",
-      "text": "Na posiedzeniu 20-23 października posłowie zajmą się m.in. limitami wynagrodzeń medyków, dwoma projektami dotyczącymi aborcji i zdrowotną częścią budżetu na 2027 rok. PiS złożyło też wniosek o wotum nieufności wobec ministra finansów Andrzeja Domańskiego.",
-      "src": "https://www.rynekzdrowia.pl/Prawo/Wynagrodzenia-medykow-budzet-na-zdrowie-odwolanie-ministra-Gorace-dni-w-Sejmie,290081,2.html",
-      "srcName": "Rynek Zdrowia"
-    },
-    {
-      "id": "2026-10-19-wm-04",
-      "date": "2026-10-19",
-      "type": "photo",
-      "title": "Nowy Jork, McSorley's Ale House",
-      "by": "Berenice Abbott, 1937",
-      "text": "Wnętrze najstarszego irlandzkiego pubu Manhattanu, w którym czas jakby się zatrzymał.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/McSorley%27s_Ale_House,_15_East_7th_Street,_Manhattan_(NYPL_b13668355-482590).jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:McSorley%27s_Ale_House,_15_East_7th_Street,_Manhattan_(NYPL_b13668355-482590).jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-19-art-pelechian-nyff",
@@ -1150,27 +644,6 @@
       "srcName": "Wikipedia"
     },
     {
-      "id": "2026-10-19-news-litwa-alarm-dron",
-      "date": "2026-10-19",
-      "type": "news",
-      "lang": "pl",
-      "title": "Alarm powietrzny na Litwie i Łotwie",
-      "text": "W niedzielę rano Litwa ogłosiła czerwony alarm w trzech okręgach, wstrzymano loty w Kownie i Szawlach, a nad północą kraju eksplodował niezidentyfikowany obiekt, prawdopodobnie dron. Wilno zaproponowało Polsce wspólne śledztwo, choć według nieoficjalnych informacji z MON obiekt nie przeleciał przez polską przestrzeń.",
-      "src": "https://polsatnews.pl/wiadomosc/2026-10-18/alert-na-litwie-i-lotwie-czerwone-ostrzezenia-nakaz-udania-sie-do-schronu",
-      "srcName": "Polsat News"
-    },
-    {
-      "id": "2026-10-19-wm-05",
-      "date": "2026-10-19",
-      "type": "photo",
-      "title": "Paryż, kiosk na bulwarze",
-      "by": "Charles Marville, ok. 1866–70",
-      "text": "Nowe miejskie meble Haussmanna: kiosk ustawiony przy świeżo wytyczonym bulwarze.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Charles_Marville,_Promenades_de_Paris_-_Kiosques_2,_ca._1866%E2%80%9370.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Charles_Marville,_Promenades_de_Paris_-_Kiosques_2,_ca._1866%E2%80%9370.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-19-gap-denim-on-your-own",
       "date": "2026-10-19",
       "type": "video",
@@ -1186,27 +659,6 @@
       "img": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-08/Gap-Denim-On-Your-Own.w1y0VJoA.png",
       "src": "https://lbbonline.com/news/Gap-Denim-on-Your-Own-Malcolm-Todd-Inde-Navarrette",
       "srcName": "LBB Online"
-    },
-    {
-      "id": "2026-10-19-news-lublin-obiekt",
-      "date": "2026-10-19",
-      "type": "news",
-      "lang": "pl",
-      "title": "Poszukiwania obiektu pod Lublinem",
-      "text": "Po nocnych zgłoszeniach mieszkańców o głośnym latającym obiekcie wojsko, policja i żandarmeria przeszukiwały okolice na południe od Lublina, ale niczego nie znaleziono. Dowództwo Operacyjne nie potwierdziło naruszenia przestrzeni powietrznej i dopuszcza, że sygnał radarowy wywołały zjawiska pogodowe.",
-      "src": "https://polsatnews.pl/wiadomosc/2026-10-18/niezidentyfikowany-obiekt-mogl-naruszyc-polska-przestrzen-powietrzna-komunikat-wojska",
-      "srcName": "Polsat News"
-    },
-    {
-      "id": "2026-10-19-wm-06",
-      "date": "2026-10-19",
-      "type": "photo",
-      "title": "Waszyngton, „American Gothic”",
-      "by": "Gordon Parks, 1942",
-      "text": "Sprzątaczka Ella Watson z mopem i miotłą na tle amerykańskiej flagi.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gordon_Parks_-_American_Gothic.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Gordon_Parks_-_American_Gothic.jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-19-art-asics-karimoku-sofa",
@@ -1237,27 +689,6 @@
       "srcName": "Promonews"
     },
     {
-      "id": "2026-10-19-news-trump-netanjahu",
-      "date": "2026-10-19",
-      "type": "news",
-      "lang": "pl",
-      "title": "Trump popiera Netanjahu przed wyborami",
-      "text": "Na tydzień przed wyborami w Izraelu, zaplanowanymi na 27 października, Donald Trump otwarcie poparł Benjamina Netanjahu, argumentując to zagrożeniem ze strony Iranu. Sondaże dają minimalne prowadzenie centrowej partii Gadiego Eisenkota przed Likudem.",
-      "src": "https://www.rp.pl/polityka/art45353601-trump-poparl-netanjahu-wskazal-na-zagrozenie-ze-strony-iranu",
-      "srcName": "Rzeczpospolita"
-    },
-    {
-      "id": "2026-10-19-wm-07",
-      "date": "2026-10-19",
-      "type": "photo",
-      "title": "Londyn, plakatowy „wall worker”",
-      "by": "John Thomson, 1877",
-      "text": "Uliczny zarobkowicz, który żył z oklejania londyńskich murów reklamami.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Wall_Worker,_1877,_by_John_Thomson_and_Adolphe_Smith.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:The_Wall_Worker,_1877,_by_John_Thomson_and_Adolphe_Smith.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-19-kendrick-lamar-not-like-us",
       "date": "2026-10-19",
       "type": "video",
@@ -1272,27 +703,6 @@
       "img": "https://i.ytimg.com/vi/H58vbez_m4E/hqdefault.jpg",
       "src": "https://www.promonews.tv/news/2025/02/03/2025-grammys-kendrick-lamars-not-us-wins-best-music-video/89914",
       "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-19-news-tusk-migracja",
-      "date": "2026-10-19",
-      "type": "news",
-      "lang": "pl",
-      "title": "Tusk po szczycie UE o migracji",
-      "text": "Premier po powrocie z Brukseli zapowiedział, że Polska nie powtórzy migracyjnych błędów innych państw i będzie bezwzględna w sprawach bezpieczeństwa. Podczas szczytu Polska wraz z Czechami, Słowacją i Węgrami domagała się też zmian w unijnym systemie ETS i przesunięcia ETS2.",
-      "src": "https://www.rp.pl/polityka/art45353001-donald-tusk-po-szczycie-ue-polska-nie-powtorzy-bledow-innych-panstw-ws-migracji",
-      "srcName": "Rzeczpospolita"
-    },
-    {
-      "id": "2026-10-19-wm-08",
-      "date": "2026-10-19",
-      "type": "photo",
-      "title": "Teksas, dzieci przed wiejską szkołą",
-      "by": "John Vachon, 1943",
-      "text": "Rzadki kolorowy kadr z archiwum FSA/OWI: uczniowie z hrabstwa San Augustine.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/0/06/Rural_school_children,_San_Augustine_County,_Texas_(LOC_fsac.1a35425).jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Rural_school_children,_San_Augustine_County,_Texas_(LOC_fsac.1a35425).jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-19-art-hohle-fels-ice-age-birds",
@@ -1323,27 +733,6 @@
       "srcName": "Promonews"
     },
     {
-      "id": "2026-10-19-news-kanada-pozar-baza",
-      "date": "2026-10-19",
-      "type": "news",
-      "lang": "pl",
-      "title": "Tragiczny pożar w bazie wojskowej w Kanadzie",
-      "text": "W pożarze, który wybuchł podczas ćwiczeń w bazie Wainwright w Albercie, zginęło czterech żołnierzy, a dziesiątki osób trafiły do szpitali. Według resortu obrony nic nie wskazuje na zamach, a przyczyny bada wojsko.",
-      "src": "https://www.rp.pl/wypadki/art45352581-pozar-w-kanadyjskiej-bazie-wojskowej-premier-potwierdzil-smierc-czterech-zolnierzy",
-      "srcName": "Rzeczpospolita"
-    },
-    {
-      "id": "2026-10-19-wm-09",
-      "date": "2026-10-19",
-      "type": "photo",
-      "title": "Woodstock, zebranie mieszkańców",
-      "by": "Marion Post Wolcott, 1940",
-      "text": "Doroczne zebranie miasteczka w Vermont, czyli demokracja bezpośrednia w praktyce.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/5/58/Townspeople_at_town_meeting._Woodstock,_Vermont,_by_Marion_Post_Wolcott,_United_States_Office_of_War_Information,_March_1940,_from_the_Library_of_Congress_-_service-pnp-fsa-8c11000-8c11600-8c11632v.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Townspeople_at_town_meeting._Woodstock,_Vermont,_by_Marion_Post_Wolcott,_United_States_Office_of_War_Information,_March_1940,_from_the_Library_of_Congress_-_service-pnp-fsa-8c11000-8c11600-8c11632v.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-19-diiv-trillions",
       "date": "2026-10-19",
       "type": "video",
@@ -1358,27 +747,6 @@
       "img": "https://undertheradarmag.com/uploads/article_images/DIIV_Share_Video_for_New_Song_Trillions.jpg",
       "src": "https://www.undertheradarmag.com/news/diiv_share_video_for_new_song_trillions",
       "srcName": "Under the Radar"
-    },
-    {
-      "id": "2026-10-19-news-chinska-rakieta",
-      "date": "2026-10-19",
-      "type": "news",
-      "lang": "pl",
-      "title": "Człon chińskiej rakiety nad Polską",
-      "text": "W niedzielę rano nad Polską przeleciał ważący ok. 5 ton górny stopień chińskiej rakiety ZQ-2E, który kamery sieci Skytinel śledziły od Bielska-Białej po wybrzeże Szwecji. Polska Agencja Kosmiczna potwierdziła, że przelot przebiegł zgodnie z prognozami i nie groził upadkiem na terytorium kraju.",
-      "src": "https://www.rmf24.pl/fakty/polska/news-czlon-chinskiej-rakiety-przelecial-nad-polska-nasze-kamery-g,nIdn,1022390",
-      "srcName": "RMF24"
-    },
-    {
-      "id": "2026-10-19-wm-10",
-      "date": "2026-10-19",
-      "type": "photo",
-      "title": "Waszyngton, lekcja z wiatraczkami",
-      "by": "Frances Benjamin Johnston, ok. 1899",
-      "text": "Uczniowie dmuchają w papierowe wiatraczki podczas lekcji w szkole podstawowej.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Children_in_a_classroom_blowing_pinwheels_in_a_Washington,_D.C.,_grade_school_LCCN2001703714.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Children_in_a_classroom_blowing_pinwheels_in_a_Washington,_D.C.,_grade_school_LCCN2001703714.jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-19-art-cannupa-hanska-luger",
@@ -1409,17 +777,6 @@
       "srcName": "wroclaw.pl"
     },
     {
-      "id": "2026-10-19-wm-11",
-      "date": "2026-10-19",
-      "type": "photo",
-      "title": "Poranek, postać w bieli",
-      "by": "Clarence H. White, 1905",
-      "text": "Piktorialistyczny poranek: miękkie światło, postać w bieli i niemal malarski nastrój.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Clarence_Hudson_White_-_Morning_-_Google_Art_Project.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Clarence_Hudson_White_-_Morning_-_Google_Art_Project.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-19-miu-miu-fw26",
       "date": "2026-10-19",
       "type": "video",
@@ -1435,17 +792,6 @@
       "img": "https://assets.metalmagazine.eu/derived/8923814f-71ab-4b34-8bf4-bb491acebe60.webp/metal-miu-miu-f-w-2026-08-og.jpg",
       "src": "https://metalmagazine.eu/en/post/miu-miu-fw-2026-1",
       "srcName": "METAL Magazine"
-    },
-    {
-      "id": "2026-10-19-wm-12",
-      "date": "2026-10-19",
-      "type": "photo",
-      "title": "Berlin, chłopcy na podwórku",
-      "by": "Heinrich Zille, ok. 1900",
-      "text": "Ośmiu berlińskich chłopców ćwiczy stanie na rękach pod ścianą kamienicy.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/4/41/Zille,_Heinrich_-_Kinder_und_Kinderspielpl%C3%A4tze,_acht_Jungen_%C3%BCben_Handstand_(Zeno_Fotografie).jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Zille,_Heinrich_-_Kinder_und_Kinderspielpl%C3%A4tze,_acht_Jungen_%C3%BCben_Handstand_(Zeno_Fotografie).jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-19-art-roza-schleinzer",
@@ -1485,26 +831,6 @@
       "srcName": "LBB"
     },
     {
-      "id": "2026-10-18-wm-01",
-      "date": "2026-10-18",
-      "type": "photo",
-      "title": "Paryż, La Villette: kobieta w drzwiach przy rue Asselin",
-      "by": "Eugène Atget, 1921",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Eug%C3%A8ne_Atget_-_La_Villette._Rue_Asselin,_prostitute_waiting_in_front_of_her_door_-_Google_Art_Project.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Atget_-_La_Villette._Rue_Asselin,_prostitute_waiting_in_front_of_her_door_-_Google_Art_Project.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
-      "id": "2026-10-18-news-manifestacja-pis-tk",
-      "date": "2026-10-18",
-      "type": "news",
-      "lang": "pl",
-      "title": "Manifestacja PiS przed Trybunałem",
-      "text": "W sobotę przed siedzibą Trybunału Konstytucyjnego w Warszawie zebrały się tłumy zwolenników PiS z Jarosławem Kaczyńskim na czele. Protest to kolejny etap sporu o wybranego przez Sejm sędziego Macieja Berka, którego prezes TK nie dopuszcza do orzekania.",
-      "src": "https://www.rmf24.pl/fakty/polska/news-goraco-przed-trybunalem-konstytucyjnym-tu-jest-polska,nIdn,1022312",
-      "srcName": "RMF24"
-    },
-    {
       "id": "2026-10-18-art-ann-toebbe-paintings",
       "date": "2026-10-18",
       "type": "article",
@@ -1530,26 +856,6 @@
       "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Son%20Lux%20%27Out%20Into%20Us%27%20by%20Alex%20Cook.png?itok=HUXbujUc",
       "src": "https://www.promonews.tv/videos/2026/09/30/son-lux-out-us-alex-cook/96447",
       "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-18-wm-02",
-      "date": "2026-10-18",
-      "type": "photo",
-      "title": "Nowy Jork: zima na Piątej Alei",
-      "by": "Alfred Stieglitz, 1893",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/2/20/Winter_-_Fifth_Avenue_MET_DP234514.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Winter_-_Fifth_Avenue_MET_DP234514.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
-      "id": "2026-10-18-news-manewry-nato-polska",
-      "date": "2026-10-18",
-      "type": "news",
-      "lang": "pl",
-      "title": "Europejscy żołnierze na manewrach w Polsce",
-      "text": "Według brytyjskiego dziennika The Times w listopadzie co najmniej 1500 żołnierzy z Wielkiej Brytanii, Francji i Niemiec przyjedzie do Polski na specjalne ćwiczenia. Mają one przygotować europejski kontyngent do ewentualnej misji w Ukrainie po zawieszeniu broni.",
-      "src": "https://www.polsatnews.pl/wiadomosc/2026-10-17/zolnierze-nato-maja-przyjechac-do-polski-w-tle-misja-w-ukrainie/",
-      "srcName": "Polsat News"
     },
     {
       "id": "2026-10-18-art-robin-f-williams-act-natural",
@@ -1579,26 +885,6 @@
       "srcName": "Promonews"
     },
     {
-      "id": "2026-10-18-wm-03",
-      "date": "2026-10-18",
-      "type": "photo",
-      "title": "Utica: mali gazeciarze na ulicy",
-      "by": "Lewis Hine, 1910",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Lewis_Hine,_Pasquale_Lolara,_Ercola_Guallilo,_Jerry_Paciello,_Frank_Graciana,_newsboys,_Utica,_New_York,_1910.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Lewis_Hine,_Pasquale_Lolara,_Ercola_Guallilo,_Jerry_Paciello,_Frank_Graciana,_newsboys,_Utica,_New_York,_1910.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
-      "id": "2026-10-18-news-konwoj-dyplomatow-zachodni-brzeg",
-      "date": "2026-10-18",
-      "type": "news",
-      "lang": "pl",
-      "title": "Atak na konwój z polskimi dyplomatami",
-      "text": "Na Zachodnim Brzegu Jordanu zaatakowano konwój dyplomatów, w którym jechali także Polacy; nikt z nich nie ucierpiał. Polskie MSZ wskazuje na izraelskich osadników i domaga się od Izraela ukarania sprawców, a izraelski szef dyplomacji zapowiedział śledztwo.",
-      "src": "https://www.polsatnews.pl/wiadomosc/2026-10-17/konwoj-zaatakowany-na-zachodnim-brzegu-znajdowali-sie-w-nim-polacy/",
-      "srcName": "Polsat News"
-    },
-    {
       "id": "2026-10-18-pn-dfa1979-private-lives",
       "date": "2026-10-18",
       "type": "video",
@@ -1613,26 +899,6 @@
       "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Death%20From%20Above%201979%20%27Private%20Lives%27%20by%20Eva%20Michon.png?itok=4QOQH749",
       "src": "https://www.promonews.tv/videos/2026/10/05/death-above-1979-private-lives-eva-michon/96521",
       "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-18-wm-04",
-      "date": "2026-10-18",
-      "type": "photo",
-      "title": "Nowy Jork: bezdomni przed posterunkiem na Mulberry Street",
-      "by": "Jacob Riis, ok. 1890",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/1/12/Jacob_A._Riis_-_Waiting_to_Be_Let_in_the_Mulberry_Street_Station_-_Google_Art_Project.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Jacob_A._Riis_-_Waiting_to_Be_Let_in_the_Mulberry_Street_Station_-_Google_Art_Project.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
-      "id": "2026-10-18-news-ceny-paliw-maksymalne",
-      "date": "2026-10-18",
-      "type": "news",
-      "lang": "pl",
-      "title": "Niższe maksymalne ceny paliw",
-      "text": "Od soboty do poniedziałku litr benzyny 95 może kosztować najwyżej 6,89 zł, a oleju napędowego 8 zł, czyli nieco mniej niż w piątek. Limity są częścią rządowego pakietu Ceny Paliwa Niżej, finansowanego m.in. podatkiem od nadmiarowych zysków koncernów.",
-      "src": "https://www.polsatnews.pl/wiadomosc/2026-10-16/kierowcy-moga-odetchnac-z-ulga-nowe-ceny-na-stacjach-paliw-1/",
-      "srcName": "Polsat News"
     },
     {
       "id": "2026-10-18-art-objects-with-narratives-pad",
@@ -1662,26 +928,6 @@
       "srcName": "Wikipedia"
     },
     {
-      "id": "2026-10-18-wm-05",
-      "date": "2026-10-18",
-      "type": "photo",
-      "title": "Nowy Jork: niewidoma kobieta na ulicy",
-      "by": "Paul Strand, 1916",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/4/46/Blind_Woman.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Blind_Woman.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
-      "id": "2026-10-18-news-tranzyt-zboza-ukraina",
-      "date": "2026-10-18",
-      "type": "news",
-      "lang": "pl",
-      "title": "Zełenski prosi o tranzyt zboża",
-      "text": "Prezydent Ukrainy zwrócił się do Polski, Węgier, Słowacji i Rumunii o zgodę na przewóz ukraińskiego zboża przez ich terytorium do Europy Zachodniej, np. w plombowanych wagonach. Premier Węgier Péter Magyar zadeklarował, że nie widzi przeszkód, jeśli ładunek będzie tylko przejeżdżał przez kraj.",
-      "src": "https://www.rp.pl/handel/art45351551-zelenski-chce-nowego-porozumienia-w-sprawie-zboza-wegry-mowia-tak",
-      "srcName": "Rzeczpospolita"
-    },
-    {
       "id": "2026-10-18-pn-sugababes-ghost",
       "date": "2026-10-18",
       "type": "video",
@@ -1696,16 +942,6 @@
       "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Screenshot%202026-09-28%20at%2014.02.37.png?itok=IO61Fq2w",
       "src": "https://www.promonews.tv/videos/2026/09/28/sugababes-ghost-thomas-james/96432",
       "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-18-wm-06",
-      "date": "2026-10-18",
-      "type": "photo",
-      "title": "Savannah: witryna fotografa za grosze",
-      "by": "Walker Evans, 1936",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Penny_Picture_Display,_Savannah_MET_DP204586.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Penny_Picture_Display,_Savannah_MET_DP204586.jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-18-art-sewell-killingstad",
@@ -1735,26 +971,6 @@
       "srcName": "Promonews"
     },
     {
-      "id": "2026-10-18-wm-07",
-      "date": "2026-10-18",
-      "type": "photo",
-      "title": "Kalifornia: piechurzy w drodze do Los Angeles",
-      "by": "Dorothea Lange, 1937",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Toward_Los_Angeles,_California_LOC_3549663710.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Toward_Los_Angeles,_California_LOC_3549663710.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
-      "id": "2026-10-18-news-trump-sankcje-rosja",
-      "date": "2026-10-18",
-      "type": "news",
-      "lang": "pl",
-      "title": "Trump zawiesza sankcje wobec Rosji",
-      "text": "Donald Trump bronił decyzji o wstrzymaniu ceł i sankcji przewidzianych w ustawie Grahama, w tym 500-procentowych taryf na rosyjskie towary. Marco Rubio tłumaczył, że przez 60 dni Waszyngton zbada skutki tych kroków dla gospodarki, sugerując, że sprawa nie jest jeszcze ostatecznie przesądzona.",
-      "src": "https://www.wnp.pl/rynki/usa-trump-decyzja-w-sprawie-sankcji-na-rosje-dobra-dla-kraju-i-swiata,1110174.html",
-      "srcName": "wnp.pl / PAP"
-    },
-    {
       "id": "2026-10-18-childish-gambino-this-is-america",
       "date": "2026-10-18",
       "type": "video",
@@ -1771,16 +987,6 @@
       "srcName": "Wikipedia"
     },
     {
-      "id": "2026-10-18-wm-08",
-      "date": "2026-10-18",
-      "type": "photo",
-      "title": "Chicago: poczekalnia dworca Union Station",
-      "by": "Jack Delano, 1943",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Chicago,_Illinois._In_the_waiting_room_of_the_Union_Station_LOC_3548859587.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Chicago,_Illinois._In_the_waiting_room_of_the_Union_Station_LOC_3548859587.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-18-art-aeon-deskilled-bodies",
       "date": "2026-10-18",
       "type": "article",
@@ -1790,16 +996,6 @@
       "img": "https://images.aeonmedia.co/images/b060a785-e136-4e8e-bd82-6085cc21e62a/essay-final-nn11563596.jpg?width=1200&quality=75&format=jpeg",
       "src": "https://aeon.co/essays/the-more-we-rely-on-tech-the-more-we-deskill-our-bodies",
       "srcName": "Aeon"
-    },
-    {
-      "id": "2026-10-18-news-moskwa-lotniska-drony",
-      "date": "2026-10-18",
-      "type": "news",
-      "lang": "pl",
-      "title": "Paraliż moskiewskich lotnisk",
-      "text": "Z powodu zagrożenia dronami lotniska pod Moskwą przez wiele godzin nie przyjmowały samolotów, a od piątku opóźniono lub odwołano ponad 350 lotów. To już czwarte takie zakłócenie w ciągu tygodnia.",
-      "src": "https://www.rmf24.pl/fakty/swiat/news-pieklo-moskiewskie-lotniska-zostaly-sparalizowane,nIdn,1022338",
-      "srcName": "RMF24"
     },
     {
       "id": "2026-10-18-pn-pretty-sick-anarchy",
@@ -1816,26 +1012,6 @@
       "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Pretty%20Sick%20%27Anarchy%27%20by%20Rodrigo%20Inada.png?itok=sf9X_vAs",
       "src": "https://www.promonews.tv/videos/2026/10/07/pretty-sick-anarchy-rodrigo-inada/96552",
       "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-18-wm-09",
-      "date": "2026-10-18",
-      "type": "photo",
-      "title": "Oklahoma: farmer z synami w burzy pyłowej",
-      "by": "Arthur Rothstein, 1936",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Farmer_walking_in_dust_storm_Cimarron_County_Oklahoma.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Farmer_walking_in_dust_storm_Cimarron_County_Oklahoma.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
-      "id": "2026-10-18-news-onz-ofiary-cywilne-ukraina",
-      "date": "2026-10-18",
-      "type": "news",
-      "lang": "pl",
-      "title": "Rośnie liczba ofiar cywilnych w Ukrainie",
-      "text": "Według misji ONZ we wrześniu w Ukrainie zginęło co najmniej 328 cywilów, a ponad 2,1 tys. zostało rannych, o 85 proc. więcej niż rok wcześniej. Początek października był jednym z najtragiczniejszych okresów od lat, a ataki na energetykę zostawiły setki tysięcy kijowian bez prądu.",
-      "src": "https://www.polsatnews.pl/wiadomosc/2026-10-17/tragiczny-miesiac-dla-ukrainy-rosyjskie-ataki-zbieraja-straszliwe-zniwo/",
-      "srcName": "Polsat News"
     },
     {
       "id": "2026-10-18-art-punk-na-lemkowszczyznie",
@@ -1864,26 +1040,6 @@
       "srcName": "Promonews"
     },
     {
-      "id": "2026-10-18-wm-10",
-      "date": "2026-10-18",
-      "type": "photo",
-      "title": "Kierowca Greyhounda w noclegowni dla kierowców",
-      "by": "Esther Bubley, 1943",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/8/88/A_Greyhound_bus_driver_signing_in_for_a_bed_at_the_dormitory_8d32954v.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:A_Greyhound_bus_driver_signing_in_for_a_bed_at_the_dormitory_8d32954v.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
-      "id": "2026-10-18-news-kijow-protest-kliczko",
-      "date": "2026-10-18",
-      "type": "news",
-      "lang": "pl",
-      "title": "Kijowianie żądają dymisji Kliczki",
-      "text": "Kilkaset osób protestowało w centrum Kijowa, domagając się odejścia mera Witalija Kliczki. Zarzucają mu złe przygotowanie miasta do wojennej zimy, brak schronów i zasilania awaryjnego oraz korupcję.",
-      "src": "https://www.rmf24.pl/fakty/swiat/news-kijow-bez-kliczki-manifestacja-w-centrum-stolicy-ukrainy,nIdn,1022303",
-      "srcName": "RMF24"
-    },
-    {
       "id": "2026-10-18-syny-nag-champa",
       "date": "2026-10-18",
       "type": "video",
@@ -1900,16 +1056,6 @@
       "srcName": "Platige Image"
     },
     {
-      "id": "2026-10-18-wm-11",
-      "date": "2026-10-18",
-      "type": "photo",
-      "title": "Los Angeles: japońsko-amerykańska rodzina przed przesiedleniem",
-      "by": "Russell Lee, 1942",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Russell_Lee,_Japanese-American_family_waiting_for_relocation,_Los_Angeles,_1942.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Russell_Lee,_Japanese-American_family_waiting_for_relocation,_Los_Angeles,_1942.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-18-art-polski-plakat-warda",
       "date": "2026-10-18",
       "type": "article",
@@ -1918,16 +1064,6 @@
       "text": "Michał Warda, kurator Muzeum Plakatu w Wilanowie, opowiada, jak zabory, wojna, cenzura PRL i transformacja kształtowały polski plakat. Rozmowa dotyka też plakatów cyfrowych i nowej wystawy stałej muzeum.",
       "src": "https://www.dwutygodnik.com/artykul/12710-szybko-utracona-niewinnosc.html",
       "srcName": "Dwutygodnik"
-    },
-    {
-      "id": "2026-10-18-news-francja-protesty-drozyzna",
-      "date": "2026-10-18",
-      "type": "news",
-      "lang": "pl",
-      "title": "Protesty przeciw drożyźnie we Francji",
-      "text": "Dziesiątki tysięcy Francuzów wyszły w sobotę na ulice, protestując przeciw rosnącym kosztom życia, w nawiązaniu do ruchu żółtych kamizelek. W Paryżu policja użyła gazu łzawiącego, w Marsylii demonstranci wdarli się do ratusza, a dziesiątki osób zatrzymano.",
-      "src": "https://www.polsatnews.pl/wiadomosc/2026-10-17/chaos-na-ulicach-we-francji-policja-starla-sie-z-protestujacymi/",
-      "srcName": "Polsat News"
     },
     {
       "id": "2026-10-18-cgm-livka-poza-toba-nic",
@@ -1944,16 +1080,6 @@
       "img": "https://cgm.pl/wp-content/uploads/2026/08/livka-poza-toba-nic-scaled.jpg",
       "src": "https://cgm.pl/news/livka-otwiera-nowy-rozdzial-solowej-kariery-znakomitym-teledyskiem-do-singla-poza-toba-nic/",
       "srcName": "CGM.pl"
-    },
-    {
-      "id": "2026-10-18-wm-12",
-      "date": "2026-10-18",
-      "type": "photo",
-      "title": "Pokład trzeciej klasy na transatlantyku",
-      "by": "Alfred Stieglitz, 1907",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Alfred_Stieglitz_-_The_Steerage_-_Google_Art_Project.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Alfred_Stieglitz_-_The_Steerage_-_Google_Art_Project.jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-17-sotw-distance-sky",
@@ -1973,26 +1099,6 @@
       "srcName": "Short of the Week"
     },
     {
-      "id": "2026-10-17-news-papiez-operacja",
-      "date": "2026-10-17",
-      "type": "news",
-      "lang": "pl",
-      "title": "Papież Leon XIV po operacji płuca",
-      "text": "W poniedziałek chirurdzy z kliniki Gemelli usunęli papieżowi dolny płat prawego płuca, a badanie potwierdziło nowotwór złośliwy. Watykan mówi o rekonwalescencji bez powikłań; pobyt w szpitalu ma potrwać około tygodnia, audiencje odwołano do 20 października.",
-      "src": "https://www.eska.pl/news/swiat/papiez-leon-xiv-ma-raka-oto-najnowszy-komunikat-chodzi-o-noc-aa-Ma9D-cPKF-fpQz.html",
-      "srcName": "Eska.pl"
-    },
-    {
-      "id": "2026-10-17-wm-01",
-      "date": "2026-10-17",
-      "type": "photo",
-      "title": "Rue des Marmousets, Paryż przed Haussmannem",
-      "by": "Charles Marville, ok. 1853–70",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Charles_Marville,_Rue_des_Marmousets,_ca._1853%E2%80%9370.jpg/1280px-Charles_Marville,_Rue_des_Marmousets,_ca._1853%E2%80%9370.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Charles_Marville,_Rue_des_Marmousets,_ca._1853%E2%80%9370.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-17-pn-phoebe-bridgers-cant-wait",
       "date": "2026-10-17",
       "type": "video",
@@ -2009,26 +1115,6 @@
       "srcName": "Promonews"
     },
     {
-      "id": "2026-10-17-news-szczyt-ue",
-      "date": "2026-10-17",
-      "type": "news",
-      "lang": "pl",
-      "title": "Szczyt UE: Ukraina, budżet i sankcje",
-      "text": "Przywódcy Unii zakończyli w piątek dwudniowy szczyt w Brukseli. Poparli gwarancje bezpieczeństwa dla Ukrainy i 21. pakiet sankcji wobec Rosji, a negocjacje nowego wieloletniego budżetu mają się zamknąć do końca roku.",
-      "src": "https://www.consilium.europa.eu/en/meetings/european-council/2026/10/15-16/",
-      "srcName": "Rada Europejska"
-    },
-    {
-      "id": "2026-10-17-wm-02",
-      "date": "2026-10-17",
-      "type": "photo",
-      "title": "Ulica malowanych balkonów, Chinatown",
-      "by": "Arnold Genthe, ok. 1900",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_street_of_painted_balconies,_Chinatown,_San_Francisco_LOC_agc.7a08981.jpg/1280px-The_street_of_painted_balconies,_Chinatown,_San_Francisco_LOC_agc.7a08981.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:The_street_of_painted_balconies,_Chinatown,_San_Francisco_LOC_agc.7a08981.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-17-art-boogert-colors",
       "date": "2026-10-17",
       "type": "article",
@@ -2037,16 +1123,6 @@
       "text": "In 1692 a Dutchman known only as A. Boogert hand-painted a one-off manual on mixing watercolours, with hundreds of swatches. The whole book is now scanned in high resolution and reads like a Pantone catalogue three centuries early.",
       "src": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
       "srcName": "Open Culture"
-    },
-    {
-      "id": "2026-10-17-news-nisko-strazacy",
-      "date": "2026-10-17",
-      "type": "news",
-      "lang": "pl",
-      "title": "Nisko: w pożarze magazynu zginęło dwóch strażaków",
-      "text": "Pożar hali z częściami do ciągników wybuchł w piątek rano i został opanowany, trwa dogaszanie. W trakcie akcji zginęło dwóch strażaków.",
-      "src": "https://nowiny24.pl/tragiczny-pozar-magazynu-w-nisku-nie-zyje-dwoch-strazakow-sp-bartlomiej-i-sp-wojciech-poniesli-najwyzsza-cene/ar/c1p2-29444175",
-      "srcName": "Nowiny24"
     },
     {
       "id": "2026-10-17-pn-jamie-t-waist",
@@ -2066,26 +1142,6 @@
       "srcName": "Promonews"
     },
     {
-      "id": "2026-10-17-wm-03",
-      "date": "2026-10-17",
-      "type": "photo",
-      "title": "Londyńscy wędrowcy, wóz na przedmieściu",
-      "by": "John Thomson, 1877",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/John_Thomson_(Scottish,_1837-1921)_-_London_Nomades_-_2019.48_-_Cleveland_Museum_of_Art.jpg/1280px-John_Thomson_(Scottish,_1837-1921)_-_London_Nomades_-_2019.48_-_Cleveland_Museum_of_Art.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:John_Thomson_(Scottish,_1837-1921)_-_London_Nomades_-_2019.48_-_Cleveland_Museum_of_Art.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
-      "id": "2026-10-17-news-ukraina-patrioty",
-      "date": "2026-10-17",
-      "type": "news",
-      "lang": "pl",
-      "title": "Ukrainie skończyły się pociski do Patriotów",
-      "text": "Według źródła CNN Kijów wyczerpał zapas rakiet do amerykańskich systemów Patriot. Przez to podczas ostatniego ataku prawie żaden rosyjski pocisk balistyczny nie został przechwycony.",
-      "src": "https://edition.cnn.com/2026/10/15/europe/ukraine-us-patriot-interceptor-missiles-run-out-intl",
-      "srcName": "CNN"
-    },
-    {
       "id": "2026-10-17-art-rudnick-arsenal",
       "date": "2026-10-17",
       "type": "article",
@@ -2095,16 +1151,6 @@
       "img": "https://m.itsnicethat.com/original_images/Arsenal_Rocastle_16x9_001.png?class=w1440",
       "src": "https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026",
       "srcName": "It's Nice That"
-    },
-    {
-      "id": "2026-10-17-wm-04",
-      "date": "2026-10-17",
-      "type": "photo",
-      "title": "„Ośmiornica” – Madison Square z góry",
-      "by": "Alvin Langdon Coburn, 1912",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alvin_Langdon_Coburn_-_The_Octopus,_New_York_-_Google_Art_Project.jpg/1280px-Alvin_Langdon_Coburn_-_The_Octopus,_New_York_-_Google_Art_Project.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Alvin_Langdon_Coburn_-_The_Octopus,_New_York_-_Google_Art_Project.jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-17-pn-miss-madeline-moon",
@@ -2124,16 +1170,6 @@
       "srcName": "Promonews"
     },
     {
-      "id": "2026-10-17-news-wroclaw-bomba",
-      "date": "2026-10-17",
-      "type": "news",
-      "lang": "pl",
-      "title": "Wrocław: niewybuch w centrum, ewakuacja ok. 3 tys. osób",
-      "text": "Na budowie przy ul. Kolejowej znaleziono niemiecką bombę lotniczą SC 250 z czasów wojny. Jej usunięcie będzie wymagało ewakuacji okolicznych budynków.",
-      "src": "https://gazetawroclawska.pl/niemiecka-bomba-lotnicza-w-centrum-wroclawia-wazy-az-cwierc-tony-bedzie-wielka-ewakuacja-ok-3000-ludzi/ar/c1p2-29442169",
-      "srcName": "Gazeta Wrocławska"
-    },
-    {
       "id": "2026-10-17-sotw-one-of-those",
       "date": "2026-10-17",
       "type": "video",
@@ -2149,26 +1185,6 @@
       "img": "https://static.shortoftheweek.com/wp-content/uploads/2026/10/one-of-those-short-film.jpeg",
       "src": "https://www.shortoftheweek.com/2026/10/08/one-of-those",
       "srcName": "Short of the Week"
-    },
-    {
-      "id": "2026-10-17-news-iran-paliwo",
-      "date": "2026-10-17",
-      "type": "news",
-      "lang": "pl",
-      "title": "Iran wysyła paliwo mimo blokady USA",
-      "text": "Dane żeglugowe pokazują, że od lipca z Zatoki Omańskiej wypłynęło co najmniej osiem tankowców z irańskim LPG i paliwem lotniczym. Amerykańska blokada morska okazuje się więc nieszczelna.",
-      "src": "https://www.reuters.com/business/energy/iran-ships-some-lpg-jet-fuel-despite-us-blockade-data-shows-2026-10-16/",
-      "srcName": "Reuters"
-    },
-    {
-      "id": "2026-10-17-wm-05",
-      "date": "2026-10-17",
-      "type": "photo",
-      "title": "Gazeciarz w Harlemie",
-      "by": "Gordon Parks, 1943",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Harlem-newsboy-May-1943.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Harlem-newsboy-May-1943.jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-17-pn-rose-gray-blink-twice",
@@ -2187,26 +1203,6 @@
       "srcName": "Promonews"
     },
     {
-      "id": "2026-10-17-news-jemen-aden",
-      "date": "2026-10-17",
-      "type": "news",
-      "lang": "pl",
-      "title": "Jemen: atak Huti na pałac rządowy w Adenie",
-      "text": "Rebelianci uderzyli w siedzibę uznawanego międzynarodowo rządu; zginęło pięć osób, co najmniej 16 jest rannych. Premier nie ucierpiał.",
-      "src": "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html",
-      "srcName": "New York Times"
-    },
-    {
-      "id": "2026-10-17-wm-06",
-      "date": "2026-10-17",
-      "type": "photo",
-      "title": "Rue Tirechape od strony Rivoli",
-      "by": "Charles Marville, ok. 1853–70",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Charles_Marville,_Rue_Tirechape,_de_la_rue_de_Rivoli,_ca._1853%E2%80%9370.jpg/1280px-Charles_Marville,_Rue_Tirechape,_de_la_rue_de_Rivoli,_ca._1853%E2%80%9370.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Charles_Marville,_Rue_Tirechape,_de_la_rue_de_Rivoli,_ca._1853%E2%80%9370.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-17-art-byrne-sleeping-beauties",
       "date": "2026-10-17",
       "type": "article",
@@ -2215,16 +1211,6 @@
       "text": "The Talking Heads frontman's new book looks at why good ideas fall out of fashion and get rediscovered decades later. His examples range from Vermeer to Roman concrete and dark matter.",
       "src": "https://www.openculture.com/2026/10/david-byrnes-new-book-explores-the-strange-afterlife-of-good-ideas.html",
       "srcName": "Open Culture"
-    },
-    {
-      "id": "2026-10-17-news-brazylia-meta",
-      "date": "2026-10-17",
-      "type": "news",
-      "lang": "pl",
-      "title": "Brazylia: sąd wyborczy kontra Meta",
-      "text": "Przed drugą turą wyborów prezydenckich 25 października sąd nakazał Mecie równe traktowanie obu kandydatów pod groźbą dziennej kary. Skargę złożył prezydent Lula, zarzucając firmie faworyzowanie Flávia Bolsonaro.",
-      "src": "https://apnews.com/article/brazil-lula-meta-complaint-electoral-court-42270ca42bf27b3c9c30d73961759bc9",
-      "srcName": "AP"
     },
     {
       "id": "2026-10-17-papaya-malasana",
@@ -2242,26 +1228,6 @@
       "srcName": "YouTube · Deutsche Grammophon"
     },
     {
-      "id": "2026-10-17-wm-07",
-      "date": "2026-10-17",
-      "type": "photo",
-      "title": "Sobotni wieczór w juke joincie pod Clarksdale",
-      "by": "Marion Post Wolcott, 1939",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Jitterbugging_in_Negro_juke_joint,_Saturday_evening,_outside_Clarksdale,_Mississippi_LOC_3549665322.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Jitterbugging_in_Negro_juke_joint,_Saturday_evening,_outside_Clarksdale,_Mississippi_LOC_3549665322.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
-      "id": "2026-10-17-news-alberta-glosowanie",
-      "date": "2026-10-17",
-      "type": "news",
-      "lang": "pl",
-      "title": "Alberta zagłosuje w sprawie drogi do separacji",
-      "text": "W poniedziałek mieszkańcy prowincji zdecydują, czy zacząć procedurę prowadzącą do referendum o odłączeniu od Kanady. Premier Mark Carney ostrzegał na wiecu w Calgary, że USA chcą osłabić kraj.",
-      "src": "https://apnews.com/article/canada-alberta-carney-separation-vote-referendum-4e39eb0f5bda2438b3c2fedbf6088d09",
-      "srcName": "AP"
-    },
-    {
       "id": "2026-10-17-art-foam-25",
       "date": "2026-10-17",
       "type": "article",
@@ -2270,16 +1236,6 @@
       "text": "Foam's editor and former art director talk about how the Amsterdam photo magazine keeps reinventing its look. Themed issues, archive images and a constant focus on the photograph itself.",
       "src": "https://www.itsnicethat.com/articles/nicer-tuesdays-london-september-foam-magazine-151026",
       "srcName": "It's Nice That"
-    },
-    {
-      "id": "2026-10-17-wm-08",
-      "date": "2026-10-17",
-      "type": "photo",
-      "title": "Kolejka po pracę przed biurem FERA, Nowy Orlean",
-      "by": "Ben Shahn, 1935",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/6/62/FERA_New_Orleans_1935_Looking.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:FERA_New_Orleans_1935_Looking.jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-17-papaya-tam-gdzie-wy",
@@ -2297,36 +1253,6 @@
       "srcName": "Papaya Films"
     },
     {
-      "id": "2026-10-17-news-swiat-sobota",
-      "date": "2026-10-17",
-      "type": "news",
-      "lang": "pl",
-      "title": "Sobota na świecie: protesty we Francji, wybory w Czechach",
-      "text": "We Francji trwają ogólnokrajowe protesty przeciw kosztom życia i cenom paliw, choć bez udziału największych związków. W Czechach kończy się druga tura częściowych wyborów do Senatu.",
-      "src": "https://www.wnp.pl/polityka-i-sondaze/dzis-sobota-17-pazdziernika-na-swiecie,1110016.html",
-      "srcName": "WNP.pl"
-    },
-    {
-      "id": "2026-10-17-wm-09",
-      "date": "2026-10-17",
-      "type": "photo",
-      "title": "Sprzedawca warzyw w Chinatown",
-      "by": "Arnold Genthe, ok. 1900",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_vegetable_peddler,_Chinatown,_San_Francisco_LOC_agc.7a09129.jpg/1280px-The_vegetable_peddler,_Chinatown,_San_Francisco_LOC_agc.7a09129.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:The_vegetable_peddler,_Chinatown,_San_Francisco_LOC_agc.7a09129.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
-      "id": "2026-10-17-wm-10",
-      "date": "2026-10-17",
-      "type": "photo",
-      "title": "Skrzyżowanie na Friedrichstraße, Berlin",
-      "by": "Heinrich Zille, ok. 1900",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Zille,_Heinrich_-_Berlin_%E2%80%93_Stra%C3%9Fen_und_Stra%C3%9Fenszenen,_auf_einer_Kreuzung_der_Friedrichstra%C3%9Fe_(Zeno_Fotografie).jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Zille,_Heinrich_-_Berlin_%E2%80%93_Stra%C3%9Fen_und_Stra%C3%9Fenszenen,_auf_einer_Kreuzung_der_Friedrichstra%C3%9Fe_(Zeno_Fotografie).jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-17-art-jo-bonger",
       "date": "2026-10-17",
       "type": "article",
@@ -2335,16 +1261,6 @@
       "text": "After Vincent and Theo died, Theo's widow Jo Bonger kept the paintings, organised shows and published the letters. Her 1905 exhibition in Amsterdam is still the largest van Gogh show ever held.",
       "src": "https://www.openculture.com/2026/10/how-vincent-van-goghs-sister-in-law-worked-tirelessly-to-make-him-famous.html",
       "srcName": "Open Culture"
-    },
-    {
-      "id": "2026-10-17-wm-11",
-      "date": "2026-10-17",
-      "type": "photo",
-      "title": "Witryny przy Lenox Avenue, Harlem",
-      "by": "Berenice Abbott, 1938",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Harlem_Street-_II._422-424_Lenox_Avenue,_Manhattan_(NYPL_b13668355-482597).jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Harlem_Street-_II._422-424_Lenox_Avenue,_Manhattan_(NYPL_b13668355-482597).jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-17-art-amok-island",
@@ -2356,16 +1272,6 @@
       "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/amok-8.jpeg",
       "src": "https://www.thisiscolossal.com/2026/10/amok-island-geometric-nature-murals/",
       "srcName": "Colossal"
-    },
-    {
-      "id": "2026-10-17-wm-12",
-      "date": "2026-10-17",
-      "type": "photo",
-      "title": "Szyld przy drodze, parafia Plaquemines",
-      "by": "John Vachon, 1943",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Plaquemines_Parish_1943_E_Riche_Sign_Shack_by_Vachon.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Plaquemines_Parish_1943_E_Riche_Sign_Shack_by_Vachon.jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-17-art-midnight-parasites",
@@ -2415,26 +1321,6 @@
       "srcName": "Directors Notes"
     },
     {
-      "id": "2026-10-16-bjp-sanle-sory",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Sanlé Sory – kolor w The Photographers' Gallery",
-      "by": "Sanlé Sory",
-      "img": "https://www.1854.photography/wp-content/uploads/2026/09/SSc-0065.jpg",
-      "src": "https://www.1854.photography/2026/10/sanle-sory/",
-      "srcName": "British Journal of Photography"
-    },
-    {
-      "id": "2026-10-16-wm-01",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Terminal",
-      "by": "Alfred Stieglitz, 1893",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/The_Terminal_MET_DP232986.jpg/1280px-The_Terminal_MET_DP232986.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:The_Terminal_MET_DP232986.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-16-mv-tinariwen",
       "date": "2026-10-16",
       "type": "video",
@@ -2449,26 +1335,6 @@
       "dur": 221,
       "src": "https://www.promonews.tv/videos/2026/10/14/tinariwen-erghad-afewo-axel-digoix/96384",
       "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-16-bjp-iwane-ai",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Iwane Ai – A New River (Kyotographie)",
-      "by": "Iwane Ai",
-      "img": "https://www.1854.photography/wp-content/uploads/2026/10/From-the-series-A-NEW-RIVER-c-Iwane-Ai.jpg",
-      "src": "https://www.1854.photography/2026/10/last-chance-to-see-kyotographie-kawada-kikuji-x-iwane-ai/",
-      "srcName": "British Journal of Photography"
-    },
-    {
-      "id": "2026-10-16-wm-02",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Wall Street",
-      "by": "Paul Strand, 1915",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wall_Street_by_Paul_Strand%2C_1915.jpg/1280px-Wall_Street_by_Paul_Strand%2C_1915.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Wall_Street_by_Paul_Strand,_1915.jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-16-art-montblanc",
@@ -2497,26 +1363,6 @@
       "srcName": "Promonews"
     },
     {
-      "id": "2026-10-16-bjp-heinrich",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Doble perfil – piktorializm w Tate Modern",
-      "by": "Annemarie Heinrich, 1942",
-      "img": "https://www.1854.photography/wp-content/uploads/2026/09/Annemarie-Heinrich-Doble-perfil-1942.-Poniatowksi-Collection.jpg",
-      "src": "https://www.1854.photography/2026/10/tate-modern-explores-the-history-of-pictorialism-in-major-exhibition/",
-      "srcName": "British Journal of Photography"
-    },
-    {
-      "id": "2026-10-16-wm-03",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Blossom Restaurant, Bowery",
-      "by": "Berenice Abbott, 1935",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Blossom_Restaurant%3B_103_Bowery_by_Berenice_Abbott_in_1935.jpg/1280px-Blossom_Restaurant%3B_103_Bowery_by_Berenice_Abbott_in_1935.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Blossom_Restaurant;_103_Bowery_by_Berenice_Abbott_in_1935.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-16-dn-busy-bodies",
       "date": "2026-10-16",
       "type": "video",
@@ -2532,16 +1378,6 @@
       "img": "https://directorsnotes.com/wp-content/uploads/2026/10/busy_bodies_01.jpg",
       "src": "https://directorsnotes.com/2026/10/01/kate-renshaw-lewis-busy-bodies/",
       "srcName": "Directors Notes"
-    },
-    {
-      "id": "2026-10-16-wm-04",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Podwórze, rue de Valence",
-      "by": "Eugène Atget, 1922",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cour%2C_rue_de_Valence_MET_DP112707.jpg/1280px-Cour%2C_rue_de_Valence_MET_DP112707.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Cour,_rue_de_Valence_MET_DP112707.jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-16-art-stirling-2026",
@@ -2570,16 +1406,6 @@
       "srcName": "Promonews"
     },
     {
-      "id": "2026-10-16-wm-05",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Gazeciarze, St. Louis",
-      "by": "Lewis Hine, 1910",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Lewis_Hine%2C_Newsies_smoking_at_Skeeter%27s_Branch%2C_St._Louis%2C_1910.jpg/1280px-Lewis_Hine%2C_Newsies_smoking_at_Skeeter%27s_Branch%2C_St._Louis%2C_1910.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Lewis_Hine,_Newsies_smoking_at_Skeeter%27s_Branch,_St._Louis,_1910.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-16-dn-dont-puke",
       "date": "2026-10-16",
       "type": "video",
@@ -2595,16 +1421,6 @@
       "img": "https://directorsnotes.com/wp-content/uploads/2026/09/dont_puke_01.jpg",
       "src": "https://directorsnotes.com/2026/10/05/daniel-chisholm-dont-puke/",
       "srcName": "Directors Notes"
-    },
-    {
-      "id": "2026-10-16-wm-06",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Stacja rozrządowa, Chicago",
-      "by": "Jack Delano, 1942",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/C%26NWRR_Proviso_yard_fsac.1a34627u.jpg/1280px-C%26NWRR_Proviso_yard_fsac.1a34627u.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:C%26NWRR_Proviso_yard_fsac.1a34627u.jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-16-art-tate-90s",
@@ -2633,16 +1449,6 @@
       "srcName": "Promonews"
     },
     {
-      "id": "2026-10-16-wm-07",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Mężczyzna przed kinem, Omar",
-      "by": "Walker Evans, 1935",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/-Man_Standing_in_Front_of_Movie_Theater%2C_Omar%2C_West_Virginia-_MET_PH8827.jpg/1280px--Man_Standing_in_Front_of_Movie_Theater%2C_Omar%2C_West_Virginia-_MET_PH8827.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:-Man_Standing_in_Front_of_Movie_Theater,_Omar,_West_Virginia-_MET_PH8827.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
       "id": "2026-10-16-mv-lil-nas-x",
       "date": "2026-10-16",
       "type": "video",
@@ -2657,16 +1463,6 @@
       "dur": 369,
       "src": "https://www.promonews.tv/videos/2026/10/12/lil-nas-x-world%E2%80%99s-greatest-phillip-youmans/96606",
       "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-16-wm-08",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Bandits' Roost, Mulberry Street",
-      "by": "Jacob Riis, 1888",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandits%27_Roost%2C_59_1-2_Mulberry_Street_by_Jacob_August_Riis%2C_1888.jpg/1280px-Bandits%27_Roost%2C_59_1-2_Mulberry_Street_by_Jacob_August_Riis%2C_1888.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Bandits%27_Roost,_59_1-2_Mulberry_Street_by_Jacob_August_Riis,_1888.jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-16-art-frieze",
@@ -2693,46 +1489,6 @@
       "dur": 258,
       "src": "https://www.promonews.tv/videos/2026/10/14/knats-bowling-ball-lulu-vicedomini/96405",
       "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-16-wm-09",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Pike i Henry Street",
-      "by": "Berenice Abbott, 1936",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pike_and_Henry_Street_by_Berenice_Abbott_in_1936.jpg/1280px-Pike_and_Henry_Street_by_Berenice_Abbott_in_1936.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Pike_and_Henry_Street_by_Berenice_Abbott_in_1936.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
-      "id": "2026-10-16-wm-10",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Śpiewające dzieci, Pie Town",
-      "by": "Russell Lee, 1940",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/School_children_singing%2C_Pie_Town%2C_New_Mexico_LOC_2178353269.jpg/1280px-School_children_singing%2C_Pie_Town%2C_New_Mexico_LOC_2178353269.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:School_children_singing,_Pie_Town,_New_Mexico_LOC_2178353269.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
-      "id": "2026-10-16-wm-11",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "97 rue du Bac",
-      "by": "Eugène Atget, 1903",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/97_Rue_du_Bac_MET_DP124786.jpg/1280px-97_Rue_du_Bac_MET_DP124786.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:97_Rue_du_Bac_MET_DP124786.jpg",
-      "srcName": "Wikimedia Commons"
-    },
-    {
-      "id": "2026-10-16-wm-12",
-      "date": "2026-10-16",
-      "type": "photo",
-      "title": "Matka migrantka",
-      "by": "Dorothea Lange, 1936",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Lange-MigrantMother02.jpg/1280px-Lange-MigrantMother02.jpg",
-      "src": "https://commons.wikimedia.org/wiki/File:Lange-MigrantMother02.jpg",
-      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-16-art-wright-planetarium",
