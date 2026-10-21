@@ -1,6 +1,499 @@
 {
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "items": [
+    {
+      "id": "2026-10-21-u2-greatest-show-on-earth",
+      "date": "2026-10-21",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "U2 – „The Greatest Show On Earth”",
+      "by": "reż. Anton Corbijn (Merman)",
+      "text": "Corbijn zamienia U2 w wędrowną trupę cyrkową uwięzioną na kalifornijskiej pustyni: Bono jako konferansjer, reszta zespołu w gipsowych maskach, a ku nim ciągną kobiety niosące przedmioty z domów. Czarno-biały, elegijny western z przymrużeniem oka, sfotografowany przez Phedona Papamichaela.",
+      "embed": {
+        "p": "yt",
+        "id": "TUuVOW7XogA"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/U2%20%27The%20Greatest%20Show%20On%20Earth%27%20by%20Anton%20Corbijn.png?itok=vbrDdFIB",
+      "src": "https://www.promonews.tv/videos/2026/10/20/u2-greatest-show-earth-anton-corbijn/96673",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-21-news-sejm-aborcja",
+      "date": "2026-10-21",
+      "type": "news",
+      "lang": "pl",
+      "title": "Sejm za częściową dekryminalizacją aborcji",
+      "text": "Posłowie minimalną większością (217 do 213) zdecydowali, że pomoc w przerwaniu ciąży za zgodą kobiety przestanie być przestępstwem; przyjęli też projekt przywracający przesłankę ciężkiej wady płodu, usuniętą wyrokiem TK z 2020 r. Ustawy trafią teraz do dalszych etapów procesu legislacyjnego.",
+      "src": "https://www.rmf24.pl/fakty/polityka/news-dekryminalizacja-aborcji-sejm-zaglosowal-za-drugi-projekt-ro,nIdn,1022726",
+      "srcName": "RMF24"
+    },
+    {
+      "id": "2026-10-21-wm-01",
+      "date": "2026-10-21",
+      "type": "photo",
+      "title": "Rome (Georgia): poczekalnia dla „kolorowych”",
+      "by": "Esther Bubley, 1943",
+      "text": "Szyld nad drzwiami dworca autobusowego Greyhound wskazuje osobną poczekalnię dla czarnoskórych podróżnych. Bubley uchwyciła codzienną twarz segregacji podczas swojej podróży autobusem przez Południe.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/1943_Colored_Waiting_Room_Sign.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:1943_Colored_Waiting_Room_Sign.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-21-joy-crookes-painkiller",
+      "date": "2026-10-21",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Joy Crookes ft. Denzel Curry – „Painkiller”",
+      "by": "reż. Ethan & Tom (Partizan)",
+      "text": "Narracyjny klip śledzi Joy Crookes w Chicago, gdzie romans z ulicznie wyłowionym amantem powoli traci urok, a pewność siebie bohaterki topnieje. Zwrotkę Denzela Curry’ego oglądamy na ekranie karaoke, a obraz przeskakuje między ulicą a zdegradowaną fakturą starej taśmy.",
+      "embed": {
+        "p": "yt",
+        "id": "lz1R_bQqjiA"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Joy%20Crookes%20ft%20Denzel%20Curry%20%27Painkiller%27%20by%20Ethan%20%26%20Tom3.png?itok=F6w_7Gi2",
+      "src": "https://www.promonews.tv/videos/2026/09/16/joy-crookes-ft-denzel-curry-painkiller-ethan-tom/96277",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-21-news-domanski-zostaje",
+      "date": "2026-10-21",
+      "type": "news",
+      "lang": "pl",
+      "title": "Domański obronił się w Sejmie, Tusk chce go zrobić wicepremierem",
+      "text": "Wniosek PiS o wotum nieufności wobec ministra finansów i gospodarki poparło tylko 204 posłów, przeciw było 234. Premier zapowiedział, że poprosi prezydenta Nawrockiego o powołanie Andrzeja Domańskiego na wicepremiera.",
+      "src": "https://www.rmf24.pl/fakty/polityka/news-minister-finansow-zostaje-bedzie-wicepremierem,nIdn,1022714",
+      "srcName": "RMF24"
+    },
+    {
+      "id": "2026-10-21-wm-02",
+      "date": "2026-10-21",
+      "type": "photo",
+      "title": "Chinatown w San Francisco: kupiec z ochroniarzem",
+      "by": "Arnold Genthe, 1896–1906",
+      "text": "Zamożny kupiec idzie ulicą starego Chinatown w towarzystwie ochroniarza. Genthe fotografował dzielnicę ukradkiem, zanim trzęsienie ziemi w 1906 roku zmiotło ją z powierzchni.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Arnold_Genthe_-_Merchant_and_Body_Guard,_Old_Chinatown,_San_Francisco_-_Google_Art_Project.jpg/1280px-Arnold_Genthe_-_Merchant_and_Body_Guard,_Old_Chinatown,_San_Francisco_-_Google_Art_Project.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Arnold_Genthe_-_Merchant_and_Body_Guard,_Old_Chinatown,_San_Francisco_-_Google_Art_Project.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-21-mit-kamery-z-cekinami",
+      "date": "2026-10-21",
+      "type": "article",
+      "lang": "en",
+      "title": "MIT professors decorate campus cameras to protest surveillance",
+      "text": "Wykładowcy MIT oklejają kampusowe kamery cekinami, kryształkami i ruchomymi oczkami w proteście przeciw zakupowi ponad 500 kamer z funkcjami AI za 3 mln dolarów. Akcja nawiązuje do pracy Jill Magid z 2002 roku, a uczestnicy podkreślają, że studenci boją się protestować otwarcie.",
+      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/10/red-background-with-creature-1.jpg",
+      "src": "https://hyperallergic.com/the-mit-professors-bedazzling-security-cameras-to-highlight-campus-surveillance/",
+      "srcName": "Hyperallergic"
+    },
+    {
+      "id": "2026-10-21-django-django-feel-alright",
+      "date": "2026-10-21",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Django Django & Max Pope – „Feel Alright”",
+      "by": "reż. Jim Longden",
+      "text": "Max Pope śpiewa dla garstki emerytów w klubie robotniczym, gdzie obok toczą się partie bilardu i rzutki, aż przy barze siada tajemniczy szef wytwórni grany przez Vincenta Neffa. Powolna, sucha satyra na marzenia o wielkim przełomie.",
+      "embed": {
+        "p": "yt",
+        "id": "ME38uNwNQ9Y"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Django%20Django%20ft%20Max%20Pope%20%27Feel%20Alright%27%20by%20Jim%20Longden2.png?itok=NsM4L3SK",
+      "src": "https://www.promonews.tv/videos/2026/10/08/django-django-ft-max-pope-feel-alright-jim-longden/96597",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-21-news-oslo-witkoff",
+      "date": "2026-10-21",
+      "type": "news",
+      "lang": "pl",
+      "title": "Po rozmowach w Oslo Witkoff leci do Putina",
+      "text": "Zełenski spotkał się w Oslo z amerykańskim wysłannikiem Steve’em Witkoffem, a fiński prezydent Stubb mówi o pierwszych zapisanych elementach porozumienia pokojowego. W środę Witkoff ma rozmawiać z Putinem w Petersburgu, choć Ławrow zapowiada, że Rosja nie pójdzie na ustępstwa polityczne.",
+      "src": "https://www.rmf24.pl/fakty/swiat/news-zelenski-zabral-glos-po-spotkaniu-w-oslo-witkoff-leci-do-pet,nIdn,1022732",
+      "srcName": "RMF24"
+    },
+    {
+      "id": "2026-10-21-wm-03",
+      "date": "2026-10-21",
+      "type": "photo",
+      "title": "Nowy Jork: budka z hot dogami przy West Street",
+      "by": "Berenice Abbott, 1936",
+      "text": "Mała budka z przekąskami stoi na rogu West Street i North Moore, w portowej części dolnego Manhattanu. Zdjęcie pochodzi z cyklu „Changing New York”.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Hot_Dog_Stand,_West_St._and_North_Moore,_Manhattan_(NYPL_b13668355-1219152).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Hot_Dog_Stand,_West_St._and_North_Moore,_Manhattan_(NYPL_b13668355-1219152).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-21-james-arthur-waste-my-tears",
+      "date": "2026-10-21",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "James Arthur – „Waste My Tears”",
+      "by": "reż. KC Locke",
+      "text": "Czarno-biały klip łączy kameralny występ Arthura z portretami dużej, zróżnicowanej obsady statystów, nawiązując do kampanii CK One z lat 90. i fotografii dokumentalnej. To opowieść o żalu, akceptacji i odnajdywaniu drogi z powrotem do siebie.",
+      "embed": {
+        "p": "yt",
+        "id": "IlzmHdvZGj8"
+      },
+      "dur": 180,
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/James%20Arthur%20%27Waste%20My%20Tears%27%20by%20KC%20Locke.png?itok=5sWQ-NAl",
+      "src": "https://www.promonews.tv/videos/2026/10/05/james-arthur-waste-my-tears-kc-locke/96529",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-21-news-lwow-rok-upa",
+      "date": "2026-10-21",
+      "type": "news",
+      "lang": "pl",
+      "title": "Lwów ogłasza rok 2027 rokiem UPA",
+      "text": "Rada obwodu lwowskiego postanowiła uczcić w 2027 r. UPA i Romana Szuchewycza, co wywołało ostrą reakcję w Polsce. IPN przypomina odpowiedzialność Szuchewycza za zbrodnie na Polakach, a wicepremier Kosiniak-Kamysz nazwał decyzję nieakceptowalną.",
+      "src": "https://www.rmf24.pl/fakty/swiat/news-decyzja-wladz-lwowa-2027-bedzie-rokiem-upa,nIdn,1022720",
+      "srcName": "RMF24"
+    },
+    {
+      "id": "2026-10-21-wm-04",
+      "date": "2026-10-21",
+      "type": "photo",
+      "title": "Nowy Jork: automat-bar na Ósmej Alei",
+      "by": "Berenice Abbott, 1936",
+      "text": "Fasada baru samoobsługowego, w którym jedzenie wyjmowało się z przeszklonych okienek po wrzuceniu monety. Abbott dokumentowała takie miejsca jako znak nowoczesnego, pośpiesznego miasta.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/Automat,_977_Eighth_Avenue,_Manhattan_(NYPL_b13668355-482752).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Automat,_977_Eighth_Avenue,_Manhattan_(NYPL_b13668355-482752).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-21-mglawica-lew-webb",
+      "date": "2026-10-21",
+      "type": "article",
+      "lang": "en",
+      "title": "The Webb telescope's portrait of the Lion Nebula",
+      "text": "Teleskop Jamesa Webba sfotografował Mgławicę Lew (NGC 2392), której kształt przypominający pysk z grzywą tworzy gaz rozgrzany przez umierającą gwiazdę, dziś białego karła. Astronomowie szacują, że mgławica rozproszy się całkowicie w ciągu około 10 tysięcy lat.",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/lion.jpeg",
+      "src": "https://www.thisiscolossal.com/2026/10/nasa-james-webb-space-telescope-lion-nebula/",
+      "srcName": "Colossal"
+    },
+    {
+      "id": "2026-10-21-aphex-twin-come-to-daddy",
+      "date": "2026-10-21",
+      "type": "video",
+      "kind": "Teledysk · klasyka",
+      "title": "Aphex Twin – „Come to Daddy”",
+      "by": "reż. Chris Cunningham",
+      "text": "Nakręcony w 1997 roku na osiedlu Thamesmead, gdzie Kubrick kręcił „Mechaniczną pomarańczę”, klip wypuszcza z porzuconego telewizora upiora i hordę dzieci z twarzą Richarda D. Jamesa. Horror, który zdefiniował styl Cunninghama, zdobył Złotą Nikę Prix Ars Electronica i otwiera listę najlepszych teledysków lat 90. według Pitchforka.",
+      "embed": {
+        "p": "yt",
+        "id": "TZ827lkktYs"
+      },
+      "img": "https://i.ytimg.com/vi/TZ827lkktYs/hqdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/Come_to_Daddy_(song)",
+      "srcName": "Wikipedia"
+    },
+    {
+      "id": "2026-10-21-news-sondaz-trump",
+      "date": "2026-10-21",
+      "type": "news",
+      "lang": "pl",
+      "title": "Dwie trzecie Polaków źle ocenia politykę Trumpa",
+      "text": "W sondażu IBRiS dla „Rzeczpospolitej” 66,5 proc. badanych uznało, że polityka prezydenta USA nie służy interesom Polski, a dobrze ocenia ją niespełna co piąty. Pozytywne zdanie przeważa tylko wśród wyborców Nawrockiego i Brauna.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-10-21/polacy-ocenili-donalda-trumpa-jednoznaczne-wyniki-sondazu/",
+      "srcName": "Polsat News"
+    },
+    {
+      "id": "2026-10-21-wm-05",
+      "date": "2026-10-21",
+      "type": "photo",
+      "title": "Paryż: rue du Haut-Pavé z Panteonem w tle",
+      "by": "Charles Marville, 1865–1869",
+      "text": "Wąska, brukowana uliczka w Dzielnicy Łacińskiej prowadzi wzrok ku kopule Panteonu. Marville utrwalał stary Paryż na zlecenie miasta, tuż przed przebudową Haussmanna.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Charles_Marville,_Rue_du_Haut-Pave_(Pantheon_in_Distance),_1865%E2%80%9369.jpg/1280px-Charles_Marville,_Rue_du_Haut-Pave_(Pantheon_in_Distance),_1865%E2%80%9369.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Charles_Marville,_Rue_du_Haut-Pave_(Pantheon_in_Distance),_1865%E2%80%9369.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-21-troye-sivan-party",
+      "date": "2026-10-21",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Troye Sivan – „Party”",
+      "by": "reż. Gordon von Steiner (Object & Animal)",
+      "text": "Troye Sivan w kolczudze w średniowiecznej mini-produkcji, która z przekąsem przerabia rycerskie romanse w duchu „Narzeczonej dla księcia”. Bitwa zamienia się w krótki film, a całość otwiera żartobliwy prolog z Ianem McKellenem.",
+      "embed": {
+        "p": "yt",
+        "id": "Yvl4QSAyWR4"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Troye%20Sivan%20%27Party%27%20by%20GVS.png?itok=Wp1qwuij",
+      "src": "https://www.promonews.tv/videos/2026/09/21/troye-sivan-party-gordon-von-steiner/96329",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-21-news-nocny-alarm-mysliwce",
+      "date": "2026-10-21",
+      "type": "news",
+      "lang": "pl",
+      "title": "Nocny atak na Ukrainę, polskie myśliwce w powietrzu",
+      "text": "W nocy ze wtorku na środę RCB ostrzegało mieszkańców Lubelszczyzny i Podkarpacia przed zagrożeniem z powietrza, a polskie lotnictwo operowało nad krajem. Przed 5 rano alarm odwołano – na terytorium Polski nie było zagrożenia.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-10-21/rosyjski-atak-na-ukraine-polska-poderwala-mysliwce-2/",
+      "srcName": "Polsat News"
+    },
+    {
+      "id": "2026-10-21-wm-06",
+      "date": "2026-10-21",
+      "type": "photo",
+      "title": "Fuzhou: most Wanshou nad rzeką Min",
+      "by": "John Thomson, 1871",
+      "text": "Długi kamienny most na wielu filarach spina brzegi rzeki Min w portowym Fuzhou. Thomson przywiózł z Chin jeden z pierwszych rzetelnych fotoreportaży z tego kraju.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Foochow_(Fuzhou),_Fukien_province,_China;_Wanshou_Bridge_Wellcome_L0055564.jpg/1280px-Foochow_(Fuzhou),_Fukien_province,_China;_Wanshou_Bridge_Wellcome_L0055564.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Foochow_(Fuzhou),_Fukien_province,_China;_Wanshou_Bridge_Wellcome_L0055564.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-21-pawilon-kiefer-chipperfield",
+      "date": "2026-10-21",
+      "type": "article",
+      "lang": "en",
+      "title": "Chipperfield builds a pavilion for a single Kiefer painting",
+      "text": "Berlińskie biuro David Chipperfield Architects zbudowało w Künzelsau betonowo-ceglany pawilon zaprojektowany wokół jednego obrazu Anselma Kiefera, Schwarze Flocken, za dużego na muzealne sale. Budynek nie ma klimatyzacji – przed mrozem chroni go trójwarstwowa ściana, a światło wpada przez świetliki w drewnianym dachu.",
+      "img": "https://static-2026.dezeen.com/uploads/2026/10/anselm-kiefer-pavilion-david-chipperfield-architects_dezeen_2364_hero_1.jpg",
+      "src": "https://www.dezeen.com/2026/10/20/anselm-kiefer-pavilion-david-chipperfield-architects-germany/",
+      "srcName": "Dezeen"
+    },
+    {
+      "id": "2026-10-21-anderson-paak-cordae-a-good-day",
+      "date": "2026-10-21",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Anderson .Paak & Cordae – „A Good Day”",
+      "by": "reż. Dave Meyers (SHOTCLOCK)",
+      "text": "Paak i Cordae grają braci, którzy rywalizują o względy sąsiadki, dopóki pewna krytycznie nastawiona dziewczynka nie wymierzy im sprawiedliwości. Slapstickowa komedia nakręcona tak, jakby była kreskówką z prawdziwymi aktorami.",
+      "embed": {
+        "p": "yt",
+        "id": "8zxzlAyMg2U"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Anderson%20.Paak%2C%20Cordae%20%27A%20Good%20Day%27%20by%20Dave%20Meyers.png?itok=irm09wSU",
+      "src": "https://www.promonews.tv/videos/2026/09/18/anderson-paak-cordae-good-day-dave-meyers/96328",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-21-news-kijow-energetyka",
+      "date": "2026-10-21",
+      "type": "news",
+      "lang": "pl",
+      "title": "Rosja znów uderzyła w energetykę Kijowa",
+      "text": "Drony trafiły w obiekt energetyczny w centrum stolicy Ukrainy, odcinając prąd w czterech dzielnicach i na chwilę wstrzymując komunikację miejską. Uszkodzone zostały też dwa szpitale, rannych jest pięć osób.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-10-20/rosja-zaatakowala-kijow-uderzyli-w-kluczowe-obiekty/",
+      "srcName": "Polsat News"
+    },
+    {
+      "id": "2026-10-21-wm-07",
+      "date": "2026-10-21",
+      "type": "photo",
+      "title": "Ozarki (Missouri): dzieci przy skrzynce pocztowej",
+      "by": "John Vachon, 1940",
+      "text": "Dzieci z wiejskiej rodziny odbierają pocztę ze skrzynki stojącej przy drodze. Prosta scena pokazuje, jak poczta łączyła odcięte farmy ze światem.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/John_Vachon,_Ozark_children_getting_mail_from_RFD_box,_Missouri,_1940.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:John_Vachon,_Ozark_children_getting_mail_from_RFD_box,_Missouri,_1940.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-21-orville-peck-already-gone",
+      "date": "2026-10-21",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Orville Peck – „Already Gone”",
+      "by": "reż. Austin Peters (HeathCo)",
+      "text": "Szpital psychiatryczny staje się sceną musicalu o uzależnieniu i zdrowiu psychicznym: szpitalne rytuały przechodzą w układy taneczne, personel w chórek, a Noah Cyrus pojawia się jako pielęgniarka. Ukłon w stronę „Lotu nad kukułczym gniazdem”, w którym zamaskowany Peck odsłania więcej niż zwykle.",
+      "embed": {
+        "p": "yt",
+        "id": "FCtl_roHr9o"
+      },
+      "dur": 193,
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Orville%20Peck%20%27Already%20Gone%27%20by%20Austin%20Peters.png?itok=xII-ltdf",
+      "src": "https://www.promonews.tv/videos/2026/08/19/orville-peck-already-gone-austin-peters/95955",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-21-news-kaczynski-ukarany",
+      "date": "2026-10-21",
+      "type": "news",
+      "lang": "pl",
+      "title": "Komisja etyki ukarała Kaczyńskiego",
+      "text": "Sejmowa komisja etyki ukarała prezesa PiS za lipcowe słowa, w których nazwał policjantów „bojówkami” partii rządzącej. Kaczyński ma 14 dni na odwołanie się od uchwały.",
+      "src": "https://www.rmf24.pl/fakty/polityka/news-kara-dla-kaczynskiego-za-slowa-o-policji,nIdn,1022730",
+      "srcName": "RMF24"
+    },
+    {
+      "id": "2026-10-21-wm-08",
+      "date": "2026-10-21",
+      "type": "photo",
+      "title": "Alabama: prom linowy do Gee’s Bend",
+      "by": "Marion Post Wolcott, 1939",
+      "text": "Stary prom przeciągany po linie kursuje przez rzekę Alabama między Camden a Gee’s Bend. Dla odizolowanej społeczności była to jedyna droga do miasta.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Marion_Post_Wolcott_-_Old_cable_ferry_between_Camden_and_Gees_Bend,_Alabama.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Marion_Post_Wolcott_-_Old_cable_ferry_between_Camden_and_Gees_Bend,_Alabama.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-21-podgladanie-w-fotografii",
+      "date": "2026-10-21",
+      "type": "article",
+      "lang": "en",
+      "title": "Five photo projects that peek into private lives",
+      "text": "Dazed zebrał pięć projektów opartych na podglądaniu: od zdjęć cudzych czatów w nowojorskim metrze Jeffa Mermelsteina, przez hotelowe śledztwo Sophie Calle, po dziwności z Google Street View Jona Rafmana. Zestawienie zamykają wczesne filmy Andy'ego Warhola z lat 60.",
+      "img": "https://images-prod.dazeddigital.com/1200/0-0-3000-2000/azure/dazed-prod/1380/5/1385115.jpg",
+      "src": "https://www.dazeddigital.com/art-photography/article/71204/1/5-voyeuristic-photo-stories-offer-peek-into-private-lives-andy-warhol-jon-rafman",
+      "srcName": "Dazed"
+    },
+    {
+      "id": "2026-10-21-kasia-lins-smierc-w-bikini",
+      "date": "2026-10-21",
+      "type": "video",
+      "kind": "Teledysk · nagroda",
+      "title": "Kasia Lins – „Śmierć w bikini”",
+      "by": "reż. Maciej Aleksander Bierut, Kasia Lins, Karol Łakomiec",
+      "text": "Klip do przeróbki klasyka Republiki zdobył Fryderyka 2026 w kategorii Teledysk roku, wręczonego podczas gali w Warszawie w maju. Kasia Lins współreżyserowała go z Maciejem Aleksandrem Bierutem i operatorem Karolem Łakomcem.",
+      "embed": {
+        "p": "yt",
+        "id": "vU6D-FBzvfo"
+      },
+      "img": "https://www.ebilet.pl/now/app/uploads/2026/05/lins_desktop.jpg",
+      "src": "https://www.ebilet.pl/now/fryderyki-2026-rozdane-zobacz-kto-wygral-w-tym-roku/",
+      "srcName": "eBilet"
+    },
+    {
+      "id": "2026-10-21-news-weber-epl",
+      "date": "2026-10-21",
+      "type": "news",
+      "lang": "pl",
+      "title": "Weber dalej szefem frakcji EPL, Halicki wiceszefem",
+      "text": "Manfred Weber, kierujący największą grupą w Parlamencie Europejskim od 2014 r., został ponownie wybrany na jej przewodniczącego. Na stanowisku wiceprzewodniczącego pozostaje Andrzej Halicki z KO, wymieniany wcześniej jako możliwy następca Webera.",
+      "src": "https://www.rmf24.pl/fakty/swiat/news-manfred-weber-ponownie-szefem-frakcji-epl-andrzej-halicki-je,nIdn,1022739",
+      "srcName": "RMF24"
+    },
+    {
+      "id": "2026-10-21-wm-09",
+      "date": "2026-10-21",
+      "type": "photo",
+      "title": "Nowy Orlean: „Dom Turka” przy Dauphine Street",
+      "by": "Frances Benjamin Johnston, 1938",
+      "text": "Fasada starej kamienicy w Dzielnicy Francuskiej, z balkonami i okiennicami nad ulicą. Johnston fotografowała ją w ramach wielkiego przeglądu architektury amerykańskiego Południa.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Frances_Benjamin_Johnston,_House_of_the_Turk,_Dauphine_Street,_New_Orleans,_1937-8.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Frances_Benjamin_Johnston,_House_of_the_Turk,_Dauphine_Street,_New_Orleans,_1937-8.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-21-natanya-show-me-right",
+      "date": "2026-10-21",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Natanya – „Show Me Right!”",
+      "by": "reż. Tally Francis (Bad Bones Films)",
+      "text": "Inspirowany musicalami sprzed Kodeksu Haysa klip krąży między snem pełnym nut a rewiową salą taneczną, badając napięcie między Natanyą-performerką a artystką. Rekwizyty wykonano ręcznie według realiów epoki, a kostiumy pochodzą z archiwów mody pierwszej połowy XX wieku.",
+      "embed": {
+        "p": "yt",
+        "id": "kcNnmhMmkvs"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Natanya%20%27Show%20Me%20Right%27%20by%20Tally%20Francis.png?itok=dmECIQAT",
+      "src": "https://www.promonews.tv/videos/2026/09/23/natanya-show-me-right-tally-francis/96373",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-21-wm-10",
+      "date": "2026-10-21",
+      "type": "photo",
+      "title": "Berlin: roboty drogowe na Dircksenstraße",
+      "by": "Heinrich Zille, ok. 1900",
+      "text": "Na berlińskiej ulicy w dzielnicy Mitte trwają roboty drogowe i rozkopany bruk staje się częścią codziennego krajobrazu. Zille, znany głównie jako rysownik, prywatnie fotografował życie robotniczego Berlina.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Zille,_Heinrich_-_Berlin_%E2%80%93_Stra%C3%9Fen_und_Stra%C3%9Fenszenen,_Stra%C3%9Fenbauarbeiten,_Berlin,_Dircksenstra%C3%9Fe_(Zeno_Fotografie).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Zille,_Heinrich_-_Berlin_%E2%80%93_Stra%C3%9Fen_und_Stra%C3%9Fenszenen,_Stra%C3%9Fenbauarbeiten,_Berlin,_Dircksenstra%C3%9Fe_(Zeno_Fotografie).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-21-translations-bwa-katowice",
+      "date": "2026-10-21",
+      "type": "article",
+      "lang": "pl",
+      "title": "Wystawa, którą można przesłać dalej – „Translations” w BWA Katowice",
+      "text": "W BWA Katowice do 22 października można zobaczyć cyfrowe projekty rzeźbiarskie m.in. Adrianny Gajdziszewskiej, Julii Celer i kolektywu Córy Lęku, wybrane w otwartym naborze. Wystawa sprawdza, czy ekspozycję da się powielić w dowolnym miejscu i jak algorytmy zacierają granicę między oglądaniem a tworzeniem.",
+      "img": "https://magazynszum.pl/wp-content/uploads/2026/10/translations-bwa-katowice-3-1440x943.jpg",
+      "src": "https://magazynszum.pl/translations-w-bwa-katowice/",
+      "srcName": "Magazyn Szum"
+    },
+    {
+      "id": "2026-10-21-ex-re-radio-station",
+      "date": "2026-10-21",
+      "type": "video",
+      "kind": "Teledysk",
+      "title": "Ex:Re – „Radio Station”",
+      "by": "reż. Angela Ricciardi",
+      "text": "Solowy projekt Eleny Tonry z Daughter w stylizowanym na vintage klipie: delikatne ujęcia wokalistki przeplatają się z migawkami Paryża, po którym się przechadza. Kręcone w dwa dni, swobodnie i niemal dokumentalnie, przez reżyserkę, która sama stała za kamerą.",
+      "embed": {
+        "p": "yt",
+        "id": "XTApTIg4qO4"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Ex-%20Re%20%27Radio%20Station%27.png?itok=GYT2EUAP",
+      "src": "https://www.promonews.tv/videos/2026/10/01/exre-radio-station-angela-ricciardi/96472",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-21-wm-11",
+      "date": "2026-10-21",
+      "type": "photo",
+      "title": "Natchez (Missisipi): handel końmi i mułami",
+      "by": "Ben Shahn, 1935",
+      "text": "Szyld firmy Lum Bros. reklamuje handel końmi i mułami w rzecznym mieście nad Missisipi. Shahn, malarz pracujący dla FSA, notował aparatem życie małych miasteczek Południa.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Natchez,_Mississippi_October_1935_-_Lum_Bros_Horses_and_Mules_crop.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Natchez,_Mississippi_October_1935_-_Lum_Bros_Horses_and_Mules_crop.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-21-taylor-swift-fate-of-ophelia",
+      "date": "2026-10-21",
+      "type": "video",
+      "kind": "Teledysk · nagroda",
+      "title": "Taylor Swift – „The Fate of Ophelia”",
+      "by": "reż. Taylor Swift",
+      "text": "Klip, który Taylor Swift wyreżyserowała sama, zdobył nagrodę Video of the Year na MTV Video Music Awards 2026. Był to jeden z najmocniejszych akcentów gali, na której obok Swift triumfowała Madonna.",
+      "embed": {
+        "p": "yt",
+        "id": "ko70cExuzZM"
+      },
+      "img": "https://i.ytimg.com/vi/ko70cExuzZM/hqdefault.jpg",
+      "src": "https://www.promonews.tv/news/2026/09/28/madonna-and-taylor-swift-are-big-winners-2026-mtv-video-music-awards/96411",
+      "srcName": "Promonews"
+    },
+    {
+      "id": "2026-10-21-wm-12",
+      "date": "2026-10-21",
+      "type": "photo",
+      "title": "Ohio: dziewczęta grające w rzucanie kółek",
+      "by": "Clarence H. White, 1899",
+      "text": "Trzy dziewczynki w jasnych sukienkach bawią się w rzucanie kółkami na tle ciemnego wnętrza. White zamieniał zwyczajne chwile z życia rodziny i sąsiadów w Newark w nastrojowe obrazy.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/83/The_ring_toss_-_Clarence_H._White._LCCN96513079.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:The_ring_toss_-_Clarence_H._White._LCCN96513079.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "id": "2026-10-21-dla-marii-czaplickiej",
+      "date": "2026-10-21",
+      "type": "article",
+      "lang": "pl",
+      "title": "Artystki uzupełniają archiwum Marii Czaplickiej",
+      "text": "W muzeum Nałkowskich w Wołominie do 31 października trwa wystawa poświęcona antropolożce i podróżniczce Marii Czaplickiej, badaczce związanej z Oksfordem. Prace m.in. Sylwii Chutnik, Moniki Drożyńskiej i Agnieszki Brzeżańskiej dopowiadają jej fragmentaryczną biografię i pytają o kobiece sposoby poznawania świata.",
+      "img": "https://magazynszum.pl/wp-content/uploads/2026/10/bgf5295-mn-dlamarii-web-1440x1080.jpg",
+      "src": "https://magazynszum.pl/dla-marii-cwiczenia-z-wyobrazni-historycznej-w-muzeum-im-zofii-i-waclawa-nalkowskich-w-wolominie/",
+      "srcName": "Magazyn Szum"
+    },
+    {
+      "id": "2026-10-21-cieplak-istoty-zalezne",
+      "date": "2026-10-21",
+      "type": "article",
+      "lang": "pl",
+      "title": "Anna Cieplak o rozpadzie patchworkowej rodziny",
+      "text": "W rozmowie z Olgą Wróbel Anna Cieplak opowiada o powieści Istoty zależne, w której bohaterki jej debiutu trafiają do Ekwadoru. Mówi o mało zauważanym rozpadzie rodzin patchworkowych, pracy emocjonalnej i o werbowaniu dzieci przez kartele w Guayaquil.",
+      "img": "https://dwutygodnik-storage.s3.eu-central-1.amazonaws.com/prod/public/media/uploads/1792136367127-1392288-352x500.jpg",
+      "src": "https://www.dwutygodnik.com/artykul/12720-ukladanie-na-nowo.html",
+      "srcName": "Dwutygodnik"
+    },
     {
       "id": "2026-10-20-fontaines-dc-japan",
       "date": "2026-10-20",
@@ -33,10 +526,10 @@
       "type": "photo",
       "title": "Paryż, rue de la Montagne-Sainte-Geneviève",
       "by": "Eugène Atget, 1924",
+      "text": "Brukowana, stroma uliczka Dzielnicy Łacińskiej z dawnymi kamienicami, utrwalona przez Atgeta jako znikający obraz starego Paryża.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Eug%C3%A8ne_Atget,_Rue_de_la_Montagne-Sainte-Genevi%C3%A8ve,_1924.jpg",
       "src": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Atget,_Rue_de_la_Montagne-Sainte-Genevi%C3%A8ve,_1924.jpg",
-      "srcName": "Wikimedia Commons",
-      "text": "Brukowana, stroma uliczka Dzielnicy Łacińskiej z dawnymi kamienicami, utrwalona przez Atgeta jako znikający obraz starego Paryża."
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-20-zara-larsson-blue-moon",
@@ -70,10 +563,10 @@
       "type": "photo",
       "title": "Nowy Jork, Manhattan z wody",
       "by": "Alfred Stieglitz, 1910",
+      "text": "Dolny Manhattan wyrasta zza nabrzeża i dymiących statków jak ściana wież, symbol miasta pędzącego w górę.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/2/27/The_City_of_Ambitions_MET_DP232975.jpg",
       "src": "https://commons.wikimedia.org/wiki/File:The_City_of_Ambitions_MET_DP232975.jpg",
-      "srcName": "Wikimedia Commons",
-      "text": "Dolny Manhattan wyrasta zza nabrzeża i dymiących statków jak ściana wież, symbol miasta pędzącego w górę."
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-20-wm-11",
@@ -81,10 +574,10 @@
       "type": "photo",
       "title": "Nowy Jork, zaułek Mullen's Alley",
       "by": "Jacob Riis, ok. 1888",
+      "text": "Wąski, zaśmiecony przesmyk między kamienicami Cherry Hill, w którym stoją dzieci i dorośli, pokazuje nędzę dzielnicy czynszówek.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Mullen%27s_Alley,_New_York,_by_Jacob_Riis.jpg",
       "src": "https://commons.wikimedia.org/wiki/File:Mullen%27s_Alley,_New_York,_by_Jacob_Riis.jpg",
-      "srcName": "Wikimedia Commons",
-      "text": "Wąski, zaśmiecony przesmyk między kamienicami Cherry Hill, w którym stoją dzieci i dorośli, pokazuje nędzę dzielnicy czynszówek."
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-20-art-pneuhaus-camera-obscura",
@@ -129,10 +622,10 @@
       "type": "photo",
       "title": "Augusta, mała prządka w przędzalni",
       "by": "Lewis Hine, 1909",
+      "text": "Drobna dziewczynka stoi przy długim rzędzie wrzecion w hali fabrycznej, dokumentując skalę pracy dzieci w amerykańskich przędzalniach.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/5/5f/No_Known_Restrictions_A_little_spinner_in_Globe_Cotton_Mill._Augusta,_Ga.,_by_Lewis_W._Hine,_1909_(LOC).jpg",
       "src": "https://commons.wikimedia.org/wiki/File:No_Known_Restrictions_A_little_spinner_in_Globe_Cotton_Mill._Augusta,_Ga.,_by_Lewis_W._Hine,_1909_(LOC).jpg",
-      "srcName": "Wikimedia Commons",
-      "text": "Drobna dziewczynka stoi przy długim rzędzie wrzecion w hali fabrycznej, dokumentując skalę pracy dzieci w amerykańskich przędzalniach."
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-20-andy-cant-wait",
@@ -166,10 +659,10 @@
       "type": "photo",
       "title": "Nowy Jork, szwalnia przy Ludlow Street",
       "by": "Jacob Riis, ok. 1889",
+      "text": "Stłoczeni krawcy pracują w ciasnym mieszkaniu na Lower East Side, gdzie dom i chałupnicza szwalnia stanowiły jedno.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Jacob_Riis_-_A_Ludlow_Street_Sweater%27s_Shop.jpg",
       "src": "https://commons.wikimedia.org/wiki/File:Jacob_Riis_-_A_Ludlow_Street_Sweater%27s_Shop.jpg",
-      "srcName": "Wikimedia Commons",
-      "text": "Stłoczeni krawcy pracują w ciasnym mieszkaniu na Lower East Side, gdzie dom i chałupnicza szwalnia stanowiły jedno."
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-20-wm-12",
@@ -177,10 +670,10 @@
       "type": "photo",
       "title": "Okolice Birmingham, przydrożny stragan",
       "by": "Walker Evans, 1936",
+      "text": "Drewniana budka z ręcznie malowanymi szyldami przy drodze w Alabamie, uchwycona z typową dla Evansa frontalną prostotą.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Roadside_stand_near_Birmingham,_Alabama.jpg",
       "src": "https://commons.wikimedia.org/wiki/File:Roadside_stand_near_Birmingham,_Alabama.jpg",
-      "srcName": "Wikimedia Commons",
-      "text": "Drewniana budka z ręcznie malowanymi szyldami przy drodze w Alabamie, uchwycona z typową dla Evansa frontalną prostotą."
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-20-art-ramses-ii-statues-nile-delta",
@@ -225,10 +718,10 @@
       "type": "photo",
       "title": "Okolice Vicksburga, autostopowicze",
       "by": "Walker Evans, 1936",
+      "text": "Dwóch wędrowców czeka przy drodze w Missisipi na podwózkę, obraz bezdomnej mobilności czasów kryzysu.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Walker_Evans_Hitchhidkers_Vicksburg_(vicinity)_March_1936.jpg",
       "src": "https://commons.wikimedia.org/wiki/File:Walker_Evans_Hitchhidkers_Vicksburg_(vicinity)_March_1936.jpg",
-      "srcName": "Wikimedia Commons",
-      "text": "Dwóch wędrowców czeka przy drodze w Missisipi na podwózkę, obraz bezdomnej mobilności czasów kryzysu."
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-20-yendry-no-me-vuelvo",
@@ -262,10 +755,10 @@
       "type": "photo",
       "title": "Gordonton, wiejski sklep przy gruntowej drodze",
       "by": "Dorothea Lange, 1939",
+      "text": "Prosty wiejski sklep przy nieutwardzonej drodze był w latach 30. sercem małej osady na południu USA.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/0/03/Dorothea_Lange,_Country_store_on_dirt_road,_Gordonton,_North_Carolina,_1939.jpg",
       "src": "https://commons.wikimedia.org/wiki/File:Dorothea_Lange,_Country_store_on_dirt_road,_Gordonton,_North_Carolina,_1939.jpg",
-      "srcName": "Wikimedia Commons",
-      "text": "Prosty wiejski sklep przy nieutwardzonej drodze był w latach 30. sercem małej osady na południu USA."
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-20-art-wisla-performans-pelczynska",
@@ -320,10 +813,10 @@
       "type": "photo",
       "title": "Nowy Jork, Manhattan z pokładu S.S. Coamo",
       "by": "Jack Delano, 1941",
+      "text": "Wieżowce dolnego Manhattanu oglądane z pokładu statku wypływającego z portu w rejs do Portoryko.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/82/Jack_Delano,_Lower_Manhattan_seen_from_the_S.S._Coamo_leaving_New_York,_1941.jpg",
       "src": "https://commons.wikimedia.org/wiki/File:Jack_Delano,_Lower_Manhattan_seen_from_the_S.S._Coamo_leaving_New_York,_1941.jpg",
-      "srcName": "Wikimedia Commons",
-      "text": "Wieżowce dolnego Manhattanu oglądane z pokładu statku wypływającego z portu w rejs do Portoryko."
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-20-art-feynman-down-with-heaven",
@@ -357,10 +850,10 @@
       "type": "photo",
       "title": "Raceland, Luizjana: piwo w barze",
       "by": "Russell Lee, 1938",
+      "text": "Mężczyźni z cajuńskiego miasteczka spotykają się przy piwie w lokalnym barze, w codziennej scenie z życia Luizjany.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Raceland_Louisiana_Beer_Drinkers_Russell_Lee.jpg",
       "src": "https://commons.wikimedia.org/wiki/File:Raceland_Louisiana_Beer_Drinkers_Russell_Lee.jpg",
-      "srcName": "Wikimedia Commons",
-      "text": "Mężczyźni z cajuńskiego miasteczka spotykają się przy piwie w lokalnym barze, w codziennej scenie z życia Luizjany."
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-20-art-pterodaktyl-anouk-herman",
@@ -415,10 +908,10 @@
       "type": "photo",
       "title": "Badlands, wybielona czaszka wołu",
       "by": "Arthur Rothstein, 1936",
+      "text": "Wyschnięta czaszka zwierzęcia na spękanej ziemi stała się jednym z najbardziej znanych symboli suszy lat 30.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Arthur_Rothstein_-_The_bleached_skull_of_a_steer,_South_Dakota_Badlands,_1936.jpg",
       "src": "https://commons.wikimedia.org/wiki/File:Arthur_Rothstein_-_The_bleached_skull_of_a_steer,_South_Dakota_Badlands,_1936.jpg",
-      "srcName": "Wikimedia Commons",
-      "text": "Wyschnięta czaszka zwierzęcia na spękanej ziemi stała się jednym z najbardziej znanych symboli suszy lat 30."
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-20-johnny-cash-hurt",
@@ -452,10 +945,10 @@
       "type": "photo",
       "title": "Londyn, Tower Bridge",
       "by": "Alvin Langdon Coburn, 1909",
+      "text": "Masywne wieże mostu nad Tamizą w miękkiej, piktorialnej tonacji z albumu Coburna o Londynie.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Coburn_The_Tower_bridge2.jpg",
       "src": "https://commons.wikimedia.org/wiki/File:Coburn_The_Tower_bridge2.jpg",
-      "srcName": "Wikimedia Commons",
-      "text": "Masywne wieże mostu nad Tamizą w miękkiej, piktorialnej tonacji z albumu Coburna o Londynie."
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-20-art-colombia-museo-nacional-removals",
@@ -501,10 +994,10 @@
       "type": "photo",
       "title": "Waszyngton, pokój w pensjonacie",
       "by": "Esther Bubley, 1943",
+      "text": "Wojenna samotność: dziewczyna w pokoju pensjonatu, a towarzystwa dotrzymuje jej tylko radio.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/7/78/Esther_Bubley,_A_radio_is_company_for_this_girl_in_her_boardinghouse_room,_Washington,_D.C.,_1943.jpg",
       "src": "https://commons.wikimedia.org/wiki/File:Esther_Bubley,_A_radio_is_company_for_this_girl_in_her_boardinghouse_room,_Washington,_D.C.,_1943.jpg",
-      "srcName": "Wikimedia Commons",
-      "text": "Wojenna samotność: dziewczyna w pokoju pensjonatu, a towarzystwa dotrzymuje jej tylko radio."
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-19-avalanches-i-give-everything",
@@ -538,10 +1031,10 @@
       "type": "photo",
       "title": "San Francisco, róg Jackson Street",
       "by": "Arnold Genthe, ok. 1900",
+      "text": "Przed wejściem do domu gry w starym Chinatown, jeszcze sprzed trzęsienia ziemi z 1906 roku.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gambling_hall,_Jackson_Street_corner,_Chinatown,_San_Francisco_LOC_agc.7a08913.jpg",
       "src": "https://commons.wikimedia.org/wiki/File:Gambling_hall,_Jackson_Street_corner,_Chinatown,_San_Francisco_LOC_agc.7a08913.jpg",
-      "srcName": "Wikimedia Commons",
-      "text": "Przed wejściem do domu gry w starym Chinatown, jeszcze sprzed trzęsienia ziemi z 1906 roku."
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-19-art-wildlife-photographer-2026",
@@ -587,10 +1080,10 @@
       "type": "photo",
       "title": "Luizjana, bezrobotny traper",
       "by": "Ben Shahn, 1935",
+      "text": "Malarz z aparatem w ręku notuje twarz kryzysu w delcie Missisipi.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/9/9d/UnemployedTrapperPlaqueminesShahn.jpg",
       "src": "https://commons.wikimedia.org/wiki/File:UnemployedTrapperPlaqueminesShahn.jpg",
-      "srcName": "Wikimedia Commons",
-      "text": "Malarz z aparatem w ręku notuje twarz kryzysu w delcie Missisipi."
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-19-gurriers-waiting-for-fisher",
@@ -624,10 +1117,10 @@
       "type": "photo",
       "title": "Nowy Jork, McSorley's Ale House",
       "by": "Berenice Abbott, 1937",
+      "text": "Wnętrze najstarszego irlandzkiego pubu Manhattanu, w którym czas jakby się zatrzymał.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/McSorley%27s_Ale_House,_15_East_7th_Street,_Manhattan_(NYPL_b13668355-482590).jpg",
       "src": "https://commons.wikimedia.org/wiki/File:McSorley%27s_Ale_House,_15_East_7th_Street,_Manhattan_(NYPL_b13668355-482590).jpg",
-      "srcName": "Wikimedia Commons",
-      "text": "Wnętrze najstarszego irlandzkiego pubu Manhattanu, w którym czas jakby się zatrzymał."
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-19-art-pelechian-nyff",
@@ -672,10 +1165,10 @@
       "type": "photo",
       "title": "Paryż, kiosk na bulwarze",
       "by": "Charles Marville, ok. 1866–70",
+      "text": "Nowe miejskie meble Haussmanna: kiosk ustawiony przy świeżo wytyczonym bulwarze.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Charles_Marville,_Promenades_de_Paris_-_Kiosques_2,_ca._1866%E2%80%9370.jpg",
       "src": "https://commons.wikimedia.org/wiki/File:Charles_Marville,_Promenades_de_Paris_-_Kiosques_2,_ca._1866%E2%80%9370.jpg",
-      "srcName": "Wikimedia Commons",
-      "text": "Nowe miejskie meble Haussmanna: kiosk ustawiony przy świeżo wytyczonym bulwarze."
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-19-gap-denim-on-your-own",
@@ -710,10 +1203,10 @@
       "type": "photo",
       "title": "Waszyngton, „American Gothic”",
       "by": "Gordon Parks, 1942",
+      "text": "Sprzątaczka Ella Watson z mopem i miotłą na tle amerykańskiej flagi.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gordon_Parks_-_American_Gothic.jpg",
       "src": "https://commons.wikimedia.org/wiki/File:Gordon_Parks_-_American_Gothic.jpg",
-      "srcName": "Wikimedia Commons",
-      "text": "Sprzątaczka Ella Watson z mopem i miotłą na tle amerykańskiej flagi."
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-19-art-asics-karimoku-sofa",
@@ -759,10 +1252,10 @@
       "type": "photo",
       "title": "Londyn, plakatowy „wall worker”",
       "by": "John Thomson, 1877",
+      "text": "Uliczny zarobkowicz, który żył z oklejania londyńskich murów reklamami.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Wall_Worker,_1877,_by_John_Thomson_and_Adolphe_Smith.jpg",
       "src": "https://commons.wikimedia.org/wiki/File:The_Wall_Worker,_1877,_by_John_Thomson_and_Adolphe_Smith.jpg",
-      "srcName": "Wikimedia Commons",
-      "text": "Uliczny zarobkowicz, który żył z oklejania londyńskich murów reklamami."
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-19-kendrick-lamar-not-like-us",
@@ -796,10 +1289,10 @@
       "type": "photo",
       "title": "Teksas, dzieci przed wiejską szkołą",
       "by": "John Vachon, 1943",
+      "text": "Rzadki kolorowy kadr z archiwum FSA/OWI: uczniowie z hrabstwa San Augustine.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/0/06/Rural_school_children,_San_Augustine_County,_Texas_(LOC_fsac.1a35425).jpg",
       "src": "https://commons.wikimedia.org/wiki/File:Rural_school_children,_San_Augustine_County,_Texas_(LOC_fsac.1a35425).jpg",
-      "srcName": "Wikimedia Commons",
-      "text": "Rzadki kolorowy kadr z archiwum FSA/OWI: uczniowie z hrabstwa San Augustine."
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-19-art-hohle-fels-ice-age-birds",
@@ -845,10 +1338,10 @@
       "type": "photo",
       "title": "Woodstock, zebranie mieszkańców",
       "by": "Marion Post Wolcott, 1940",
+      "text": "Doroczne zebranie miasteczka w Vermont, czyli demokracja bezpośrednia w praktyce.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/5/58/Townspeople_at_town_meeting._Woodstock,_Vermont,_by_Marion_Post_Wolcott,_United_States_Office_of_War_Information,_March_1940,_from_the_Library_of_Congress_-_service-pnp-fsa-8c11000-8c11600-8c11632v.jpg",
       "src": "https://commons.wikimedia.org/wiki/File:Townspeople_at_town_meeting._Woodstock,_Vermont,_by_Marion_Post_Wolcott,_United_States_Office_of_War_Information,_March_1940,_from_the_Library_of_Congress_-_service-pnp-fsa-8c11000-8c11600-8c11632v.jpg",
-      "srcName": "Wikimedia Commons",
-      "text": "Doroczne zebranie miasteczka w Vermont, czyli demokracja bezpośrednia w praktyce."
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-19-diiv-trillions",
@@ -882,10 +1375,10 @@
       "type": "photo",
       "title": "Waszyngton, lekcja z wiatraczkami",
       "by": "Frances Benjamin Johnston, ok. 1899",
+      "text": "Uczniowie dmuchają w papierowe wiatraczki podczas lekcji w szkole podstawowej.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Children_in_a_classroom_blowing_pinwheels_in_a_Washington,_D.C.,_grade_school_LCCN2001703714.jpg",
       "src": "https://commons.wikimedia.org/wiki/File:Children_in_a_classroom_blowing_pinwheels_in_a_Washington,_D.C.,_grade_school_LCCN2001703714.jpg",
-      "srcName": "Wikimedia Commons",
-      "text": "Uczniowie dmuchają w papierowe wiatraczki podczas lekcji w szkole podstawowej."
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-19-art-cannupa-hanska-luger",
@@ -921,10 +1414,10 @@
       "type": "photo",
       "title": "Poranek, postać w bieli",
       "by": "Clarence H. White, 1905",
+      "text": "Piktorialistyczny poranek: miękkie światło, postać w bieli i niemal malarski nastrój.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Clarence_Hudson_White_-_Morning_-_Google_Art_Project.jpg",
       "src": "https://commons.wikimedia.org/wiki/File:Clarence_Hudson_White_-_Morning_-_Google_Art_Project.jpg",
-      "srcName": "Wikimedia Commons",
-      "text": "Piktorialistyczny poranek: miękkie światło, postać w bieli i niemal malarski nastrój."
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-19-miu-miu-fw26",
@@ -949,10 +1442,10 @@
       "type": "photo",
       "title": "Berlin, chłopcy na podwórku",
       "by": "Heinrich Zille, ok. 1900",
+      "text": "Ośmiu berlińskich chłopców ćwiczy stanie na rękach pod ścianą kamienicy.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/4/41/Zille,_Heinrich_-_Kinder_und_Kinderspielpl%C3%A4tze,_acht_Jungen_%C3%BCben_Handstand_(Zeno_Fotografie).jpg",
       "src": "https://commons.wikimedia.org/wiki/File:Zille,_Heinrich_-_Kinder_und_Kinderspielpl%C3%A4tze,_acht_Jungen_%C3%BCben_Handstand_(Zeno_Fotografie).jpg",
-      "srcName": "Wikimedia Commons",
-      "text": "Ośmiu berlińskich chłopców ćwiczy stanie na rękach pod ścianą kamienicy."
+      "srcName": "Wikimedia Commons"
     },
     {
       "id": "2026-10-19-art-roza-schleinzer",
@@ -1018,9 +1511,9 @@
       "lang": "en",
       "title": "Ann Toebbe paints rooms as they feel, not as they look",
       "text": "The Chicago artist builds patterned interiors from gouache, oil and collage, bending perspective so homes turn into maps of memory. A selection is on show at Andrew Rafacz in Chicago until the end of October.",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/toebbe-8.jpg",
       "src": "https://www.thisiscolossal.com/2026/10/ann-toebbe-mixed-media-paintings/",
-      "srcName": "Colossal",
-      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/toebbe-8.jpg"
+      "srcName": "Colossal"
     },
     {
       "id": "2026-10-18-pn-son-lux-out-into-us",
@@ -1065,9 +1558,9 @@
       "lang": "en",
       "title": "Robin F. Williams mixes Disney princesses with cyborgs",
       "text": "In a London pop-up during Frieze week, the Brooklyn painter fuses pop culture and art history to picture people slowly merging with their machines. The canvases make technology look both seductive and quietly horrifying, like a figure swallowed by a phone in bed.",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/williams-6.jpg",
       "src": "https://www.thisiscolossal.com/2026/10/robin-f-williams-paintings-act-natural/",
-      "srcName": "Colossal",
-      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/williams-6.jpg"
+      "srcName": "Colossal"
     },
     {
       "id": "2026-10-18-pn-u2-silencio",
@@ -1148,9 +1641,9 @@
       "lang": "en",
       "title": "Collectible furniture that looks dug up rather than made",
       "text": "Brussels gallery Objects with Narratives brought a show called What Remains? to PAD London, with an onyx coffee table shaped like a cushion and a rusted-steel shelf by Paul Cocksedge. Volcanic clay vessels, mohair lamps and patchwork copper lights complete the set.",
+      "img": "https://static.dezeen.com/uploads/2026/10/pad-london-objects-with-narratives-sq.jpg",
       "src": "https://www.dezeen.com/2026/10/16/objects-with-narratives-collectible-design-pad/",
-      "srcName": "Dezeen",
-      "img": "https://static.dezeen.com/uploads/2026/10/pad-london-objects-with-narratives-sq.jpg"
+      "srcName": "Dezeen"
     },
     {
       "id": "2026-10-18-daft-punk-around-the-world",
@@ -1221,9 +1714,9 @@
       "lang": "en",
       "title": "Why personal projects bring the best commissions",
       "text": "Baltimore designer Sewell Killingstad says their animated buttercup lettering for Olivia Rodrigo's festival grew out of work made purely for fun. Their advice: build a distinct voice of your own, keep reaching out, and let the right clients find you.",
+      "img": "https://m.itsnicethat.com/original_images/sewell_grassstains.png?class=w1440",
       "src": "https://www.itsnicethat.com/articles/sewell-killingstad-graphic-design-discover-151026",
-      "srcName": "It's Nice That",
-      "img": "https://m.itsnicethat.com/original_images/sewell_grassstains.png?class=w1440"
+      "srcName": "It's Nice That"
     },
     {
       "id": "2026-10-18-pn-charlie-jeer-jennifer",
@@ -1294,9 +1787,9 @@
       "lang": "en",
       "title": "Outsourcing effort to gadgets may be weakening our bodies",
       "text": "Philosopher Melanie Challenger argues that GPS, phones and AI are quietly eroding our sense of direction, memory and attention. She claims intelligence lives in physical engagement with the world, so removing all friction leaves us more fragile.",
+      "img": "https://images.aeonmedia.co/images/b060a785-e136-4e8e-bd82-6085cc21e62a/essay-final-nn11563596.jpg?width=1200&quality=75&format=jpeg",
       "src": "https://aeon.co/essays/the-more-we-rely-on-tech-the-more-we-deskill-our-bodies",
-      "srcName": "Aeon",
-      "img": "https://images.aeonmedia.co/images/b060a785-e136-4e8e-bd82-6085cc21e62a/essay-final-nn11563596.jpg?width=1200&quality=75&format=jpeg"
+      "srcName": "Aeon"
     },
     {
       "id": "2026-10-18-news-moskwa-lotniska-drony",
@@ -1464,6 +1957,8 @@
     },
     {
       "id": "2026-10-17-sotw-distance-sky",
+      "date": "2026-10-17",
+      "type": "video",
       "kind": "Film krótkometrażowy · dramat",
       "title": "Odległość między nami a niebem",
       "by": "Vasilis Kekatos",
@@ -1472,12 +1967,10 @@
         "p": "yt",
         "id": "m__MJjyoSzA"
       },
+      "dur": 526,
       "img": "https://static.shortoftheweek.com/wp-content/uploads/2026/10/the-distance-between-us-and-the-sky-short-film-02.jpeg",
       "src": "https://www.shortoftheweek.com/2026/10/13/distance-us-sky",
-      "srcName": "Short of the Week",
-      "dur": 526,
-      "date": "2026-10-17",
-      "type": "video"
+      "srcName": "Short of the Week"
     },
     {
       "id": "2026-10-17-news-papiez-operacja",
@@ -1501,6 +1994,8 @@
     },
     {
       "id": "2026-10-17-pn-phoebe-bridgers-cant-wait",
+      "date": "2026-10-17",
+      "type": "video",
       "kind": "Teledysk",
       "title": "Phoebe Bridgers – „I Can't Wait”",
       "by": "reż. Pablo Rochat i Chris Maggio (Iconoclast)",
@@ -1511,9 +2006,7 @@
       },
       "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/hU-gnl8WLP0.jpg?itok=hDrgNj02",
       "src": "https://www.promonews.tv/videos/2026/08/14/phoebe-bridgers-i-cant-wait-pablo-rochat-and-chris-maggio/95946",
-      "srcName": "Promonews",
-      "date": "2026-10-17",
-      "type": "video"
+      "srcName": "Promonews"
     },
     {
       "id": "2026-10-17-news-szczyt-ue",
@@ -1537,13 +2030,13 @@
     },
     {
       "id": "2026-10-17-art-boogert-colors",
+      "date": "2026-10-17",
+      "type": "article",
+      "lang": "en",
       "title": "A 900-page colour guide from 1692",
       "text": "In 1692 a Dutchman known only as A. Boogert hand-painted a one-off manual on mixing watercolours, with hundreds of swatches. The whole book is now scanned in high resolution and reads like a Pantone catalogue three centuries early.",
       "src": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
-      "srcName": "Open Culture",
-      "date": "2026-10-17",
-      "type": "article",
-      "lang": "en"
+      "srcName": "Open Culture"
     },
     {
       "id": "2026-10-17-news-nisko-strazacy",
@@ -1557,6 +2050,8 @@
     },
     {
       "id": "2026-10-17-pn-jamie-t-waist",
+      "date": "2026-10-17",
+      "type": "video",
       "kind": "Teledysk · komedia",
       "title": "Jamie T – „Waist 36 Leg 32”",
       "by": "reż. Charles Gall",
@@ -1565,12 +2060,10 @@
         "p": "yt",
         "id": "HcmBxQTmXX0"
       },
+      "dur": 262,
       "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Jamie%20T%20Waist%2036%20Leg%2032%20by%20Charles%20Gall.jpeg?itok=Tky93NBC",
       "src": "https://www.promonews.tv/videos/2026/10/12/jamie-t-waist-36-leg-32-charles-gall/96619",
-      "srcName": "Promonews",
-      "dur": 262,
-      "date": "2026-10-17",
-      "type": "video"
+      "srcName": "Promonews"
     },
     {
       "id": "2026-10-17-wm-03",
@@ -1594,14 +2087,14 @@
     },
     {
       "id": "2026-10-17-art-rudnick-arsenal",
-      "title": "Four years drawing a blackletter for Arsenal",
-      "text": "David Rudnick hand-built Rocastle, a three-weight blackletter named after club legend David Rocastle. A conversation about why a football club wants a typeface reserved for its biggest moments.",
-      "src": "https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026",
-      "srcName": "It's Nice That",
-      "img": "https://m.itsnicethat.com/original_images/Arsenal_Rocastle_16x9_001.png?class=w1440",
       "date": "2026-10-17",
       "type": "article",
-      "lang": "en"
+      "lang": "en",
+      "title": "Four years drawing a blackletter for Arsenal",
+      "text": "David Rudnick hand-built Rocastle, a three-weight blackletter named after club legend David Rocastle. A conversation about why a football club wants a typeface reserved for its biggest moments.",
+      "img": "https://m.itsnicethat.com/original_images/Arsenal_Rocastle_16x9_001.png?class=w1440",
+      "src": "https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026",
+      "srcName": "It's Nice That"
     },
     {
       "id": "2026-10-17-wm-04",
@@ -1615,6 +2108,8 @@
     },
     {
       "id": "2026-10-17-pn-miss-madeline-moon",
+      "date": "2026-10-17",
+      "type": "video",
       "kind": "Teledysk",
       "title": "Miss Madeline – „Trip To The Moon”",
       "by": "reż. Ben Cole",
@@ -1623,12 +2118,10 @@
         "p": "yt",
         "id": "sW4XjinYP2E"
       },
+      "dur": 218,
       "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Screenshot%202026-10-08%20at%2011.49.39.jpeg?itok=bJ02VKnu",
       "src": "https://www.promonews.tv/videos/2026/10/08/miss-madeline-trip-moon-ben-cole/96604",
-      "srcName": "Promonews",
-      "dur": 218,
-      "date": "2026-10-17",
-      "type": "video"
+      "srcName": "Promonews"
     },
     {
       "id": "2026-10-17-news-wroclaw-bomba",
@@ -1642,6 +2135,8 @@
     },
     {
       "id": "2026-10-17-sotw-one-of-those",
+      "date": "2026-10-17",
+      "type": "video",
       "kind": "Film krótkometrażowy · thriller",
       "title": "One of Those",
       "by": "Cosmo Salovaara",
@@ -1650,12 +2145,10 @@
         "p": "yt",
         "id": "dmIDpUhgr3w"
       },
+      "dur": 334,
       "img": "https://static.shortoftheweek.com/wp-content/uploads/2026/10/one-of-those-short-film.jpeg",
       "src": "https://www.shortoftheweek.com/2026/10/08/one-of-those",
-      "srcName": "Short of the Week",
-      "dur": 334,
-      "date": "2026-10-17",
-      "type": "video"
+      "srcName": "Short of the Week"
     },
     {
       "id": "2026-10-17-news-iran-paliwo",
@@ -1679,6 +2172,8 @@
     },
     {
       "id": "2026-10-17-pn-rose-gray-blink-twice",
+      "date": "2026-10-17",
+      "type": "video",
       "kind": "Teledysk",
       "title": "Rose Gray – „Blink Twice”",
       "by": "reż. Ben Cole",
@@ -1689,9 +2184,7 @@
       },
       "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Rose%20Gray%20%27Blink%20Twice%27%20by%20Ben%20Cole.png?itok=nNkxO9cP",
       "src": "https://www.promonews.tv/videos/2026/10/12/rose-gray-blink-twice-ben-cole/96617",
-      "srcName": "Promonews",
-      "date": "2026-10-17",
-      "type": "video"
+      "srcName": "Promonews"
     },
     {
       "id": "2026-10-17-news-jemen-aden",
@@ -1715,13 +2208,13 @@
     },
     {
       "id": "2026-10-17-art-byrne-sleeping-beauties",
+      "date": "2026-10-17",
+      "type": "article",
+      "lang": "en",
       "title": "David Byrne on ideas that go dormant",
       "text": "The Talking Heads frontman's new book looks at why good ideas fall out of fashion and get rediscovered decades later. His examples range from Vermeer to Roman concrete and dark matter.",
       "src": "https://www.openculture.com/2026/10/david-byrnes-new-book-explores-the-strange-afterlife-of-good-ideas.html",
-      "srcName": "Open Culture",
-      "date": "2026-10-17",
-      "type": "article",
-      "lang": "en"
+      "srcName": "Open Culture"
     },
     {
       "id": "2026-10-17-news-brazylia-meta",
@@ -1735,6 +2228,8 @@
     },
     {
       "id": "2026-10-17-papaya-malasana",
+      "date": "2026-10-17",
+      "type": "video",
       "kind": "Teledysk",
       "title": "Hania Rani & Dobrawa Czocher – „Malasana”",
       "by": "reż. Mateusz Miszczyński (Papaya Films)",
@@ -1744,9 +2239,7 @@
         "id": "qoYv9H_UCvE"
       },
       "src": "https://www.youtube.com/watch?v=qoYv9H_UCvE",
-      "srcName": "YouTube · Deutsche Grammophon",
-      "date": "2026-10-17",
-      "type": "video"
+      "srcName": "YouTube · Deutsche Grammophon"
     },
     {
       "id": "2026-10-17-wm-07",
@@ -1770,13 +2263,13 @@
     },
     {
       "id": "2026-10-17-art-foam-25",
+      "date": "2026-10-17",
+      "type": "article",
+      "lang": "en",
       "title": "25 years of Foam Magazine",
       "text": "Foam's editor and former art director talk about how the Amsterdam photo magazine keeps reinventing its look. Themed issues, archive images and a constant focus on the photograph itself.",
       "src": "https://www.itsnicethat.com/articles/nicer-tuesdays-london-september-foam-magazine-151026",
-      "srcName": "It's Nice That",
-      "date": "2026-10-17",
-      "type": "article",
-      "lang": "en"
+      "srcName": "It's Nice That"
     },
     {
       "id": "2026-10-17-wm-08",
@@ -1790,6 +2283,8 @@
     },
     {
       "id": "2026-10-17-papaya-tam-gdzie-wy",
+      "date": "2026-10-17",
+      "type": "video",
       "kind": "Teledysk",
       "title": "Kali, Klaudia Szafrańska, PlanBe, Sir Mich – „Tam gdzie Wy”",
       "by": "reż. Magdalena Zielińska (Papaya Films)",
@@ -1799,9 +2294,7 @@
         "id": "SF_trLfivBU"
       },
       "src": "https://papaya.rocks/pl/news/tam-gdzie-wy-klaudia-szafranska-kali-planbe-sirmich",
-      "srcName": "Papaya Films",
-      "date": "2026-10-17",
-      "type": "video"
+      "srcName": "Papaya Films"
     },
     {
       "id": "2026-10-17-news-swiat-sobota",
@@ -1835,13 +2328,13 @@
     },
     {
       "id": "2026-10-17-art-jo-bonger",
+      "date": "2026-10-17",
+      "type": "article",
+      "lang": "en",
       "title": "The woman who made van Gogh famous",
       "text": "After Vincent and Theo died, Theo's widow Jo Bonger kept the paintings, organised shows and published the letters. Her 1905 exhibition in Amsterdam is still the largest van Gogh show ever held.",
       "src": "https://www.openculture.com/2026/10/how-vincent-van-goghs-sister-in-law-worked-tirelessly-to-make-him-famous.html",
-      "srcName": "Open Culture",
-      "date": "2026-10-17",
-      "type": "article",
-      "lang": "en"
+      "srcName": "Open Culture"
     },
     {
       "id": "2026-10-17-wm-11",
@@ -1855,14 +2348,14 @@
     },
     {
       "id": "2026-10-17-art-amok-island",
-      "title": "Amok Island's geometric wildlife murals",
-      "text": "A Dutch-born artist living in Fremantle paints huge, hard-edged murals of local plants and animals. The bright geometry is a way of pointing at how fragile those species are.",
-      "src": "https://www.thisiscolossal.com/2026/10/amok-island-geometric-nature-murals/",
-      "srcName": "Colossal",
-      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/amok-8.jpeg",
       "date": "2026-10-17",
       "type": "article",
-      "lang": "en"
+      "lang": "en",
+      "title": "Amok Island's geometric wildlife murals",
+      "text": "A Dutch-born artist living in Fremantle paints huge, hard-edged murals of local plants and animals. The bright geometry is a way of pointing at how fragile those species are.",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/amok-8.jpeg",
+      "src": "https://www.thisiscolossal.com/2026/10/amok-island-geometric-nature-murals/",
+      "srcName": "Colossal"
     },
     {
       "id": "2026-10-17-wm-12",
@@ -1876,13 +2369,13 @@
     },
     {
       "id": "2026-10-17-art-midnight-parasites",
+      "date": "2026-10-17",
+      "type": "article",
+      "lang": "en",
       "title": "Bosch as a 1970s Japanese cartoon",
       "text": "Yōji Kuri's 1972 short The Midnight Parasites drops viewers into The Garden of Earthly Delights. A psychedelic loop of life, death and rebirth with a satirical edge.",
       "src": "https://www.openculture.com/2026/10/a-surreal-japanese-animation-set-in-the-world-of-hieronymus-boschs-the-garden-of-earthly-delights.html",
-      "srcName": "Open Culture",
-      "date": "2026-10-17",
-      "type": "article",
-      "lang": "en"
+      "srcName": "Open Culture"
     },
     {
       "id": "2026-10-16-fotograf-dnia-alex-webb",
@@ -1891,6 +2384,8 @@
       "kind": "Fotograf dnia",
       "title": "Alex Webb",
       "text": "Fotograf Magnum, mistrz gęstego, nasyconego koloru. Jego kadry z Meksyku, Haiti i Karaibów układają kilka planów akcji w jednym ujęciu, w ostrym świetle i głębokich cieniach. Warto zacząć od książki „La Calle”.",
+      "src": "https://www.magnumphotos.com/photographer/alex-webb/",
+      "srcName": "Magnum Photos",
       "links": [
         [
           "Portfolio w Magnum",
@@ -1900,9 +2395,7 @@
           "Instagram",
           "https://www.instagram.com/alexwebbphoto/"
         ]
-      ],
-      "src": "https://www.magnumphotos.com/photographer/alex-webb/",
-      "srcName": "Magnum Photos"
+      ]
     },
     {
       "id": "2026-10-16-dn-faranooka",
@@ -1916,10 +2409,10 @@
         "p": "yt",
         "id": "2UjAN2zget0"
       },
+      "dur": 413,
       "img": "https://directorsnotes.com/wp-content/uploads/2026/10/faranooka_short_film_02.jpg",
       "src": "https://directorsnotes.com/2026/10/14/craig-bingham-faranooka/",
-      "srcName": "Directors Notes",
-      "dur": 413
+      "srcName": "Directors Notes"
     },
     {
       "id": "2026-10-16-bjp-sanle-sory",
@@ -1953,9 +2446,9 @@
         "p": "yt",
         "id": "Snu2cGohYC4"
       },
+      "dur": 221,
       "src": "https://www.promonews.tv/videos/2026/10/14/tinariwen-erghad-afewo-axel-digoix/96384",
-      "srcName": "Promonews",
-      "dur": 221
+      "srcName": "Promonews"
     },
     {
       "id": "2026-10-16-bjp-iwane-ai",
@@ -2035,10 +2528,10 @@
         "p": "yt",
         "id": "k0po0DzYZws"
       },
+      "dur": 348,
       "img": "https://directorsnotes.com/wp-content/uploads/2026/10/busy_bodies_01.jpg",
       "src": "https://directorsnotes.com/2026/10/01/kate-renshaw-lewis-busy-bodies/",
-      "srcName": "Directors Notes",
-      "dur": 348
+      "srcName": "Directors Notes"
     },
     {
       "id": "2026-10-16-wm-04",
@@ -2098,10 +2591,10 @@
         "p": "yt",
         "id": "OIC4AUMNk0E"
       },
+      "dur": 517,
       "img": "https://directorsnotes.com/wp-content/uploads/2026/09/dont_puke_01.jpg",
       "src": "https://directorsnotes.com/2026/10/05/daniel-chisholm-dont-puke/",
-      "srcName": "Directors Notes",
-      "dur": 517
+      "srcName": "Directors Notes"
     },
     {
       "id": "2026-10-16-wm-06",
