@@ -19,6 +19,28 @@
       "srcName": "LBB Online"
     },
     {
+      "id": "2026-10-22-colorado-wildlife-crossing",
+      "date": "2026-10-22",
+      "type": "article",
+      "lang": "en",
+      "title": "A highway bridge just for animals",
+      "text": "Nad autostradą I-25 między Denver a Colorado Springs działa przejście tylko dla zwierząt, opisywane jako największe w Ameryce Północnej. W dziewięć miesięcy liczba zderzeń aut z dziką zwierzyną spadła o 91 procent.",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/image_1.jpeg",
+      "src": "https://www.thisiscolossal.com/2026/10/colorado-i25-wildlife-crossing/",
+      "srcName": "Colossal"
+    },
+    {
+      "id": "2026-10-22-rogalski-stupor-arsenal",
+      "date": "2026-10-22",
+      "type": "article",
+      "lang": "pl",
+      "title": "Rogalski i zmęczone oko",
+      "text": "Recenzja wystawy Zbigniewa Rogalskiego „Stupor (11 IX)” w poznańskim Arsenale: kwitnące rośliny, ptasie skrzydła i tkaniny z rozmytymi napisami końcowymi filmów. Autorka uważa, że rocznicowe nawiązanie do 11 września przesłania prawdziwy temat – granice i zmęczenie widzenia.",
+      "img": "https://magazynszum.pl/wp-content/uploads/2026/10/zbigniew-rogalski-025-1440x1080.jpg",
+      "src": "https://magazynszum.pl/chyba-mam-cos-w-oku-stupor-11-ix-zbigniewa-rogalskiego-w-galerii-miejskiej-arsenal-w-poznaniu/",
+      "srcName": "Magazyn SZUM"
+    },
+    {
       "id": "2026-10-22-rachel-chinouriri-pretty-girls",
       "date": "2026-10-22",
       "type": "video",
@@ -36,14 +58,25 @@
       "srcName": "Promonews"
     },
     {
-      "id": "2026-10-22-colorado-wildlife-crossing",
+      "id": "2026-10-22-mark-mcnulty-clubland",
       "date": "2026-10-22",
       "type": "article",
       "lang": "en",
-      "title": "A highway bridge just for animals",
-      "text": "Nad autostradą I-25 między Denver a Colorado Springs działa przejście tylko dla zwierząt, opisywane jako największe w Ameryce Północnej. W dziewięć miesięcy liczba zderzeń aut z dziką zwierzyną spadła o 91 procent.",
-      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/image_1.jpeg",
-      "src": "https://www.thisiscolossal.com/2026/10/colorado-i25-wildlife-crossing/",
+      "title": "Northern England's rave years on film",
+      "text": "Liverpoolski fotograf Mark McNulty wydał album z archiwum ponad tysiąca zdjęć z klubów północnej Anglii, najmocniejszych z lat 90., sprzed ery smartfonów. Są tam m.in. Chemical Brothers i wczesny Daft Punk bez masek.",
+      "img": "https://images-prod.dazeddigital.com/1200/0-147-2748-1832/azure/dazed-prod/1450/7/1457558.jpg",
+      "src": "https://www.dazeddigital.com/music/article/71166/1/mark-mcnulty-clubland-35-summers-love-photos-90s-clubbing",
+      "srcName": "Dazed"
+    },
+    {
+      "id": "2026-10-22-drift-aeolus",
+      "date": "2026-10-22",
+      "type": "article",
+      "lang": "en",
+      "title": "DRIFT sculpts the wind in glass and light",
+      "text": "Studio DRIFT pokazuje w Londynie instalację Aeolus: zawieszone szklane pręty ze światełkami, które reagują na ruch widzów. Na początek 2027 roku studio zapowiada własne muzeum w Amsterdamie.",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/drift-2.gif",
+      "src": "https://www.thisiscolossal.com/2026/10/aeolus-studio-drift-light-glass-installation/",
       "srcName": "Colossal"
     },
     {
@@ -63,59 +96,26 @@
       "srcName": "Wikipedia"
     },
     {
-      "id": "2026-10-22-rogalski-stupor-arsenal",
+      "id": "2026-10-22-zmijewski-naturalista",
       "date": "2026-10-22",
       "type": "article",
       "lang": "pl",
-      "title": "Rogalski i zmęczone oko",
-      "text": "Recenzja wystawy Zbigniewa Rogalskiego „Stupor (11 IX)” w poznańskim Arsenale: kwitnące rośliny, ptasie skrzydła i tkaniny z rozmytymi napisami końcowymi filmów. Autorka uważa, że rocznicowe nawiązanie do 11 września przesłania prawdziwy temat – granice i zmęczenie widzenia.",
-      "img": "https://magazynszum.pl/wp-content/uploads/2026/10/zbigniew-rogalski-025-1440x1080.jpg",
-      "src": "https://magazynszum.pl/chyba-mam-cos-w-oku-stupor-11-ix-zbigniewa-rogalskiego-w-galerii-miejskiej-arsenal-w-poznaniu/",
+      "title": "Żmijewski o naturalizmie i ciele",
+      "text": "Rozmowa z Arturem Żmijewskim o wystawie „Naturalista” w warszawskiej Fundacji Alina, gdzie zestawia obrazy medyczne ze zdjęciami zdrowych ciał. Artysta opisuje naturalizm jako formę nieufności i znieczulenia, przywołując Borowskiego i Szapocznikow.",
+      "img": "https://magazynszum.pl/wp-content/uploads/2026/10/2026-09-08-artur-zmijewski-naturalista-p2-1-16ab-fot-adam-gut-60x80cm-1440x1080.jpg",
+      "src": "https://magazynszum.pl/efekt-nalozen-rozmowa-z-arturem-zmijewskim/",
       "srcName": "Magazyn SZUM"
     },
     {
-      "id": "2026-10-22-audrey-hobert-phoebe",
-      "date": "2026-10-22",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Audrey Hobert – „Phoebe”",
-      "by": "reż. Audrey Hobert",
-      "text": "Hobert sama wyreżyserowała klip: wrzuca do oceanu kamień z życzeniem, pali scenariusz własnego życia i błąka się wśród sekwoi. Kierowca białego vana wręcza jej ogromnego lizaka, a finał przynosi bilety na trasę Lady Gagi.",
-      "embed": {
-        "p": "yt",
-        "id": "Thpnr2E6gMk"
-      },
-      "img": "https://imgix.bustle.com/uploads/image/2026/10/8/c615ba4a/unnamed.png?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
-      "src": "https://www.nylon.com/entertainment/audrey-hobert-phoebe-music-video",
-      "srcName": "NYLON"
-    },
-    {
-      "id": "2026-10-22-coach-live-your-story",
-      "date": "2026-10-22",
-      "type": "video",
-      "kind": "Film modowy",
-      "title": "Coach – „Live Your Story”",
-      "by": "reż. Vince Haycock (Somesuch)",
-      "text": "Elle Fanning prowadzi autobus pełen muzyków jadących na festiwal, a w tle gra PinkPantheress; film powstał w Budapeszcie. Kampania na jesień i zimę 2026 otwiera współpracę Coach ze Spotify.",
-      "embed": {
-        "p": "yt",
-        "id": "8FifzMHzqWI"
-      },
-      "dur": 81,
-      "img": "https://cdn.mos.cms.futurecdn.net/DEUwC4beepr4jznktCQDH-2560-80.jpg",
-      "src": "https://www.marieclaire.com/fashion/fall-fashion/coach-live-your-story-2026/",
-      "srcName": "Marie Claire"
-    },
-    {
-      "id": "2026-10-22-mark-mcnulty-clubland",
+      "id": "2026-10-22-yard-theatre-shimazaki",
       "date": "2026-10-22",
       "type": "article",
       "lang": "en",
-      "title": "Northern England's rave years on film",
-      "text": "Liverpoolski fotograf Mark McNulty wydał album z archiwum ponad tysiąca zdjęć z klubów północnej Anglii, najmocniejszych z lat 90., sprzed ery smartfonów. Są tam m.in. Chemical Brothers i wczesny Daft Punk bez masek.",
-      "img": "https://images-prod.dazeddigital.com/1200/0-147-2748-1832/azure/dazed-prod/1450/7/1457558.jpg",
-      "src": "https://www.dazeddigital.com/music/article/71166/1/mark-mcnulty-clubland-35-summers-love-photos-90s-clubbing",
-      "srcName": "Dazed"
+      "title": "London's Yard Theatre gets a permanent home",
+      "text": "Takero Shimazaki Architects zamienili tymczasowy od 2011 roku Yard Theatre w Hackney Wick w stałą scenę na 224 miejsca w dawnym browarze. Stara wieża dźwigu stała się 23-metrowym półprzezroczystym kominem wentylacyjnym.",
+      "img": "https://static-2026.dezeen.com/uploads/2026/10/yard-theatre-revamp-takero-shimazaki-architects-london_dezeen_2364_hero_0.jpg",
+      "src": "https://www.dezeen.com/2026/10/21/yard-theatre-revamp-takero-shimazaki-architects-london/",
+      "srcName": "Dezeen"
     },
     {
       "id": "2026-10-22-charli-xcx-house",
@@ -132,120 +132,6 @@
       "dur": 196,
       "src": "https://www.promonews.tv/news/2026/10/06/uk-music-video-awards-2026-all-nominations-years-ukmvas-announced/96513",
       "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-22-drift-aeolus",
-      "date": "2026-10-22",
-      "type": "article",
-      "lang": "en",
-      "title": "DRIFT sculpts the wind in glass and light",
-      "text": "Studio DRIFT pokazuje w Londynie instalację Aeolus: zawieszone szklane pręty ze światełkami, które reagują na ruch widzów. Na początek 2027 roku studio zapowiada własne muzeum w Amsterdamie.",
-      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/drift-2.gif",
-      "src": "https://www.thisiscolossal.com/2026/10/aeolus-studio-drift-light-glass-installation/",
-      "srcName": "Colossal"
-    },
-    {
-      "id": "2026-10-22-june-mcdoom-human-angel",
-      "date": "2026-10-22",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "June McDoom – „Human Angel”",
-      "by": "reż. Rena Johnson",
-      "text": "Nowojorska wokalistka łączy akustyczną balladę z sophisti-popem w stylu Kate Bush i breakbeatowymi przejściami. Klip zapowiadał jej debiutancki album „Follow The Light” wydany przez Jagjaguwar 16 października.",
-      "embed": {
-        "p": "yt",
-        "id": "Buru-JTHKcs"
-      },
-      "img": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/unnamed-2026-10-14T145311.595.jpg",
-      "src": "https://stereogum.com/2514622/june-mcdoom-human-angel/music",
-      "srcName": "Stereogum"
-    },
-    {
-      "id": "2026-10-22-calvin-klein-feel-the-fit",
-      "date": "2026-10-22",
-      "type": "video",
-      "kind": "Film modowy",
-      "title": "Calvin Klein – „Feel the Fit”",
-      "by": "reż. Carlijn Jacobs",
-      "text": "Tate McRae tańczy w luźnych dżinsach w stylu lat 90. do „Groove Is in the Heart” Deee-Lite, w choreografii Sergia Reisa. To pierwszy rozdział nowej denimowej kampanii marki na jesień 2026.",
-      "embed": {
-        "p": "yt",
-        "id": "-98OK33nFKw"
-      },
-      "dur": 35,
-      "img": "https://theimpression.com/wp-content/uploads/2026/08/calvin-klein-feel-the-fit-denim-fall-2026-ad-campaign-header.jpg",
-      "src": "https://theimpression.com/calvin-klein-feel-the-fit-denim-fall-2026-ad-campaign-review/",
-      "srcName": "The Impression"
-    },
-    {
-      "id": "2026-10-22-zmijewski-naturalista",
-      "date": "2026-10-22",
-      "type": "article",
-      "lang": "pl",
-      "title": "Żmijewski o naturalizmie i ciele",
-      "text": "Rozmowa z Arturem Żmijewskim o wystawie „Naturalista” w warszawskiej Fundacji Alina, gdzie zestawia obrazy medyczne ze zdjęciami zdrowych ciał. Artysta opisuje naturalizm jako formę nieufności i znieczulenia, przywołując Borowskiego i Szapocznikow.",
-      "img": "https://magazynszum.pl/wp-content/uploads/2026/10/2026-09-08-artur-zmijewski-naturalista-p2-1-16ab-fot-adam-gut-60x80cm-1440x1080.jpg",
-      "src": "https://magazynszum.pl/efekt-nalozen-rozmowa-z-arturem-zmijewskim/",
-      "srcName": "Magazyn SZUM"
-    },
-    {
-      "id": "2026-10-22-doechii-catwoman",
-      "date": "2026-10-22",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Doechii – „Catwoman”",
-      "by": "reż. Doechii, Carlos Acosta",
-      "text": "Dwuminutowy klip z wznowionej serii Swamp Sessions: Doechii rapuje na tle pustynnych gór do surowego bitu boom-bap. Kolejna po „Bombs” zapowiedź jej debiutanckiego albumu.",
-      "embed": {
-        "p": "yt",
-        "id": "QC6Jz_1hytI"
-      },
-      "img": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Doechii.jpg",
-      "src": "https://stereogum.com/2515238/doechii-catwoman/music",
-      "srcName": "Stereogum"
-    },
-    {
-      "id": "2026-10-22-yard-theatre-shimazaki",
-      "date": "2026-10-22",
-      "type": "article",
-      "lang": "en",
-      "title": "London's Yard Theatre gets a permanent home",
-      "text": "Takero Shimazaki Architects zamienili tymczasowy od 2011 roku Yard Theatre w Hackney Wick w stałą scenę na 224 miejsca w dawnym browarze. Stara wieża dźwigu stała się 23-metrowym półprzezroczystym kominem wentylacyjnym.",
-      "img": "https://static-2026.dezeen.com/uploads/2026/10/yard-theatre-revamp-takero-shimazaki-architects-london_dezeen_2364_hero_0.jpg",
-      "src": "https://www.dezeen.com/2026/10/21/yard-theatre-revamp-takero-shimazaki-architects-london/",
-      "srcName": "Dezeen"
-    },
-    {
-      "id": "2026-10-22-say-now-hot-talking",
-      "date": "2026-10-22",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Say Now – „Hot & Talking”",
-      "by": "reż. Vasso Vu (Casino)",
-      "text": "Klip zaczyna się od otwarcia scrapbooka, po czym wciąga w świat zespołu za pomocą grafiki ruchomej i efektów mixed media. Dziewczyny w koktajlowych sukienkach w hotelowym pokoju – nostalgia Y2K podana świeżo i z nowym, bardziej glamour wizerunkiem.",
-      "embed": {
-        "p": "yt",
-        "id": "2Tp9lBaj7W8"
-      },
-      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Say%20Now%20%27Hot%20%26%20Talking%27%20by%20Vasso%20Vu2.png?itok=jI7arDQt",
-      "src": "https://www.promonews.tv/videos/2026/10/21/say-now-hot-talking-vasso-vu/96687",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-22-fenne-lily-stranger-things",
-      "date": "2026-10-22",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Fenne Lily – „Stranger Things”",
-      "by": "reż. Jolie M-A",
-      "text": "Klip nakręcono nad cieśniną Puget Sound pod Seattle; to ostatnia zapowiedź albumu „Win Win”, który ukaże się 23 października. Tytuł powstał przed piosenką, z jednego zdania taty artystki.",
-      "embed": {
-        "p": "yt",
-        "id": "PafaHUAmQhk"
-      },
-      "img": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Credit-Lela-Wulsin-Stranger-Things-Video-Press-Pic.jpg",
-      "src": "https://stereogum.com/2515245/fenne-lily-stranger-things/music",
-      "srcName": "Stereogum"
     },
     {
       "id": "2026-10-22-art-world-ai-writing",
@@ -267,22 +153,6 @@
       "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/10/David-Reed_808_2024-2026_Image.jpg",
       "src": "https://hyperallergic.com/david-reed-went-where-lichtenstein-wouldnt/",
       "srcName": "Hyperallergic"
-    },
-    {
-      "id": "2026-10-22-cloud-nothings-death-keeps-me-alive",
-      "date": "2026-10-22",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Cloud Nothings – „Death Keeps Me Alive”",
-      "by": "reż. Alex Scalzo-Brown",
-      "text": "Czarno-biały klip w halloweenowym nastroju zapowiada album, który przesuwa zespół w stronę metalu i ciężkiego rocka. Dylan Baldi wskazuje jako inspiracje m.in. Queens of the Stone Age i Motörhead.",
-      "embed": {
-        "p": "yt",
-        "id": "N6kcmzMowik"
-      },
-      "img": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Cloud-Nothings-album.jpg",
-      "src": "https://stereogum.com/2515191/cloud-nothings-announce-new-album-what-kind-of-hell-did-you-survive-hear-death-keeps-me-alive/music",
-      "srcName": "Stereogum"
     },
     {
       "id": "2026-10-21-u2-greatest-show-on-earth",
