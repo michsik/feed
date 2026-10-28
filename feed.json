@@ -1,6 +1,147 @@
 {
-  "updated": "2026-10-23",
+  "updated": "2026-10-28",
   "items": [
+    {
+      "date": "2026-10-28",
+      "type": "video",
+      "id": "2026-10-28-jasmine-yen-sweat",
+      "kind": "Teledysk",
+      "title": "Jasmine Yen – „Sweat”",
+      "by": "reż. Erik He (Partizan / The Producers)",
+      "text": "Teatralny popis ciała i emocji bez fabuły: ostra choreografia, przerysowana stylizacja i wystawne dekoracje, wszystko nakręcone starą kamerą MiniDV. Szybki montaż z cięciami na ruch to ukłon w stronę złotej ery popowych klipów.",
+      "embed": {
+        "p": "yt",
+        "id": "X1fpeBn45yY"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/X1fpeBn45yY.jpg?itok=uxtGEHSG",
+      "src": "https://www.promonews.tv/videos/2026/10/27/jasmine-yen-sweat-erik-he/96733",
+      "srcName": "Promonews"
+    },
+    {
+      "date": "2026-10-28",
+      "type": "article",
+      "id": "2026-10-28-houdini-100-lat",
+      "lang": "en",
+      "title": "What really killed Houdini?",
+      "text": "W setną rocznicę śmierci Houdiniego tekst podważa legendę o ciosie w brzuch, który miał pęknąć mu wyrostek. Emerytowana lekarka sugeruje raczej niedrożność jelit i zwraca uwagę na brak sekcji zwłok i niejasne dokumenty.",
+      "img": "https://cdn8.openculture.com/2026/10/25204950/hh-1024x608.png",
+      "src": "https://www.openculture.com/2026/10/harry-houdini-died-100-years-ago-this-halloween.html",
+      "srcName": "Open Culture"
+    },
+    {
+      "date": "2026-10-28",
+      "type": "article",
+      "id": "2026-10-28-es-devlin-other-worlds",
+      "lang": "en",
+      "title": "Es Devlin's other worlds",
+      "text": "Design Museum w Londynie pokazuje pierwszą europejską retrospektywę Es Devlin – trzy dekady scenografii teatralnych, operowych, koncertowych i instalacji w przestrzeni publicznej. W rozmowie wideo artystka mówi, że wszystko zaczyna się od bardzo prostych gestów; wystawa trwa do 4 kwietnia 2027.",
+      "img": "https://static-2026.dezeen.com/uploads/2026/10/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-video-sq_dezeen_2364_col_0.jpg",
+      "src": "https://www.dezeen.com/2026/10/27/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-interview-video/",
+      "srcName": "Dezeen"
+    },
+    {
+      "date": "2026-10-28",
+      "type": "video",
+      "id": "2026-10-28-missy-elliott-the-rain",
+      "kind": "Teledysk · klasyka",
+      "title": "Missy Elliott – „The Rain (Supa Dupa Fly)”",
+      "by": "reż. Hype Williams",
+      "text": "Debiut Missy z 1997 roku: nadmuchiwany kombinezon, obiektyw rybie oko i nasycone kolory, które stały się znakiem rozpoznawczym Hype'a Williamsa. Jeden z klipów, które na nowo zdefiniowały wygląd hip-hopu końca lat 90.",
+      "embed": {
+        "p": "yt",
+        "id": "hHcyJPTTn9w"
+      },
+      "img": "https://i.ytimg.com/vi/hHcyJPTTn9w/hqdefault.jpg",
+      "src": "https://americansongwriter.com/missy-elliott-recalls-making-the-rain-supa-dupa-fly-music-video/",
+      "srcName": "American Songwriter"
+    },
+    {
+      "date": "2026-10-28",
+      "type": "article",
+      "id": "2026-10-28-matki-chersonia-opera",
+      "lang": "pl",
+      "title": "Opera o dzieciach z Chersonia",
+      "text": "Rozmowa z kompozytorem Maksymem Kołomijcem i kuratorką Saszą Andrusyk o operze „Matki Chersonia”, wspólnej produkcji Teatru Wielkiego i Metropolitan Opera, która miała premierę w Warszawie 16 października. Opowiadają, jak mówić o uprowadzaniu dzieci z okupowanego miasta tak, by temat był zrozumiały daleko poza Ukrainą.",
+      "src": "https://www.dwutygodnik.com/artykul/12730-nie-powinienes-tego-widziec.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "date": "2026-10-28",
+      "type": "article",
+      "id": "2026-10-28-izumi-kato-perrotin",
+      "lang": "en",
+      "title": "Izumi Kato's underwater totems",
+      "text": "Japoński artysta pokazuje w nowojorskim Perrotin obrazy i rzeźby, w których człekokształtne postacie żyją w wodnym, sennym świecie, a nad nimi wiszą odlewane z aluminium kamienie. Wystawa trwa od 28 października do 19 grudnia.",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/kato-2.jpg",
+      "src": "https://www.thisiscolossal.com/2026/10/izumi-kato-paintings-sculptures/",
+      "srcName": "Colossal"
+    },
+    {
+      "date": "2026-10-28",
+      "type": "video",
+      "id": "2026-10-28-jon-batiste-freedom",
+      "kind": "Teledysk · nagroda",
+      "title": "Jon Batiste – „Freedom”",
+      "by": "reż. Alan Ferguson (Wandering Cameras)",
+      "text": "Barwny, taneczny klip, w którym Batiste zamienia swój utwór o wolności w uliczne święto. Klip zdobył Grammy za najlepszy teledysk w 2022 roku.",
+      "embed": {
+        "p": "yt",
+        "id": "3YHVC1DcHmo"
+      },
+      "img": "https://i.ytimg.com/vi/3YHVC1DcHmo/hqdefault.jpg",
+      "src": "https://grammy.com/news/jon-batiste-wins-2022-grammy-best-music-video-freedom-we-are",
+      "srcName": "GRAMMY.com"
+    },
+    {
+      "date": "2026-10-28",
+      "type": "article",
+      "id": "2026-10-28-gehry-youth-orchestra-abu-dhabi",
+      "lang": "en",
+      "title": "Gehry's last concert hall, for kids",
+      "text": "Abu Zabi ujawniło projekt siedziby Youth Orchestra Abu Dhabi, który Frank Gehry przygotował przed śmiercią w grudniu 2025 roku. W porcie Mina Zayed powstanie sala na 600 miejsc i 18 sal prób, a dzieci od 6 do 9 lat będą się tu uczyć muzyki za darmo.",
+      "img": "https://static-2026.dezeen.com/uploads/2026/10/youth-orchestra-abu-dhabi-frank-gehry_dezeen_2364_hero_0.jpg",
+      "src": "https://www.dezeen.com/2026/10/27/youth-orchestra-abu-dhabi-frank-gehry/",
+      "srcName": "Dezeen"
+    },
+    {
+      "date": "2026-10-28",
+      "type": "article",
+      "id": "2026-10-28-balzac-kawa",
+      "lang": "en",
+      "title": "Balzac, powered by coffee",
+      "text": "Balzac pisał nocami, podobno na kilkudziesięciu filiżankach kawy dziennie, i tak zbudował ogromną „Komedię ludzką”. Ten nawyk mógł jednak skrócić mu życie – zmarł w wieku 51 lat.",
+      "img": "https://cdn8.openculture.com/2026/10/26224712/Screenshot-2024-07-09-at-9.22.55-PM-1024x722.png",
+      "src": "https://www.openculture.com/2026/10/how-balzacs-extreme-coffee-habit-fueled-his-productive-writing-routine.html",
+      "srcName": "Open Culture"
+    },
+    {
+      "date": "2026-10-28",
+      "type": "video",
+      "id": "2026-10-28-prada-castello-cavalcanti",
+      "kind": "Film modowy",
+      "title": "Prada – „Castello Cavalcanti”",
+      "by": "reż. Wes Anderson",
+      "text": "Włochy, 1955: kierowca rajdowy grany przez Jasona Schwartzmana rozbija auto w małym włoskim miasteczku i odkrywa, że to miejsce, z którego wywodzi się jego rodzina. Krótki film Andersona nakręcony dla Prady w 2013 roku, w całości w jego symetrycznym, pastelowym stylu.",
+      "embed": {
+        "p": "yt",
+        "id": "b87B7zyucgI"
+      },
+      "dur": 480,
+      "img": "https://i.ytimg.com/vi/b87B7zyucgI/hqdefault.jpg",
+      "src": "https://thefilmstage.com/watch-wes-andersons-8-minute-short-film-castello-cavalcanti-starring-jason-schwartzman",
+      "srcName": "The Film Stage"
+    },
+    {
+      "date": "2026-10-28",
+      "type": "article",
+      "id": "2026-10-28-oxford-street-deptak",
+      "lang": "en",
+      "title": "Oxford Street without cars",
+      "text": "Od 26 października około kilometra Oxford Street w Londynie, między Orchard Street a Great Portland Street, jest zamknięte dla samochodów. To pierwszy etap zamiany słynnej ulicy handlowej w deptak.",
+      "img": "https://static-2026.dezeen.com/uploads/2026/10/oxford-street-pedestrianisation_dezeen_2364_col_sq.jpg",
+      "src": "https://www.dezeen.com/2026/10/27/photos-walkable-oxford-street-pedestrianisation-begins/",
+      "srcName": "Dezeen"
+    },
     {
       "id": "2026-10-23-on-shape-of-dreams-zendaya",
       "date": "2026-10-23",
