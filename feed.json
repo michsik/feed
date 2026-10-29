@@ -1,6 +1,146 @@
 {
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "items": [
+    {
+      "date": "2026-10-29",
+      "type": "video",
+      "id": "2026-10-29-bicep-gas",
+      "kind": "Teledysk",
+      "title": "Bicep feat. Lauren Duffus & SOARR – „Gas”",
+      "by": "reż. Alex Takács (ProdCo)",
+      "text": "Gang złodziei planuje kradzież „biodrona” – sterowanego implantami gołębia – a po skoku najmłodszy z nich rusza ptakiem na przejażdżkę i ogląda miasto jego oczami. Kręcony w Tbilisi klip łączy surowy realizm z dystopią, zdegradowanym obrazem z kamer monitoringu i zwolnieniami.",
+      "embed": {
+        "p": "yt",
+        "id": "tq1gVmJ9NWo"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Bicep%20ft%20Lauren%20Duffus%20and%20SOARR%20%27Gas%27%20by%20Alex%20Takacs.png?itok=e9Zw9lFm",
+      "src": "https://www.promonews.tv/videos/2026/10/21/bicep-ft-lauren-duffus-and-soarr-gas-alex-takacs/96696",
+      "srcName": "Promonews"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "article",
+      "id": "2026-10-29-tom-hegen-mineral-age",
+      "lang": "en",
+      "title": "Tom Hegen's The Mineral Age",
+      "text": "Sześć lat fotografowania z powietrza kopalń litu, niklu i innych surowców, od których zależy zielona transformacja – od basenów ewaporacyjnych w Atakamie po kopalnię wcinającą się w indonezyjski las. Album pyta, kto naprawdę płaci za odejście od paliw kopalnych.",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/Tom-Hegen-The-Mineral-Age-Press-2.jpg",
+      "src": "https://www.thisiscolossal.com/2026/10/tom-hegen-the-mineral-age-photo-book/",
+      "srcName": "Colossal"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "article",
+      "id": "2026-10-29-literatura-franczyzy",
+      "lang": "pl",
+      "title": "Literatura franczyzy",
+      "text": "Sprawa debiutu Thélysona Oréliena, wycofanego z konkursu Goncourtów po tym, jak detektor uznał tekst za napisany przez AI, choć niczego nie dowiedziono. Garatynski przekonuje, że w czasach maszyn o wiarygodności pisarza decyduje jego podpis i osobista odpowiedzialność, a nie techniczne dowody.",
+      "img": "https://www.dwutygodnik.com/_next/image?url=https%3A%2F%2Fdwutygodnik-storage.s3.eu-central-1.amazonaws.com%2Fprod%2Fpublic%2Fmedia%2Fuploads%2F1793028186719-IMG7935.jpeg&w=1920&q=75",
+      "src": "https://www.dwutygodnik.com/artykul/12733-literatura-franczyzy.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "video",
+      "id": "2026-10-29-burberry-tale-of-thomas-burberry",
+      "kind": "Film modowy",
+      "title": "Burberry – „The Tale of Thomas Burberry”",
+      "by": "reż. Asif Kapadia (Black Label Productions)",
+      "text": "Trzyminutowy „film fabularny w pigułce” na 160-lecie marki: Domhnall Gleeson jako założyciel Burberry, obok Sienna Miller, Lily James i Dominic West jako Shackleton. Twórca dokumentu „Amy” opowiada historię gabardyny i trencza w kostiumie hollywoodzkiego eposu.",
+      "embed": {
+        "p": "yt",
+        "id": "6D5IZtDCS5c"
+      },
+      "dur": 180,
+      "img": "https://i.ytimg.com/vi/6D5IZtDCS5c/hqdefault.jpg",
+      "src": "https://shots.net/news/view/91555-burberry-the-tale-of-thomas-burberry",
+      "srcName": "shots"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "article",
+      "id": "2026-10-29-braulio-amado",
+      "lang": "en",
+      "title": "Bráulio Amado: mistakes, chaos, meditation",
+      "text": "Projektant plakatów klubu Good Room opowiada, jak ćwiczy uważność, wyłapując zdarte nawierzchnie i banalne przedmioty, a potem traktuje ich zdjęcia jako ograniczenia w kolejnych eksperymentach. Mówi też o kryzysach twórczych i o tym, że punkowa wspólnota jest dla niego ważniejsza niż perfekcja.",
+      "img": "https://m.itsnicethat.com/original_images/Braulio_Hero.png?class=w1440",
+      "src": "https://www.itsnicethat.com/features/braulio-amado-graphic-design-spotlight-261026",
+      "srcName": "It's Nice That"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "article",
+      "id": "2026-10-29-jak-brzmiala-lacina",
+      "lang": "en",
+      "title": "What ancient Latin sounded like",
+      "text": "Filmy i seriale oddają Rzymian brytyjskim akcentem, a jak naprawdę brzmiała łacina? Animowany wykład rekonstruuje wymowę z poszlak: uwag Kwintyliana, metrum Wergiliusza i języków romańskich.",
+      "img": "https://cdn8.openculture.com/2026/10/21212024/what-latin-sounded-like-1024x576.jpg",
+      "src": "https://www.openculture.com/2026/10/what-ancient-latin-sounded-like-how-we-know-it.html",
+      "srcName": "Open Culture"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "video",
+      "id": "2026-10-29-lady-gaga-bad-romance",
+      "kind": "Teledysk · nagroda",
+      "title": "Lady Gaga – „Bad Romance”",
+      "by": "reż. Francis Lawrence",
+      "text": "Biała łaźnia, porwanie przez supermodelki i licytacja przed rosyjską mafią – a na koniec płonące łóżko. Klip zdobył Grammy za najlepszy teledysk (2011) i siedem statuetek MTV VMA 2010, w tym za teledysk roku i najlepszą reżyserię.",
+      "embed": {
+        "p": "yt",
+        "id": "qrO4YZeyl0I"
+      },
+      "img": "https://i.ytimg.com/vi/qrO4YZeyl0I/hqdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/Bad_Romance",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "article",
+      "id": "2026-10-29-maniak-w-tuchowie",
+      "lang": "pl",
+      "title": "Krzysztof Maniak i jego Tuchów",
+      "text": "Sylwetka artysty, który od lat sam tworzy scenę sztuki w rodzinnym miasteczku: drobne interwencje w przyrodę, spacery, zbieractwo i rysunki zebrane w nowej książce. Ulica Spacerowa i własny ogród stają się u niego pełnoprawnym terenem land artu.",
+      "src": "https://www.dwutygodnik.com/artykul/12731-w-tuchowie.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "article",
+      "id": "2026-10-29-wearableart-glo",
+      "lang": "en",
+      "title": "WearableArt's GLO!",
+      "text": "Nowozelandzki konkurs World of WearableArt od 1987 roku łączy awangardową modę, technologię i spektakl. Tegoroczną edycję GLO! wygrała Kayla Christensen drapowaną, kwiatową kreacją nawiązującą do rdzennych strojów ceremonialnych.",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/wearableart-3-e1790859226557.jpg",
+      "src": "https://www.thisiscolossal.com/2026/10/world-of-wearableart-2026-glo-fashion-performance/",
+      "srcName": "Colossal"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "video",
+      "id": "2026-10-29-depeche-mode-enjoy-the-silence",
+      "kind": "Teledysk · klasyka",
+      "title": "Depeche Mode – „Enjoy the Silence”",
+      "by": "reż. Anton Corbijn",
+      "text": "Dave Gahan jako król w koronie i płaszczu przemierza Alpy, plaże Algarve i szkockie wrzosowiska z leżakiem pod pachą, szukając miejsca na chwilę ciszy. Corbijn widział w nim człowieka, który ma wszystko, a pragnie rzeczy prostej, której nie da się kupić.",
+      "embed": {
+        "p": "yt",
+        "id": "aGSKrC7dGcY"
+      },
+      "img": "https://i.ytimg.com/vi/aGSKrC7dGcY/hqdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/Enjoy_the_Silence",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "article",
+      "id": "2026-10-29-bill-rebholz",
+      "lang": "en",
+      "title": "Bill Rebholz turns trash into signs",
+      "text": "Ilustrator wywodzący się ze street artu i malarstwa szyldów mówi o tym, jak uliczne napisy ukształtowały jego technikę i swobodne, rozlewające się kompozycje. Jego zasada: rzeczy wyrzucone i przeoczone zyskują wartość, gdy się je powiększy.",
+      "src": "https://www.itsnicethat.com/articles/bill-rebholz-nicer-tuesdays-la-281026",
+      "srcName": "It's Nice That"
+    },
     {
       "date": "2026-10-28",
       "type": "video",
