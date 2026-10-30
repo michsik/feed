@@ -1,6 +1,148 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "items": [
+    {
+      "date": "2026-10-30",
+      "type": "video",
+      "id": "2026-10-30-texas-another-way-to-cry",
+      "kind": "Teledysk",
+      "title": "Texas – „Another Way To Cry”",
+      "by": "reż. Niall Trask (Riff Raff Films)",
+      "text": "Zespół, który wziął nazwę od „Paris, Texas” Wendersa, odtwarza kluczową scenę filmu – tyle że w szkockiej dolinie Glen Coe. Robert Carlyle w czapce z daszkiem i marynarce składa hołd Harry’emu Deanowi Stantonowi, a obok niego gra Sharleen Spiteri.",
+      "embed": {
+        "p": "yt",
+        "id": "jIAvWrEYIMA"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/webform/Screenshot%202026-10-26%20at%2011.16.42.jpg?itok=zGpivWVa",
+      "src": "https://www.promonews.tv/videos/2026/10/29/texas-another-way-cry-niall-trask/96781",
+      "srcName": "Promonews"
+    },
+    {
+      "date": "2026-10-30",
+      "type": "article",
+      "id": "2026-10-30-sagrada-familia-megaprojekt",
+      "lang": "en",
+      "title": "Inside the Making of the Sagrada Família",
+      "text": "Ekipa kanału The B1M weszła do krzyża na szczycie centralnej wieży i do piwnicznej pracowni makiet, gdzie wciąż sprawdza się, jak zbudować to, czego Gaudí nie zdążył rozrysować. Wieżę zwieńczono w lutym, ale na wnętrza, dachy i fasadę główną trzeba poczekać jeszcze około dekady.",
+      "img": "https://cdn8.openculture.com/2026/10/27214713/Sagrada_Familia_02-1-1024x768.jpg",
+      "src": "https://www.openculture.com/2026/10/inside-the-making-of-the-sagrada-familia-barcelonas-144-year-megaproject.html",
+      "srcName": "Open Culture"
+    },
+    {
+      "date": "2026-10-30",
+      "type": "article",
+      "id": "2026-10-30-prymusy-z-oslej-lawki",
+      "lang": "pl",
+      "title": "Prymusy z Oślej Ławki",
+      "text": "Reportaż o Latarni na Wenei – darmowej scenie pod chmurką w Gnieźnie, którą od 2018 roku prowadzi stowarzyszenie Ośla Ławka bez etatów i stałego budżetu. Działacze chcą zrobić klub w sąsiedniej przepompowni, ale miasto milczy, więc napisali już do ministra kultury.",
+      "img": "https://www.dwutygodnik.com/_next/image?url=https%3A%2F%2Fdwutygodnik-storage.s3.eu-central-1.amazonaws.com%2Fprod%2Fpublic%2Fmedia%2Fuploads%2F1792744435967-jarzmofot.SebastianUciski.jpg&w=1920&q=75",
+      "src": "https://www.dwutygodnik.com/artykul/12726-prymusy-z-oslej-lawki.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "date": "2026-10-30",
+      "type": "video",
+      "id": "2026-10-30-dior-a24-zamiri",
+      "kind": "Film modowy",
+      "title": "Dior × A24 – „A24 meets Dior”",
+      "by": "reż. Aidan Zamiri (Object & Animal)",
+      "text": "Sabrina Carpenter, Josh O’Connor, Camille Cottin, Drew Starkey i Sophie Wilde próbują „zostać” Jonathanem Andersonem – ćwiczą jego pokłony po pokazie i kaleczą północnoirlandzki akcent, aż ktoś pęka. Dwuminutowa komedia otwiera dwuletnią współpracę Diora z A24, a sam Anderson pojawia się w cameo.",
+      "embed": {
+        "p": "yt",
+        "id": "LutBUtHdxKM"
+      },
+      "dur": 142,
+      "img": "https://imgix.bustle.com/uploads/image/2026/9/10/4242d59e/behind-the-scenes-c.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.4659&fp-y=0.4147",
+      "src": "https://lbbonline.com/news/5-Jonathan-Andersons-Walk-Into-the-Cherry-Lane-Theatre-for-A24-and-Dior",
+      "srcName": "LBB Online"
+    },
+    {
+      "date": "2026-10-30",
+      "type": "article",
+      "id": "2026-10-30-hazoume-my-blue-period",
+      "lang": "en",
+      "title": "Romuald Hazoumè – My Blue Period",
+      "text": "Artysta z Beninu robi maski z plastikowych kanistrów, piór, siatek i zużytych pędzli, mówiąc nimi o dziedzictwie kolonializmu, klimacie i wojnach. Błękit nowej serii w londyńskiej October Gallery ma równoważyć „czerwone linie” przemocy; wystawa trwa do 21 listopada.",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/hazoume-3.jpg",
+      "src": "https://www.thisiscolossal.com/2026/10/romuald-hazoume-plastic-jug-mask-sculptures/",
+      "srcName": "Colossal"
+    },
+    {
+      "date": "2026-10-30",
+      "type": "article",
+      "id": "2026-10-30-kola-barw-goethe-newton",
+      "lang": "en",
+      "title": "Koła barw od Newtona do Goethego",
+      "text": "Przegląd kół kolorów z lat 1665–1810: od newtonowskiego podziału światła na siedem barw, przez sześć barw podstawowych i pochodnych Mosesa Harrisa, po koło Goethego i Schillera łączące kolory z temperamentami. Piękne tablice i spór, który ciągnął się aż do XIX wieku.",
+      "img": "https://cdn8.openculture.com/2026/10/27222559/color-wheels.jpg",
+      "src": "https://www.openculture.com/2026/10/the-vibrant-color-wheels-designed-by-goethe-newton-other-theorists.html",
+      "srcName": "Open Culture"
+    },
+    {
+      "date": "2026-10-30",
+      "type": "video",
+      "id": "2026-10-30-fka-twigs-cellophane",
+      "kind": "Teledysk · nagroda",
+      "title": "FKA twigs – „Cellophane”",
+      "by": "reż. Andrew Thomas Huang (Object & Animal)",
+      "text": "Twigs tańczy na rurze przed niewidzialną publicznością, wspina się ku latającej istocie z własną twarzą i spada do podziemia, gdzie oblepiają ją gliną. Klip zdobył cztery statuetki UK Music Video Awards 2019 (m.in. najlepszy teledysk alternatywny i zdjęcia) oraz nominację do Grammy 2020 za najlepszy teledysk.",
+      "embed": {
+        "p": "yt",
+        "id": "YkLjqFpBh84"
+      },
+      "img": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2019/04/fka-twigs-cellophane-single-1556117421-scaled.jpg",
+      "src": "https://en.wikipedia.org/wiki/Cellophane_(FKA_Twigs_song)",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-10-30",
+      "type": "article",
+      "id": "2026-10-30-big-walk-spacer-przez-dzwieki",
+      "lang": "pl",
+      "title": "Spacer przez dźwięki",
+      "text": "Recenzja „Big Walk” od twórców „Untitled Goose Game”: do dwunastu graczy wędruje po tajemniczej wyspie, a głos cichnie z odległością, odbija się echem w jaskiniach i trzeszczy w krótkofalówkach. Komunikacja jest tu właściwą zagadką, a gra – świętem współpracy.",
+      "img": "https://www.dwutygodnik.com/_next/image?url=https%3A%2F%2Fdwutygodnik-storage.s3.eu-central-1.amazonaws.com%2Fprod%2Fpublic%2Fmedia%2Fuploads%2F1793028859757-IMG7937.jpeg&w=1920&q=75",
+      "src": "https://www.dwutygodnik.com/artykul/12732-spacer-przez-dzwieki.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "date": "2026-10-30",
+      "type": "article",
+      "id": "2026-10-30-krasner-pollock-met",
+      "lang": "en",
+      "title": "Krasner and Pollock at the Met",
+      "text": "Lucy Ives chwali wystawę „Past Continuous” za oszczędny, mądry montaż i przekonuje, że widzów przyciąga przede wszystkim to, jak Lee Krasner malowała i jak przetrwała małżeństwo z Pollockiem. Podsłuchana w sali uwaga o jej wyglądzie pokazuje, że seksizm wokół takich retrospektyw wcale nie zniknął.",
+      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/10/Untitled-3.jpg",
+      "src": "https://hyperallergic.com/the-mets-krasner-and-pollock-show-is-a-breathtaking-upending/",
+      "srcName": "Hyperallergic"
+    },
+    {
+      "date": "2026-10-30",
+      "type": "video",
+      "id": "2026-10-30-white-stripes-blue-orchid",
+      "kind": "Teledysk · klasyka",
+      "title": "The White Stripes – „Blue Orchid”",
+      "by": "reż. Floria Sigismondi",
+      "text": "Gotycka, niepokojąca baśń z modelką Karen Elson, która kończy się kopytami konia zawieszonymi nad jej głową i nagłą czernią. Na planie Elson poznała Jacka White’a – wkrótce potem wzięli ślub.",
+      "embed": {
+        "p": "yt",
+        "id": "jW8UlrtcEac"
+      },
+      "img": "https://i.ytimg.com/vi/jW8UlrtcEac/hqdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/Blue_Orchid",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-10-30",
+      "type": "article",
+      "id": "2026-10-30-gretchen-scherer-in-time",
+      "lang": "en",
+      "title": "Gretchen Scherer – In Time",
+      "text": "Maksymalistyczne obrazy historycznych wnętrz – muzeów, salonów, pałacowych sal i kościołów – gęsto obwieszonych dziełami sztuki i wypełnionych meblami, często według realnych miejsc. Wystawa w nowojorskiej Monya Rowe Gallery potrwa do 9 stycznia.",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/scherer-11.jpg",
+      "src": "https://www.thisiscolossal.com/2026/10/gretchen-scherer-in-time-paintings-art-history-interiors/",
+      "srcName": "Colossal"
+    },
     {
       "date": "2026-10-29",
       "type": "video",
