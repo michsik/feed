@@ -1,6 +1,368 @@
 {
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "items": [
+    {
+      "date": "2026-11-01",
+      "type": "video",
+      "id": "2026-11-01-hot-chip-random-violence",
+      "kind": "Teledysk",
+      "title": "Hot Chip – „Random Violence”",
+      "by": "reż. Jack Cole (Reserved Entry)",
+      "text": "Pierwszy singiel z albumu „A Long Way From Kansas” to hołd dla zmarłego Keitha McIvora z Optimo, zbudowany wokół halloweenowych imprez Espookio w glasgowskim Sub Clubie. Kobieca grupa Boss Morris zamienia angielski taniec ludowy w radosny, nieco upiorny rytuał ku czci życia.",
+      "embed": {
+        "p": "yt",
+        "id": "I4f5T7IyA20"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Screenshot%202026-10-19%20at%2020.49.09.png?itok=h-XjMSNP",
+      "src": "https://www.promonews.tv/videos/2026/10/22/hot-chip-random-violence-jack-cole/96726",
+      "srcName": "Promonews"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "news",
+      "id": "2026-11-01-kryzys-w-tk-noc",
+      "lang": "pl",
+      "title": "Noc w Trybunale Konstytucyjnym: zawieszenie prezesa i przepychanki z udziałem prezydenta",
+      "text": "Sędzia Anna Korwin-Piotrowska ogłosiła zawieszenie prezesa TK Bogdana Święczkowskiego i jego zastępcy, a przed budynkiem zebrali się protestujący i pojawiła się policja. Karol Nawrocki przerwał podróż do Senegalu i w nocy wszedł do gmachu Trybunału, a przy wejściu doszło do szarpaniny z sędziami wybranymi przez obecny Sejm.",
+      "src": "https://www.rmf24.pl/fakty/polska/news-kryzys-w-trybunale-konstytucyjnym-zawieszenie-prezesa-protes,nIdn,1024182",
+      "srcName": "RMF24"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "photo",
+      "id": "2026-11-01-wm-01",
+      "title": "Zima na Piątej Alei, Nowy Jork",
+      "by": "Alfred Stieglitz, 1893",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Winter_-_Fifth_Avenue_MET_DP234514.jpg/1280px-Winter_-_Fifth_Avenue_MET_DP234514.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Winter_-_Fifth_Avenue_MET_DP234514.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "article",
+      "id": "2026-11-01-galasy-timothy-boomer",
+      "lang": "en",
+      "title": "Timothy Boomer Captures the Uncanny World of Insect Galls",
+      "text": "Timothy Boomer fotografuje kolorowe narośla na roślinach, które budują galasówki, żeby ich larwy miały schronienie i pożywienie. Dzięki focus stackingowi i oszczędnej obróbce te maleńkie struktury wyglądają jak obiekty z innej planety.",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/boomer-8.jpg",
+      "src": "https://www.thisiscolossal.com/2026/10/timothy-boomer-photographs-plant-galls/",
+      "srcName": "Colossal"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "photo",
+      "id": "2026-11-01-wm-02",
+      "title": "Wall Street w porannym słońcu, Nowy Jork",
+      "by": "Paul Strand, 1915",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/30/Wall_Street_by_Paul_Strand,_1915.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Wall_Street_by_Paul_Strand,_1915.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "news",
+      "id": "2026-11-01-oredzie-tuska-tk",
+      "lang": "pl",
+      "title": "Tusk w orędziu: żadnych kompromisów w sprawie Trybunału",
+      "text": "Premier w sobotnim orędziu oskarżył PiS oraz prezydentów Dudę i Nawrockiego o niszczenie praworządności i odrzucił wezwania do ustępstw. Zapowiedział, że rząd zapewni Trybunałowi bezpieczeństwo i warunki do pracy, a nocne wydarzenia przed gmachem TK nazwał aktami agresji.",
+      "src": "https://tvn24.pl/polska/oredzie-premiera-donalda-tuska-st9316323",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "photo",
+      "id": "2026-11-01-wm-03",
+      "title": "Rue Saint-Rustique, Montmartre",
+      "by": "Eugène Atget, 1922",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Eug%C3%A8ne_Atget,_Rue_St._Rustique,_Montmartre,_1922.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Atget,_Rue_St._Rustique,_Montmartre,_1922.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "news",
+      "id": "2026-11-01-konfederacja-reset-tk",
+      "lang": "pl",
+      "title": "Konfederacja u prezydenta: reset Trybunału i skrócenie kadencji Sejmu",
+      "text": "Podczas konsultacji zwołanych przez Karola Nawrockiego liderzy Konfederacji przedstawili plan wyboru wszystkich 15 sędziów TK większością trzech piątych i zapowiedzieli projekt uchwały o skróceniu kadencji Sejmu. Taka uchwała wymagałaby 307 głosów, na co zwrócił uwagę Mateusz Morawiecki, proponując raczej konstruktywne wotum nieufności.",
+      "src": "https://www.rp.pl/polityka/art45426171-konfederacja-przedstawila-nawrockiemu-plan-naprawczy-tk-reset-i-skrocenie-kadencji-sejmu",
+      "srcName": "Rzeczpospolita"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "news",
+      "id": "2026-11-01-inflacja-pazdziernik",
+      "lang": "pl",
+      "title": "Inflacja w październiku spadła do 3,5 proc.",
+      "text": "Według szybkiego szacunku GUS ceny rosły w październiku o 3,5 proc. rok do roku, wyraźnie wolniej niż we wrześniu i poniżej oczekiwań ekonomistów. W skali miesiąca ceny spadły o 0,4 proc., głównie za sprawą prawie dziesięcioprocentowego potanienia paliw.",
+      "src": "https://www.rmf24.pl/fakty/polska/news-inflacja-wyhamowala-mocniej-od-prognoz-gus-podal-dane-za-paz,nIdn,1024048",
+      "srcName": "RMF24"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "video",
+      "id": "2026-11-01-balenciaga-a-new-york-minute",
+      "kind": "Film modowy",
+      "title": "Balenciaga – „A New York Minute” z Sarah Pidgeon",
+      "by": "reż. Celine Song",
+      "text": "Autorka „Past Lives” nakręciła dla Balenciagi kampanię jesień/zima 2026 jako serię minutowych filmów, w których Nowy Jork staje się planem zdjęciowym, a Sarah Pidgeon gra w filmie w filmie. To krótka, dowcipna etiuda o pośpiechu miasta i o samym kręceniu.",
+      "embed": {
+        "p": "yt",
+        "id": "WQ8pqVq92_M"
+      },
+      "dur": 60,
+      "img": "https://i.ytimg.com/vi/WQ8pqVq92_M/hqdefault.jpg",
+      "src": "https://vein.es/a-new-york-minute-turns-balenciaga-into-a-film-within-a-film/",
+      "srcName": "Vein"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "photo",
+      "id": "2026-11-01-wm-04",
+      "title": "Antykwariat przy Faubourg Saint-Honoré, Paryż",
+      "by": "Eugène Atget, ok. 1902",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/96/Eug%C3%A8ne_Atget,_Antique_Store,_21_Faubourg_St.-Honor%C3%A9_-_Getty_Museum.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Atget,_Antique_Store,_21_Faubourg_St.-Honor%C3%A9_-_Getty_Museum.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "article",
+      "id": "2026-11-01-150-horrorow-za-darmo",
+      "lang": "en",
+      "title": "Watch 150 Classic Horror and Suspense Films Free Online",
+      "text": "Na YouTube jest playlista około 150 klasycznych horrorów i thrillerów, od niemieckiego ekspresjonizmu po kultowe filmy z lat 60. Open Culture przypomina też, jak telewizyjne pasma nocne z połowy XX wieku żyły z tanich filmów grozy.",
+      "img": "https://cdn8.openculture.com/2026/10/29231611/Screenshot-2026-10-29-at-11.27.10-PM-1024x774.png",
+      "src": "https://www.openculture.com/2026/10/watch-150-classic-horror-and-suspense-films-free-online.html",
+      "srcName": "Open Culture"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "photo",
+      "id": "2026-11-01-wm-05",
+      "title": "Gazeciarze przed Skeeter's Branch, St. Louis",
+      "by": "Lewis Hine, 1910",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/11-00_A.M._Monday,_May_9th,_1910._Newsies_at_Skeeter%27s_Branch,_Jefferson_near_Franklin._They_were_all_smoking._Location-_St._Louis,_Missouri._MET_DP352686.jpg/1280px-11-00_A.M._Monday,_May_9th,_1910._Newsies_at_Skeeter%27s_Branch,_Jefferson_near_Franklin._They_were_all_smoking._Location-_St._Louis,_Missouri._MET_DP352686.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:11-00_A.M._Monday,_May_9th,_1910._Newsies_at_Skeeter%27s_Branch,_Jefferson_near_Franklin._They_were_all_smoking._Location-_St._Louis,_Missouri._MET_DP352686.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "news",
+      "id": "2026-11-01-rosjanin-szpieg-swidnica",
+      "lang": "pl",
+      "title": "Rosjanin podejrzany o szpiegostwo zatrzymany w Świdnicy",
+      "text": "Policja zatrzymała 55-letniego obywatela Rosji, który fotografował pociągi i infrastrukturę kolejową, a w jego sprzęcie znaleziono setki tysięcy podobnych zdjęć oraz dokumenty na różne tożsamości. Mężczyzna usłyszał zarzut działania na rzecz obcego wywiadu i trafił na trzy miesiące do aresztu.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-10-30/rosjanin-szpiegowal-w-polsce-fotografowal-kolej-zostal-ujety/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "photo",
+      "id": "2026-11-01-wm-06",
+      "title": "Bandits' Roost, Mulberry Street, Nowy Jork",
+      "by": "Jacob Riis, 1888",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bandits%27_Roost,_59_1-2_Mulberry_Street_by_Jacob_August_Riis,_1888.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Bandits%27_Roost,_59_1-2_Mulberry_Street_by_Jacob_August_Riis,_1888.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "news",
+      "id": "2026-11-01-ceny-paliw-dlugi-weekend",
+      "lang": "pl",
+      "title": "Niższe maksymalne ceny paliw na długi weekend",
+      "text": "Minister energii ustalił na sobotę, niedzielę i poniedziałek limity cen na poziomie 6,48 zł za litr benzyny 95 i 8,15 zł za olej napędowy, nieco poniżej piątkowych stawek. To element trzeciej odsłony rządowego programu obniżania cen paliw, finansowanego m.in. z podatku od nadmiarowych zysków.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-10-30/ceny-paliwa-na-swieto-1-listopada-minister-oglosil-decyzje/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "news",
+      "id": "2026-11-01-trump-zelenski-g20",
+      "lang": "pl",
+      "title": "Trump nie wyklucza zaproszenia Zełenskiego na szczyt G20",
+      "text": "Prezydent USA oświadczył, że może zaprosić przywódcę Ukrainy na grudniowy szczyt G20 w Miami, na który zaproszono już Władimira Putina. Trump przewiduje, że wojna zakończy się w niedalekiej przyszłości, a Waszyngton rozmawia z Kijowem o wznowionych atakach na rosyjskie rafinerie.",
+      "src": "https://www.wnp.pl/rynki/usa-trump-moge-zaprosic-zelenskiego-na-szczyt-g20,1115052.html",
+      "srcName": "wnp.pl (PAP)"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "photo",
+      "id": "2026-11-01-wm-07",
+      "title": "Union Square, Manhattan",
+      "by": "Berenice Abbott, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/72/Union_Square,_Manhattan_(NYPL_b13668355-482717).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Union_Square,_Manhattan_(NYPL_b13668355-482717).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "video",
+      "id": "2026-11-01-madonna-ray-of-light",
+      "kind": "Teledysk · nagroda",
+      "title": "Madonna – „Ray of Light”",
+      "by": "reż. Jonas Åkerlund",
+      "text": "Klip zwyciężył w kategorii Video of the Year na MTV VMA 1998 (łącznie pięć statuetek, m.in. za reżyserię i montaż) oraz zdobył Grammy 1999 za najlepszy krótki teledysk. Åkerlund przyspieszył zdjęcia poklatkowe miast świata do zawrotnego tempa, a pośród tego pędu tańczy Madonna.",
+      "embed": {
+        "p": "yt",
+        "id": "x3ov9USxVxY"
+      },
+      "img": "https://i.ytimg.com/vi/x3ov9USxVxY/hqdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/Ray_of_Light_(song)",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "article",
+      "id": "2026-11-01-harley-weir-czarownice",
+      "lang": "en",
+      "title": "Harley Weir's vision of modern-day witches",
+      "text": "Harley Weir i projektantka Dilara Findikoglu przez pięć dni jeździły po rumuńskich wsiach i miasteczkach, gdzie poznały matriarchinię znanego rodu czarownic. Z tej podróży powstała książka Witch, w której słowo czarownica oznacza siłę i wiedzę przekazywaną między kobietami, a nie obelgę.",
+      "img": "https://images-prod.dazeddigital.com/1200/0-0-3000-2000/azure/dazed-prod/1450/8/1458502.jpeg",
+      "src": "https://www.dazeddigital.com/art-photography/article/71266/1/harley-weir-witches-witch-idea-photo-book-romania-photogrpahy-dilara-findikoglu",
+      "srcName": "Dazed"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "photo",
+      "id": "2026-11-01-wm-08",
+      "title": "Radio Row na Cortlandt Street, Manhattan",
+      "by": "Berenice Abbott, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/67/Radio_Row,_Cortlandt_Street,_Manhattan_(NYPL_b13668355-482561).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Radio_Row,_Cortlandt_Street,_Manhattan_(NYPL_b13668355-482561).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "news",
+      "id": "2026-11-01-wenezuela-eln-nalot",
+      "lang": "pl",
+      "title": "Wenezuelska armia zbombardowała obóz kolumbijskiej partyzantki ELN",
+      "text": "W ataku na obóz ELN w pobliżu granicy z Kolumbią zginęło co najmniej 20 osób, podają latynoamerykańskie media. Według wenezuelskiej organizacji pozarządowej to pierwsza taka operacja, a władze w Caracas nie skomentowały sprawy.",
+      "src": "https://www.wnp.pl/rynki/wenezuela-armia-zbombardowala-oboz-kolumbijskiej-partyzantki-ngo-to-pierwszy-taki-atak,1115053.html",
+      "srcName": "wnp.pl (PAP)"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "photo",
+      "id": "2026-11-01-wm-09",
+      "title": "Kolejka po chleb White Angel, San Francisco",
+      "by": "Dorothea Lange, 1933",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/a1/White_Angel_Breadline,_San_Francisco,_1932,_by_Dorothea_Lange,_3.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:White_Angel_Breadline,_San_Francisco,_1932,_by_Dorothea_Lange,_3.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "news",
+      "id": "2026-11-01-fbi-binance-korea-polnocna",
+      "lang": "pl",
+      "title": "FBI: za rekordową kradzieżą z Binance stoi Korea Północna",
+      "text": "Amerykańskie służby oficjalnie przypisały północnokoreańskiej grupie hakerskiej kradzież ponad 6 mld dolarów z giełdy kryptowalut, największą w historii. Binance zapewnia, że odzyskał 90 proc. środków i klienci nie poniosą strat.",
+      "src": "https://www.wnp.pl/rynki/usa-fbi-oficjalnie-oskarzylo-koree-polnocna-o-kradziez-ponad-6-mld-dolarow-z-gieldy-binance,1115050.html",
+      "srcName": "wnp.pl (PAP)"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "news",
+      "id": "2026-11-01-sondaz-brexit",
+      "lang": "pl",
+      "title": "Sondaż: większość Brytyjczyków chce cofnięcia brexitu",
+      "text": "Według badania Ipsos dla dziennika Independent 56 proc. mieszkańców Wielkiej Brytanii zagłosowałoby dziś za powrotem do UE, a 30 proc. przeciw. Premier Andy Burnham wzywa do ogólnonarodowej debaty o relacjach z Unią przed zaplanowanym na 20 listopada szczytem.",
+      "src": "https://wnp.pl/rynki/w-brytania-sondaz-rosnie-poparcie-dla-odwolania-brexitu-brytyjczycy-znow-dyskutuja-o-ue,1115011.html",
+      "srcName": "wnp.pl (PAP)"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "photo",
+      "id": "2026-11-01-wm-10",
+      "title": "Ulica malowanych balkonów, Chinatown w San Francisco",
+      "by": "Arnold Genthe, ok. 1900",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/4c/The_street_of_painted_balconies,_Chinatown,_San_Francisco_LOC_agc.7a08981.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:The_street_of_painted_balconies,_Chinatown,_San_Francisco_LOC_agc.7a08981.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "article",
+      "id": "2026-11-01-gentle-monster-seydoux",
+      "lang": "en",
+      "title": "Léa Seydoux on Gentle Monster",
+      "text": "Léa Seydoux gra w nowym filmie Marie Kreutzer awangardową piosenkarkę, której mąż zostaje oskarżony o posiadanie przemocowych materiałów. Reżyserka i aktorka opowiadają o zaufaniu i o tym, jak mało możemy wiedzieć o najbliższej osobie.",
+      "img": "https://images-prod.dazeddigital.com/1200/90-19-1271-847/azure/dazed-prod/1450/8/1458565.jpg",
+      "src": "https://www.dazeddigital.com/film-tv/article/71267/1/gentle-monster-marie-kreutze-lea-seydoux-interview-new-film-2026",
+      "srcName": "Dazed"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "video",
+      "id": "2026-11-01-britney-spears-toxic",
+      "kind": "Teledysk · klasyka",
+      "title": "Britney Spears – „Toxic”",
+      "by": "reż. Joseph Kahn",
+      "text": "Joseph Kahn zamienił piosenkę w szpiegowski komiks na żywo: stewardesa, agentka i zabójczyni w jednym, z laserowym sejfem i lotem przez nocne miasto. Billboard uznał ten klip za drugi najlepszy teledysk dekady 2000–2009.",
+      "embed": {
+        "p": "yt",
+        "id": "LOZuxwVk7TU"
+      },
+      "img": "https://i.ytimg.com/vi/LOZuxwVk7TU/hqdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/Toxic_(song)",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "photo",
+      "id": "2026-11-01-wm-11",
+      "title": "Londyńscy nomadzi, Battersea",
+      "by": "John Thomson, 1877",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/John_Thomson_(Scottish,_1837-1921)_-_London_Nomades_-_2019.48_-_Cleveland_Museum_of_Art.jpg/1280px-John_Thomson_(Scottish,_1837-1921)_-_London_Nomades_-_2019.48_-_Cleveland_Museum_of_Art.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:John_Thomson_(Scottish,_1837-1921)_-_London_Nomades_-_2019.48_-_Cleveland_Museum_of_Art.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "photo",
+      "id": "2026-11-01-wm-12",
+      "title": "Rue du Haut-Pavé z Panteonem w oddali, Paryż",
+      "by": "Charles Marville, 1865–69",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Charles_Marville,_Rue_du_Haut-Pave_(Pantheon_in_Distance),_1865%E2%80%9369.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Charles_Marville,_Rue_du_Haut-Pave_(Pantheon_in_Distance),_1865%E2%80%9369.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "article",
+      "id": "2026-11-01-ursula-von-rydingsvard",
+      "lang": "en",
+      "title": "Ursula von Rydingsvard, Who Sculpted Monuments of Cedar, Dies at 84",
+      "text": "W wieku 84 lat zmarła Ursula von Rydingsvard, autorka monumentalnych rzeźb z cedrowych belek, urodzona w Niemczech w rodzinie polsko-ukraińskiej. W jej twórczości widać dzieciństwo spędzone w obozach dla uchodźców i tradycyjne polskie drewniane budownictwo, a jej prace są w kolekcjach Met, MoMA i Whitney.",
+      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/10/GettyImages-472222496.jpg",
+      "src": "https://hyperallergic.com/ursula-von-rydingsvard-who-sculpted-monuments-of-cedar-dies-at-84/",
+      "srcName": "Hyperallergic"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "article",
+      "id": "2026-11-01-obraz-przemycony-do-met",
+      "lang": "en",
+      "title": "Artist Sneaks His Work Into the Met Museum",
+      "text": "Artysta z Los Angeles po kryjomu powiesił na ścianie Metropolitan Museum własny obraz olejnymi pastelami, a nagranie z tej akcji błyskawicznie rozeszło się w sieci. Praca zestawia celebrytów na schodach Met Gali z policją w sprzęcie do tłumienia zamieszek, która atakuje protestujących.",
+      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/10/image-2.jpg",
+      "src": "https://hyperallergic.com/artist-sneaks-his-work-into-the-met-museum/",
+      "srcName": "Hyperallergic"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "article",
+      "id": "2026-11-01-whippersnappers-dzieci-fotografuja",
+      "lang": "en",
+      "title": "What happens when kids get behind the camera?",
+      "text": "Historyczka fotografii Annebella Pollen wydała książkę Whippersnappers o zdjęciach robionych przez dzieci, od czasów aparatu Box Brownie po erę cyfrową. Autorka przekonuje, że takie fotografie, zwykle lekceważone jako amatorskie, są spontaniczne, zabawne i łamią konwencje dorosłych.",
+      "img": "https://m.itsnicethat.com/original_images/annebella-pollent-whippersnappers-photography-project-itsnicethat-5.jpg?class=w1440",
+      "src": "https://www.itsnicethat.com/articles/annebella-pollen-whippersnappers-photography-publication-project-271026",
+      "srcName": "It's Nice That"
+    },
     {
       "date": "2026-10-31",
       "type": "video",
