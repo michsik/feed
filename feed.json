@@ -1,6 +1,363 @@
 {
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "items": [
+    {
+      "date": "2026-11-02",
+      "type": "video",
+      "id": "2026-11-02-tom-grennan-wrapped-in-gold",
+      "kind": "Teledysk",
+      "title": "Tom Grennan – „Wrapped In Gold”",
+      "by": "reż. Freddie Cattaneo (MindsEye)",
+      "text": "Grennan o świcie siedzi w samochodzie na polu i wraca myślami do minionej nocy, a nielinearny montaż przeskakuje między ciszą poranka a jej urywkami. Deszcz, ogień i woda nadają obrazowi fizyczny ciężar, tak jak pamięci o nocy, która nie chce się skończyć.",
+      "embed": {
+        "p": "yt",
+        "id": "C5GRwUV3SPQ"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Tom%20Grennan%20%27Wrapped%20In%20Gold%27%20by%20Freddie%20Cattaneo.jpg?itok=c-o4Ff3l",
+      "src": "https://www.promonews.tv/videos/2026/10/30/tom-grennan-wrapped-gold-freddie-cattaneo/96774",
+      "srcName": "Promonews"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "news",
+      "id": "2026-11-02-tk-zawiadomienia-prezydent",
+      "lang": "pl",
+      "title": "Kancelaria Prezydenta idzie do prokuratury po starciu w drzwiach Trybunału",
+      "text": "Rzecznik Rafał Leśkiewicz zapowiedział zawiadomienia przeciw Annie Korwin-Piotrowskiej, Maciejowi Berkowi i Krystianowi Markiewiczowi, bo mieli naruszyć nietykalność Karola Nawrockiego. Korwin-Piotrowska twierdzi odwrotnie: to prezydent miał ją odepchnąć, przeciskając się do budynku.",
+      "src": "https://www.rmf24.pl/fakty/polityka/news-naruszyli-nietykalnosc-cielesna-glowy-panstwa-beda-zawiadomi,nIdn,1024295",
+      "srcName": "RMF24"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "photo",
+      "id": "2026-11-02-wm-01",
+      "title": "Witryna zakładu fotograficznego, Savannah",
+      "by": "Walker Evans, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Penny_Picture_Display,_Savannah_MET_DP204586.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Penny_Picture_Display,_Savannah_MET_DP204586.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "article",
+      "id": "2026-11-02-everything-twice-kuckenbaker",
+      "lang": "en",
+      "title": "A Rare Disease and Analog Photography Merge in a Portrait of Self-Discovery",
+      "text": "Krótki film Cy’a Kuckenbakera „Everything Twice” opowiada o niepełnosprawności i odkrywaniu siebie przez domowej roboty aparaty z tektury.",
+      "src": "https://www.thisiscolossal.com/2026/10/everything-twice-cy-kuckenbaker-film/",
+      "srcName": "Colossal",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/double-2.jpg"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "photo",
+      "id": "2026-11-02-wm-02",
+      "title": "Nagłówki w oknie redakcji, Brockton",
+      "by": "Jack Delano, 1940",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Headlines_posted_in_street-corner_window_of_newspaper_office_(Brockton_Enterprise)_Brockton,_Mass.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Headlines_posted_in_street-corner_window_of_newspaper_office_(Brockton_Enterprise)_Brockton,_Mass.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "news",
+      "id": "2026-11-02-tk-zgromadzenie-3-listopada",
+      "lang": "pl",
+      "title": "We wtorek zgromadzenie sędziów TK, Święczkowski bez wstępu do budynku",
+      "text": "Korwin-Piotrowska zwołała Zgromadzenie Ogólne na 3 listopada, zaleciła sędziom pracę poza gmachem i odsunęła pracowników Trybunału od obowiązków z zachowaniem pensji. Zawieszony na miesiąc prezes Święczkowski próbował w niedzielę rano wejść do siedziby, ale go nie wpuszczono.",
+      "src": "https://tvn24.pl/polska/co-wydarzylo-sie-w-trybunale-konstytucyjnym-i-wokol-niego-najwazniejsze-informacje-st9317148",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "photo",
+      "id": "2026-11-02-wm-03",
+      "title": "American Gothic, Waszyngton",
+      "by": "Gordon Parks, 1942",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gordon_Parks_-_American_Gothic.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Gordon_Parks_-_American_Gothic.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "article",
+      "id": "2026-11-02-moma-pompidou-m-plus",
+      "lang": "en",
+      "title": "MoMA, Centre Pompidou, and M+ Announce Novel Collection Alliance",
+      "text": "Trzy muzea z Nowego Jorku, Paryża i Hongkongu dzielą się dostępem do zbiorów, wypożyczeniami i wspólnymi wystawami. To kolejny znak, że wielkie instytucje w czasach deficytów wolą łączyć siły.",
+      "src": "https://hyperallergic.com/moma-centre-pompidou-and-m-announce-novel-collection-alliance/",
+      "srcName": "Hyperallergic"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "news",
+      "id": "2026-11-02-morawiecki-wotum-jurek",
+      "lang": "pl",
+      "title": "Morawiecki proponuje wotum nieufności i Marka Jurka na premiera",
+      "text": "Lider Rozwoju Plus chce konstruktywnego wotum nieufności wobec rządu Tuska, a na czele nowego gabinetu widzi byłego marszałka Sejmu. Jego zadaniem byłoby uspokojenie sytuacji i przeprowadzenie wyborów w 2027 roku, po których Trybunał miałby zostać wybrany od nowa.",
+      "src": "https://www.rmf24.pl/fakty/polityka/news-morawiecki-proponuje-zmiane-premiera-wskazal-kandydata,nIdn,1024225",
+      "srcName": "RMF24"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "video",
+      "id": "2026-11-02-missy-elliott-get-ur-freak-on",
+      "kind": "Teledysk · klasyka",
+      "title": "Missy Elliott – „Get Ur Freak On”",
+      "by": "reż. Dave Meyers",
+      "text": "Pierwsze spotkanie Missy z Dave’em Meyersem i początek ich wieloletniej współpracy. Tancerze w choreografii Hi-Hat szaleją w industrialnym podziemiu, a w tle przewija się cała plejada gości, od Ludacrisa po LL Cool J-a.",
+      "embed": {
+        "p": "yt",
+        "id": "FPoKiGQzbSQ"
+      },
+      "img": "https://i.ytimg.com/vi/FPoKiGQzbSQ/hqdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/Get_Ur_Freak_On",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "photo",
+      "id": "2026-11-02-wm-04",
+      "title": "Segregowane wejście do kina, Belzoni",
+      "by": "Marion Post Wolcott, 1939",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/16/Negro_going_in_colored_entrance_of_movie_house_on_Saturday_afternoon,_Belzoni,_Mississippi_Delta,_Mississippi_LOC_3549667550.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Negro_going_in_colored_entrance_of_movie_house_on_Saturday_afternoon,_Belzoni,_Mississippi_Delta,_Mississippi_LOC_3549667550.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "news",
+      "id": "2026-11-02-patriot-500-ukraina",
+      "lang": "pl",
+      "title": "USA zgadzają się na 500 pocisków do Patriotów dla Ukrainy, ale dostawy mogą potrwać lata",
+      "text": "Departament Stanu zatwierdził możliwą sprzedaż PAC-3 MSE wartą około 2,1 mld dolarów, za którą mają zapłacić głównie europejscy sojusznicy. Zełenski dziękuje, lecz przypomina, że potrzeby są pilne, i prosi o przekazanie już istniejących zapasów.",
+      "src": "https://www.rp.pl/konflikty-zbrojne/art45425431-wolodymyr-zelenski-studzi-entuzjazm-w-sprawie-patriotow-dla-ukrainy-dopiero-za-kilka-lat",
+      "srcName": "Rzeczpospolita"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "article",
+      "id": "2026-11-02-ukrainskie-ksiazki-zamowienia-wstrzymane",
+      "lang": "pl",
+      "title": "Zamówienia tymczasowo wstrzymane",
+      "text": "Jacek Świąder opisuje, jak rosyjskie ataki na magazyny i drukarnie zniszczyły tego lata około 13 mln ukraińskich książek. Wydawcom rezerw starczy może na kilka miesięcy, a najprostszą formą pomocy pozostaje kupno ich tytułów.",
+      "src": "https://www.dwutygodnik.com/artykul/12736-zamowienia-tymczasowo-wstrzymane.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "photo",
+      "id": "2026-11-02-wm-05",
+      "title": "Rodzina Caudillów przy obiedzie, Pie Town",
+      "by": "Russell Lee, 1940",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/The_Faro_Caudill_family_eating_dinner_in_their_dugout._Pie_Town,_New_Mexico,_October_1940.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:The_Faro_Caudill_family_eating_dinner_in_their_dugout._Pie_Town,_New_Mexico,_October_1940.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "news",
+      "id": "2026-11-02-oleszki-koniec-rozejmu",
+      "lang": "pl",
+      "title": "Rosja nie przedłużyła rozejmu w Oleszkach",
+      "text": "Najdłuższe od początku pełnoskalowej wojny zawieszenie broni, wynegocjowane z udziałem Melanii Trump, wygasło w nocy z niedzieli na poniedziałek. Pozwoliło na ewakuację mieszkańców i dostarczenie pomocy, a ci, którzy zostali, znów mogą zostać odcięci od żywności.",
+      "src": "https://wydarzenia.interia.pl/ukraina-rosja/news-koniec-chwilowej-ulgi-w-ukrainie-rosjanie-nie-chca,nId,23567393",
+      "srcName": "Interia"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "photo",
+      "id": "2026-11-02-wm-06",
+      "title": "Farmer w burzy piaskowej, Oklahoma",
+      "by": "Arthur Rothstein, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Farmer_walking_in_dust_storm_Cimarron_County_Oklahoma.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Farmer_walking_in_dust_storm_Cimarron_County_Oklahoma.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "video",
+      "id": "2026-11-02-loewe-i-dreamt-of-loewe",
+      "kind": "Film modowy",
+      "title": "LOEWE – „I Dreamt of LOEWE”",
+      "by": "reż. Luca Guadagnino",
+      "text": "Dwuminutowa zapowiedź kolekcji męskiej wiosna/lato 2024 udaje sen o prywatnym pokazie w nowojorskiej galerii David Zwirner, pośród rzeźb Franza Westa. Obok modeli pojawia się sam Jonathan Anderson, a całość ma w sobie zmysłową, trochę absurdalną logikę snu.",
+      "embed": {
+        "p": "yt",
+        "id": "4gzqeGURHec"
+      },
+      "dur": 120,
+      "img": "https://i.ytimg.com/vi/4gzqeGURHec/hqdefault.jpg",
+      "src": "https://anothermag.com/fashion-beauty/14937/luca-guadagnino-loewe-jonathan-anderson-short-film",
+      "srcName": "AnOther"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "news",
+      "id": "2026-11-02-433-drony-kijow",
+      "lang": "pl",
+      "title": "Nocny atak 433 dronów na Ukrainę, Kijów bez prądu w części dzielnic",
+      "text": "Rosja uderzyła przede wszystkim w stolicę i infrastrukturę energetyczną, 64 z użytych maszyn miały napęd odrzutowy. Eksperci sądzą, że nalot mógł służyć sprawdzeniu obrony powietrznej przed większym atakiem rakietowym.",
+      "src": "https://radio.rzeszow.pl/370240/rosja-zaatakowala-ukraine-433-dronami-uderzenia-w-kijow-i-infrastrukture-energetyczna/",
+      "srcName": "Polskie Radio Rzeszów"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "article",
+      "id": "2026-11-02-kot-maneta-nowoczesnosc",
+      "lang": "en",
+      "title": "How Édouard Manet’s Black Cat Became a Symbol of Modernity",
+      "text": "Od czarów i procesów czarownic po „Olimpię”: jak czarny kot w XIX-wiecznym Paryżu stał się znakiem niezależności i artystycznego buntu.",
+      "src": "https://hyperallergic.com/how-edouard-manets-black-cat-became-a-symbol-of-modernity/",
+      "srcName": "Hyperallergic"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "photo",
+      "id": "2026-11-02-wm-07",
+      "title": "Oczekiwanie na autobus, Memphis",
+      "by": "Esther Bubley, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/69/Greyhound_bus_trip_from_Louisville,_Kentucky,_to_Memphis,_Tennessee,_and_the_terminals._Waiting_for_the_bus_at_the_Memphis_termina.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Greyhound_bus_trip_from_Louisville,_Kentucky,_to_Memphis,_Tennessee,_and_the_terminals._Waiting_for_the_bus_at_the_Memphis_termina.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "news",
+      "id": "2026-11-02-usa-midterms-jutro",
+      "lang": "pl",
+      "title": "USA przed jutrzejszymi wyborami: Demokraci prowadzą w sondażach",
+      "text": "W średniej krajowej partia ma około 8 punktów przewagi, a do przejęcia Izby potrzeba jej tylko trzech mandatów, do Senatu czterech. Wcześniej zagłosowało już ponad 51 milionów Amerykanów.",
+      "src": "https://www.aljazeera.com/news/2026/11/1/us-midterms-2-days-to-go-what-polls-say-as-trump-el-sayed-hit-the-trail",
+      "srcName": "Al Jazeera"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "photo",
+      "id": "2026-11-02-wm-08",
+      "title": "Bezrobotny traper, Luizjana",
+      "by": "Ben Shahn, 1935",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9d/UnemployedTrapperPlaqueminesShahn.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:UnemployedTrapperPlaqueminesShahn.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "article",
+      "id": "2026-11-02-kseruj-i-rozdawaj-ziny",
+      "lang": "pl",
+      "title": "Święta wojna punków i skinów. „Kseruj i rozdawaj!”",
+      "text": "Patryk Zakrzewski recenzuje wystawę o zinach i prasie niezależnej czasów transformacji w warszawskim Muzeum Karykatury. Docenia ich wspólnototwórczą siłę, ale ostrzega, że zestawienie radykalnej lewicy z neonazistowskimi tytułami może sugerować fałszywą symetrię.",
+      "src": "https://magazynszum.pl/swieta-wojna-punkow-i-skinow-kseruj-i-rozdawaj-ziny-i-prasa-niezalezna-w-polsce-w-dobie-transformacji-w-muzeum-karykatury-w-warszawie/",
+      "srcName": "SZUM"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "news",
+      "id": "2026-11-02-iran-list-vance",
+      "lang": "pl",
+      "title": "Iran dostał list od Vance’a, a rozmowy z USA wciąż stoją",
+      "text": "Sekretarz irańskiej rady bezpieczeństwa mówi, że ton listu wiceprezydenta różni się od wcześniejszego listu Trumpa, ale Teheran jeszcze nie odpowiedział. Trump twierdzi, że z porozumieniem się nie spieszy, a amerykańska blokada irańskich portów trwa.",
+      "src": "https://abcnews.com/International/live-updates/iran-live-updates-houthis-claim-new-attack-riyadh/?id=137563447",
+      "srcName": "ABC News"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "photo",
+      "id": "2026-11-02-wm-09",
+      "title": "Skrzyżowanie na Friedrichstraße, Berlin",
+      "by": "Heinrich Zille, ok. 1900",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Zille,_Heinrich_-_Berlin_%E2%80%93_Stra%C3%9Fen_und_Stra%C3%9Fenszenen,_auf_einer_Kreuzung_der_Friedrichstra%C3%9Fe_(Zeno_Fotografie).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Zille,_Heinrich_-_Berlin_%E2%80%93_Stra%C3%9Fen_und_Stra%C3%9Fenszenen,_auf_einer_Kreuzung_der_Friedrichstra%C3%9Fe_(Zeno_Fotografie).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "video",
+      "id": "2026-11-02-asap-rocky-tailor-swif",
+      "kind": "Teledysk · nagroda",
+      "title": "A$AP Rocky – „Tailor Swif”",
+      "by": "reż. Vania & Muggia (Iconoclast)",
+      "text": "Największy zwycięzca UK Music Video Awards 2025: Video of the Year plus nagrody za klip hip-hopowy, zdjęcia Denysa Lushchyka, scenografię i efekty. Stoi za nim duet Vania & Muggia, ten sam, który nakręcił nagrodzony tego samego wieczoru „Manchild” Sabriny Carpenter.",
+      "embed": {
+        "p": "yt",
+        "id": "5URefVYaJrA"
+      },
+      "img": "https://i.ytimg.com/vi/5URefVYaJrA/hqdefault.jpg",
+      "src": "https://www.recordoftheday.com/on-the-move/news-press/uk-music-video-awards-2025-winners-announced",
+      "srcName": "Record of the Day"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "news",
+      "id": "2026-11-02-opec-plus-grudzien",
+      "lang": "pl",
+      "title": "OPEC+ nie zmienia limitów wydobycia na grudzień",
+      "text": "Siedmiu kluczowych producentów zostawiło cele bez zmian, bo wojna z Iranem i tak ogranicza eksport z Zatoki poniżej przyznanych kwot. Trudniejsza rozmowa o limitach na 2027 rok czeka grupę 29 listopada.",
+      "src": "https://www.staradvertiser.com/2026/11/01/breaking-news/opec-keeps-december-oil-output-targets-steady-as-iran-war-disrupt-flows/",
+      "srcName": "Reuters / Star-Advertiser"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "photo",
+      "id": "2026-11-02-wm-10",
+      "title": "Dzieci przy skrzynce pocztowej, Ozark",
+      "by": "John Vachon, 1940",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/John_Vachon,_Ozark_children_getting_mail_from_RFD_box,_Missouri,_1940.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:John_Vachon,_Ozark_children_getting_mail_from_RFD_box,_Missouri,_1940.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "article",
+      "id": "2026-11-02-encyklopedia-filmowych-kotow",
+      "lang": "en",
+      "title": "‘The Encyclopedia of Movie Cats’ Is an Exhaustive Index of Every Feline to Prowl on Screen",
+      "text": "Nowa książka A24 to katalog ponad 700 kotów filmowych, zebranych na 1900 kadrach. Rzecz tak niedorzecznie drobiazgowa, że aż ujmująca.",
+      "src": "https://www.thisiscolossal.com/2026/10/the-encyclopedia-of-movie-cats-a24/",
+      "srcName": "Colossal",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/movie-cats-6.jpg"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "photo",
+      "id": "2026-11-02-wm-11",
+      "title": "W drukarni Hampton Institute, Wirginia",
+      "by": "Frances Benjamin Johnston, ok. 1899",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/Pressmen_at_work_in_printing_shop,_Hampton_Institute,_Hampton,_Virginia_LCCN94502418.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Pressmen_at_work_in_printing_shop,_Hampton_Institute,_Hampton,_Virginia_LCCN94502418.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "news",
+      "id": "2026-11-02-binance-wyplaty-po-kradziezy",
+      "lang": "pl",
+      "title": "Binance przywraca wypłaty po kradzieży 6,3 mld dolarów",
+      "text": "Giełda stopniowo uruchamia wypłaty, zaczynając od bitcoina i etheru, i deklaruje, że straty weźmie na siebie, a zastąpiła już około 95 proc. skradzionych aktywów. FBI przypisuje atak północnokoreańskim hakerom i spodziewa się dalszego prania pieniędzy.",
+      "src": "https://www.aljazeera.com/news/2026/11/1/binance-restarts-withdrawals-after-6-3bn-heist",
+      "srcName": "Al Jazeera"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "article",
+      "id": "2026-11-02-poe-ostatnia-fotografia",
+      "lang": "en",
+      "title": "The Dark Story Behind Edgar Allan Poe’s Most Famous Photograph",
+      "text": "Słynny dagerotyp Poego powstał cztery dni po przedawkowaniu laudanum, a pokazując pisarza w najgorszej formie, na trwałe ukształtował jego wizerunek.",
+      "src": "https://www.openculture.com/2026/10/the-dark-story-behind-edgar-allan-poes-most-famous-photograph.html",
+      "srcName": "Open Culture"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "photo",
+      "id": "2026-11-02-wm-12",
+      "title": "Rzucanie obręczami",
+      "by": "Clarence H. White, 1899",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/83/The_ring_toss_-_Clarence_H._White._LCCN96513079.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:The_ring_toss_-_Clarence_H._White._LCCN96513079.jpg",
+      "srcName": "Wikimedia Commons"
+    },
     {
       "date": "2026-11-01",
       "type": "video",
