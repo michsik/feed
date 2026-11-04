@@ -1,6 +1,391 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-04",
   "items": [
+    {
+      "date": "2026-11-04",
+      "type": "video",
+      "id": "2026-11-04-them-and-i-say-you-dont",
+      "kind": "Teledysk",
+      "title": "Them & I – „Say You Don't”",
+      "by": "reż. Jim Longden (This Thing Of Ours)",
+      "text": "Jedno nieprzerwane ujęcie na taśmie 16 mm, kręcone przy ograniczonym zapasie filmu. Zmiany scen dzieją się na oczach widza: przez kadr przechodzą rekwizyty i statyści, a w centrum zostaje Jake Edwards, czyli Them & I.",
+      "embed": {
+        "p": "yt",
+        "id": "lfA2PPZd608"
+      },
+      "dur": 157,
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Them%20%26%20I%20%27Say%20You%20Don%27t%27%20by%20Jim%20Longden.png?itok=39tZsXoc",
+      "src": "https://www.promonews.tv/videos/2026/11/02/them-i-say-you-dont-jim-longden/96822",
+      "srcName": "Promonews"
+    },
+    {
+      "title": "Trzecia klasa na pokładzie parowca",
+      "by": "Alfred Stieglitz, 1907",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/The_Steerage_MET_DP217541.jpg/1280px-The_Steerage_MET_DP217541.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:The_Steerage_MET_DP217541.jpg",
+      "srcName": "Wikimedia Commons",
+      "date": "2026-11-04",
+      "type": "photo",
+      "id": "2026-11-04-wm-01"
+    },
+    {
+      "date": "2026-11-04",
+      "type": "news",
+      "id": "2026-11-04-demokraci-kongres",
+      "lang": "pl",
+      "title": "Demokraci przejmują cały Kongres USA",
+      "text": "Według prognoz NBC i CNN Demokraci po Izbie Reprezentantów zdobyli też Senat, odbierając Republikanom co najmniej sześć miejsc; wyniki są na razie nieoficjalne. W Teksasie James Talarico pokonał Kena Paxtona, a Gina Hinojosa odebrała fotel gubernatora Gregowi Abbottowi.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-04/demokraci-zdobywaja-caly-kongres-wielkie-zmiany-w-usa/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-04",
+      "type": "article",
+      "id": "2026-11-04-bowie-mtv",
+      "lang": "en",
+      "title": "Watch David Bowie Take MTV to Task (1983)",
+      "text": "W wywiadzie sprzed ponad czterech dekad Bowie przyciska prowadzącego pytaniem, dlaczego stacja tak rzadko pokazuje czarnoskórych artystów. Kilka miesięcy później tę barierę zaczął przełamywać „Thriller”.",
+      "src": "https://www.openculture.com/2026/11/watch-david-bowie-take-mtv-to-task-for-failing-to-play-music-videos-by-black-artists-1983.html",
+      "srcName": "Open Culture",
+      "img": "https://cdn8.openculture.com/2026/11/01204513/Bowie-MTV-83-1.png"
+    },
+    {
+      "title": "Rue de la Montagne-Sainte-Geneviève, Paryż",
+      "by": "Eugène Atget, 1924",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Eug%C3%A8ne_Atget,_Rue_de_la_Montagne-Sainte-Genevi%C3%A8ve,_1924.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Atget,_Rue_de_la_Montagne-Sainte-Genevi%C3%A8ve,_1924.jpg",
+      "srcName": "Wikimedia Commons",
+      "date": "2026-11-04",
+      "type": "photo",
+      "id": "2026-11-04-wm-02"
+    },
+    {
+      "date": "2026-11-04",
+      "type": "news",
+      "id": "2026-11-04-rbn-nawrocki-tusk",
+      "lang": "pl",
+      "title": "Nawrocki na RBN wini Tuska za kryzys wokół Trybunału",
+      "text": "Prezydent mówił o poważnym kryzysie konstytucyjnym i zażądał, by premier jeszcze przed przyszłym tygodniem wycofał się z działań rządu w TK; pytał też o harmonogram stałej obecności wojsk USA. Rzecznik rządu Adam Szłapka odpowiedział, że Nawrocki zrobił z posiedzenia wiec wyborczy.",
+      "src": "https://pl.euronews.com/2026/11/03/nawrocki-uderzyl-w-tuska-pelna-odpowiedzialnosc-ponosi-jeden-czlowiek",
+      "srcName": "Euronews"
+    },
+    {
+      "date": "2026-11-04",
+      "type": "article",
+      "id": "2026-11-04-ivan-mcclellan-rodeo",
+      "lang": "en",
+      "title": "Ivan McClellan Returns to Black Rodeo Culture",
+      "text": "Rozszerzone wydanie „Eight Seconds” dodaje 91 nowych zdjęć czarnoskórych uczestników rodeo z pięciu stanów. McClellan zamiast przepalonego światła reportaży stawia na cień i ciepłe tony.",
+      "src": "https://www.thisiscolossal.com/2026/11/ivan-mclellan-eight-seconds-legacy-in-motion/",
+      "srcName": "Colossal",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/mcclellan-4.jpg"
+    },
+    {
+      "title": "Matka migrantka, Nipomo, Kalifornia",
+      "by": "Dorothea Lange, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Migrant_Mother_(LOC_fsa.8b29516).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Migrant_Mother_(LOC_fsa.8b29516).jpg",
+      "srcName": "Wikimedia Commons",
+      "date": "2026-11-04",
+      "type": "photo",
+      "id": "2026-11-04-wm-03"
+    },
+    {
+      "date": "2026-11-04",
+      "type": "news",
+      "id": "2026-11-04-koalicja-cwiczenia-polska",
+      "lang": "pl",
+      "title": "W Polsce przećwiczą wysłanie sił na Ukrainę po pokoju",
+      "text": "Od 9 do 22 listopada Wielka Brytania i Francja poprowadzą manewry „Koalicja” z udziałem blisko 3 tys. żołnierzy z 12 krajów Europy. Sprawdzą przerzut, ochronę i zaopatrzenie wielonarodowych sił, a USA uczestniczą w rozmowach, ale nie w samej misji.",
+      "src": "https://www.yahoo.com/news/world/articles/thousands-european-troops-rehearse-ukraine-000714716.html",
+      "srcName": "BBC / Yahoo News"
+    },
+    {
+      "date": "2026-11-04",
+      "type": "video",
+      "id": "2026-11-04-fatboy-slim-weapon-of-choice",
+      "kind": "Teledysk · nagroda",
+      "title": "Fatboy Slim ft. Bootsy Collins – „Weapon of Choice”",
+      "by": "reż. Spike Jonze",
+      "text": "Christopher Walken tańczy i szybuje przez pusty hotelowy hol. Klip zdobył sześć statuetek MTV VMA w 2001 r., m.in. za reżyserię, a w 2002 r. Grammy dla najlepszego teledysku.",
+      "embed": {
+        "p": "yt",
+        "id": "wCDIYvFmgW8"
+      },
+      "img": "https://i.ytimg.com/vi/wCDIYvFmgW8/hqdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/Weapon_of_Choice_(song)",
+      "srcName": "Wikipedia"
+    },
+    {
+      "title": "Ośmiornica, Nowy Jork",
+      "by": "Alvin Langdon Coburn, 1912",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alvin_Langdon_Coburn_-_The_Octopus,_New_York_-_Google_Art_Project.jpg/1280px-Alvin_Langdon_Coburn_-_The_Octopus,_New_York_-_Google_Art_Project.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Alvin_Langdon_Coburn_-_The_Octopus,_New_York_-_Google_Art_Project.jpg",
+      "srcName": "Wikimedia Commons",
+      "date": "2026-11-04",
+      "type": "photo",
+      "id": "2026-11-04-wm-04"
+    },
+    {
+      "date": "2026-11-04",
+      "type": "article",
+      "id": "2026-11-04-witajcie-w-hope",
+      "lang": "pl",
+      "title": "Inwazja: symulacja",
+      "text": "Jakub Popielecki o „Witajcie w Hope” Na Hong-jina, które rozciąga kino akcji i horror do granic absurdu i stawia zwykłych mieszkańców zamiast herosów. Obraz społeczności po katastrofie brzmi tu bardzo współcześnie.",
+      "src": "https://www.dwutygodnik.com/artykul/12746-inwazja-symulacja.html",
+      "srcName": "Dwutygodnik",
+      "img": "https://www.dwutygodnik.com/_next/image?url=https%3A%2F%2Fdwutygodnik-storage.s3.eu-central-1.amazonaws.com%2Fprod%2Fpublic%2Fmedia%2Fuploads%2F1793632463038-still06-scaled.jpg&w=1920&q=75"
+    },
+    {
+      "date": "2026-11-04",
+      "type": "news",
+      "id": "2026-11-04-komyszuwacha-bomby",
+      "lang": "pl",
+      "title": "Rosyjskie bomby zabiły co najmniej 33 osoby w punkcie pomocy",
+      "text": "Kierowane bomby lotnicze uderzyły w szkołę w Komyszuwasze w obwodzie zaporoskim, w której rozdawano pomoc humanitarną; wśród zabitych są ratownicy i policjanci. Pod gruzami może nadal być około 50 osób.",
+      "src": "https://kyivindependent.com/exceptionally-horrific-strike-russian-bombs-strike-school-used-as-humanitarian-aid-center-in-zaporizhzhia-oblast-killing-24/",
+      "srcName": "The Kyiv Independent"
+    },
+    {
+      "title": "Chłopcy przy sortowaniu węgla, South Pittston",
+      "by": "Lewis Hine, 1911",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Breaker_boys_working_in_Ewen_Breaker._S._Pittston,_Pa._-_NARA_-_523380.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Breaker_boys_working_in_Ewen_Breaker._S._Pittston,_Pa._-_NARA_-_523380.jpg",
+      "srcName": "Wikimedia Commons",
+      "date": "2026-11-04",
+      "type": "photo",
+      "id": "2026-11-04-wm-05"
+    },
+    {
+      "date": "2026-11-04",
+      "type": "news",
+      "id": "2026-11-04-rpp-stopy",
+      "lang": "pl",
+      "title": "RPP decyduje dziś o stopach, analitycy nie czekają na zmianę",
+      "text": "Rada obraduje przy stopie referencyjnej 3,75%, a w sondażu wśród 19 zespołów ekonomistów nikt nie spodziewa się podwyżki. Inflacja spadła w październiku wstępnie do 3,5% z 4,1% we wrześniu.",
+      "src": "https://www.money.pl/gospodarka/rpp-zdecyduje-w-sprawie-stop-co-zrobi-ekonomisci-jednomyslni-7347148887689696a.html",
+      "srcName": "Money.pl"
+    },
+    {
+      "date": "2026-11-04",
+      "type": "article",
+      "id": "2026-11-04-alex-rorison",
+      "lang": "en",
+      "title": "Alex Rorison: photographs as physical objects",
+      "text": "Londyński fotograf mody drukuje, skanuje i haftuje swoje zdjęcia, traktując je jak przedmioty, a nie piksele. Zadowala go około 30 procent prób, bo najbardziej ceni sam eksperyment.",
+      "src": "https://www.itsnicethat.com/articles/alex-rorison-photography-discover-021126",
+      "srcName": "It's Nice That",
+      "img": "https://m.itsnicethat.com/original_images/acr_size_asics_45_WR.jpg?class=w1440"
+    },
+    {
+      "title": "Lenox Avenue 422–424, Harlem",
+      "by": "Berenice Abbott, 1938",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Harlem_Street-_II._422-424_Lenox_Avenue,_Manhattan_(NYPL_b13668355-482597).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Harlem_Street-_II._422-424_Lenox_Avenue,_Manhattan_(NYPL_b13668355-482597).jpg",
+      "srcName": "Wikimedia Commons",
+      "date": "2026-11-04",
+      "type": "photo",
+      "id": "2026-11-04-wm-06"
+    },
+    {
+      "date": "2026-11-04",
+      "type": "news",
+      "id": "2026-11-04-usa-iran-keszm",
+      "lang": "pl",
+      "title": "USA potajemnie atakowały Iran, m.in. wyspę Keszm",
+      "text": "„Wall Street Journal” ujawnił serię ograniczonych uderzeń z ostatnich tygodni, których Waszyngton oficjalnie nie ogłosił, a Trump twierdzi, że wojnę z Iranem już wygrał. Teheran mówi o braku przełomu w rozmowach pośrednich, a do irańskiej stolicy jedzie kolejna delegacja z Kataru.",
+      "src": "https://www.iranintl.com/en/202611038742",
+      "srcName": "Iran International"
+    },
+    {
+      "date": "2026-11-04",
+      "type": "video",
+      "id": "2026-11-04-tiffany-love-is-a-gift",
+      "kind": "Film modowy",
+      "title": "Tiffany & Co. – „Love is a Gift” z Amandą Seyfried",
+      "by": "reż. Derek Cianfrance (American Haiku)",
+      "text": "Dwuminutowa świąteczna opowieść skacze między dzisiejszym Nowym Jorkiem a latami 90.: Seyfried gra choreografkę, a córka powoli dostrzega w matce osobną artystkę. Reżyser „Blue Valentine” traktuje reklamę biżuterii jak mały dramat rodzinny.",
+      "embed": {
+        "p": "yt",
+        "id": "zFNioiOVo28"
+      },
+      "dur": 120,
+      "img": "https://i.ytimg.com/vi/zFNioiOVo28/hqdefault.jpg",
+      "src": "https://www.bandt.com.au/tiffany-co-rewinds-to-90s-new-york-with-amanda-seyfried-for-global-christmas-campaign/",
+      "srcName": "B&T"
+    },
+    {
+      "title": "Uliczny fotograf na Clapham Common, Londyn",
+      "by": "John Thomson, 1877",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/73/Clapham_Common_Industries_(5844816649).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Clapham_Common_Industries_(5844816649).jpg",
+      "srcName": "Wikimedia Commons",
+      "date": "2026-11-04",
+      "type": "photo",
+      "id": "2026-11-04-wm-07"
+    },
+    {
+      "date": "2026-11-04",
+      "type": "article",
+      "id": "2026-11-04-ana-mendieta-tate",
+      "lang": "en",
+      "title": "Ana Mendieta's Lasting Imprint on Art",
+      "text": "Przegląd w Tate Modern układa dorobek artystki według miejsc, a nie chronologii, co wydobywa związek jej prac z ziemią i ciałem. Recenzja pokazuje, ile z tej praktyki wciąż działa na widza.",
+      "src": "https://hyperallergic.com/ana-mendietas-lasting-imprint-on-art/",
+      "srcName": "Hyperallergic",
+      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/11/2-1-1.jpg"
+    },
+    {
+      "date": "2026-11-04",
+      "type": "news",
+      "id": "2026-11-04-tk-kworum-budzet",
+      "lang": "pl",
+      "title": "Ośmioro sędziów TK uznało, że wystarczy ich do kworum",
+      "text": "Zgromadzenie zwołane przez Annę Korwin-Piotrowską liczyło kworum od 12 sędziów, bez zawieszonych Święczkowskiego i Sochańskiego oraz Wyrembaka, i przyjęło plan budżetu Trybunału na 2027 r. Wykreślono z niego zakup dwóch aut, a prawnicy spierają się o ważność tego wyliczenia.",
+      "src": "https://www.prawo.pl/prawnicy-sady/zgromadzenie-ogolne-sedziow-tk-kworum-korwin-piotrowska-immunitet-swieczkowskiego,1556540.html",
+      "srcName": "Prawo.pl"
+    },
+    {
+      "title": "Rue Tirechape od strony Rivoli, Paryż",
+      "by": "Charles Marville, ok. 1853–70",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Charles_Marville,_Rue_Tirechape,_de_la_rue_de_Rivoli,_ca._1853%E2%80%9370.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Charles_Marville,_Rue_Tirechape,_de_la_rue_de_Rivoli,_ca._1853%E2%80%9370.jpg",
+      "srcName": "Wikimedia Commons",
+      "date": "2026-11-04",
+      "type": "photo",
+      "id": "2026-11-04-wm-08"
+    },
+    {
+      "date": "2026-11-04",
+      "type": "article",
+      "id": "2026-11-04-intl-plakat",
+      "lang": "en",
+      "title": "Designing a good poster is a dark art",
+      "text": "Współzałożyciel konkursu INTL opowiada, po co dziś plakat i co widać w 2670 tegorocznych zgłoszeniach z 78 krajów. Wśród trendów: fakturowe powierzchnie, kolażowa typografia lat 90. i celowa naiwność.",
+      "src": "https://www.itsnicethat.com/features/intl-poster-competition-graphic-design-spotlight-021126",
+      "srcName": "It's Nice That",
+      "img": "https://m.itsnicethat.com/original_images/Hero_copy.png?class=w1440"
+    },
+    {
+      "date": "2026-11-04",
+      "type": "news",
+      "id": "2026-11-04-abu-zabi-rozmowy",
+      "lang": "pl",
+      "title": "Rozmowy Ukrainy i Rosji wracają do Abu Zabi",
+      "text": "Steve Witkoff zapowiedział, że USA będą pośredniczyć w negocjacjach roboczych 10–11 listopada, m.in. o bezpieczeństwie po wojnie i deeskalacji. Poprzednie trzy rundy nie dały porozumienia pokojowego, a stanowiska w sprawie gwarancji wciąż mocno się różnią.",
+      "src": "https://www.kyivpost.com/post/88971",
+      "srcName": "Kyiv Post"
+    },
+    {
+      "title": "Niewidoma kobieta, Nowy Jork",
+      "by": "Paul Strand, 1916",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/46/Blind_Woman.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Blind_Woman.jpg",
+      "srcName": "Wikimedia Commons",
+      "date": "2026-11-04",
+      "type": "photo",
+      "id": "2026-11-04-wm-09"
+    },
+    {
+      "date": "2026-11-04",
+      "type": "news",
+      "id": "2026-11-04-granica-kaliningrad",
+      "lang": "pl",
+      "title": "Służby w gotowości po ruchu przy granicy z Rosją",
+      "text": "Tusk poinformował o osobach z latarkami przy granicy z obwodem królewieckim; według RMF FM interwencja objęła okolice Sępopola, a nikt nie przeszedł na polską stronę. Wywiad ostrzega przed prowokacjami na początku listopada, dlatego powołano sztab dla Warmii i Mazur oraz Podlasia.",
+      "src": "https://www.rmf24.pl/fakty/polska/news-premier-dostal-meldunek-o-ruchach-przy-naszej-granicy-z-rosj,nIdn,1024572",
+      "srcName": "RMF24"
+    },
+    {
+      "date": "2026-11-04",
+      "type": "video",
+      "id": "2026-11-04-flying-lotus-until-the-quiet-comes",
+      "kind": "Teledysk · klasyka",
+      "title": "Flying Lotus – „Until the Quiet Comes”",
+      "by": "reż. Kahlil Joseph",
+      "text": "Niecałe cztery minuty snu o Los Angeles: chłopiec w pustym basenie strzela z palca, po czym sam pada na ziemię. Muzyczny film splata trzy utwory z albumu i przyniósł Josephowi nagrodę specjalną jury krótkich metraży w Sundance 2013.",
+      "embed": {
+        "p": "yt",
+        "id": "-pVHC1DXQ7U"
+      },
+      "dur": 230,
+      "img": "https://i.ytimg.com/vi/-pVHC1DXQ7U/hqdefault.jpg",
+      "src": "https://openspace.sfmoma.org/?p=48149",
+      "srcName": "SFMOMA Open Space"
+    },
+    {
+      "title": "Nocni lokatorzy w kamienicy przy Bayard Street",
+      "by": "Jacob Riis, ok. 1889",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Jacob_Riis,_Lodgers_in_a_Crowded_Bayard_Street_Tenement.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Jacob_Riis,_Lodgers_in_a_Crowded_Bayard_Street_Tenement.jpg",
+      "srcName": "Wikimedia Commons",
+      "date": "2026-11-04",
+      "type": "photo",
+      "id": "2026-11-04-wm-10"
+    },
+    {
+      "date": "2026-11-04",
+      "type": "article",
+      "id": "2026-11-04-jazzowa-jesien-stanko",
+      "lang": "pl",
+      "title": "Siła do kieszeni",
+      "text": "Anna Stańko, dyrektorka artystyczna Jazzowej Jesieni, opowiada o pracy z ojcem i dziedzictwie jego trąbek. Festiwal w Bielsku-Białej zaczyna się właśnie dziś i potrwa do 8 listopada.",
+      "src": "https://www.dwutygodnik.com/artykul/12741-sila-do-kieszeni.html",
+      "srcName": "Dwutygodnik",
+      "img": "https://www.dwutygodnik.com/_next/image?url=https%3A%2F%2Fdwutygodnik-storage.s3.eu-central-1.amazonaws.com%2Fprod%2Fpublic%2Fmedia%2Fuploads%2F1793261207226-TS15byMagdalenaLawniczak.jpeg&w=1920&q=75"
+    },
+    {
+      "date": "2026-11-04",
+      "type": "news",
+      "id": "2026-11-04-huti-aden",
+      "lang": "pl",
+      "title": "Huti najbliżej Adenu od 2015 roku",
+      "text": "Według źródeł wojskowych Reutersa rebelianci stanęli 80 km od tymczasowej stolicy Jemenu i zagrażają ostatniej drodze łączącej rządowe tereny z Taiz. Oblężone od października miasto opuściło ponad 100 tys. osób.",
+      "src": "https://www.al-monitor.com/originals/2026/11/yemens-houthis-advance-within-80-km-aden-sources-say",
+      "srcName": "Al-Monitor / Reuters"
+    },
+    {
+      "title": "Dom gry na rogu Jackson Street, Chinatown w San Francisco",
+      "by": "Arnold Genthe, ok. 1900",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gambling_hall,_Jackson_Street_corner,_Chinatown,_San_Francisco_LOC_agc.7a08913.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Gambling_hall,_Jackson_Street_corner,_Chinatown,_San_Francisco_LOC_agc.7a08913.jpg",
+      "srcName": "Wikimedia Commons",
+      "date": "2026-11-04",
+      "type": "photo",
+      "id": "2026-11-04-wm-11"
+    },
+    {
+      "date": "2026-11-04",
+      "type": "article",
+      "id": "2026-11-04-digitalsf-archiwum",
+      "lang": "en",
+      "title": "San Francisco's Free Archive of 80,000 Images",
+      "text": "Biblioteka publiczna San Francisco udostępniła w DigitalSF ponad 80 tys. dokumentów i obrazów do pobrania. Można tam szukać trzęsień ziemi, gorączki złota, poetów Beat, punka czy Harveya Milka.",
+      "src": "https://www.openculture.com/2026/11/the-san-francisco-public-library-launches-a-free-online-archive-with-80000-historical-images-documents-to-explore-download.html",
+      "srcName": "Open Culture",
+      "img": "https://cdn8.openculture.com/2026/11/02224541/OC-San-Francisco-postcard.jpg"
+    },
+    {
+      "date": "2026-11-04",
+      "type": "news",
+      "id": "2026-11-04-grzywny-projekt",
+      "lang": "pl",
+      "title": "Rząd chce dziesięciokrotnie wyższych grzywien",
+      "text": "Według projektu omawianego na posiedzeniu rządu minimalna stawka dzienna wzrosłaby z 10 do 100 zł, a maksymalna z 2 tys. do 10 tys. zł. Najwyższa grzywna mogłaby sięgnąć 5,4 mln zł.",
+      "src": "https://superbiz.se.pl/wiadomosci/rzad-chce-drastycznie-podniesc-grzywny-kwoty-moga-siegnac-nawet-10-tys-zl-aa-dqwU-wtEn-ZQ4o.html",
+      "srcName": "Super Biznes"
+    },
+    {
+      "title": "Róg Pike i Henry Street, Manhattan",
+      "by": "Berenice Abbott, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Pike_and_Henry_Streets,_Manhattan_(NYPL_b13668355-482679).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Pike_and_Henry_Streets,_Manhattan_(NYPL_b13668355-482679).jpg",
+      "srcName": "Wikimedia Commons",
+      "date": "2026-11-04",
+      "type": "photo",
+      "id": "2026-11-04-wm-12"
+    },
     {
       "date": "2026-11-02",
       "type": "video",
