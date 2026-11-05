@@ -1,6 +1,378 @@
 {
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "items": [
+    {
+      "date": "2026-11-05",
+      "type": "video",
+      "id": "2026-11-05-viktor-viktoria-i-love-to-wear",
+      "kind": "Teledysk",
+      "title": "Viktor Viktoria & A Man To Pet – „I Love To Wear (Jean Paul Gaultier)”",
+      "by": "reż. Thomas Hardiman (Somesuch)",
+      "text": "Duet głosi miłość do Gaultiera w centrach ogrodniczych, sortowniach śmieci, na farmach, siłowniach i w zapomnianych teatrach. Hardiman składa z tego zabawną, kompletnie odjechaną podróż przez zwyczajne miejsca.",
+      "embed": {
+        "p": "yt",
+        "id": "nk7BlEhyWLQ"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Viktor%20Viktoria%20%26%20A%20Man%20To%20Pet%20%27I%20Love%20To%20Wear%20%28Jean%20Paul%20Gaultier%29%27%20by%20Thomas%20Hardiman.png?itok=73VZowfX",
+      "src": "https://www.promonews.tv/videos/2026/10/26/viktor-viktoria-man-pet-i-love-wear-jean-paul-gaultier-thomas-hardiman/96750",
+      "srcName": "Promonews"
+    },
+    {
+      "title": "Autostopowicze pod Vicksburgiem",
+      "by": "Walker Evans, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Walker_Evans_Hitchhidkers_Vicksburg_(vicinity)_March_1936.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Walker_Evans_Hitchhidkers_Vicksburg_(vicinity)_March_1936.jpg",
+      "srcName": "Wikimedia Commons",
+      "date": "2026-11-05",
+      "type": "photo",
+      "id": "2026-11-05-wm-01"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "news",
+      "id": "2026-11-05-vance-iran-wybory",
+      "lang": "pl",
+      "title": "Vance: to wojna z Iranem kosztowała Republikanów Kongres",
+      "text": "Wiceprezydent wprost wskazał wojnę jako powód klęski, a Trump przyznał mu w dużej mierze rację, choć zapewnia, że zaatakowałby ponownie. Sondaż ABC pokazuje jednak, że wyborcom jeszcze częściej chodziło o korupcję i koszty życia.",
+      "src": "https://abcnews.com/Politics/vance-blames-iran-war-republicans-midterms-defeat-trump/story?id=137849295",
+      "srcName": "ABC News"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "article",
+      "id": "2026-11-05-arkivism",
+      "lang": "en",
+      "title": "A Search Engine for 4 Million Public-Domain Works",
+      "text": "Arkivism przeszukuje dzieła i stare fotografie po zwykłym opisie, np. „miasteczko o zachodzie słońca”. Wszystko pochodzi z zasobów CC0 lub domeny publicznej, m.in. Library of Congress i Rijksmuseum.",
+      "src": "https://www.openculture.com/2026/11/a-new-search-engine-lets-you-explore-4-million-works-of-art.html",
+      "srcName": "Open Culture",
+      "img": "https://cdn8.openculture.com/2026/11/03214920/Screenshot-2026-11-03-at-9.59.57-PM-1024x634.png"
+    },
+    {
+      "title": "Jitterbug w barze w delcie Missisipi",
+      "by": "Marion Post Wolcott, 1939",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/38/Jitterbug_Wolcott_FSA.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Jitterbug_Wolcott_FSA.jpg",
+      "srcName": "Wikimedia Commons",
+      "date": "2026-11-05",
+      "type": "photo",
+      "id": "2026-11-05-wm-02"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "news",
+      "id": "2026-11-05-ostroleka-cba",
+      "lang": "pl",
+      "title": "CBA zatrzymało 25 osób w sprawie elektrowni Ostrołęka",
+      "text": "Śledztwo dotyczy lat 2018–2019 i szkody ponad miliarda złotych na niekorzyść spółek Elektrownia Ostrołęka, Enea i Energa. Przeszukania objęły 30 miejsc w 11 województwach, a Tomasz Siemoniak zapowiada szerokie postępowanie.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-04/sprawa-elektrowni-ostroleka-wielka-akcja-cba-zatrzymano-dziesiatki-osob/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "article",
+      "id": "2026-11-05-matisse-czerwona-pracownia",
+      "lang": "en",
+      "title": "The Long Comeback of Matisse's Red Studio",
+      "text": "Krótki film Great Art Explained opowiada, jak obraz z 1911 r. przepadł na Armory Show i na dekadę trafił do ukrycia. Dziś w MoMA uchodzi za przełom w spłaszczeniu obrazu kolorem.",
+      "src": "https://www.thisiscolossal.com/2026/11/great-art-explained-henri-matisse-the-red-studio-video/",
+      "srcName": "Colossal",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/red-studio-3.jpg"
+    },
+    {
+      "title": "Gazeciarz w Harlemie",
+      "by": "Gordon Parks, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Harlem-newsboy-May-1943.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Harlem-newsboy-May-1943.jpg",
+      "srcName": "Wikimedia Commons",
+      "date": "2026-11-05",
+      "type": "photo",
+      "id": "2026-11-05-wm-03"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "news",
+      "id": "2026-11-05-rpp-stopy-listopad",
+      "lang": "pl",
+      "title": "RPP bez zmian: główna stopa NBP nadal 3,75 proc.",
+      "text": "Szybki odczyt inflacji za październik (3,5 proc.) okazał się niższy od prognoz, więc Rada mogła jeszcze poczekać. Analitycy spierają się o podwyżki w 2027 r., a dziś sygnałów szukają na konferencji Adama Glapińskiego.",
+      "src": "https://www.rp.pl/finanse/art45444041-rpp-nie-zmienila-stop-procentowych-bez-niespodzianki",
+      "srcName": "Rzeczpospolita"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "video",
+      "id": "2026-11-05-gener8ion-storm",
+      "kind": "Teledysk · nagroda",
+      "title": "GENER8ION z Yung Leanem – „STORM”",
+      "by": "reż. Romain Gavras (Iconoclast)",
+      "text": "Wczoraj w Londynie zdobył tytuł teledysku roku UK Music Video Awards 2026 i łącznie pięć statuetek tej gali. Yung Lean gra szkolnego tyrana w dystopijnej szkole z internatem, w której nie ma nauczycieli, a ruch układał Damien Jalet.",
+      "embed": {
+        "p": "yt",
+        "id": "x6_mbnsh6VU"
+      },
+      "dur": 454,
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/x6_mbnsh6VU.jpg?itok=_oY-FDCV",
+      "src": "https://www.promonews.tv/videos/2026/04/28/gener8ion-storm-romain-gavras/94735",
+      "srcName": "Promonews"
+    },
+    {
+      "title": "Szycie patchworku w Gee's Bend",
+      "by": "Arthur Rothstein, 1937",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Sewing_a_quilt._Gees_Bend,_Alabama_-_April_1937.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Sewing_a_quilt._Gees_Bend,_Alabama_-_April_1937.jpg",
+      "srcName": "Wikimedia Commons",
+      "date": "2026-11-05",
+      "type": "photo",
+      "id": "2026-11-05-wm-04"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "article",
+      "id": "2026-11-05-nerd-i-cesarz",
+      "lang": "pl",
+      "title": "Nerd i cesarz",
+      "text": "Łukasz Najder o „The Social Reckoning” Aarona Sorkina, gdzie Jeremy Strong gra zimnego, wszechmocnego Zuckerberga. Recenzent widzi tu dobrze obsadzone kino lęku, które nie wyjaśnia, skąd ta władza się wzięła.",
+      "src": "https://www.dwutygodnik.com/artykul/12738-nerd-i-cesarz.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "news",
+      "id": "2026-11-05-iran-hormuz-trump",
+      "lang": "pl",
+      "title": "Trump grozi Iranowi mocnym uderzeniem, Katar szuka porozumienia",
+      "text": "Prezydent mówi o możliwym ciężkim ataku, ale zapewnia, że nie planuje go od razu, a Teheran twierdzi, że cztery tankowce zapaliły się po wejściu na miny w Ormuzie. Katarscy mediatorzy zabiegają o poparcie obu stron dla projektu umowy.",
+      "src": "https://gulfnews.com/world/mena/middle-east-conflict-trump-warns-of-heavy-hit-as-iran-says-americans-voted-no-to-war-1.500735100",
+      "srcName": "Gulf News"
+    },
+    {
+      "title": "Berlin: chłopcy ćwiczą stanie na rękach",
+      "by": "Heinrich Zille, ok. 1900",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/41/Zille,_Heinrich_-_Kinder_und_Kinderspielpl%C3%A4tze,_acht_Jungen_%C3%BCben_Handstand_(Zeno_Fotografie).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Zille,_Heinrich_-_Kinder_und_Kinderspielpl%C3%A4tze,_acht_Jungen_%C3%BCben_Handstand_(Zeno_Fotografie).jpg",
+      "srcName": "Wikimedia Commons",
+      "date": "2026-11-05",
+      "type": "photo",
+      "id": "2026-11-05-wm-05"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "news",
+      "id": "2026-11-05-akt-oskarzenia-braun",
+      "lang": "pl",
+      "title": "Akt oskarżenia przeciw Grzegorzowi Braunowi",
+      "text": "Warszawska prokuratura zarzuca mu kradzież flag Ukrainy i UE, zniszczenie wystawy o osobach LGBT+ w Sejmie oraz zniesławienie organizatorów akcji „Żonkile”. Na ławie oskarżonych ma zasiąść pięć innych osób, w tym poseł Roman Fritz.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-04/akt-oskarzenia-przeciwko-grzegorzowi-braunowi-prokuratura-podala-szczegoly/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "article",
+      "id": "2026-11-05-metropolis-kraftwerk",
+      "lang": "en",
+      "title": "Metropolis With a Kraftwerk Soundtrack",
+      "text": "Fanowski montaż z 2009 r. łączy film Langa z muzyką Kraftwerk, a obok niego istnieją elektroniczne ścieżki Dietera Moebiusa i Jeffa Millsa. Przy okazji krótka historia cięć i dziewięciu wersji tego klasyka.",
+      "src": "https://www.openculture.com/2026/11/if-fritz-langs-iconic-film-metropolis-had-a-kraftwerk-soundtrack.html",
+      "srcName": "Open Culture",
+      "img": "https://cdn8.openculture.com/2026/11/03211458/Metropolis-Wells-2.jpeg"
+    },
+    {
+      "title": "Wykończenia wagonu na stacji Proviso, Chicago",
+      "by": "Jack Delano, 1942",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/54/Jack_Delano_-_C_%26_NW_RR,_putting_the_finishing_touches_on_a_rebuilt_caboose_at_the_rip_tracks_at_Proviso_yard,_Chicago,_Ill..jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Jack_Delano_-_C_%26_NW_RR,_putting_the_finishing_touches_on_a_rebuilt_caboose_at_the_rip_tracks_at_Proviso_yard,_Chicago,_Ill..jpg",
+      "srcName": "Wikimedia Commons",
+      "date": "2026-11-05",
+      "type": "photo",
+      "id": "2026-11-05-wm-06"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "news",
+      "id": "2026-11-05-demokraci-rozliczenia",
+      "lang": "pl",
+      "title": "Demokraci szykują śledztwa wobec Trumpa i jego otoczenia",
+      "text": "Na celowniku komisji mają być interesy rodziny prezydenta, decyzja o wojnie z Iranem i sprawa Epsteina. Impeachment może ruszyć w Izbie, ale usunięcie z urzędu wymaga dwóch trzecich głosów w Senacie.",
+      "src": "https://tvn24.pl/swiat/demokraci-zapowiadaja-rozliczenia-donalda-trumpa-co-moga-zrobic-st9323179",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "video",
+      "id": "2026-11-05-miu-miu-muta",
+      "kind": "Film modowy",
+      "title": "Miu Miu – „Muta”",
+      "by": "reż. Lucrecia Martel",
+      "text": "Odcinek serii Women's Tales z 2011 r.: na luksusowym statku krążą modelki bez twarzy, przypominające owady, porozumiewając się trzaskami i wibracjami. Na koniec znikają ciała, a zostają same ubrania, co można czytać jako kąśliwy komentarz do mody.",
+      "embed": {
+        "p": "yt",
+        "id": "ALPGLecuorc"
+      },
+      "dur": 420,
+      "img": "https://numerocinqmagazine.com/wp-content/uploads/2012/03/MUTA_Frame_1.jpg",
+      "src": "https://numerocinqmagazine.com/2012/03/29/numero-cinq-at-the-movies-lucrecia-martels-muta-introduced-by-sophie-lavoie/",
+      "srcName": "Numéro Cinq"
+    },
+    {
+      "title": "Radio w pokoju na stancji, Waszyngton",
+      "by": "Esther Bubley, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/78/Esther_Bubley,_A_radio_is_company_for_this_girl_in_her_boardinghouse_room,_Washington,_D.C.,_1943.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Esther_Bubley,_A_radio_is_company_for_this_girl_in_her_boardinghouse_room,_Washington,_D.C.,_1943.jpg",
+      "srcName": "Wikimedia Commons",
+      "date": "2026-11-05",
+      "type": "photo",
+      "id": "2026-11-05-wm-07"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "article",
+      "id": "2026-11-05-lagos-street-style",
+      "lang": "en",
+      "title": "Street Style at Lagos Fashion Week",
+      "text": "Tantolohun Ayanda sfotografował dla Dazed uliczne stylizacje ze święta mody w największym mieście Nigerii. To galeria 27 kadrów z sezonu SS27.",
+      "src": "https://www.dazeddigital.com/fashion/article/71286/1/lagos-fashion-week-2026-street-style-ss27-photos-nigeria",
+      "srcName": "Dazed",
+      "img": "https://images-prod.dazeddigital.com/1200/127-120-2273-1515/azure/dazed-prod/1450/8/1458716.jpg"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "news",
+      "id": "2026-11-05-tk-zgromadzenie-10-listopada",
+      "lang": "pl",
+      "title": "Sędziowie TK zbiorą się ponownie 10 listopada",
+      "text": "Anna Korwin-Piotrowska chce zmienić regulamin Trybunału, tak by jasno opisać zarządzanie i przydział spraw, których czeka około 1200. Skuteczność wtorkowego zgromadzenia pozostaje podważana, m.in. z powodu kworum.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-04/kolejne-zebranie-sedziow-tk-korwin-piotrkowska-podala-termin/",
+      "srcName": "Polsat News"
+    },
+    {
+      "title": "Dzieci z wiejskiej szkoły, Teksas",
+      "by": "Russell Lee, 1939",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/06/Rural_school_children,_San_Augustine_County,_Texas_(LOC_fsac.1a35425).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Rural_school_children,_San_Augustine_County,_Texas_(LOC_fsac.1a35425).jpg",
+      "srcName": "Wikimedia Commons",
+      "date": "2026-11-05",
+      "type": "photo",
+      "id": "2026-11-05-wm-08"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "news",
+      "id": "2026-11-05-ropa-po-wyborach",
+      "lang": "pl",
+      "title": "Ropa tanieje o ponad 8 procent po wyborach w USA",
+      "text": "Rynek liczy na szybszy koniec wojny z Iranem, więc Brent spadł na zamknięciu do 94,62 dolara, a WTI do 88,12 dolara za baryłkę. Niskie zapasy oleju napędowego w USA sprawiają jednak, że ewentualny rozejm szybko nie przyniesie ulgi.",
+      "src": "https://www.rigzone.com/news/wire/oil_plunges_as_election_shifts_iran_outlook-04-nov-2026-185012-article/",
+      "srcName": "Rigzone"
+    },
+    {
+      "title": "Plaza del Vapor, Hawana",
+      "by": "Walker Evans, 1933",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Plaza_del_Vapor_Havana,_Cuba_Walker_Evans.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Plaza_del_Vapor_Havana,_Cuba_Walker_Evans.jpg",
+      "srcName": "Wikimedia Commons",
+      "date": "2026-11-05",
+      "type": "photo",
+      "id": "2026-11-05-wm-09"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "article",
+      "id": "2026-11-05-aminah-robinson",
+      "lang": "en",
+      "title": "Aminah Robinson's Beaded Books and Dolls",
+      "text": "Artystka z Columbus zapisała życie czarnej społeczności w książkach z guzików, koralików i muszli oraz w lalkach. Nowojorska wystawa „Beaded and Bound” pokaże 25 prac od 19 listopada.",
+      "src": "https://www.thisiscolossal.com/2026/11/aminah-brenda-lynn-robinsons-beaded-books-dolls-textiles/",
+      "srcName": "Colossal",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/robinson-6-e1793807743309.jpg"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "news",
+      "id": "2026-11-05-nawrocki-traktat-z-uk",
+      "lang": "pl",
+      "title": "Nawrocki ratyfikował traktat obronny z Wielką Brytanią",
+      "text": "Podpisana ustawa zatwierdza umowę z maja, która obejmuje cyberbezpieczeństwo, ochronę infrastruktury krytycznej i klauzulę wzajemnej pomocy w razie ataku. Prezydent podpisał też m.in. umorzenie części dawnych należności ZUS sprzed 1999 r.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-04/karol-nawrocki-podpisal-piec-ustaw-jest-komunikat-kancelarii-prezydenta",
+      "srcName": "Polsat News"
+    },
+    {
+      "title": "Szyld na szopie, Luizjana",
+      "by": "John Vachon, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Plaquemines_Parish_1943_E_Riche_Sign_Shack_by_Vachon.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Plaquemines_Parish_1943_E_Riche_Sign_Shack_by_Vachon.jpg",
+      "srcName": "Wikimedia Commons",
+      "date": "2026-11-05",
+      "type": "photo",
+      "id": "2026-11-05-wm-10"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "video",
+      "id": "2026-11-05-chemical-brothers-star-guitar",
+      "kind": "Teledysk · klasyka",
+      "title": "The Chemical Brothers – „Star Guitar”",
+      "by": "reż. Michel Gondry",
+      "text": "Jedna jazda pociągiem: budynki, słupy i wiadukty za oknem przelatują dokładnie w rytm kolejnych warstw utworu. Gondry nakręcił trasę z Nîmes do Valence wiele razy, a synchronizację rozrysował wcześniej na papierze milimetrowym.",
+      "embed": {
+        "p": "yt",
+        "id": "0S43IwBF0uM"
+      },
+      "img": "https://i.ytimg.com/vi/0S43IwBF0uM/hqdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/Star_Guitar",
+      "srcName": "Wikipedia"
+    },
+    {
+      "title": "Lekcja w Hampton Institute",
+      "by": "Frances Benjamin Johnston, 1899",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Hampton_Institute,_Va._1899_-_Classroom_scenes_-_testintg_combined_draught_of_animals_LCCN2001703743.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Hampton_Institute,_Va._1899_-_Classroom_scenes_-_testintg_combined_draught_of_animals_LCCN2001703743.jpg",
+      "srcName": "Wikimedia Commons",
+      "date": "2026-11-05",
+      "type": "photo",
+      "id": "2026-11-05-wm-11"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "news",
+      "id": "2026-11-05-dniepr-hospicjum",
+      "lang": "pl",
+      "title": "Rosyjska rakieta zniszczyła hospicjum w Dnieprze",
+      "text": "Około 50 ciężko chorych pacjentów przeniesiono do innego szpitala, a w całej Ukrainie jednej doby zginęło co najmniej 38 osób. Ataki uderzyły też w energetykę w dziewięciu regionach, powodując wyłączenia prądu.",
+      "src": "https://kyivindependent.com/russian-attacks-across-ukraine-kill-38-injure-158-as-russia-hits-dnipro-hospitals-in-morning-missile-strike/",
+      "srcName": "The Kyiv Independent"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "article",
+      "id": "2026-11-05-prior-occupants-westbeth",
+      "lang": "en",
+      "title": "The Prior Occupants of Westbeth",
+      "text": "14-minutowy film Alison Nguyen sięga po tajne akta Bell Labs, które mieściły się w dzisiejszym nowojorskim domu artystów. Recenzentka chwali research, ale brakuje jej czytelności.",
+      "src": "https://hyperallergic.com/the-prior-occupants-of-westbeth-are-just-beyond-reach/",
+      "srcName": "Hyperallergic",
+      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/10/HC_AlisonNguyen_Still_0010_4096px.jpg"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "news",
+      "id": "2026-11-05-trump-izrael-pomoc",
+      "lang": "pl",
+      "title": "Trump: USA przestaną finansować izraelską armię",
+      "text": "W rozmowie z Fox News powiedział, że uzgodnił z Netanjahu koniec pomocy wojskowej wartej około 4 mld dolarów rocznie, a jej ostatni rok to 2026. Izrael wciąż będzie mógł kupować amerykańską broń.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-03/usa-zakonczy-finansowanie-wojska-izraela-trump-zawarlismy-umowe/",
+      "srcName": "Polsat News"
+    },
+    {
+      "title": "Czytelniczki, Newark, Ohio",
+      "by": "Clarence H. White, ok. 1897",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/59/The_readers_(Letitia_Felix_and_Ada_Follett),_Newark,_Ohio_-_Clarence_H._White._LCCN2003653996.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:The_readers_(Letitia_Felix_and_Ada_Follett),_Newark,_Ohio_-_Clarence_H._White._LCCN2003653996.jpg",
+      "srcName": "Wikimedia Commons",
+      "date": "2026-11-05",
+      "type": "photo",
+      "id": "2026-11-05-wm-12"
+    },
     {
       "date": "2026-11-04",
       "type": "video",
