@@ -1,6 +1,348 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "items": [
+    {
+      "date": "2026-11-06",
+      "type": "video",
+      "id": "2026-11-06-chloe-qisha-he-likes-boys",
+      "kind": "Teledysk",
+      "title": "Chloe Qisha – „He Likes Boys”",
+      "by": "reż. Bedroom (FRIEND)",
+      "text": "Powolny, zmysłowy taniec w pustym studiu nagle przechodzi w gorączkową noc w klubie. Szybki montaż i nasycone kolory robią z tego mały wybuch energii.",
+      "embed": {
+        "p": "yt",
+        "id": "RsyyuwIL3j4"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/webform/Timeline%201_01_02_30_21.jpg?itok=xQOV-w_O",
+      "src": "https://www.promonews.tv/videos/2026/11/02/chloe-qisha-he-likes-boys-bedroom/96830",
+      "srcName": "Promonews"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "news",
+      "id": "2026-11-06-trump-dmitriew",
+      "lang": "pl",
+      "title": "Trump po rozmowie z wysłannikiem Putina: porozumienie blisko",
+      "text": "Donald Trump przyjął w Białym Domu Kiriłła Dmitriewa i stwierdził, że ugoda między Rosją a Ukrainą jest bardzo bliska, choć nie zdradził szczegółów. Dzień wcześniej Melania Trump gościła przedstawicieli obu krajów, by podtrzymać rozejm, który pozwolił ewakuować blisko 800 cywilów z Oleszek.",
+      "src": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians",
+      "srcName": "Al Jazeera"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "photo",
+      "id": "2026-11-06-wm-01",
+      "title": "Uliczni muzykanci, Paryż",
+      "by": "Eugène Atget, 1898–99",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/41/Eug%C3%A8ne_Atget,_Street_Musicians,_1898%E2%80%9399.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Atget,_Street_Musicians,_1898%E2%80%9399.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "article",
+      "id": "2026-11-06-curt-bloch-onderwater",
+      "lang": "en",
+      "title": "The Underground Cabaret of Curt Bloch",
+      "text": "Ukrywając się na strychu w okupowanej Holandii, Curt Bloch zrobił ręcznie 96 numerów satyrycznego pisma przeciw nazistom. Cały zbiór kolaży i wierszy można dziś przeczytać online.",
+      "src": "https://www.openculture.com/2026/11/the-man-who-risked-his-life-mocking-the-nazis-read-96-issues-of-his-underground-magazine.html",
+      "srcName": "Open Culture"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "photo",
+      "id": "2026-11-06-wm-02",
+      "title": "Wiejski sklep przy gruntowej drodze, Karolina Północna",
+      "by": "Dorothea Lange, 1939",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/03/Dorothea_Lange,_Country_store_on_dirt_road,_Gordonton,_North_Carolina,_1939.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Dorothea_Lange,_Country_store_on_dirt_road,_Gordonton,_North_Carolina,_1939.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "news",
+      "id": "2026-11-06-abw-szpiedzy-rosja",
+      "lang": "pl",
+      "title": "ABW rozbiła siatkę dostarczającą Rosji materiały wojskowe",
+      "text": "Zatrzymano sześć osób, w tym obywatelkę Rosji; czworo trafiło do aresztu z zarzutem szpiegostwa. Grupa miała przemycać do Rosji duże ilości materiałów do produkcji amunicji i uzbrojenia.",
+      "src": "https://tvn24.pl/olsztyn/zatrzymano-szesc-osob-podejrzanych-o-udzial-w-grupie-przestepczej-dzialajacej-przeciwko-polsce-st9323408",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "photo",
+      "id": "2026-11-06-wm-03",
+      "title": "Automat na Ósmej Alei, Manhattan",
+      "by": "Berenice Abbott, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/Automat,_977_Eighth_Avenue,_Manhattan_(NYPL_b13668355-482752).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Automat,_977_Eighth_Avenue,_Manhattan_(NYPL_b13668355-482752).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "video",
+      "id": "2026-11-06-jamiroquai-virtual-insanity",
+      "kind": "Teledysk · klasyka",
+      "title": "Jamiroquai – „Virtual Insanity”",
+      "by": "reż. Jonathan Glazer (Academy Films)",
+      "text": "Jay Kay tańczy w pokoju, w którym podłoga zdaje się płynąć – w rzeczywistości to ściany na kółkach przesuwała ekipa, bez żadnego CGI. Klip z 1996 roku zdobył cztery statuetki MTV VMA, w tym Video of the Year.",
+      "embed": {
+        "p": "yt",
+        "id": "4JkIs37a2JE"
+      },
+      "src": "https://en.wikipedia.org/wiki/Virtual_Insanity",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "news",
+      "id": "2026-11-06-hegseth-impeachment",
+      "lang": "pl",
+      "title": "Hegseth nie ustępuje, Massie zapowiada impeachment",
+      "text": "Szef Pentagonu publicznie broni wojny z Iranem mimo porażki Republikanów w wyborach, a republikanin Thomas Massie chce złożyć projekt jego impeachmentu. Z Departamentu Sprawiedliwości odeszła Harmeet Dhillon.",
+      "src": "https://www.abc.net.au/news/2026-11-06/us-midterm-elections-2026-live-updates/107351586",
+      "srcName": "ABC News (Australia)"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "article",
+      "id": "2026-11-06-esther-elia",
+      "lang": "en",
+      "title": "Esther Elia's Diasporic Deities",
+      "text": "Artystka asyryjsko-irlandzkiego pochodzenia łączy obrazy inspirowane dywanami, mozaiki i rzeźby z kafli, opowiadając o domu jako miejscu przechowywania kultury. Jej figury z łatwo dostępnych materiałów mają wędrować razem z diasporą.",
+      "src": "https://www.thisiscolossal.com/2026/11/esther-elia-assyrian-culture-tile-sculptures-paintings/",
+      "srcName": "Colossal"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "photo",
+      "id": "2026-11-06-wm-04",
+      "title": "Gazeciarz śpiący na schodach, Jersey City",
+      "by": "Lewis Hine, 1912",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/72/Newsboy_asleep_on_stairs_with_papers,_Jersey_City,_New_Jersey_MET_DT221415.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Newsboy_asleep_on_stairs_with_papers,_Jersey_City,_New_Jersey_MET_DT221415.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "news",
+      "id": "2026-11-06-psl-reset-konstytucyjny",
+      "lang": "pl",
+      "title": "PSL proponuje „reset konstytucyjny” Trybunału",
+      "text": "Według projektu Kosiniaka-Kamysza Zgromadzenie Narodowe mogłoby stwierdzić trwałą niezdolność TK do działania i wybrać cały nowy, 15-osobowy skład. Lider PSL zabiega o poparcie Konfederacji, a premier zapewnia, że wiedział o jego rozmowie z Mentzenem i ją zaakceptował.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-05/kosiniak-kamysz-spotkal-sie-z-mentzenem-stanowcza-reakcja-tuska/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "photo",
+      "id": "2026-11-06-wm-05",
+      "title": "Sprzedawca warzyw, Chinatown w San Francisco",
+      "by": "Arnold Genthe, ok. 1900",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/0c/The_vegetable_peddler,_Chinatown,_San_Francisco_LOC_agc.7a09129.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:The_vegetable_peddler,_Chinatown,_San_Francisco_LOC_agc.7a09129.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "article",
+      "id": "2026-11-06-scorsese-39-filmow",
+      "lang": "en",
+      "title": "Scorsese's 39 Essential Foreign Films",
+      "text": "Lista filmów spoza USA, którą Martin Scorsese przygotował dla młodego filmowca: od neorealizmu po Fassbindera i Kurosawę. Ciekawe są też nieobecności, jak Bergman czy Fellini.",
+      "src": "https://www.openculture.com/2026/11/martin-scorsese-creates-a-list-of-39-essential-foreign-films-for-a-young-filmmaker.html",
+      "srcName": "Open Culture"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "news",
+      "id": "2026-11-06-francja-protesty",
+      "lang": "pl",
+      "title": "Fala protestów we Francji, Wieża Eiffla zamknięta",
+      "text": "Setki tysięcy ludzi demonstrowały przeciw cięciom w budżecie na 2027 rok i za podwyżkami płac, a strajki objęły szkoły i kolej. W Paryżu doszło do starć z policją, która użyła gazu łzawiącego.",
+      "src": "https://tvn24.pl/swiat/protesty-we-francji-zamknieto-dla-odwiedzajacych-wieze-eiffla-st9324718",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "video",
+      "id": "2026-11-06-massive-attack-voodoo",
+      "kind": "Teledysk · nagroda",
+      "title": "Massive Attack & Young Fathers – „Voodoo In My Blood”",
+      "by": "reż. Ringan Ledwidge (Rattling Stick)",
+      "text": "Ringan Ledwidge obsadził Rosamund Pike w niepokojącym, surrealistycznym klipie pełnym efektów od Electric Theatre Collective. W 2016 roku klip zdobył Srebrnego Lwa w Cannes (Entertainment Lions for Music) i był najczęściej nominowanym teledyskiem UK Music Video Awards.",
+      "embed": {
+        "p": "yt",
+        "id": "ElvLZMsYXlo"
+      },
+      "src": "https://lovethework.com/work-awards/entries/voodoo-in-my-blood-82823",
+      "srcName": "Cannes Lions"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "photo",
+      "id": "2026-11-06-wm-06",
+      "title": "Rue des Marmousets przed przebudową Paryża",
+      "by": "Charles Marville, ok. 1853–70",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Charles_Marville,_Rue_des_Marmousets_de_la_rue_St._Landry,_ca._1853%E2%80%9370.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Charles_Marville,_Rue_des_Marmousets_de_la_rue_St._Landry,_ca._1853%E2%80%9370.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "news",
+      "id": "2026-11-06-tusk-czeka-na-sms",
+      "lang": "pl",
+      "title": "Tusk czeka na zaproszenie od prezydenta",
+      "text": "Premier liczy na rozmowę w cztery oczy z Karolem Nawrockim jeszcze w tym tygodniu, by rozładować kryzys wokół TK. Kancelaria prezydenta poda szczegóły po jego powrocie ze szczytu Grupy Wyszehradzkiej na Słowacji.",
+      "src": "https://www.rp.pl/polityka/art45454001-spotkanie-nawrocki-tusk-ws-trybunalu-konstytucyjnego-premier-czekam-na-sms-od-prezydenta",
+      "srcName": "Rzeczpospolita"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "article",
+      "id": "2026-11-06-accidental-collage",
+      "lang": "en",
+      "title": "Accidental Collage",
+      "text": "Publikacja o przypadkowych kolażach, które tworzą zdarte plakaty, resztki reklam i drobne druki ulotne. Dobra lekcja patrzenia na miasto jak na warstwową grafikę.",
+      "src": "https://www.itsnicethat.com/articles/dr-me-waiting-room-press-accidental-collage-advertising-publication-project-051126",
+      "srcName": "It's Nice That"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "photo",
+      "id": "2026-11-06-wm-07",
+      "title": "Widok z okna galerii An American Place, Nowy Jork",
+      "by": "Alfred Stieglitz, 1931",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/From_My_Window_at_An_American_Place,_North_MET_DP223963.jpg/1280px-From_My_Window_at_An_American_Place,_North_MET_DP223963.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:From_My_Window_at_An_American_Place,_North_MET_DP223963.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "news",
+      "id": "2026-11-06-hormuz-tankowiec",
+      "lang": "pl",
+      "title": "Kolejny tankowiec trafiony w Zatoce Perskiej",
+      "text": "Brytyjskie UKMTO poinformowało o statku trafionym dwoma pociskami na północ od Kataru, a Strażnicy Rewolucji meldują o tankowcach na minach. Katarscy mediatorzy czekają na odpowiedź USA i Iranu na nowy plan pokojowy.",
+      "src": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
+      "srcName": "CBS News"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "photo",
+      "id": "2026-11-06-wm-08",
+      "title": "Bezdomne dzieci śpiące na ulicy, Nowy Jork",
+      "by": "Jacob Riis, ok. 1890",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/98/Sleeping,_homeless_children_-_Jacob_Riis.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Sleeping,_homeless_children_-_Jacob_Riis.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "article",
+      "id": "2026-11-06-collins-obijiaku",
+      "lang": "en",
+      "title": "Collins Obijiaku's Tender Portraits",
+      "text": "Nigeryjski malarz portretuje ludzi ze swojej społeczności na płaskich, plamistych tłach, a bohaterowie patrzą prosto na widza. Część obrazów odwołuje się do renesansu i wspomnień z dzieciństwa w Kadunie.",
+      "src": "https://www.thisiscolossal.com/2026/11/collins-obijiaku-portraits-oil-paintings/",
+      "srcName": "Colossal"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "video",
+      "id": "2026-11-06-chanel-no5-the-film",
+      "kind": "Film modowy",
+      "title": "CHANEL N°5 – „The Film” z Nicole Kidman",
+      "by": "reż. Baz Luhrmann",
+      "text": "Gwiazda ucieka przed fleszami i wskakuje do taksówki obcego mężczyzny – romans w duchu „Rzymskich wakacji”, z kostiumami Karla Lagerfelda. Kosztująca 33 mln dolarów reklama z 2004 roku to jeden z najsłynniejszych przykładów reklamy udającej kino.",
+      "embed": {
+        "p": "yt",
+        "id": "0hcaaKhGL00"
+      },
+      "dur": 180,
+      "src": "https://en.wikipedia.org/wiki/No._5_the_Film",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "news",
+      "id": "2026-11-06-sondaz-opinia24",
+      "lang": "pl",
+      "title": "Sondaż Opinia24: KO traci, PiS zyskuje",
+      "text": "Koalicja Obywatelska prowadzi z wynikiem 31,8 proc., ale PiS urósł o niemal 3 punkty do 20,1 proc. Pod progiem znalazły się m.in. PSL, Polska 2050 i Rozwój Plus Morawieckiego.",
+      "src": "https://tvn24.pl/polska/najnowszy-sondaz-partyjny-prowadzi-ko-rosnie-poparcie-dla-pis-st9324761",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "photo",
+      "id": "2026-11-06-wm-09",
+      "title": "Robotnik od plakatów, Londyn",
+      "by": "John Thomson, 1877",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Wall_Worker,_1877,_by_John_Thomson_and_Adolphe_Smith.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:The_Wall_Worker,_1877,_by_John_Thomson_and_Adolphe_Smith.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "article",
+      "id": "2026-11-06-scheeren-galeria-korea",
+      "lang": "en",
+      "title": "Ole Scheeren's Winding Concrete Gallery",
+      "text": "Pracownia Ole Scheerena zaprojektowała w Korei Południowej galerię w formie krętej betonowej wstęgi, w której przestrzenie płynnie przechodzą jedna w drugą bez typowych progów.",
+      "src": "https://www.dezeen.com/2026/10/29/buro-ole-scheeren-suseong-continuum-gallery-south-korea/",
+      "srcName": "Dezeen"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "photo",
+      "id": "2026-11-06-wm-10",
+      "title": "Szałasy bezrobotnych przy West Houston Street",
+      "by": "Berenice Abbott, 1935",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/59/Huts_and_unemployed,_West_Houston_and_Mercer_St.,_Manhattan_(NYPL_b13668355-482853).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Huts_and_unemployed,_West_Houston_and_Mercer_St.,_Manhattan_(NYPL_b13668355-482853).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "news",
+      "id": "2026-11-06-ceny-paliw-spadek",
+      "lang": "pl",
+      "title": "Maksymalne ceny paliw w dół",
+      "text": "W piątek limit dla benzyny 95 spadł do 6,20 zł, a dla oleju napędowego do 7,91 zł za litr. Ceny są utrzymywane programem obniżonego VAT i akcyzy, który ma działać do końca roku.",
+      "src": "https://tvn24.pl/biznes/pieniadze/ceny-paliw-na-stacjach-6-listopada-2026-ile-kierowcy-zaplaca-za-pb95-pb98-oraz-on-st9323542",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "photo",
+      "id": "2026-11-06-wm-11",
+      "title": "Witryna z gorsetami, Boulevard de Strasbourg",
+      "by": "Eugène Atget, 1912",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Eug%C3%A8ne_Atget,_Boulevard_de_Strasbourg_-_Getty_Museum.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Atget,_Boulevard_de_Strasbourg_-_Getty_Museum.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "article",
+      "id": "2026-11-06-from-form-museumnacht",
+      "lang": "en",
+      "title": "Amsterdam Museum Night by From Form",
+      "text": "Kampania amsterdamskiej Nocy Muzeów czerpie z surrealizmu i XVII-wiecznych dioram, zamieniając dzieła w dziwne, teatralne sceny.",
+      "src": "https://www.itsnicethat.com/articles/from-form-amsterdam-museum-night-graphic-design-project-051126",
+      "srcName": "It's Nice That"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "photo",
+      "id": "2026-11-06-wm-12",
+      "title": "Bezdomna rodzina wędrująca szosą US 99",
+      "by": "Dorothea Lange, 1939",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Homeless_family_of_seven,_walking_the_highway_from_Phoenix,_Arizona,_8b33132a.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Homeless_family_of_seven,_walking_the_highway_from_Phoenix,_Arizona,_8b33132a.jpg",
+      "srcName": "Wikimedia Commons"
+    },
     {
       "date": "2026-11-05",
       "type": "video",
