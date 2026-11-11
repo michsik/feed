@@ -1,6 +1,374 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-11",
   "items": [
+    {
+      "date": "2026-11-11",
+      "type": "video",
+      "id": "2026-11-11-olivia-rodrigo-take-me-home-4-christmas",
+      "kind": "Teledysk",
+      "title": "Olivia Rodrigo – „take me home (4 christmas)”",
+      "by": "reż. Fiona Jane Burgess (SMUGGLER / LFR Films)",
+      "text": "Pocztówkowe święta z rodzinnymi zdjęciami, pasującymi swetrami i kalamburami szybko zderzają się z dużo bardziej szorstką rzeczywistością. W roli wymarzonej przyszłej teściowej pojawia się Cynthia Nixon.",
+      "embed": {
+        "p": "yt",
+        "id": "uXymCnWk9LI"
+      },
+      "dur": 188,
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/TMH4C_STILLS_5%202.jpg?itok=lPJ87ca4",
+      "src": "https://www.promonews.tv/videos/2026/11/09/olivia-rodrigo-take-me-home-4-christmas-fiona-jane-burgess/96924",
+      "srcName": "Promonews"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "photo",
+      "id": "2026-11-11-wm-01",
+      "title": "Napis „White Trade Only”, Lancaster (Ohio)",
+      "by": "Ben Shahn, 1938",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e1/WhiteTradeOnlyLancasterOhio.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:WhiteTradeOnlyLancasterOhio.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "news",
+      "id": "2026-11-11-krakow-zaloba-po-zamachu",
+      "lang": "pl",
+      "title": "Kraków w żałobie po zamachu na Rynku Głównym",
+      "text": "Sobotni atak 24-latka, który wjechał autem na Rynek i strzelał do przypadkowych osób, kosztował życie sześciu ludzi, a 15 zostało rannych; sprawca zmarł w szpitalu w poniedziałek. W poniedziałek prezydent Nawrocki i premier Tusk przeszli razem w Marszu Ciszy, a żałoba w mieście trwa do środy.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-10/krakow-pograzony-w-zalobie-kolejny-ruch-prokuratury-ws-zamachowca/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "article",
+      "id": "2026-11-11-rzezba-po-stabilnosci-msn",
+      "lang": "pl",
+      "title": "Rzeźba na granicy upadku w MSN",
+      "by": "Karol Sienkiewicz",
+      "text": "Wystawa „Rzeźba po stabilności” w warszawskim Muzeum Sztuki Nowoczesnej zbiera prace z przedmiotów znalezionych, które trzymają się w chwiejnej równowadze i mają odpowiadać na niepewność współczesności. Recenzent docenia, że kuratorzy zostawiają widzom pole do interpretacji, choć związek fizycznej chwiejności rzeźb z nastrojami społecznymi uważa bardziej za intuicję niż mocny wniosek.",
+      "img": "https://dwutygodnik-storage.s3.eu-central-1.amazonaws.com/prod/public/media/uploads/1793979697412-RzezbapostabilnosciRobertGlowacki047.jpg",
+      "src": "https://www.dwutygodnik.com/artykul/12754-pole-napiec.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "photo",
+      "id": "2026-11-11-wm-02",
+      "title": "Targ przy ruinach starej hali, Manila",
+      "by": "Frances Benjamin Johnston, 1899",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Philippines,_Manila,_1899-_market_scene_outside_ruins_of_old_market_LCCN2005691618.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Philippines,_Manila,_1899-_market_scene_outside_ruins_of_old_market_LCCN2005691618.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "news",
+      "id": "2026-11-11-swieto-niepodleglosci-w-cieniu-tragedii",
+      "lang": "pl",
+      "title": "Święto Niepodległości pod znakiem zaostrzonych środków bezpieczeństwa",
+      "text": "Po zamachu w Krakowie miasto odwołało paradę i piknik 11 listopada, a dojazdy do rynków zabezpieczono zaporami. W Warszawie Marsz Niepodległości się odbędzie, ale Krakowskie Przedmieście zamknięto betonowymi blokadami i wprowadzono dodatkowy zakaz noszenia broni i pirotechniki.",
+      "src": "https://regiony.rp.pl/z-regionow/art45472891-swieto-niepodleglosci-w-cieniu-tragedii-dodatkowe-zapory-i-wiecej-sluzb",
+      "srcName": "Rzeczpospolita"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "photo",
+      "id": "2026-11-11-wm-03",
+      "title": "Poranek (studium pikturialne)",
+      "by": "Clarence H. White, 1905",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Clarence_Hudson_White_-_Morning_-_Google_Art_Project.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Clarence_Hudson_White_-_Morning_-_Google_Art_Project.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "article",
+      "id": "2026-11-11-kosmiczna-geometria-profile",
+      "lang": "pl",
+      "title": "Geometria jako narzędzie buntu w Fundacji Profile",
+      "by": "Redakcja SZUM",
+      "text": "Wystawa „Kosmiczna geometria” prowadzi od przedwojennych obrazów Henryka Stażewskiego do prac Wodiczki, Robakowskiego, Kozłowskiego czy Teresy Tyszkiewicz, pokazując, jak forma geometryczna stawała się krytyką polityczną i sposobem badania energii i kosmosu. Pokaz trwa w Warszawie do 14 listopada.",
+      "img": "https://magazynszum.pl/wp-content/uploads/2026/11/12-1440x1080.jpg",
+      "src": "https://magazynszum.pl/kosmiczna-geometria-w-fundacji-profile/",
+      "srcName": "Magazyn SZUM"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "video",
+      "id": "2026-11-11-harry-styles-aperture",
+      "kind": "Teledysk · nagroda",
+      "title": "Harry Styles – „Aperture”",
+      "by": "reż. Aube Perrie (DIVISION)",
+      "text": "Klip Aube Perrie zdobył nagrodę Best Pop Video – UK na UK Music Video Awards 2026 (gala 4 listopada). Reżyserka sama napisała scenariusz tego prawie sześciominutowego filmu, wyprodukowanego przez DIVISION.",
+      "embed": {
+        "p": "yt",
+        "id": "7sxVHYZ_PnA"
+      },
+      "dur": 351,
+      "src": "https://www.promonews.tv/news/2026/11/04/uk-music-video-awards-2026-all-winners-19th-annual-ukmvas/96842",
+      "srcName": "Promonews"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "news",
+      "id": "2026-11-11-baza-usa-zielone-swiatlo",
+      "lang": "pl",
+      "title": "Kosiniak-Kamysz: Pentagon daje zielone światło stałej bazie USA",
+      "text": "Po rozmowie z Pete'em Hegsethem szef MON ocenił, że Pentagon popiera stałą obecność wojsk amerykańskich w Polsce, a ostateczną decyzję Biały Dom ma podjąć na początku grudnia. Strony podpisały też porozumienie o współpracy przemysłów obronnych, a Pentagon pozytywnie zarekomendował sprzedaż Polsce pocisków Tomahawk.",
+      "src": "https://tvn24.pl/polska/stala-baza-usa-w-polsce-szef-mon-wladyslaw-kosiniak-kamysz-o-zielonym-swietle-z-pentagonu-st9332940",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "photo",
+      "id": "2026-11-11-wm-04",
+      "title": "Ulica w Charlotte Amalie, St. Thomas (Wyspy Dziewicze)",
+      "by": "Jack Delano, 1941",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/91/Charlotte_Amalie,_St._Thomas,_Virgin_Islands_1a33934u_original.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Charlotte_Amalie,_St._Thomas,_Virgin_Islands_1a33934u_original.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "news",
+      "id": "2026-11-11-abw-ukraincy-szpiegostwo",
+      "lang": "pl",
+      "title": "ABW zatrzymała dwóch Ukraińców podejrzanych o dywersję dla Rosji",
+      "text": "Mężczyźni w wieku 24 i 25 lat mieli na zlecenie rosyjskich służb fotografować obiekty wojskowe i infrastrukturę krytyczną oraz podpalać auta z tablicami upodobnionymi do ukraińskich wojskowych. Sąd aresztował obu na trzy miesiące, a część zapłaty mieli dostawać w kryptowalutach.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-10/abw-zatrzymala-ukraincow-podejrzanych-o-szpiegostwo-rozpoznawali-i-robili-zdjecia/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "article",
+      "id": "2026-11-11-chasing-clouds-met",
+      "lang": "en",
+      "title": "Why early photographers struggled to capture clouds",
+      "by": "Julia Curl",
+      "text": "A Met exhibition traces photography's long battle with the sky, from the 1800s, when blue-sensitive plates rendered heavens as blank white, up to 1929. Pioneers like Gustave Le Gray got around it by combining separate negatives for land and sky, while others simply painted clouds in by hand.",
+      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/Cels_Cloud-Study-in-the-Late-Afternoon--October-1840.jpg",
+      "src": "https://hyperallergic.com/clouds-were-once-photographys-greatest-challenge/",
+      "srcName": "Hyperallergic"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "photo",
+      "id": "2026-11-11-wm-05",
+      "title": "Poidło „dla kolorowych” na dworcu tramwajowym, Oklahoma City",
+      "by": "Russell Lee, 1939",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/54/Negro_drinking_at_%22Colored%22_water_cooler_in_streetcar_terminal,_Oklahoma_City,_Oklahoma_by_Russell_Lee.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Negro_drinking_at_%22Colored%22_water_cooler_in_streetcar_terminal,_Oklahoma_City,_Oklahoma_by_Russell_Lee.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "news",
+      "id": "2026-11-11-piesiewicz-kolejny-zarzut",
+      "lang": "pl",
+      "title": "Piesiewicz z kolejnym zarzutem, szkoda ponad miliona złotych",
+      "text": "Prokuratura zarzuca szefowi PKOl, że pieniędzmi Polskiej Ligi Koszykówki opłacał prywatne hotele, restauracje i loty zagraniczne. Nowy zarzut uzupełnia te postawione w sierpniu w wątku wydzielonym ze śledztwa w sprawie ZondaCrypto.",
+      "src": "https://www.rp.pl/prawo-karne/art45472121-ponad-1-mln-zl-szkody-prokuratura-stawia-kolejny-zarzut-radoslawowi-piesiewiczowi",
+      "srcName": "Rzeczpospolita"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "photo",
+      "id": "2026-11-11-wm-06",
+      "title": "Kierowca Greyhounda zapisuje się na nocleg w hotelu dla kierowców",
+      "by": "Esther Bubley, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/88/A_Greyhound_bus_driver_signing_in_for_a_bed_at_the_dormitory_8d32954v.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:A_Greyhound_bus_driver_signing_in_for_a_bed_at_the_dormitory_8d32954v.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "video",
+      "id": "2026-11-11-prada-a-therapy",
+      "kind": "Film modowy",
+      "title": "Prada – „A Therapy” z Benem Kingsleyem i Heleną Bonham Carter",
+      "by": "reż. Roman Polański",
+      "text": "Czterominutowa miniatura dla Prady: pacjentka zwierza się na kozetce, a jej terapeuta coraz bardziej zapatruje się na futro, które zostawiła na wieszaku. Film pokazano w 2012 r. w sekcji Cannes Classics na festiwalu w Cannes.",
+      "embed": {
+        "p": "yt",
+        "id": "-gl-kaGumng"
+      },
+      "dur": 240,
+      "src": "https://en.wikipedia.org/wiki/A_Therapy",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "article",
+      "id": "2026-11-11-mona-chalabi-ten-lives",
+      "lang": "en",
+      "title": "Mona Chalabi draws ten lives shaped by money",
+      "by": "Lakshmi Rivera Amin",
+      "text": "In an interview about her first book, Ten Lives, the data illustrator explains how she spent six years interviewing people across the economic spectrum and turned them into ten hand-drawn characters. Her own reflections on money run alongside, making class inequality personal rather than purely statistical.",
+      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/_Mona_Selects_010--1-.jpg",
+      "src": "https://hyperallergic.com/mona-chalabi-paints-a-picture-of-class-inequality/",
+      "srcName": "Hyperallergic"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "photo",
+      "id": "2026-11-11-wm-07",
+      "title": "Domy górnicze w Kempton (Wirginia Zachodnia)",
+      "by": "John Vachon, 1939",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/df/Kempton-west-virginia-houses.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Kempton-west-virginia-houses.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "news",
+      "id": "2026-11-11-rozmowy-abu-zabi",
+      "lang": "pl",
+      "title": "Rosja i Ukraina rozmawiają w Abu Zabi przy mediacji USA",
+      "text": "Pierwszy dzień bezpośrednich rozmów z udziałem wysłanników Kushnera i Witkoffa Zełenski nazwał konstruktywnym, a tematem były sprawy humanitarne i gwarancje bezpieczeństwa. Eksperci nie spodziewają się jednak przełomu, a kwestie terytorialne mają zostać rozstrzygnięte na końcu.",
+      "src": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes",
+      "srcName": "Al Jazeera"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "photo",
+      "id": "2026-11-11-wm-08",
+      "title": "Potomkowie niewolników z plantacji Pettway, Gee's Bend (Alabama)",
+      "by": "Arthur Rothstein, 1937",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Descendants_of_former_slaves_of_the_Pettway_plantation.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Descendants_of_former_slaves_of_the_Pettway_plantation.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "article",
+      "id": "2026-11-11-the-other-room-agency",
+      "lang": "en",
+      "title": "Hanna Moon and Moffy Gathorne-Hardy launch a women-only creative agency",
+      "by": "Violet Conroy",
+      "text": "The photographer and the writer have founded The Other Room, an agency representing five women artists with the aim of giving them financial stability and independence. Its look borrows from 1970s and 80s feminist posters and zines, and it comes with an editorial offshoot called The Other Times.",
+      "img": "https://images-prod.anothermag.com/605/0-178-605-403/azure/another-prod/480/0/480230.jpg",
+      "src": "https://www.anothermag.com/art-photography/17631/the-other-room-hanna-moon-moffy-gathorne-hardy-creative-agency-interview",
+      "srcName": "AnOther"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "news",
+      "id": "2026-11-11-francja-iran-cyberatak-lodowki",
+      "lang": "pl",
+      "title": "Francja wzywa ambasadora Iranu po cyberataku na chłodnie supermarketów",
+      "text": "Paryż oskarża jednostkę Strażników Rewolucji o zdalne rozmrożenie urządzeń w ponad 700 sklepach w październiku, co zniszczyło żywność wartą miliony euro. Francja chce unijnych sankcji, a Teheran odrzuca zarzuty jako bezpodstawne.",
+      "src": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage",
+      "srcName": "Al Jazeera"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "photo",
+      "id": "2026-11-11-wm-09",
+      "title": "Roboty drogowe na Dircksenstraße, Berlin",
+      "by": "Heinrich Zille, 1900",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Zille,_Heinrich_-_Berlin_%E2%80%93_Stra%C3%9Fen_und_Stra%C3%9Fenszenen,_Stra%C3%9Fenbauarbeiten,_Berlin,_Dircksenstra%C3%9Fe_(Zeno_Fotografie).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Zille,_Heinrich_-_Berlin_%E2%80%93_Stra%C3%9Fen_und_Stra%C3%9Fenszenen,_Stra%C3%9Fenbauarbeiten,_Berlin,_Dircksenstra%C3%9Fe_(Zeno_Fotografie).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "video",
+      "id": "2026-11-11-madonna-frozen",
+      "kind": "Teledysk · klasyka",
+      "title": "Madonna – „Frozen”",
+      "by": "reż. Chris Cunningham",
+      "text": "Madonna jako mroczna, mistyczna postać rozpływająca się w stado kruków i psa, nakręcona w styczniu 1998 r. na wyschniętym jeziorze Cuddeback na pustyni Mojave, ze zdjęciami Dariusa Khondjiego. Klip zdobył statuetkę MTV VMA 1998 za najlepsze efekty specjalne.",
+      "embed": {
+        "p": "yt",
+        "id": "XS088Opj9o0"
+      },
+      "src": "https://en.wikipedia.org/wiki/Frozen_(Madonna_song)",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "news",
+      "id": "2026-11-11-brat-orbana-zatrzymany",
+      "lang": "pl",
+      "title": "Brat Viktora Orbána zatrzymany w sprawie przemytu ludzi",
+      "text": "Węgierska policja zatrzymała Árona Orbána i trzy inne osoby w śledztwie dotyczącym przemytu ludzi, powiązanym z wcześniej opisywanym procederem wizowym. Były premier mówi o politycznej zemście rządu Pétera Magyara.",
+      "src": "https://www.aljazeera.com/news/2026/11/9/hungarian-police-reportedly-detain-brother-of-ex-pm-viktor-orban",
+      "srcName": "Al Jazeera"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "article",
+      "id": "2026-11-11-lorenza-longhi-grab-bag",
+      "lang": "en",
+      "title": "A fake shopping bag with a hidden camera at Art Basel Paris",
+      "by": "Emily Dinsdale",
+      "text": "Lorenza Longhi's booth centred on Grab Bag, a replica orange luxury shopping bag concealing a tiny camera, shown while France was gripped by cost-of-living protests. The piece probes manufactured desire, status and surveillance, and lands differently against the tense mood of the city.",
+      "img": "https://images-prod.dazeddigital.com/1200/0-1238-2250-1500/azure/dazed-prod/1450/9/1459035.jpg",
+      "src": "https://www.dazeddigital.com/art-photography/article/71324/1/lorenza-longhi-art-basel-paris-2026-exhibition-protests-luxury",
+      "srcName": "Dazed"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "photo",
+      "id": "2026-11-11-wm-10",
+      "title": "Ulica w Nowym Orleanie",
+      "by": "Walker Evans, 1935",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/NewOrleansNegroStreetWalkerEvans1935.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:NewOrleansNegroStreetWalkerEvans1935.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "news",
+      "id": "2026-11-11-houthi-rakiety-rijad",
+      "lang": "pl",
+      "title": "Saudyjczycy zestrzelili rakiety Huti wystrzelone na Rijad",
+      "text": "Koalicja pod wodzą Arabii Saudyjskiej przechwyciła dwa pociski nad stolicą i jeden nad południem kraju, a dzień wcześniej zaatakowano kluczowy rurociąg Wschód-Zachód. Rurociąg jest dziś główną drogą eksportu saudyjskiej ropy z powodu irańskich ograniczeń w cieśninie Ormuz.",
+      "src": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline",
+      "srcName": "Al Jazeera"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "photo",
+      "id": "2026-11-11-wm-11",
+      "title": "Stary prom linowy między Camden a Gee's Bend (Alabama)",
+      "by": "Marion Post Wolcott, 1939",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Marion_Post_Wolcott_-_Old_cable_ferry_between_Camden_and_Gees_Bend,_Alabama.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Marion_Post_Wolcott_-_Old_cable_ferry_between_Camden_and_Gees_Bend,_Alabama.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "article",
+      "id": "2026-11-11-astrophysics-big-questions",
+      "lang": "en",
+      "title": "Astronomy should stop chasing only the Big Questions",
+      "by": "Dylan Jow",
+      "text": "This essay argues that astrophysics has been turned into a proving ground for fundamental physics, with grand cosmic questions ranked above the messy particulars of the sky. Those priorities are historical accidents, the author says, and so-called nuisances like cosmic dust deserve attention for their own sake.",
+      "img": "https://images.aeonmedia.co/images/7129c5df-be79-48ee-bcbd-f31854ec3aa3/essay-weic2425c.jpg?width=1200&quality=75&format=auto",
+      "src": "https://aeon.co/essays/why-astrophysics-needs-to-abandon-the-big-questions",
+      "srcName": "Aeon"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "news",
+      "id": "2026-11-11-turcja-wybuch-huta",
+      "lang": "pl",
+      "title": "Wybuch w hucie stali w Turcji, zginęło 16 osób",
+      "text": "W zakładzie Habas w Aliadze w prowincji Izmir zerwana suwnica wpadła do pieca łukowego podczas odlewania stali. Według prezydenta Erdoğana zginęło 16 osób, a ratownicy szukali kolejnych uwięzionych pod gruzami.",
+      "src": "https://www.al-monitor.com/originals/2026/11/steel-plant-blast-kills-16-western-turkey",
+      "srcName": "Al-Monitor / Reuters"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "photo",
+      "id": "2026-11-11-wm-12",
+      "title": "Zwolennik Marcusa Garveya na ulicy Harlemu, Nowy Jork",
+      "by": "Gordon Parks, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/New_York,_New_York._A_follower_of_the_late_Marcus_Garvey_who_started_the_%22Back_to_Africa%22_movement_8d28528v.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:New_York,_New_York._A_follower_of_the_late_Marcus_Garvey_who_started_the_%22Back_to_Africa%22_movement_8d28528v.jpg",
+      "srcName": "Wikimedia Commons"
+    },
     {
       "date": "2026-11-06",
       "type": "video",
