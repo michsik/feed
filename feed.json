@@ -1,6 +1,366 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "items": [
+    {
+      "date": "2026-11-12",
+      "type": "video",
+      "id": "2026-11-12-blackhaine-northside-needs-me",
+      "kind": "Teledysk",
+      "title": "Blackhaine – „Northside Needs Me”",
+      "by": "reż. Mau Morgo (ProdCo)",
+      "text": "Miasto osuwa się w chaos, a rozedrgana kamera i bardzo fizyczny występ Blackhaine'a stawiają pytanie o relację obywateli z władzą. Klip dla XL Recordings pyta też, jaki świat odziedziczy kolejne pokolenie.",
+      "embed": {
+        "p": "yt",
+        "id": "ZfJOq_B_XBM"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Blackhaine%20%27Northside%20Needs%20Me%27%20by%20Mau%20Morgo.png?itok=5UJPjl6V",
+      "src": "https://www.promonews.tv/videos/2026/11/11/blackhaine-northside-needs-me-mau-morgo/96936",
+      "srcName": "Promonews"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "news",
+      "id": "2026-11-12-marsz-niepodleglosci-250-tys",
+      "lang": "pl",
+      "title": "Ratusz: na Marszu Niepodległości mogło być nawet 250 tys. osób",
+      "text": "Według szacunków warszawskiego Centrum Bezpieczeństwa, wypracowanych z policją, przez stolicę przeszło do ćwierć miliona ludzi. Miasto oceniło, że w samym pochodzie nie doszło do poważniejszych incydentów.",
+      "src": "https://wiadomosci.wp.pl/warszawa/ratusz-podsumowal-marsz-wedlug-szacunkow-nawet-250-tys-osob-7349932778285504a",
+      "srcName": "Wirtualna Polska"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "photo",
+      "id": "2026-11-12-wm-01",
+      "title": "Paryżanie obserwują zaćmienie Słońca",
+      "by": "Eugène Atget, 1912",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Eug%C3%A8ne_Atget,_Eclipse,_1912.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Atget,_Eclipse,_1912.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "article",
+      "id": "2026-11-12-emily-stein-aquasplash",
+      "lang": "en",
+      "title": "Italian waterparks at full volume",
+      "by": "Marigold Warner",
+      "text": "Emily Stein's series Aquasplash! documents dated, candy-coloured Italian waterparks at the height of summer, with no styling or direction. Slides, pastel lockers and vending machines share the frame with sunburnt visitors.",
+      "src": "https://www.itsnicethat.com/articles/emily-stein-aquasplash-photography-project-111126",
+      "srcName": "It's Nice That"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "news",
+      "id": "2026-11-12-ukraina-rosja-wymiana-jencow",
+      "lang": "pl",
+      "title": "Ukraina i Rosja uzgodniły dużą wymianę jeńców",
+      "text": "Dwa dni rozmów w Abu Zabi z udziałem amerykańskich wysłanników zakończyły się porozumieniem o wymianie co najmniej 1000 za 1000 jeńców w najbliższym czasie. Rozmawiano też o gwarancjach bezpieczeństwa i odbudowie Ukrainy, ale bez przełomu w sprawie wojny.",
+      "src": "https://en.interfax.com.ua/news/general/1234767.html",
+      "srcName": "Interfax-Ukraine"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "photo",
+      "id": "2026-11-12-wm-02",
+      "title": "Pętla tramwaju konnego, Nowy Jork",
+      "by": "Alfred Stieglitz, 1892",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/The_Terminal_MET_DP232986.jpg/1280px-The_Terminal_MET_DP232986.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:The_Terminal_MET_DP232986.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "photo",
+      "id": "2026-11-12-wm-03",
+      "title": "Gazeciarze oglądają wyścigi na pikniku, Cincinnati",
+      "by": "Lewis Hine, 1908",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Lewis_Hine,_Watching_the_races,_the_newsboys'_picnic,_Cincinnati,_Ohio,_1908.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Lewis_Hine,_Watching_the_races,_the_newsboys'_picnic,_Cincinnati,_Ohio,_1908.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "news",
+      "id": "2026-11-12-tusk-zaprasza-nawrockiego",
+      "lang": "pl",
+      "title": "Tusk zaprasza Nawrockiego z rodziną na przedświąteczne spotkanie",
+      "text": "W Szczecinie premier zaproponował prezydentowi wizytę w swoim domu w Sopocie, krytykując jednocześnie jego wystąpienie na placu Piłsudskiego. Szef gabinetu prezydenta Paweł Szefernaker odpowiedział, że Tusk zawsze gra kogoś, kim nie jest.",
+      "src": "https://tvn24.pl/polska/premier-zlozyl-propozycje-dla-karola-nawrockiego-komentarz-szefa-gabinetu-prezydenta-st9334498",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "article",
+      "id": "2026-11-12-fielder-oppenheim-holmes",
+      "lang": "pl",
+      "title": "Nathan Fielder i Elizabeth Holmes, czyli dokument o autokreacji",
+      "by": "Agnieszka Jakimiak",
+      "text": "Autorka analizuje film Fieldera i Lance'a Oppenheima o założycielce Theranosa, w którym oniryczne zdjęcia spotykają się z obsesją rekonstrukcji. Pyta, czy w świecie ciągłej obserwacji autoprezentację da się jeszcze nazwać kłamstwem.",
+      "src": "https://www.dwutygodnik.com/artykul/12750-widze-widze.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "photo",
+      "id": "2026-11-12-wm-04",
+      "title": "Bar McSorley's przy East 7th Street, Manhattan",
+      "by": "Berenice Abbott, 1937",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/McSorley's_Ale_House,_15_East_7th_Street,_Manhattan_(NYPL_b13668355-482590).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:McSorley's_Ale_House,_15_East_7th_Street,_Manhattan_(NYPL_b13668355-482590).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "video",
+      "id": "2026-11-12-rosalia-berghain",
+      "kind": "Teledysk · nagroda",
+      "title": "ROSALÍA feat. Björk & Yves Tumor – „Berghain”",
+      "by": "reż. Nicolás Méndez (CANADA)",
+      "text": "Klip zdobył na UK Music Video Awards 2026 dwie statuetki: Best Pop Video – International oraz za stylizację (José Carayol). Tego samego wieczoru CANADA została wybrana najlepszym domem produkcyjnym roku.",
+      "embed": {
+        "p": "yt",
+        "id": "htQBS2Ikz6c"
+      },
+      "src": "https://www.promonews.tv/news/2026/11/04/uk-music-video-awards-2026-all-winners-19th-annual-ukmvas/96842",
+      "srcName": "Promonews"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "news",
+      "id": "2026-11-12-zolnierz-usa-szpiegostwo-wielka-brytania",
+      "lang": "pl",
+      "title": "Żołnierz USA zatrzymany w Anglii pod zarzutem pomocy rosyjskiemu wywiadowi",
+      "text": "41-letni wojskowy z bazy Imjin w Gloucestershire, gdzie mieści się dowództwo korpusu szybkiego reagowania NATO, został zatrzymany na podstawie ustawy o bezpieczeństwie narodowym. Śledztwo prowadzi brytyjska policja antyterrorystyczna we współpracy z FBI.",
+      "src": "https://www.aljazeera.com/news/2026/11/11/us-soldier-arrested-for-russia-spying-what-we-know",
+      "srcName": "Al Jazeera"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "photo",
+      "id": "2026-11-12-wm-05",
+      "title": "Młoda matka z rodziny wędrownych robotników, Edison (Kalifornia)",
+      "by": "Dorothea Lange, 1940",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/96/Dorothea_Lange,_Young_Migratory_Mother,_originally_from_Texas,_Edison,_California,_1940.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Dorothea_Lange,_Young_Migratory_Mother,_originally_from_Texas,_Edison,_California,_1940.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "article",
+      "id": "2026-11-12-james-wines-site",
+      "lang": "en",
+      "title": "A new book on James Wines and his rebellious studio SITE",
+      "by": "Grace Ebert",
+      "text": "Skira gathers five decades of drawings, renderings and writings by the architect who founded SITE in 1970. Its most famous works are the crumbling, peeling showrooms designed for the BEST Products retail chain.",
+      "src": "https://www.thisiscolossal.com/2026/11/james-wines-site-book-what-else-could-it-mean/",
+      "srcName": "Colossal"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "news",
+      "id": "2026-11-12-nawrocki-krytykuje-domanskiego",
+      "lang": "pl",
+      "title": "Prezydent w Święto Niepodległości uderzył w ministra finansów",
+      "text": "Na uroczystościach w Warszawie Karol Nawrocki mówił o „fatalnej sytuacji” finansów publicznych i wezwał Andrzeja Domańskiego do lepszej pracy. W obronie ministra stanęli wicepremier Kosiniak-Kamysz, wskazując na wzrost gospodarczy i rekordowy budżet armii, oraz szef MSWiA Marcin Kierwiński.",
+      "src": "https://tvn24.pl/biznes/z-kraju/karol-nawrocki-krytykuje-andrzeja-domanskiego-podczas-obchodow-108-rocznicy-odzyskania-przez-polske-niepodleglosci-st9333862",
+      "srcName": "TVN24 Biznes"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "photo",
+      "id": "2026-11-12-wm-06",
+      "title": "Kupiec z ochroniarzem w starym Chinatown, San Francisco",
+      "by": "Arnold Genthe, ok. 1900",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Arnold_Genthe_-_Merchant_and_Body_Guard,_Old_Chinatown,_San_Francisco_-_Google_Art_Project.jpg/1280px-Arnold_Genthe_-_Merchant_and_Body_Guard,_Old_Chinatown,_San_Francisco_-_Google_Art_Project.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Arnold_Genthe_-_Merchant_and_Body_Guard,_Old_Chinatown,_San_Francisco_-_Google_Art_Project.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "photo",
+      "id": "2026-11-12-wm-07",
+      "title": "Domokrążca mieszkający w piwnicy przy Ludlow Street, Nowy Jork",
+      "by": "Jacob Riis, ok. 1890",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/31/Riis,_Jacob_A._-_%C2%BBEiner_von_vier_im_Keller_wohnenden_Hausierern,_11_Ludlow_Street_hinten%C2%AB_(Zeno_Fotografie).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Riis,_Jacob_A._-_%C2%BBEiner_von_vier_im_Keller_wohnenden_Hausierern,_11_Ludlow_Street_hinten%C2%AB_(Zeno_Fotografie).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "news",
+      "id": "2026-11-12-iran-uran-nie-opusci-kraju",
+      "lang": "pl",
+      "title": "Iran: wzbogacony uran nie opuści kraju",
+      "text": "Sekretarz irańskiej rady bezpieczeństwa Mohsen Rezaei zapowiedział, że Teheran nie wypuści za granicę ani grama wzbogaconego materiału, i zagroził atakami na bazy USA w Europie w razie nowych uderzeń. Dodał, że rozmów z Waszyngtonem obecnie nie ma.",
+      "src": "https://www.sbs.com.au/news/article/mohsen-rezaei-enriched-nuclear-material-iran-us-bases-europe/4yi2i1vaj",
+      "srcName": "SBS News (Reuters/AFP)"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "article",
+      "id": "2026-11-12-seoul-6500-lat",
+      "lang": "en",
+      "title": "Seoul's 6,500 years in a 3D time-lapse",
+      "by": "Colin Marshall",
+      "text": "An animated time-lapse traces the city from prehistoric settlement through Joseon-era Hanyang to the high-rise boom of Gangnam after the 1970s. The essay explains why the capital matters more to Korea than Tokyo does to Japan.",
+      "src": "https://www.openculture.com/2026/11/watch-seouls-6500-year-evolution-in-a-mesmerizing-3d-animated-time-lapse.html",
+      "srcName": "Open Culture"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "video",
+      "id": "2026-11-12-kenzo-world-my-mutant-brain",
+      "kind": "Film modowy",
+      "title": "KENZO World – „My Mutant Brain” z Margaret Qualley",
+      "by": "reż. Spike Jonze (MJZ)",
+      "text": "Elegancka gala nudzi bohaterkę tak bardzo, że wymyka się na korytarz i wpada w szalony, wykrzywiony taniec w choreografii Ryana Heffingtona. Trzy i pół minuty, które w 2016 r. odmieniły myślenie o reklamie perfum.",
+      "embed": {
+        "p": "vimeo",
+        "id": "180814515"
+      },
+      "img": "https://images-prod.dazeddigital.com/1200/0-0-1444-963/azure/dazed-prod/1180/4/1184533.jpg",
+      "src": "https://www.dazeddigital.com/fashion/article/32593/1/watch-spike-jonze-electrifying-short-film-for-kenzo",
+      "srcName": "Dazed"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "photo",
+      "id": "2026-11-12-wm-08",
+      "title": "Kwiaciarki z Covent Garden, Londyn",
+      "by": "John Thomson, 1877",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Covent_Garden_Flower_Women.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Covent_Garden_Flower_Women.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "news",
+      "id": "2026-11-12-kaczynski-jedna-wielka-lista",
+      "lang": "pl",
+      "title": "Kaczyński na marszu: chcemy jednej wielkiej listy z Konfederacją",
+      "text": "Prezes PiS mówił, że jego partia będzie dążyć do wspólnego startu prawicy nie tylko do Senatu, ale i do Sejmu, choć trzeba przekonać polityków „trzech Konfederacji”. Sławomir Mentzen odpowiedział zdjęciem transparentu z przekreślonymi twarzami Tuska i Kaczyńskiego.",
+      "src": "https://tvn24.pl/polska/prezes-pis-na-marszu-o-jednej-wielkiej-liscie-wymowny-baner-we-wpisie-lidera-konfederacji-st9334456",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "article",
+      "id": "2026-11-12-kozicki-msn",
+      "lang": "pl",
+      "title": "Adam Kozicki maluje bohaterów internetowego reality show",
+      "by": "Mateusz Górniak",
+      "text": "Na wystawie w MSN obrazy malowane aerografem pokazują postaci z transmisji Fishtank LIVE, zlepione z pamięci i wyobraźni. Krytyk widzi w nich zapis życia pod lawiną obrazów i przejście od krytyki do empatii.",
+      "src": "https://magazynszum.pl/wojna-wszystkich-ze-wszystkimi-to-kolejny-dzien-twojego-zycia-na-marginesie-wystawy-adama-kozickiego-w-muzeum-sztuki-nowoczesnej-w-warszawie/",
+      "srcName": "Magazyn SZUM"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "photo",
+      "id": "2026-11-12-wm-09",
+      "title": "Hôtel de Sens przy rue de l'Hôtel de Ville, Paryż",
+      "by": "Eugène Atget, ok. 1900",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hotel_de_Sens,_rue_de_l'H%C3%B4tel_de_Ville,_Paris_MET_DP112721.jpg/1280px-Hotel_de_Sens,_rue_de_l'H%C3%B4tel_de_Ville,_Paris_MET_DP112721.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Hotel_de_Sens,_rue_de_l'H%C3%B4tel_de_Ville,_Paris_MET_DP112721.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "news",
+      "id": "2026-11-12-wlochy-alarmy-bombowe-szkoly",
+      "lang": "pl",
+      "title": "Fala fałszywych alarmów bombowych w 300 włoskich szkołach",
+      "text": "W środę ewakuowano co najmniej 300 szkół po mailach do dyrektorów, w których grożono też zamachem na samochód premier Giorgii Meloni. Minister edukacji Giuseppe Valditara mówi o zaplanowanej strategii, a podobne groźby trafiły wcześniej do Irlandii i Bułgarii.",
+      "src": "https://www.euronews.com/2026/11/11/at-least-300-schools-in-italy-evacuated-after-emailed-bomb-threats",
+      "srcName": "Euronews"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "photo",
+      "id": "2026-11-12-wm-10",
+      "title": "Rue du Jardinet przed przebudową Haussmanna, Paryż",
+      "by": "Charles Marville, ok. 1853–70",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Charles_Marville,_Rue_du_Jardinet,_ca._1853%E2%80%9370.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Charles_Marville,_Rue_du_Jardinet,_ca._1853%E2%80%9370.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "video",
+      "id": "2026-11-12-beyonce-formation",
+      "kind": "Teledysk · klasyka",
+      "title": "Beyoncé – „Formation”",
+      "by": "reż. Melina Matsoukas",
+      "text": "Tonący radiowóz w zalanym Nowym Orleanie, rezydencja w stylu plantacji i chłopiec tańczący przed policją w pełnym rynsztunku: polityczny manifest o czarnej kulturze Południa. Klip zdobył m.in. MTV VMA za wideo roku i reżyserię oraz Grammy.",
+      "embed": {
+        "p": "yt",
+        "id": "WDZJPJV__bQ"
+      },
+      "dur": 287,
+      "src": "https://en.wikipedia.org/wiki/Formation_(music_video)",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "news",
+      "id": "2026-11-12-safe-6-mld-dla-sluzb",
+      "lang": "pl",
+      "title": "Rząd omija weto: ponad 6 mld zł z SAFE dla policji i straży",
+      "text": "Premier Tusk ogłosił, że pieniądze z unijnego programu zbrojeniowego trafią do policji, straży pożarnej, Straży Granicznej i SOP na podstawie rozporządzenia, a nie zawetowanej przez prezydenta ustawy. Polska podpisała w maju umowę pożyczki SAFE na nawet 43,7 mld euro.",
+      "src": "https://tvn24.pl/biznes/z-kraju/program-safe-ponad-6-miliardow-zlotych-trafi-do-policji-strazy-granicznej-i-innych-sluzb-st9332371",
+      "srcName": "TVN24 Biznes"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "article",
+      "id": "2026-11-12-amy-genser-paper-sea",
+      "lang": "en",
+      "title": "Paper sculptures that ripple like the sea",
+      "by": "Kate Mothes",
+      "text": "Amy Genser builds wall pieces from paper, acrylic and wire that read as topographic maps from afar and barnacles or tentacles up close. Her largest recent commission evokes the ocean crossing of whisky barrels.",
+      "src": "https://www.thisiscolossal.com/2026/11/amy-genser-paper-wall-sculptures/",
+      "srcName": "Colossal"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "photo",
+      "id": "2026-11-12-wm-11",
+      "title": "„Miasto ambicji” – panorama dolnego Manhattanu",
+      "by": "Alfred Stieglitz, 1910",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/The_City_of_Ambitions_MET_DP232975.jpg/1280px-The_City_of_Ambitions_MET_DP232975.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:The_City_of_Ambitions_MET_DP232975.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "news",
+      "id": "2026-11-12-kushner-witkoff-moskwa-dublin",
+      "lang": "pl",
+      "title": "Wysłannicy USA lecą do Putina, a potem do Zełenskiego w Dublinie",
+      "text": "Steve Witkoff i Jared Kushner mają w czwartek omówić w Moskwie wyniki rozmów z Abu Zabi, a następnie zrelacjonować je ukraińskiemu prezydentowi w Irlandii. Rubio przyznał, że na przełom w sprawie zakończenia wojny trzeba będzie poczekać.",
+      "src": "https://www.abc.net.au/news/2026-11-12/ukraine-russia-agree-prisoner-swap-abu-dhabi-talks/107375462",
+      "srcName": "ABC News"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "article",
+      "id": "2026-11-12-amine-el-gotaibi-wool",
+      "lang": "en",
+      "title": "Wool spilling from weathered metal",
+      "by": "Grace Ebert",
+      "text": "Moroccan artist Amine El Gotaibi pairs rusted copper and steel panels with knotted or loose wool, drawing on one of North Africa's oldest textile traditions. His New York show argues that the continent's cultural geography is far more porous than usually assumed.",
+      "src": "https://www.thisiscolossal.com/2026/11/amine-el-gotaibi-wind-from-the-north/",
+      "srcName": "Colossal"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "photo",
+      "id": "2026-11-12-wm-12",
+      "title": "Kamienice przy Broome Street 504–506, Manhattan",
+      "by": "Berenice Abbott, ok. 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Broome_Street,_Nos._504-506,_Manhattan_(NYPL_b13668355-482848).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Broome_Street,_Nos._504-506,_Manhattan_(NYPL_b13668355-482848).jpg",
+      "srcName": "Wikimedia Commons"
+    },
     {
       "date": "2026-11-11",
       "type": "video",
