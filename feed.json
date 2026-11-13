@@ -1,6 +1,358 @@
 {
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "items": [
+    {
+      "date": "2026-11-13",
+      "type": "video",
+      "id": "2026-11-13-strokes-lonely-in-the-future",
+      "kind": "Teledysk",
+      "title": "The Strokes – „Lonely In The Future”",
+      "by": "reż. Warren Fu (Partizan / Avalon / Spitting Image)",
+      "text": "Lalki ze „Spitting Image” – od Lou Reeda i Kubricka po Murdocha i Gretę Thunberg – w satyrze na medialnych manipulatorów i technologicznych miliarderów, duchowym następcy „Land of Confusion” Genesis. Warren Fu świętuje też 20 lat współpracy z zespołem, cytując swoje wcześniejsze klipy dla The Strokes.",
+      "embed": {
+        "p": "yt",
+        "id": "Yl6F10Bm44Q"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/The%20Strokes%20%27Lonely%20In%20The%20Future%27%20by%20Warren%20Fu3.png?itok=6wGfMODD",
+      "src": "https://www.promonews.tv/videos/2026/11/12/strokes-lonely-future-warren-fu/96952",
+      "srcName": "Promonews"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "news",
+      "id": "2026-11-13-jensen-huang-odchodzi-z-nvidii",
+      "lang": "pl",
+      "title": "Jensen Huang odchodzi z fotela prezesa Nvidii",
+      "text": "Szef największego producenta chipów do AI zrezygnował po doniesieniach o jego związku z chińską biznesmenką, którą amerykańskie służby podejrzewają o szpiegostwo na rzecz Pekinu. Do czasu wyboru następcy firmą pokieruje dyrektor finansowa Colette Kress, a akcje spółki tracił przed sesją ponad 10 proc.",
+      "src": "https://tvn24.pl/biznes/tech/nvidia-jensen-huang-rezygnuje-ze-stanowiska-prezesa-st9336066",
+      "srcName": "TVN24 Biznes"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "photo",
+      "id": "2026-11-13-wm-01",
+      "title": "Główna ulica Woodstock po zamieci, Vermont",
+      "by": "Marion Post Wolcott, 1940",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Woodstock-Wolcott-snowy-night.jpeg",
+      "src": "https://commons.wikimedia.org/wiki/File:Woodstock-Wolcott-snowy-night.jpeg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "article",
+      "id": "2026-11-13-close-up-photographer-2026",
+      "lang": "en",
+      "title": "Bats, spiders and slime molds up close",
+      "by": "Kate Mothes",
+      "text": "The Close-Up Photographer of the Year shortlist pulls from a record 15,300-plus entries by amateurs and professionals alike. Expect intimate portraits of insects, fungi and animal encounters; winners are named in January.",
+      "src": "https://www.thisiscolossal.com/2026/11/close-up-photographer-of-the-year-2026-shortlist/",
+      "srcName": "Colossal"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "news",
+      "id": "2026-11-13-prokuratura-chce-przesluchac-nawrockiego",
+      "lang": "pl",
+      "title": "Prokuratura chce przesłuchać prezydenta w sprawie kawalerki",
+      "text": "Gdańska prokuratura rejonowa wysłała do Kancelarii Prezydenta pismo o przesłuchanie Karola Nawrockiego jako świadka w śledztwie dotyczącym mieszkania przejętego od pana Jerzego. Termin ma wybrać sam prezydent, a postępowanie dotyczy podejrzenia oszustwa wobec starszego mężczyzny.",
+      "src": "https://tvn24.pl/polska/karol-nawrocki-sprawa-kawalerki-jerzego-z-prokuratura-chce-przesluchac-prezydenta-st9336628",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "photo",
+      "id": "2026-11-13-wm-02",
+      "title": "Poczekalnia dworca autobusowego, Durham (Karolina Północna)",
+      "by": "Jack Delano, 1940",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/At_the_bus_station_in_Durham,_North_Carolina._1940.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:At_the_bus_station_in_Durham,_North_Carolina._1940.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "video",
+      "id": "2026-11-13-gucci-gift-mariah-carey",
+      "kind": "Film modowy",
+      "title": "Gucci – „Gucci Gift” z Mariah Carey",
+      "by": "reż. Harmony Korine",
+      "text": "Boy hotelowy ogłasza przyjazd wyjątkowego gościa, a cały personel w panice zamienia apartament w zimową krainę pełną prezentów, zanim w drzwiach stanie Mariah Carey w kolekcji Butterfly. Świąteczna kampania Gucci na 2026 r. w reżyserii Harmony'ego Korine'a trwa niecałe dwie minuty.",
+      "embed": {
+        "p": "yt",
+        "id": "MNzkRFSgzwE"
+      },
+      "dur": 100,
+      "img": "https://contentgrip-media.b-cdn.net/featured/zoegucci-mariah-carey-christmas.webp",
+      "src": "https://www.contentgrip.com/gucci-mariah-carey-christmas/",
+      "srcName": "ContentGrip"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "news",
+      "id": "2026-11-13-swieczkowski-pod-trybunalem",
+      "lang": "pl",
+      "title": "Święczkowski próbował wejść do Trybunału Konstytucyjnego",
+      "text": "Powołując się na wtorkowe postanowienie Sądu Najwyższego, Bogdan Święczkowski z grupą sędziów domagał się od policji wpuszczenia do budynku TK jako jego „legalny prezes”. Zapowiedział kolejne próby w przyszłym tygodniu, jeśli funkcjonariusze nie wykonają orzeczenia.",
+      "src": "https://tvn24.pl/polska/bogdan-swieczkowski-domagal-sie-wpuszczenia-do-trybunalu-przyniosl-decyzje-sadu-najwyzszego-st9335394",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "article",
+      "id": "2026-11-13-flet-z-troi",
+      "lang": "en",
+      "title": "A bone flute from Homer's Troy",
+      "by": "Colin Marshall",
+      "text": "Excavators at Troy have found a roughly 2,800-year-old bone wind instrument, the first musical object ever recovered at the site. It hints that the city was still inhabited in the eighth century BC, though whether it is a flute or an aulos remains open.",
+      "src": "https://www.openculture.com/2026/11/2800-year-old-bone-flute-unearthed-in-troy-may-have-been-played-during-homers-time.html",
+      "srcName": "Open Culture"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "photo",
+      "id": "2026-11-13-wm-03",
+      "title": "Róg ulicy w Nowym Orleanie",
+      "by": "Walker Evans, 1935",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Walker_Evans_New_Orleans_street_corner_B.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Walker_Evans_New_Orleans_street_corner_B.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "news",
+      "id": "2026-11-13-palac-zaprasza-partie-ws-tk",
+      "lang": "pl",
+      "title": "Pałac Prezydencki zaprasza wszystkie partie na rozmowy o TK",
+      "text": "Rzecznik prezydenta zapowiedział, że w poniedziałek przedstawiciele wszystkich sił politycznych usiądą do rozmów o Trybunale, a prezydenta reprezentować będzie szef jego kancelarii Zbigniew Bogucki. Spotkanie z premierem Kancelaria uzależnia od wycofania policji z budynku TK.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-12/prezydent-zwolal-spotkanie-w-sprawie-tk-wszystkie-sily-przy-jednym-stole/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "photo",
+      "id": "2026-11-13-wm-04",
+      "title": "Uliczni sprzedawcy fasoli i tortilli, San Antonio",
+      "by": "Russell Lee, 1939",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Selling_baked_beans_and_tortillas.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Selling_baked_beans_and_tortillas.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "article",
+      "id": "2026-11-13-daria-sobik-wywiad",
+      "lang": "pl",
+      "title": "Daria Sobik o teatrze, który opowiada historie",
+      "by": "Anna Jazgarska",
+      "text": "Dramatopisarka mówi o rzemiośle i solidności jako warunku pracy w teatrze oraz o prozatorskim debiucie o matce handlującej psychodelikami. Broni sceny angażującej emocjonalnie zamiast wiecznej ironii i nie zgadza się na romantyzowanie biedy.",
+      "src": "https://www.dwutygodnik.com/artykul/12751-siedemset-slow-dziennie.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "news",
+      "id": "2026-11-13-pazp-wygrywa-z-pfizerem",
+      "lang": "pl",
+      "title": "Belgijski sąd uchylił zajęcie pieniędzy PAŻP przez Pfizera",
+      "text": "Sąd w Brukseli uznał, że opłaty nawigacyjne zbierane przez Eurocontrol należą do Polskiej Agencji Żeglugi Powietrznej, a nie do Skarbu Państwa, więc nie mogą zabezpieczać długu w sporze o szczepionki. Wyrok jest nieprawomocny, a zablokowane środki to ponad 80 proc. przychodów agencji.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-12/pfizer-zablokowal-aktywa-polskiej-agencji-jest-decyzja-sadu-w-brukseli/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "video",
+      "id": "2026-11-13-kelsey-lu-running-to-pain",
+      "kind": "Teledysk · nagroda",
+      "title": "Kelsey Lu – „Running To Pain”",
+      "by": "reż. Savanah Leaf (Park Pictures)",
+      "text": "Klip zdobył nagrodę Best R&B/Soul/Jazz Video – International na UK Music Video Awards 2026. Reżyserka „Earth Mama” zbudowała dla Kelsey Lu oniryczny świat w stylistyce mrocznej baśni.",
+      "embed": {
+        "p": "yt",
+        "id": "dqMar-zDt7k"
+      },
+      "dur": 253,
+      "src": "https://newsroom.spotify.com/2026-03-25/kelsey-lu-savanah-leaf-directed-by-music-video/",
+      "srcName": "Spotify Newsroom"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "photo",
+      "id": "2026-11-13-wm-05",
+      "title": "Mur w berlińskiej uliczce Krögel",
+      "by": "Heinrich Zille, ok. 1900",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Zille,_Heinrich_-_Kr%C3%B6gel_und_Altberliner_H%C3%B6fe,_Mauern_in_der_Kr%C3%B6gelgasse_(1)_(Zeno_Fotografie).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Zille,_Heinrich_-_Kr%C3%B6gel_und_Altberliner_H%C3%B6fe,_Mauern_in_der_Kr%C3%B6gelgasse_(1)_(Zeno_Fotografie).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "article",
+      "id": "2026-11-13-sky-glabush-piasek",
+      "lang": "en",
+      "title": "Landscapes painted with sand",
+      "by": "Grace Ebert",
+      "text": "Canadian painter Sky Glabush mixes oil with sand, crushed quartz and raw pigment in narrow palettes, first trying to erase the image and then discovering it persists beneath. His show If the Wild Bird Could Speak opens at Alison Jacques in London on 20 November.",
+      "src": "https://www.thisiscolossal.com/2026/11/sky-glabush-landscape-paintings/",
+      "srcName": "Colossal"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "news",
+      "id": "2026-11-13-witkoff-kushner-u-putina",
+      "lang": "pl",
+      "title": "Wysłannicy Trumpa u Putina: rozmowy pokojowe będą kontynuowane",
+      "text": "Steve Witkoff i Jared Kushner omówili w Moskwie wyniki negocjacji z Abu Zabi, które nie przyniosły przełomu w sprawie terytoriów, ale dały porozumienie o wymianie jeńców. W piątek mają spotkać się z Zełenskim w Dublinie, a UE szykuje nowy pakiet sankcji.",
+      "src": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin",
+      "srcName": "Al Jazeera"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "photo",
+      "id": "2026-11-13-wm-06",
+      "title": "Tower Bridge we mgle, Londyn",
+      "by": "Alvin Langdon Coburn, ok. 1909",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Coburn_The_Tower_bridge2.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Coburn_The_Tower_bridge2.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "article",
+      "id": "2026-11-13-tymon-pstyk-wroclaw",
+      "lang": "pl",
+      "title": "Tymon wraca do rapu po dwudziestu latach",
+      "by": "Filip Kalinowski",
+      "text": "Album „Kot w ciele psa”, w całości wyprodukowany przez Pstyka, brzmi świeżo, a nie nostalgicznie. Tekst przypomina też intelektualną, ale podziemną scenę hiphopową Wrocławia z przełomu wieków.",
+      "src": "https://www.dwutygodnik.com/artykul/12759-oto-ja-jestem-tu-bede-tam.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "news",
+      "id": "2026-11-13-izrael-szykuje-sie-iran-ostrzega",
+      "lang": "pl",
+      "title": "Izrael zwiększa gotowość do ataku, Iran grozi szerszym odwetem",
+      "text": "Według izraelskich mediów gabinet bezpieczeństwa polecił armii przyspieszyć przygotowania do możliwego uderzenia na Iran. Teheran ostrzega, że celem mogą stać się bazy USA od Bliskiego Wschodu po Europę, a ropa Brent zdrożała do blisko 93 dolarów.",
+      "src": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack",
+      "srcName": "Al Jazeera"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "photo",
+      "id": "2026-11-13-wm-07",
+      "title": "Uczennica liceum Woodrow Wilson, Waszyngton",
+      "by": "Esther Bubley, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Esther_Bubley,_A_student_at_Woodrow_Wilson_High_School,_Washington_DC,_1943.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Esther_Bubley,_A_student_at_Woodrow_Wilson_High_School,_Washington_DC,_1943.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "video",
+      "id": "2026-11-13-miike-snow-genghis-khan",
+      "kind": "Teledysk · klasyka",
+      "title": "Miike Snow – „Genghis Khan”",
+      "by": "reż. Ninian Doff (Pulse Films)",
+      "text": "Parodia filmów o Bondzie: złoczyńca w złotej masce ma właśnie uśmiercić przywiązanego do stołu agenta laserem, ale zamiast tego między nimi rodzi się uczucie. Klip z 2016 r. to jedna z najbardziej lubianych prac Niniana Doffa, pełna slapstickowego humoru i tańca.",
+      "embed": {
+        "p": "yt",
+        "id": "P_SlAzsXa7E"
+      },
+      "img": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2018%2F01%2Fmiike-snow-share-striking-video-for-new-single-genghis-khan-000.jpg?w=1080&cbr=1&q=90&fit=max",
+      "src": "https://imvdb.com/video/miike-snow/genghis-khan",
+      "srcName": "IMVDb"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "news",
+      "id": "2026-11-13-hiszpania-reformy-mieszkaniowe",
+      "lang": "pl",
+      "title": "Hiszpania przyjęła część reform mieszkaniowych po strajku generalnym",
+      "text": "Dzień po ogólnokrajowym strajku przeciw drożyźnie mieszkań parlament jednym głosem przegłosował dłuższą ochronę najuboższych najemców przed eksmisją. Przepadł natomiast zakaz wykupu nieruchomości przez fundusze poniżej 70 proc. wartości, a o trwałości zmian zdecydują przedterminowe wybory.",
+      "src": "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs",
+      "srcName": "Al Jazeera"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "article",
+      "id": "2026-11-13-dum-dum-studio-monterrey",
+      "lang": "en",
+      "title": "Playful branding from Monterrey",
+      "by": "Marigold Warner",
+      "text": "Dum Dum Studio, founded in 2015 by Mario Julián Gutiérrez and Sergio Martínez, works on identities, typography and art direction in Mexico's industrial capital. Highlights include a textural café identity and an animated wordmark for a cocktail bar.",
+      "src": "https://www.itsnicethat.com/articles/dum-dum-studio-graphic-design-discover-121126",
+      "srcName": "It's Nice That"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "photo",
+      "id": "2026-11-13-wm-08",
+      "title": "Sklep i poczta w Sprott, Alabama",
+      "by": "Walker Evans, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/66/Sprott,_Alabama.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Sprott,_Alabama.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "article",
+      "id": "2026-11-13-harvard-humanities-10",
+      "lang": "en",
+      "title": "Inside Harvard's famously brutal humanities course",
+      "by": "Colin Marshall",
+      "text": "Humanities 10 takes just 90 first-years by exam, assigns a hefty book a week and offers no pass/fail option. The reading list runs from the Odyssey through Montaigne and Spinoza to Joyce's Ulysses.",
+      "src": "https://www.openculture.com/2026/11/explore-the-reading-list-for-harvards-humanities-10.html",
+      "srcName": "Open Culture"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "news",
+      "id": "2026-11-13-rosja-12-lat-dla-adwokatki",
+      "lang": "pl",
+      "title": "Rosyjska adwokatka skazana na 12 lat za zdradę",
+      "text": "Sąd w Kaliningradzie skazał 66-letnią obrończynię praw człowieka Marię Boncler za rzekome przekazywanie Ukrainie informacji o miejscowych funkcjonariuszach i sprawach karnych. Proces był niejawny, a jej obrońcy twierdzą, że żadne z tych danych nie były tajne.",
+      "src": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge",
+      "srcName": "Al Jazeera"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "photo",
+      "id": "2026-11-13-wm-09",
+      "title": "Mieszkańcy na zebraniu miejskim, Woodstock",
+      "by": "Marion Post Wolcott, 1940",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/58/Townspeople_at_town_meeting._Woodstock,_Vermont,_by_Marion_Post_Wolcott,_United_States_Office_of_War_Information,_March_1940,_from_the_Library_of_Congress_-_service-pnp-fsa-8c11000-8c11600-8c11632v.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Townspeople_at_town_meeting._Woodstock,_Vermont,_by_Marion_Post_Wolcott,_United_States_Office_of_War_Information,_March_1940,_from_the_Library_of_Congress_-_service-pnp-fsa-8c11000-8c11600-8c11632v.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "news",
+      "id": "2026-11-13-huti-atakuja-arabie-saudyjska",
+      "lang": "pl",
+      "title": "Huti znów atakują Arabię Saudyjską, ONZ przedłuża sankcje",
+      "text": "Koalicja saudyjska zestrzeliła drony nad Rijadem i Prowincją Wschodnią, a rebelianci twierdzą, że celowali m.in. w rurociąg Wschód–Zachód i centralę Saudi Aramco. Rada Bezpieczeństwa jednogłośnie przedłużyła o rok sankcje wobec Jemenu.",
+      "src": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions",
+      "srcName": "Al Jazeera"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "photo",
+      "id": "2026-11-13-wm-10",
+      "title": "Plantatorzy tytoniu koło Windsor Locks, Connecticut",
+      "by": "Jack Delano, 1940",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/88/Jack_Delano,_Tobacco_famers_near_Windsor_Locks,_Conn.,_1940.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Jack_Delano,_Tobacco_famers_near_Windsor_Locks,_Conn.,_1940.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "photo",
+      "id": "2026-11-13-wm-11",
+      "title": "Faro i Doris Caudillowie, osadnicy z Pie Town (Nowy Meksyk)",
+      "by": "Russell Lee, 1940",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/45/Faro_and_Doris_Caudill,_homesteaders._Pie_Town,_New_Mexico,_October_1940.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Faro_and_Doris_Caudill,_homesteaders._Pie_Town,_New_Mexico,_October_1940.jpg",
+      "srcName": "Wikimedia Commons"
+    },
     {
       "date": "2026-11-12",
       "type": "video",
