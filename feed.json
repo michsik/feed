@@ -1,6 +1,374 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "items": [
+    {
+      "date": "2026-11-14",
+      "type": "video",
+      "id": "2026-11-14-prada-ritual-identities",
+      "kind": "Film modowy",
+      "title": "Prada Galleria – „Ritual Identities” ze Scarlett Johansson",
+      "by": "reż. Yorgos Lanthimos (Partner Films / Superprime Films)",
+      "text": "Lanthimos zamienia kampanię torebki w surrealistyczny rytuał: Johansson zbiera do Gallerii wiatr, deszczówkę, popiół i krew, by wyczarować swoją kopię. Krótka, niepokojąca baśń o tożsamości w stylu reżysera „Biednych istot”.",
+      "embed": {
+        "p": "yt",
+        "id": "COkmL5Y5GdA"
+      },
+      "dur": 110,
+      "img": "https://images-prod.dazeddigital.com/960/177-27-960-640/azure/dazed-prod/1420/2/1422511.jpg",
+      "src": "https://lbbonline.com/news/yorgos-lanthimos-scarlett-johansson-prada-galleria-handbag-ad-superprime-ritual-identities",
+      "srcName": "LBB Online"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "news",
+      "id": "2026-11-14-weto-ustawy-o-nielegalnych-tresciach",
+      "lang": "pl",
+      "title": "Nawrocki znów wetuje ustawę wdrażającą unijny DSA",
+      "text": "Prezydent zablokował drugą ustawę, która miała przyspieszyć usuwanie nielegalnych treści z internetu, mimo apeli ministra cyfryzacji. Koalicja mówi o porzuceniu ochrony dzieci w sieci, a PiS i Konfederacja chwalą weto jako stop dla cenzury.",
+      "src": "https://rp.pl/kraj/art45486421-nielegalne-tresci-mialy-znikac-z-internetu-szybciej-nawrocki-zawetowal-przepisy",
+      "srcName": "Rzeczpospolita"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "photo",
+      "id": "2026-11-14-wm-01",
+      "title": "Lodowa noc w Nowym Jorku",
+      "by": "Alfred Stieglitz, 1898",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/An_Icy_Night_MET_DP244496.jpg/1280px-An_Icy_Night_MET_DP244496.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:An_Icy_Night_MET_DP244496.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "article",
+      "id": "2026-11-14-zwierzeta-przed-sadem",
+      "lang": "en",
+      "title": "Kiedy w średniowieczu sądzono zwierzęta",
+      "by": "Open Culture",
+      "text": "Od X do XVIII wieku świnie, konie czy byki oskarżone o zrobienie komuś krzywdy stawały przed sądem – zwyczaj rozszedł się z Francji po Włochy, Niemcy i Niderlandy. Szkodniki jak myszy i wołki zbożowe trafiały z kolei przed trybunały kościelne i bywały ekskomunikowane.",
+      "src": "https://www.openculture.com/2026/11/when-animals-were-put-on-trial-in-medieval-europe.html",
+      "srcName": "Open Culture",
+      "img": "https://cdn8.openculture.com/2026/11/12230056/colored_v2-1024x736.png"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "news",
+      "id": "2026-11-14-polska-w-negocjacjach-z-rosja",
+      "lang": "pl",
+      "title": "Polska w unijnej grupie negocjującej z Rosją",
+      "text": "Na nieformalnym szczycie w Dublinie Antonio Costa ogłosił, że Polska dołączy do Francji, Niemiec, Wielkiej Brytanii, Włoch i instytucji UE w rozmowach o zakończeniu wojny w Ukrainie. Tusk zapowiedział, że Warszawa odegra w tym gronie kluczową rolę.",
+      "src": "https://tvn24.pl/swiat/polska-wsrod-krajow-ue-negocjujacych-z-rosja-w-sprawie-wojny-w-ukrainie-st9338400",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "photo",
+      "id": "2026-11-14-wm-02",
+      "title": "Park Row – „ulica gazet”, Manhattan",
+      "by": "Berenice Abbott, 1935–1938",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/83/Park_Row,_'Newspaper_Row',_Manhattan_(NYPL_b13668355-482770).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Park_Row,_'Newspaper_Row',_Manhattan_(NYPL_b13668355-482770).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "article",
+      "id": "2026-11-14-nikon-small-world-2026",
+      "lang": "en",
+      "title": "Drukarka atramentowa pod mikroskopem wygrywa Nikon Small World",
+      "by": "Colossal",
+      "text": "Pierwsze miejsce w konkursie fotomikrografii zdobył Ole Bielfeldt z Kolonii, który na samodzielnie zbudowanym stanowisku uchwycił krople tuszu lądujące na papierze. Wśród nagrodzonych są też komórki, owady i skacząca pajęczyca.",
+      "src": "https://www.thisiscolossal.com/2026/11/nikon-small-world-photomicrography-competition-2026-winners/",
+      "srcName": "Colossal",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/photomicography-2026-2.jpg"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "news",
+      "id": "2026-11-14-rosja-zada-wyjscia-finlandii-z-nato",
+      "lang": "pl",
+      "title": "Bild: Rosja żąda m.in. wyjścia Finlandii z NATO",
+      "text": "Według niemieckiego dziennika rosyjscy negocjatorzy w Abu Zabi chcą też braku baz NATO w krajach bałtyckich, całego Donbasu i trwałej neutralności Ukrainy. Fiński minister obrony Antti Häkkänen nazwał te propozycje skandalicznymi i niepodlegającymi negocjacjom.",
+      "src": "https://yle.fi/a/74-20256829",
+      "srcName": "Yle"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "photo",
+      "id": "2026-11-14-wm-03",
+      "title": "Były dzierżawca na zasiłku, Imperial Valley (Kalifornia)",
+      "by": "Dorothea Lange, 1937",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/Ex-tenant_farmer_on_relief_grant_in_the_Imperial_Valley,_California,_1937.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Ex-tenant_farmer_on_relief_grant_in_the_Imperial_Valley,_California,_1937.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "video",
+      "id": "2026-11-14-missu-sweat",
+      "kind": "Teledysk",
+      "title": "MISSU – „SWEAT”",
+      "by": "reż. Loys Assal (CASINO)",
+      "text": "Belgijski reżyser i choreograf zamyka MISSU i tancerzy w szatni, gdzie taneczne winiety przeplatają się z brudnymi, przyspieszanymi ujęciami. Klip, w którym ruch i montaż grają pierwsze skrzypce.",
+      "embed": {
+        "p": "yt",
+        "id": "cPAiVP4ULn8"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/MISSU_01_00_26_24_0.png?itok=uWSFtuW9",
+      "src": "https://www.promonews.tv/videos/2026/11/10/missu-sweat-loys-assal/96929",
+      "srcName": "Promonews"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "article",
+      "id": "2026-11-14-hockney-beverly-hills-housewife",
+      "lang": "en",
+      "title": "Kim była „gospodyni z Beverly Hills” Hockneya",
+      "by": "Hyperallergic",
+      "text": "James Cahill w nowej książce bierze na warsztat obraz z 1966 r., przedstawiający mecenaskę Betty Freeman przed jej modernistycznym domem. Z przyjaźni malarza i kolekcjonerki wyłania się mozaikowy portret Los Angeles lat 60.",
+      "src": "https://hyperallergic.com/the-secret-life-of-hockneys-beverly-hills-housewife/",
+      "srcName": "Hyperallergic",
+      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/11/hockney-freeman-with-painting-1.jpg"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "news",
+      "id": "2026-11-14-faa-wstrzymuje-starty-w-usa",
+      "lang": "pl",
+      "title": "Paraliż lotniczy w USA: wstrzymano starty z wszystkich lotnisk",
+      "text": "Federalna Administracja Lotnictwa nakazała w piątek wstrzymanie odlotów w całym kraju z powodu awarii łączności w centrach kontroli ruchu lotniczego. Technicy wciąż badają przyczynę, a loty międzynarodowe są rozpatrywane indywidualnie.",
+      "src": "https://tvn24.pl/swiat/wszystkie-loty-w-usa-wstrzymane-st9338574",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "photo",
+      "id": "2026-11-14-wm-04",
+      "title": "Róg rue Laplace i rue Valette, Paryż",
+      "by": "Eugène Atget, 1926",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/Eug%C3%A8ne_Atget,_Rue_Laplace_and_Rue_Valette,_Paris,_1926.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Atget,_Rue_Laplace_and_Rue_Valette,_Paris,_1926.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "article",
+      "id": "2026-11-14-olga-wrobel-powiesci-mlodziezowe-prl",
+      "lang": "pl",
+      "title": "Nie tylko nostalgia – Olga Wróbel o młodzieżówkach z PRL",
+      "by": "Dwutygodnik",
+      "text": "Autorka przeczytała około stu powieści dla młodzieży z czasów PRL i pokazuje, co mówią o codzienności, wychowaniu, klasach społecznych i rolach płciowych. Pod sentymentalną warstwą widzi emocjonalne zaniedbanie, rodzinne traumy i problematyczne podejście do kobiet.",
+      "src": "https://www.dwutygodnik.com/artykul/12764-nie-tylko-nostalgia.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "news",
+      "id": "2026-11-14-ceny-gazu-zamrozone-na-2027",
+      "lang": "pl",
+      "title": "Ceny gazu dla domów zamrożone także w 2027 roku",
+      "text": "Projekt Ministerstwa Energii utrzymuje maksymalną cenę 197,29 zł/MWh netto dla gospodarstw domowych i innych odbiorców chronionych przez cały przyszły rok. Resort szacuje oszczędności od 77 do 1863 zł rocznie na gospodarstwo, a koszt programu na ok. 6,2 mld zł.",
+      "src": "https://www.rmf24.pl/fakty/ekonomia/news-dobre-wiesci-dla-milionow-polakow-rzad-pokazal-projekt-ustaw,nIdn,1026052",
+      "srcName": "RMF24"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "photo",
+      "id": "2026-11-14-wm-05",
+      "title": "Mały gazeciarz, St. Louis",
+      "by": "Lewis Hine, 1910",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Lewis_Hine,_Young_newsie,_St._Louis,_1910.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Lewis_Hine,_Young_newsie,_St._Louis,_1910.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "article",
+      "id": "2026-11-14-cloud-house-londyn",
+      "lang": "en",
+      "title": "Różowy „Cloud House” w północnym Londynie",
+      "by": "Colossal",
+      "text": "Peter Morris Architects ukończyli po dziesięciu latach dwa bliźniacze domy w Gospel Oak z pastelowo-różowymi ścianami, błękitnymi oknami i łukowymi reliefami z gęstego styropianu nadającego się do recyklingu. Łuki nawiązują do wiktoriańskiego kościoła po drugiej stronie ulicy.",
+      "src": "https://www.thisiscolossal.com/2026/11/peter-morris-architects-the-cloud-house-london/",
+      "srcName": "Colossal",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/cloud-house-7-e1794494457822.jpg"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "news",
+      "id": "2026-11-14-polska-wygrywa-z-rosja-w-onz",
+      "lang": "pl",
+      "title": "Polska odbiera Rosji miejsce w kontrolnym organie ONZ",
+      "text": "Zgromadzenie Ogólne wybrało Polskę – jednym głosem przewagi – do Wspólnej Jednostki Inspekcyjnej ONZ. Miejsce z puli Europy Wschodniej od około 60 lat zajmował ZSRR, a potem Rosja.",
+      "src": "https://tvpworld.com/96464727/poland-wins-key-un-seat-from-russia",
+      "srcName": "TVP World"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "video",
+      "id": "2026-11-14-nine-inch-nails-closer",
+      "kind": "Teledysk · klasyka",
+      "title": "Nine Inch Nails – „Closer”",
+      "by": "reż. Mark Romanek",
+      "text": "Klip z 1994 r., kręcony m.in. w opuszczonym szpitalu w Los Angeles, czerpie z fotografii Joela-Petera Witkina i „Ulicy krokodyli” braci Quay. W plebiscycie VH1 Classic z 2006 r. uznany za najlepszy teledysk wszech czasów (tu wersja ocenzurowana).",
+      "embed": {
+        "p": "yt",
+        "id": "o8F_KaILW6g"
+      },
+      "dur": 280,
+      "src": "https://en.wikipedia.org/wiki/Closer_(Nine_Inch_Nails_song)",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "photo",
+      "id": "2026-11-14-wm-06",
+      "title": "„The Crawlers” – bezdomna kobieta z dzieckiem, Londyn",
+      "by": "John Thomson, 1877",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Thomson,_The_crawlers.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Thomson,_The_crawlers.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "article",
+      "id": "2026-11-14-dali-spotyka-freuda",
+      "lang": "en",
+      "title": "Gdy Dalí spotkał Freuda",
+      "by": "Open Culture",
+      "text": "Jedyne spotkanie odbyło się w lipcu 1938 r. w londyńskim domu 82-letniego Freuda, który ponoć powiedział młodemu malarzowi, że w jego obrazach szuka świadomości, a nie nieświadomości. Później przyznał jednak Stefanowi Zweigowi, że warsztat Dalego kazał mu zrewidować zdanie o surrealistach.",
+      "src": "https://www.openculture.com/2026/11/when-salvador-dali-met-sigmund-freud-and-changed-freuds-mind-about-surrealism-1938.html",
+      "srcName": "Open Culture",
+      "img": "https://cdn8.openculture.com/2026/11/11222650/freud-dali-e1579678975361.jpg"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "news",
+      "id": "2026-11-14-chiny-100-okretow-wokol-tajwanu",
+      "lang": "pl",
+      "title": "Ponad 100 chińskich okrętów w niezapowiedzianych manewrach",
+      "text": "Tajwańskie służby ujawniły, że Chiny przeprowadziły na zachodnim Pacyfiku ćwiczenia bez ogłoszenia, w szczytowym momencie z udziałem ponad 100 okrętów wojennych i jednostek straży przybrzeżnej. Tajpej mówi o „cichym zastraszaniu” przed przyszłotygodniowym szczytem APEC w Shenzhen.",
+      "src": "https://www.taipeitimes.com/News/front/archives/2026/11/14/2003867710",
+      "srcName": "Taipei Times"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "photo",
+      "id": "2026-11-14-wm-07",
+      "title": "Rodzina na wozie, hrabstwo Lee (Missisipi)",
+      "by": "Arthur Rothstein, 1935",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/62/Arthur_Rothstein_Family_in_a_wagon_Lee_County_August_1935.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Arthur_Rothstein_Family_in_a_wagon_Lee_County_August_1935.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "article",
+      "id": "2026-11-14-niezalezne-media-o-sztuce-w-kryzysie",
+      "lang": "en",
+      "title": "Prawie połowa niezależnych pism o sztuce w USA na krawędzi",
+      "by": "Hyperallergic",
+      "text": "W ankiecie Critical Minded i Rabkin Foundation 45 proc. ze 141 redakcji przyznało, że bez głębokich zmian w finansowaniu ich model nie przetrwa. 41 proc. zgłosiło w ostatnich dwóch latach naciski lub zagrożenia dla wolności słowa.",
+      "src": "https://hyperallergic.com/45-of-us-independent-arts-publications-face-existential-crisis-report-finds/",
+      "srcName": "Hyperallergic",
+      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/11/GettyImages-645585178.jpg"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "news",
+      "id": "2026-11-14-mae-nadwyzka-ropy",
+      "lang": "pl",
+      "title": "MAE: pierwsza nadwyżka ropy od początku wojny z Iranem",
+      "text": "Międzynarodowa Agencja Energetyczna podaje, że w październiku zapasy ropy rosły o 1,7 mln baryłek dziennie, bo eksport z Zatoki się odbudowuje – choć wciąż jest o 26 proc. niższy niż przed wojną. Agencja prognozuje też spadek światowego popytu w 2026 r. o 2,7 mln baryłek dziennie.",
+      "src": "https://www.thenationalnews.com/business/energy/2026/11/13/oil-market-to-return-to-surplus-for-first-time-since-start-of-iran-war-iea-says/",
+      "srcName": "The National"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "photo",
+      "id": "2026-11-14-wm-08",
+      "title": "Flatiron Building zimą, Nowy Jork",
+      "by": "Alfred Stieglitz, 1903",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/The_Flatiron_MET_DP233039.jpg/1280px-The_Flatiron_MET_DP233039.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:The_Flatiron_MET_DP233039.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "news",
+      "id": "2026-11-14-tankowiec-lng-na-minie-w-ormuz",
+      "lang": "pl",
+      "title": "Gazowiec wpadł na minę w cieśninie Ormuz",
+      "text": "Irańska Gwardia Rewolucyjna twierdzi, że tankowiec z LNG eksplodował po wejściu na „nieautoryzowaną” trasę. Według Washington Institute w pierwszych dziesięciu dniach listopada zaatakowano tam co najmniej 10 statków, po 37 atakach w październiku.",
+      "src": "https://gcaptain.com/iran-says-tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz/",
+      "srcName": "gCaptain / Reuters"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "video",
+      "id": "2026-11-14-ok-go-here-it-goes-again",
+      "kind": "Teledysk · nagroda",
+      "title": "OK Go – „Here It Goes Again”",
+      "by": "reż. Trish Sie i OK Go",
+      "text": "Zespół tańczy na ośmiu bieżniach w jednym nieprzerwanym ujęciu, które udało się nakręcić za 17. podejściem. Klip zdobył Grammy 2007 za najlepszy krótki teledysk oraz YouTube Award 2006 za najbardziej kreatywne wideo.",
+      "embed": {
+        "p": "yt",
+        "id": "dTAAsCNK7RA"
+      },
+      "dur": 186,
+      "src": "https://en.wikipedia.org/wiki/Here_It_Goes_Again",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "photo",
+      "id": "2026-11-14-wm-09",
+      "title": "„Dom Turka” przy Dauphine Street, Nowy Orlean",
+      "by": "Frances Benjamin Johnston, 1937–1938",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Frances_Benjamin_Johnston,_House_of_the_Turk,_Dauphine_Street,_New_Orleans,_1937-8.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Frances_Benjamin_Johnston,_House_of_the_Turk,_Dauphine_Street,_New_Orleans,_1937-8.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "news",
+      "id": "2026-11-14-francja-piaty-weekend-protestow",
+      "lang": "pl",
+      "title": "Francja: piąta sobota protestów przeciw drożyźnie",
+      "text": "Na sobotnie marsze – zaplanowano ich 50–60 w całym kraju – rząd skierował ok. 70 tys. policjantów i żandarmów. Tydzień temu według MSW protestowało 146 tys. osób, według organizatorów ok. 250 tys.",
+      "src": "https://www.rivieraradio.mc/article/france-prepares-for-nationwide-protests-on-saturday-with-70-000-police-officers-5HjdmLP_2/",
+      "srcName": "Riviera Radio"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "photo",
+      "id": "2026-11-14-wm-10",
+      "title": "Columbus Circle, Manhattan",
+      "by": "Berenice Abbott, 1935–1938",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Columbus_Circle,_Manhattan_(NYPL_b13668355-482580).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Columbus_Circle,_Manhattan_(NYPL_b13668355-482580).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "photo",
+      "id": "2026-11-14-wm-11",
+      "title": "„Bez grosza, chore dziecko i zepsute auto” – rodzina z Missouri koło Tracy",
+      "by": "Dorothea Lange, 1937",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/63/Broke,_baby_sick,_and_car_trouble!_-_Dorothea_Langes_photo_of_a_Missouri_family_of_five_in_the_vicinity_of_Tracy,_California.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Broke,_baby_sick,_and_car_trouble!_-_Dorothea_Langes_photo_of_a_Missouri_family_of_five_in_the_vicinity_of_Tracy,_California.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "photo",
+      "id": "2026-11-14-wm-12",
+      "title": "Czterej gazeciarze z Utiki (Nowy Jork)",
+      "by": "Lewis Hine, 1910",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Lewis_Hine,_Pasquale_Lolara,_Ercola_Guallilo,_Jerry_Paciello,_Frank_Graciana,_newsboys,_Utica,_New_York,_1910.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Lewis_Hine,_Pasquale_Lolara,_Ercola_Guallilo,_Jerry_Paciello,_Frank_Graciana,_newsboys,_Utica,_New_York,_1910.jpg",
+      "srcName": "Wikimedia Commons"
+    },
     {
       "date": "2026-11-13",
       "type": "video",
