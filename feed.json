@@ -1,6 +1,375 @@
 {
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "items": [
+    {
+      "date": "2026-11-15",
+      "type": "video",
+      "id": "2026-11-15-gucci-and-we-shall-dance-again",
+      "kind": "Film modowy",
+      "title": "Gucci – „And We Shall Dance Again” z Kate Moss",
+      "by": "reż. Johan Renck (Reset)",
+      "text": "Kate Moss w cekinowej sukni z debiutanckiego pokazu Demny playbackuje „Wicked Game” Chrisa Isaaka, a w przyciemnionym wnętrzu z zielonymi tkaninami nieznajomi zaczynają się dostrzegać i ruszają do tańca. Johan Renck, twórca serialu „Czarnobyl”, otwiera kampanią Primavera mroczniejszy, zmysłowy rozdział Gucci.",
+      "embed": {
+        "p": "yt",
+        "id": "e2uoZOaH1cw"
+      },
+      "dur": 270,
+      "img": "https://theimpression.com/wp-content/uploads/2026/08/Gucci-The-Primavera-2026-Ad-Campaign-scaled.jpg",
+      "src": "https://theimpression.com/gucci-the-primavera-2026-ad-campaign-review/",
+      "srcName": "The Impression"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "news",
+      "id": "2026-11-15-trump-putin-xi-szczyt-shenzhen",
+      "lang": "pl",
+      "title": "Trump, Putin i Xi spotkają się 19 listopada w Shenzhen",
+      "text": "Kreml potwierdził pierwsze w historii trójstronne spotkanie przywódców USA, Rosji i Chin, które odbędzie się na zakończenie wizyty Trumpa w Chinach i szczytu APEC. Głównym tematem ma być kontrola zbrojeń nuklearnych po wygaśnięciu traktatu New START, a także Iran; Ukraina formalnie nie jest w programie.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-14/trump-putin-i-xi-jinping-spotkaja-sie-przy-jednym-stole-kreml-potwierdza/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "photo",
+      "id": "2026-11-15-wm-01",
+      "title": "San Francisco, Sacramento Street po trzęsieniu ziemi",
+      "by": "Arnold Genthe, 1906",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/San_Francisco_Fire_Sacramento_Street_1906-04-18.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:San_Francisco_Fire_Sacramento_Street_1906-04-18.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "article",
+      "id": "2026-11-15-hosoe-mishima",
+      "lang": "en",
+      "title": "Mishima nago w obiektywie Eikoha Hosoe",
+      "by": "AnOther Magazine",
+      "text": "Leslie-Lohman Museum w Nowym Jorku pokazuje około dwudziestu czarno-białych zdjęć, które Eikoh Hosoe zrobił Yukio Mishimie w jego tokijskim domu w 1961 roku, obok instalacji Jasona Wee. Wystawa zderza nacjonalistyczny tradycjonalizm pisarza z awangardową wyobraźnią fotografa i każe patrzeć na te kadry przez pryzmat jego samobójstwa w 1970 roku.",
+      "src": "https://www.anothermag.com/art-photography/17637/eikoh-hosoe-yukio-mishima-leslie-lohman-museum",
+      "srcName": "AnOther Magazine",
+      "img": "https://images-prod.anothermag.com/1200/0-509-1377-918/azure/another-prod/480/0/480310.jpg"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "news",
+      "id": "2026-11-15-zelenski-nato-za-donbas",
+      "lang": "pl",
+      "title": "Zełenski: USA pytały o NATO w zamian za część Donbasu",
+      "text": "Według ukraińskiego prezydenta Amerykanie sondowali, czy Kijów zgodziłby się wycofać z części Donbasu, gdyby w zamian wszedł do NATO; Zełenski odpowiada, że Ukraina nie odda swojego terytorium i odrzuca neutralność. Wysłannik Trumpa Jared Kushner twierdzi, że Waszyngton ułatwia teraz bezpośrednie rozmowy Moskwy z Europą.",
+      "src": "https://www.cbsnews.com/news/us-europe-russia-engagement-ukraine-war/",
+      "srcName": "CBS News / AP"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "photo",
+      "id": "2026-11-15-wm-02",
+      "title": "Nowy Jork, Mullen's Alley",
+      "by": "Jacob Riis, ok. 1888",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Mullen%27s_Alley,_New_York,_by_Jacob_Riis.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Mullen%27s_Alley,_New_York,_by_Jacob_Riis.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "article",
+      "id": "2026-11-15-chagall-oczami-dzieci",
+      "lang": "en",
+      "title": "Chagall do góry nogami, czyli obraz oczami dzieci",
+      "by": "Aeon",
+      "text": "Dwoje dzieci ogląda „Ja i wieś” Marca Chagalla z kolekcji MoMA, a animacja Sarah Cowan zamienia ich skojarzenia w świat, gdzie dzień i noc trwają naraz, a wspomnienia są widoczne. To odcinek serii, w której najmłodsi na nowo opowiadają słynne dzieła sztuki.",
+      "src": "https://aeon.co/videos/a-cubist-painting-becomes-two-kids-immersive-animated-world",
+      "srcName": "Aeon",
+      "img": "https://images.aeonmedia.co/images/9bf1c0dd-504c-49d4-8e80-196350a549a4/a-trip-to-upside-down-world-landscape-1.jpg?width=1200&quality=75&format=jpeg"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "news",
+      "id": "2026-11-15-redukcja-wojsk-usa-w-europie",
+      "lang": "pl",
+      "title": "Bloomberg: USA rozważają wycofanie ok. 5 tys. żołnierzy z Europy",
+      "text": "Administracja Trumpa analizuje zmniejszenie liczącej około 80 tys. żołnierzy obecności wojskowej w Europie, a największe cięcia mogłyby dotknąć Niemiec. Szef Pentagonu ma przedstawić prezydentowi ostateczne propozycje 1 grudnia.",
+      "src": "https://www.rmf24.pl/fakty/swiat/news-najwieksza-redukcja-wojsk-usa-w-europie-niepokojace-doniesie,nIdn,1026138",
+      "srcName": "RMF24"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "video",
+      "id": "2026-11-15-mark-lee-happiest",
+      "kind": "Teledysk",
+      "title": "Mark Lee – „Happiest”",
+      "by": "reż. Colin Tilley",
+      "text": "Świąteczna kolacja w gronie przyjaciół zamienia się w szczerą rozmowę o tym, czego naprawdę chcemy od życia – i czy pieniądze oraz luksus w ogóle dają spokój. Colin Tilley, znany z wielkich hip-hopowych produkcji, tym razem stawia na kameralny, ciepły nastrój, a obok Marka pojawia się jego brat Jon Lee.",
+      "embed": {
+        "p": "yt",
+        "id": "7aIOY0UZXTA"
+      },
+      "img": "https://www.clashmusic.com/wp-content/uploads/2026/11/markleeLP_Cover_FINAL-scaled.png",
+      "src": "https://www.clashmusic.com/?p=465178",
+      "srcName": "Clash"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "photo",
+      "id": "2026-11-15-wm-03",
+      "title": "Paryż, rue de Constantine",
+      "by": "Charles Marville, ok. 1866",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Rue_de_Constantine,_Paris,_by_Charles_Marville.JPG",
+      "src": "https://commons.wikimedia.org/wiki/File:Rue_de_Constantine,_Paris,_by_Charles_Marville.JPG",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "article",
+      "id": "2026-11-15-la-bola-negra",
+      "lang": "en",
+      "title": "„La bola negra” – queerowa epopeja według niedokończonej sztuki Lorki",
+      "by": "Dazed",
+      "text": "Duet Los Javis opowiada o filmie rozpiętym między latami 1932, 1937 i 2017, który wyrósł z niedokończonego dramatu Federica Garcíi Lorki. Obraz przyniósł im nagrodę za reżyserię w Cannes, podbił hiszpańskie kina i jest typowany do Oscara.",
+      "src": "https://www.dazeddigital.com/film-tv/article/71296/1/la-bola-negra-javier-ambrossi-javier-calvo-director-interview-new-film-2026",
+      "srcName": "Dazed",
+      "img": "https://images-prod.dazeddigital.com/1200/0-240-3000-2000/azure/dazed-prod/1450/8/1458828.jpg"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "news",
+      "id": "2026-11-15-kaczynski-ofensywa-gospodarcza",
+      "lang": "pl",
+      "title": "Kaczyński zapowiada „ofensywę” gospodarczą i powrót PiS do władzy",
+      "text": "Na konwencji ekonomicznej w Katowicach prezes PiS oskarżył rząd o zadłużanie kraju i obiecał program oparty na skuteczniejszym ściąganiu podatków bez cięcia wydatków socjalnych. Przemysław Czarnek proponował m.in. podniesienie progu podatkowego do 180 tys. zł i wyjście z unijnego systemu ETS.",
+      "src": "https://www.rmf24.pl/fakty/polityka/news-jaroslaw-kaczynski-zapowiedzial-ofensywe-zakladam-ze-przejmi,nIdn,1026122",
+      "srcName": "RMF24"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "photo",
+      "id": "2026-11-15-wm-04",
+      "title": "Waszyngton, chińska pralnia Johnniego Lew",
+      "by": "Gordon Parks, 1942",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/80/Washington,_D.C._Johnnie_Lew%27s_Chinese_laundry_on_Monday_morning.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Washington,_D.C._Johnnie_Lew%27s_Chinese_laundry_on_Monday_morning.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "article",
+      "id": "2026-11-15-brogowski-galeria-gn-nomus",
+      "lang": "pl",
+      "title": "Leszek Brogowski i galeria gn w gdańskim NOMUS",
+      "by": "Magazyn SZUM",
+      "text": "Anna Markowska recenzuje wystawę o krótko działającej galerii gn z lat 1978–1981, która w schyłkowym PRL-u zbudowała gęstą sieć artystycznych przyjaźni, także międzynarodowych. Widzi w niej ciepły i dowcipny hołd dla Brogowskiego, z jego bielą i ultramaryną w roli głównej.",
+      "src": "https://magazynszum.pl/piekni-ludzie-mes-amours-zapisy-leszek-brogowski-i-galeria-gn-1978%e2%80%921981-w-nomus/",
+      "srcName": "Magazyn SZUM",
+      "img": "https://magazynszum.pl/wp-content/uploads/2026/11/leszek-brogowski-ivan-kafka-na-wystawie-zapytania-galeria-gn-1981.-ze-zbiorow-leszka-brogowskiego-1440x1422.jpg"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "news",
+      "id": "2026-11-15-sondaz-blok-prawicy-wiekszosc",
+      "lang": "pl",
+      "title": "Sondaż: wspólny blok prawicy zdobyłby samodzielną większość",
+      "text": "W badaniu United Surveys dla WP sojusz PiS, obu Konfederacji i Rozwoju Plus uzyskał 46,6 proc. i 242 mandaty, a koalicja rządząca 41,3 proc. W standardowym wariancie prowadzi KO z 30 proc., a PiS spada do 15,5 proc.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-14/starcie-dwoch-blokow-politycznych-jest-nowy-sondaz/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "photo",
+      "id": "2026-11-15-wm-05",
+      "title": "Plaquemines, kreolskie dziewczęta",
+      "by": "Ben Shahn, 1935",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/CreoleGirlsPlaquemines1935.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:CreoleGirlsPlaquemines1935.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "article",
+      "id": "2026-11-15-szkola-snycerska-zakopane",
+      "lang": "pl",
+      "title": "150 lat zakopiańskiej Szkoły Snycerskiej",
+      "by": "Dwutygodnik",
+      "text": "Kuratorka Katarzyna Chrudzimska-Uhera opowiada o wystawie w Muzeum Tatrzańskim poświęconej szkole, przez którą przewinęli się m.in. Stanisław Witkiewicz, Karol Stryjeński i Antoni Kenar. Rozmowa śledzi jej losy od pierwszych lat po trudne czasy wojny i PRL-u.",
+      "src": "https://www.dwutygodnik.com/artykul/12748-na-koncu-swiata.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "video",
+      "id": "2026-11-15-red-hot-chili-peppers-give-it-away",
+      "kind": "Teledysk · klasyka",
+      "title": "Red Hot Chili Peppers – „Give It Away”",
+      "by": "reż. Stéphane Sednaoui",
+      "text": "Czarno-biała pustynia, pomalowani na srebrno muzycy i gitarowa solówka Frusciantego puszczona od tyłu – debiut fotografa mody Stéphane'a Sednaoui stał się jednym z najbardziej rozpoznawalnych obrazów lat 90. Klip zdobył w 1992 roku dwie statuetki MTV VMA: za przełomowy teledysk i scenografię.",
+      "embed": {
+        "p": "yt",
+        "id": "Mr_uHJPUlO8"
+      },
+      "dur": 273,
+      "img": "https://i.ytimg.com/vi/Mr_uHJPUlO8/hqdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/Give_It_Away_(Red_Hot_Chili_Peppers_song)",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "news",
+      "id": "2026-11-15-napisy-upa-na-pomnikach",
+      "lang": "pl",
+      "title": "Fala napisów „Sława UPA” na pomnikach, ambasada Ukrainy wskazuje Rosję",
+      "text": "Hasła gloryfikujące UPA pojawiły się na co najmniej kilkunastu miejscach pamięci, w sobotę m.in. na warszawskim Pomniku Bohaterów Getta; wcześniej zatrzymano 17-letniego Ukraińca. Ambasada Ukrainy nazwała akcję elementem rosyjskiej wojny hybrydowej i przestrzega rodaków przed płatnymi zleceniami.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-14/upa-na-polskich-pomnikach-ambasada-ukrainy-apeluje/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "photo",
+      "id": "2026-11-15-wm-06",
+      "title": "Mechanik w garażu Greyhounda",
+      "by": "Esther Bubley, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/19/A_mechanic_working_on_a_rear_axle_housing_at_the_Greyhound_garage_8d32907v.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:A_mechanic_working_on_a_rear_axle_housing_at_the_Greyhound_garage_8d32907v.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "article",
+      "id": "2026-11-15-nymzo-szachy",
+      "lang": "en",
+      "title": "Szachy w sportowym wydaniu marki Nymzo",
+      "by": "It's Nice That",
+      "text": "Dwóch projektantów z Nowego Jorku stworzyło komplety szachowe dla nowego pokolenia graczy, które mają wypełnić lukę między tanim plastikiem a drogim rękodziełem. Druga seria zestawów Stanton właśnie wyszła w sześciu kolorach.",
+      "src": "https://www.itsnicethat.com/articles/nymzo-product-design-project-101126",
+      "srcName": "It's Nice That",
+      "img": "https://m.itsnicethat.com/original_images/Nymzo-Chess-Itsnicethat-3.jpg?class=w1440"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "news",
+      "id": "2026-11-15-zarzuty-dla-komisji-wyborczych",
+      "lang": "pl",
+      "title": "Ponad 130 członków komisji z zarzutami za błędy w liczeniu głosów",
+      "text": "Prokuratura Okręgowa w Siedlcach oskarżyła członków obwodowych komisji o nieumyślne niedopełnienie obowiązków przy liczeniu głosów w drugiej turze wyborów prezydenckich 2025. Grozi im grzywna, ograniczenie wolności lub do dwóch lat więzienia.",
+      "src": "https://polsatnews.pl/wiadomosc/2026-11-14/liczyli-glosy-w-wyborach-prezydenckich-ponad-130-osob-z-zarzutami",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "photo",
+      "id": "2026-11-15-wm-07",
+      "title": "Delaware, bar przy Route 40",
+      "by": "Arthur Rothstein, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Diner_on_Route_40_Delaware_by_Rothstein_OWI.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Diner_on_Route_40_Delaware_by_Rothstein_OWI.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "article",
+      "id": "2026-11-15-odciski-dzieci-natufijczycy",
+      "lang": "en",
+      "title": "Dziecięce odciski palców na figurkach sprzed 15 tysięcy lat",
+      "by": "La Brújula Verde",
+      "text": "Badacze przeanalizowali 154 gliniane przedmioty Natufijczyków z trzech stanowisk w Izraelu i na części z nich znaleźli odciski palców dzieci i młodych kobiet. To przesuwa początki lepienia figurek o tysiące lat przed narodziny rolnictwa.",
+      "src": "https://www.labrujulaverde.com/en/2026/11/childrens-fingerprints-found-on-the-middle-easts-oldest-clay-figurines-they-molded-clay-15000-years-ago-to-remember-lessons-about-the-world/",
+      "srcName": "La Brújula Verde",
+      "img": "https://cdn.labrujulaverde.com/en/wp-content/uploads/2026/11/utf-8BTG93LVJlc19JbGx1c3RyYXRpb24gMiAowqlMYXVyZW50IERhdmluKS5qcGc.webp"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "news",
+      "id": "2026-11-15-meta-kara-805-mln-wlochy",
+      "lang": "pl",
+      "title": "Włochy: 805 mln euro kary dla Mety za dostęp do galerii zdjęć",
+      "text": "Włoski urząd ochrony danych uznał, że funkcja aplikacji Facebook na Androida sięgała do zdjęć i nagrań użytkowników bez ich wiedzy i zgody. Meta ma w ciągu 60 dni domyślnie wyłączyć tę funkcję.",
+      "src": "https://www.rmf24.pl/fakty/swiat/news-kontrowersyjna-funkcja-facebooka-meta-musi-zaplacic-gigantyc,nIdn,1026137",
+      "srcName": "RMF24"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "video",
+      "id": "2026-11-15-ariana-grande-hate-that-i-made-you-love-me",
+      "kind": "Teledysk · nagroda",
+      "title": "Ariana Grande – „hate that i made you love me”",
+      "by": "reż. Christian Breslauer i Ariana Grande (London Alley / Lucky Bastards)",
+      "text": "Mroczna komedia z nutą horroru: zakopana przez byłego partnera (Justin Long) bohaterka wraca, by nawiedzać go aż do płonącego finału, a za kamerą stanął Janusz Kamiński. Klip zdobył MTV VMA 2026 za najlepsze efekty wizualne i miał nominacje m.in. do Teledysku Roku, najlepszej reżyserii i zdjęć.",
+      "embed": {
+        "p": "yt",
+        "id": "82-jTNka3uc"
+      },
+      "img": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/06/Ari.png",
+      "src": "https://imvdb.com/video/ariana-grande/hate-that-i-made-you-love-me",
+      "srcName": "IMVDb"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "photo",
+      "id": "2026-11-15-wm-08",
+      "title": "Newark, Ohio, Wiosna – tryptyk",
+      "by": "Clarence H. White, 1898",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/Spring._A_triptych_(Letitia_Felix),_Newark,_Ohio)_-_Clarence_H._White_LCCN99471596.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Spring._A_triptych_(Letitia_Felix),_Newark,_Ohio)_-_Clarence_H._White_LCCN99471596.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "news",
+      "id": "2026-11-15-alaska-demokrata-gubernatorem",
+      "lang": "pl",
+      "title": "Alaska: pierwszy demokratyczny gubernator od 1998 roku",
+      "text": "Według prognoz AP i NBC wybory na Alasce wygrał demokrata Jonathan Kreiss-Tomkins, kończąc ośmioletnie rządy republikanów. Demokraci będą mieć gubernatorów w 30 z 50 stanów.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-14/historyczny-przelom-w-usa-pierwszy-taki-przypadek-od-blisko-30-lat/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "photo",
+      "id": "2026-11-15-wm-09",
+      "title": "Nowy Jork, Miski",
+      "by": "Paul Strand, 1916",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/62/Bowls,_by_Paul_Strand,_1916.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Bowls,_by_Paul_Strand,_1916.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "news",
+      "id": "2026-11-15-polska-2050-wybory-lidera",
+      "lang": "pl",
+      "title": "Polska 2050 wybierze nowego przewodniczącego 2 grudnia",
+      "text": "Rada Krajowa partii zatwierdziła kalendarz zdalnego głosowania po odejściu Katarzyny Pełczyńskiej-Nałęcz z kierownictwa. Start rozważa wiceszef klubu Paweł Śliz, a p.o. przewodniczącej Ewa Schädler jeszcze nie zdecydowała.",
+      "src": "https://www.rmf24.pl/fakty/polityka/news-kalendarz-wyborczy-zatwierdzony-w-grudniu-polska-2050-wybier,nIdn,1026134",
+      "srcName": "RMF24"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "photo",
+      "id": "2026-11-15-wm-10",
+      "title": "Hart Island, rów na cmentarzu ubogich",
+      "by": "Jacob Riis, ok. 1890",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/be/A_trench_at_the_potter%27s_field_on_Hart_Island,_circa_1890_by_Jacob_Riis.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:A_trench_at_the_potter%27s_field_on_Hart_Island,_circa_1890_by_Jacob_Riis.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "photo",
+      "id": "2026-11-15-wm-11",
+      "title": "Paryż, place de l'Opéra",
+      "by": "Charles Marville, 1878",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/12/Charles_Marville,_Place_de_l%27Op%C3%A9ra,_1878.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Charles_Marville,_Place_de_l%27Op%C3%A9ra,_1878.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "photo",
+      "id": "2026-11-15-wm-12",
+      "title": "Badlands, wybielona czaszka wołu",
+      "by": "Arthur Rothstein, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Arthur_Rothstein_-_The_bleached_skull_of_a_steer,_South_Dakota_Badlands,_1936.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Arthur_Rothstein_-_The_bleached_skull_of_a_steer,_South_Dakota_Badlands,_1936.jpg",
+      "srcName": "Wikimedia Commons"
+    },
     {
       "date": "2026-11-14",
       "type": "video",
