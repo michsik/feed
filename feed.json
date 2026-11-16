@@ -1,6 +1,371 @@
 {
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "items": [
+    {
+      "date": "2026-11-16",
+      "type": "video",
+      "id": "2026-11-16-bottega-veneta-they-dance-too",
+      "kind": "Film modowy",
+      "title": "Bottega Veneta – „They Dance Too” z Julianne Moore",
+      "by": "reż. Stephen Kidd",
+      "text": "Julianne Moore tańczy na dyskotece pośród alpejskich lodowców do „The Rhythm of the Night” – to hołd dla finału „Beau Travail” Claire Denis. Pierwsza świąteczna kampania Louise Trotter dla Bottegi to minuta czystej, szalonej radości.",
+      "embed": {
+        "p": "yt",
+        "id": "QjAj0BLMHQc"
+      },
+      "dur": 76,
+      "img": "https://theimpression.com/wp-content/uploads/2026/11/Bottega-Veneta-They-Dance-Too-End-of-Year-2026-ad-campaign-The-Impression-016-1.jpg",
+      "src": "https://theimpression.com/bottega-veneta-end-of-year-2026-campaign/",
+      "srcName": "The Impression"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "news",
+      "id": "2026-11-16-nato-bez-szczytu-w-albanii",
+      "lang": "pl",
+      "title": "NATO rezygnuje ze szczytu w Albanii w 2027 roku",
+      "text": "Według AP sojusz ogranicza spotkania na najwyższym szczeblu, bo członków dzielą spory o Ukrainę, Iran i wydatki na obronę. Mark Rutte zapewnia, że przywódcy spotkają się wtedy, gdy będzie to potrzebne.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-15/tarcia-w-nato-media-szczytu-w-albanii-nie-bedzie/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "photo",
+      "id": "2026-11-16-wm-01",
+      "title": "Chicago, Michigan Avenue latem",
+      "by": "John Vachon, 1940",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Chicago%27s_Michigan_Avenue_by_John_Vachon,_1940.jpg/1280px-Chicago%27s_Michigan_Avenue_by_John_Vachon,_1940.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Chicago%27s_Michigan_Avenue_by_John_Vachon,_1940.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "article",
+      "id": "2026-11-16-dickens-poe-kruk",
+      "lang": "en",
+      "title": "Kiedy Dickens spotkał Poego – i jego kruka",
+      "by": "Open Culture",
+      "text": "W 1842 roku Poe dowiedział się od Dickensa, że gadający kruk Grip z „Barnaby Rudge” miał pierwowzór w jego domowym ptaku. Wielu badaczy uważa, że to właśnie ten ptak – dziś wypchany w bibliotece w Filadelfii – podsunął Poemu „Kruka”.",
+      "src": "https://openculture.com/2026/11/when-charles-dickens-and-edgar-allan-poe-met.html",
+      "srcName": "Open Culture",
+      "img": "https://cdn8.openculture.com/2026/11/09230825/Dickens-Poe-brighter.jpg"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "photo",
+      "id": "2026-11-16-wm-02",
+      "title": "Chicago, stacja rozrządowa Belt Railway",
+      "by": "Jack Delano, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Belt_Railway,_looking_toward_the_west_yard_of_clearing_yard1a34692v.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Belt_Railway,_looking_toward_the_west_yard_of_clearing_yard1a34692v.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "news",
+      "id": "2026-11-16-estonia-zamyka-granice",
+      "lang": "pl",
+      "title": "Estonia zamknie wszystkie przejścia graniczne z Rosją",
+      "text": "Od 1 grudnia granica będzie zamknięta – to odpowiedź na próbę podpalenia fabryki dronów Threod Systems, za którą Tallin wini rosyjski GRU. Zatrzymano osiem osób, a szef MSZ Margus Tsahkna uprzedził o decyzji Finlandię, Łotwę i Litwę.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-15/rosja-przekroczyla-granice-estonia-oglosila-radykalna-decyzje/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "photo",
+      "id": "2026-11-16-wm-03",
+      "title": "Waszyngton, dziewczyna w tramwaju",
+      "by": "Esther Bubley, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Girl_riding_on_a_streetcar_8d27154v.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Girl_riding_on_a_streetcar_8d27154v.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "video",
+      "id": "2026-11-16-elyanna-ghazali",
+      "kind": "Teledysk",
+      "title": "Elyanna – „Ghazali”",
+      "by": "reż. Naghmeh Pour (new—land)",
+      "text": "Palestyńsko-chilijska wokalistka porównuje kobiety do gazeli, a reżyserka Naghmeh Pour odwraca w klipie odwieczny układ myśliwego i ofiary. Szybki, perkusyjny utwór o kobiecej sile, pięknie i wolności.",
+      "embed": {
+        "p": "vimeo",
+        "id": "1244196098"
+      },
+      "img": "https://directorslibrary.com/wp-content/uploads/2026/11/Ghazali-Elyanna-1-1-e1794326674614.jpg",
+      "src": "https://directorslibrary.com/2026/latest/music-videos/ghazali-elyanna/",
+      "srcName": "Directors' Library"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "news",
+      "id": "2026-11-16-praga-protest-media-publiczne",
+      "lang": "pl",
+      "title": "Setki tysięcy Czechów w obronie mediów publicznych",
+      "text": "W Pradze protestowano przeciw planowi rządu Babiša, który chce zlikwidować abonament i zmienić finansowanie publicznego radia i telewizji. Organizatorzy mówią nawet o 450 tys. uczestników, co byłoby rekordem w historii kraju; rząd zapowiada, że nie ustąpi.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-15/wrze-u-naszych-sasiadow-nawet-450-tys-osob-na-protescie-przeciwko-rzadowi/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "article",
+      "id": "2026-11-16-gareth-mcconnell-an-illusion",
+      "lang": "en",
+      "title": "Rave, murale i protesty w archiwum Garetha McConnella",
+      "by": "Dazed",
+      "text": "Wystawa „An Illusion” w edynburskim Stills zestawia abstrakcyjne zdjęcia murali z Irlandii Północnej, ocenzurowane portrety z antywojennych protestów i obrazy z imprez. To 30 lat archiwum o tym, jak rave zacierał podziały, które polityka utrwalała.",
+      "src": "https://www.dazeddigital.com/art-photography/article/71248/1/photos-90s-rave-transcended-politics-north-ireland-gareth-mcconnell-an-illusion",
+      "srcName": "Dazed",
+      "img": "https://images-prod.dazeddigital.com/1200/579-117-1818-1212/azure/dazed-prod/1450/8/1458417.jpg"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "photo",
+      "id": "2026-11-16-wm-04",
+      "title": "Berlin, jarmark przed teatrem psów",
+      "by": "Heinrich Zille, ok. 1900",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Zille,_Heinrich_-_Rummel,_vor_dem_Hunde-Theater_(Zeno_Fotografie).jpg/1280px-Zille,_Heinrich_-_Rummel,_vor_dem_Hunde-Theater_(Zeno_Fotografie).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Zille,_Heinrich_-_Rummel,_vor_dem_Hunde-Theater_(Zeno_Fotografie).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "news",
+      "id": "2026-11-16-huti-bab-al-mandab",
+      "lang": "pl",
+      "title": "Huti przejmują kontrolę nad cieśniną Bab al-Mandab",
+      "text": "Po wycofaniu się sił południowych z okolic Dhubab rebelianci zyskali wpływ na kluczowy szlak między Azją a Europą. Wraz z zakłóceniami w Ormuz grozi to podwójną blokadą eksportu ropy z Zatoki Perskiej.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-15/rebelianci-przejeli-strategiczna-ciesnine/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "photo",
+      "id": "2026-11-16-wm-05",
+      "title": "Pie Town, rodzina Whinerych przy stole",
+      "by": "Russell Lee, 1940",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Jack_Whinery_and_his_family,_homesteaders,_Pie_Town,_New_Mexico_(LOC).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Jack_Whinery_and_his_family,_homesteaders,_Pie_Town,_New_Mexico_(LOC).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "article",
+      "id": "2026-11-16-eric-timothy-carlson-22-a-million",
+      "lang": "en",
+      "title": "Symbole „22, A Million” po dziesięciu latach",
+      "by": "It's Nice That",
+      "text": "Eric Timothy Carlson, autor wizualnego świata płyty Bon Iver, wraca do niej przy jubileuszu: odwraca okładkę z czerni w biel i składa setkę symbolicznych rysunków w nowe kolaże. Opowiada też o wersjach wizualizerów po hiszpańsku, francusku i japońsku.",
+      "src": "https://www.itsnicethat.com/articles/eric-timothy-carlson-bon-iver-22-a-million-graphic-design-101126",
+      "srcName": "It's Nice That",
+      "img": "https://m.itsnicethat.com/original_images/eric-timothy-graphic-design-itsnicethat-6.jpg?class=w1440"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "news",
+      "id": "2026-11-16-bulgaria-konczy-pomoc-wojskowa",
+      "lang": "pl",
+      "title": "Bułgaria przestaje przekazywać broń Ukrainie",
+      "text": "Premier Rumen Radew zapowiedział, że z zapasów armii nie popłynie już ani broń, ani amunicja, a pomoc ograniczy się do energii, leków i wsparcia humanitarnego. Sofia nie zamierza jednak blokować unijnej pomocy finansowej dla Kijowa.",
+      "src": "https://www.rmf24.pl/fakty/swiat/news-ten-kraj-juz-rezygnuje-nie-przekazemy-wiecej-broni-ani-amuni,nIdn,1026145",
+      "srcName": "RMF24"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "video",
+      "id": "2026-11-16-nirvana-heart-shaped-box",
+      "kind": "Teledysk · klasyka",
+      "title": "Nirvana – „Heart-Shaped Box”",
+      "by": "reż. Anton Corbijn",
+      "text": "Pole maków, krzyż, kruki i starzec w czapce Mikołaja – ostatni klip Nirvany nakręcono w kolorze, przegrano na czerń i biel i ręcznie podkolorowano klatka po klatce. W 1994 roku dostał dwie statuetki MTV VMA.",
+      "embed": {
+        "p": "yt",
+        "id": "n6P0SitRwy8"
+      },
+      "src": "https://en.wikipedia.org/wiki/Heart-Shaped_Box",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "photo",
+      "id": "2026-11-16-wm-06",
+      "title": "Waszyngton, Ella Watson – „American Gothic”",
+      "by": "Gordon Parks, 1942",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Washington,_D.C._Government_charwoman_LOC_3549663490.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Washington,_D.C._Government_charwoman_LOC_3549663490.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "news",
+      "id": "2026-11-16-zelenski-rafinerie",
+      "lang": "pl",
+      "title": "Zełenski: Rosja straciła ponad połowę mocy rafineryjnych",
+      "text": "Ukraiński prezydent twierdzi, że ataki dalekiego zasięgu wyłączyły ponad 55 proc. rosyjskiej zdolności przerobu ropy. Przedstawia to jako odpowiedź na uderzenia w ukraińską energetykę, przed zimą UE obiecała m.in. 500 generatorów.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-15/zelenski-oglasza-sukces-ukrainskiej-armii-dotkliwy-cios-w-glebi-rosji/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "article",
+      "id": "2026-11-16-debora-brune-uncool",
+      "lang": "en",
+      "title": "„Uncool” – moda bez wyidealizowanych ciał",
+      "by": "Dazed",
+      "text": "Poruszająca się na wózku fotografka Debora Brune przez cztery lata portretowała 27 osób z widoczną niepełnosprawnością w stylistyce sesji modowych. Jej debiutancka książka pyta, kto w ogóle ma prawo uchodzić za „cool”.",
+      "src": "https://www.dazeddigital.com/art-photography/article/71235/1/debora-brune-uncool-photo-book-fashion-portraits",
+      "srcName": "Dazed",
+      "img": "https://images-prod.dazeddigital.com/1080/0-236-1080-720/azure/dazed-prod/1450/8/1458352.jpg"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "photo",
+      "id": "2026-11-16-wm-07",
+      "title": "Londyn, lody za pół pensa",
+      "by": "John Thomson, 1877",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Half-Penny_Ices_LACMA_M.2008.40.2248.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Half-Penny_Ices_LACMA_M.2008.40.2248.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "news",
+      "id": "2026-11-16-geneva-bron-autonomiczna",
+      "lang": "pl",
+      "title": "USA i Rosja przeciw traktatowi o broni autonomicznej",
+      "text": "W Genewie ruszają rozmowy państw konwencji CCW o tym, czy negocjować wiążące zasady dla „zabójczych robotów”. Większość ze 128 stron jest za, ale Waszyngton woli niewiążące wytyczne, a Moskwa ma blokować głos UE.",
+      "src": "https://theprint.in/world/us-and-russia-to-oppose-talks-on-limiting-autonomous-weapons/3099632",
+      "srcName": "Reuters / ThePrint"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "photo",
+      "id": "2026-11-16-wm-08",
+      "title": "Chicago, poczekalnia Union Station",
+      "by": "Jack Delano, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Chicago,_Illinois._In_the_waiting_room_of_the_Union_Station_LOC_3548859587.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Chicago,_Illinois._In_the_waiting_room_of_the_Union_Station_LOC_3548859587.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "video",
+      "id": "2026-11-16-ag-cook-residue",
+      "kind": "Teledysk · nagroda",
+      "title": "A. G. Cook z Charli XCX – „Residue”",
+      "by": "reż. Aidan Zamiri (Object & Animal)",
+      "text": "Charli XCX trafia do magazynu pełnego swoich klonów, wśród których jest też Kylie Jenner. Klip zdobył nagrodę UK Music Video Awards 2026 za najlepszy brytyjski teledysk dance/elektroniczny, a Zamiri został reżyserem roku.",
+      "embed": {
+        "p": "yt",
+        "id": "bIk4DpJA104"
+      },
+      "src": "https://www.promonews.tv/news/2026/11/04/uk-music-video-awards-2026-all-winners-tonights-ceremony/96842",
+      "srcName": "Promonews"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "news",
+      "id": "2026-11-16-starship-zlapany-przez-wieze",
+      "lang": "pl",
+      "title": "Statek Starship po raz pierwszy złapany przez ramiona wieży",
+      "text": "Po 14 okrążeniach Ziemi i wypuszczeniu 26 satelitów Starlink górny stopień wrócił do bazy w Teksasie i został przechwycony przez wieżę startową. Planowanego podwójnego chwytu nie było – booster eksplodował wkrótce po starcie.",
+      "src": "https://www.rmf24.pl/fakty/swiat/news-historyczny-wyczyn-rakiety-starship-to-przelomowy-moment,nIdn,1026143",
+      "srcName": "RMF24"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "article",
+      "id": "2026-11-16-barnett-french-brytyjskie-dziwactwa",
+      "lang": "en",
+      "title": "Brytyjskie dziwactwa w obiektywie Jamesa i Poppy",
+      "by": "It's Nice That",
+      "text": "James Barnett i Poppy French, przyjaciele od czasów szkoły artystycznej, w serii „When James and Poppy Met” odwiedzają Pearly Kings and Queens, skansen wiejskiego życia i ekscentrycznych artystów. Ona fotografuje, on filmuje – i oboje wolą obserwować niż reżyserować.",
+      "src": "https://www.itsnicethat.com/features/james-barnett-poppy-french-when-james-and-poppy-met-documentary-photography-101126",
+      "srcName": "It's Nice That",
+      "img": "https://m.itsnicethat.com/original_images/poppy-french-photography-itsnicethat-2.jpg?class=w1440"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "photo",
+      "id": "2026-11-16-wm-09",
+      "title": "Alabama, przydrożny stragan pod Birmingham",
+      "by": "Walker Evans, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Roadside_stand_near_Birmingham,_Alabama.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Roadside_stand_near_Birmingham,_Alabama.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "news",
+      "id": "2026-11-16-sondaz-reset-tk",
+      "lang": "pl",
+      "title": "Polacy podzieleni w sprawie „resetu” Trybunału",
+      "text": "W sondażu United Surveys dla WP 47,7 proc. badanych sprzeciwia się propozycji PSL, by wymienić wszystkich sędziów TK, a 44,2 proc. ją popiera. Co ciekawe, pomysł częściej popierają wyborcy opozycji niż koalicji rządzącej.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-15/reset-w-tk-proponowany-przez-psl-w-sondazu-dla-wp-477-proc-badanych-przeciw-442-proc-za/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "photo",
+      "id": "2026-11-16-wm-10",
+      "title": "Waszyngton, Thomas Circle",
+      "by": "Esther Bubley, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Thomas_Circle8d28139v.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Thomas_Circle8d28139v.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "article",
+      "id": "2026-11-16-fotofocus-fotografia-wobec-ai",
+      "lang": "en",
+      "title": "Czy AI zabije fotografię? Lekcja z Cincinnati",
+      "by": "Dazed",
+      "text": "Biennale FotoFocus pokazało, jak fotografowie odpowiadają na generatywną sztuczną inteligencję – od Trevora Paglena po zabawkowe aparaty Nancy Rexroth. Autor przypomina, że malarstwo też miało umrzeć przez fotografię, a jedynie się przeobraziło.",
+      "src": "https://www.dazeddigital.com/art-photography/article/71149/1/photography-crisis-trevor-paglen-nancy-rexroth-cincinnati-fotofocus-biennial",
+      "srcName": "Dazed",
+      "img": "https://images-prod.dazeddigital.com/846/168-186-846-564/azure/dazed-prod/1450/7/1457382.jpg"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "news",
+      "id": "2026-11-16-kanary-rekord-migrantow",
+      "lang": "pl",
+      "title": "Rekordowy dzień na Wyspach Kanaryjskich",
+      "text": "W sobotę na 14 łodziach dotarło tam niemal 1500 migrantów z Afryki Zachodniej – najwięcej jednego dnia od 2020 roku. Temat zdominował hiszpańską kampanię przed wyborami 29 listopada.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-15/migranci-szturmowali-wyspy-kanaryjskie-takich-liczb-nie-bylo-od-lat/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "photo",
+      "id": "2026-11-16-wm-11",
+      "title": "Pie Town, śpiewające dzieci w szkole",
+      "by": "Russell Lee, 1940",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/School_children_singing,_Pie_Town,_New_Mexico_(LOC).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:School_children_singing,_Pie_Town,_New_Mexico_(LOC).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "news",
+      "id": "2026-11-16-milei-reelekcja",
+      "lang": "pl",
+      "title": "Milei ogłasza, że powalczy o drugą kadencję",
+      "text": "Prezydent Argentyny w przemówieniu w Casa Rosada potwierdził, że wystartuje w kolejnych wyborach. Zapowiedział też dalsze cięcia w duchu swojej „piły łańcuchowej”.",
+      "src": "https://www.rmf24.pl/fakty/swiat/news-prezydent-atakuje-pila-lancuchowa-i-oglasza-ide-po-reelekcje,nIdn,1026146",
+      "srcName": "RMF24"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "photo",
+      "id": "2026-11-16-wm-12",
+      "title": "Londyn, niezależny pucybut",
+      "by": "John Thomson, 1877",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/John_Thomson_-_The_Independent_Shoe-Black_(AIC_2012.234.19)_-_cropped.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:John_Thomson_-_The_Independent_Shoe-Black_(AIC_2012.234.19)_-_cropped.jpg",
+      "srcName": "Wikimedia Commons"
+    },
     {
       "date": "2026-11-15",
       "type": "video",
@@ -5775,253 +6140,6 @@
       "text": "Yōji Kuri's 1972 short The Midnight Parasites drops viewers into The Garden of Earthly Delights. A psychedelic loop of life, death and rebirth with a satirical edge.",
       "src": "https://www.openculture.com/2026/10/a-surreal-japanese-animation-set-in-the-world-of-hieronymus-boschs-the-garden-of-earthly-delights.html",
       "srcName": "Open Culture"
-    },
-    {
-      "id": "2026-10-16-fotograf-dnia-alex-webb",
-      "date": "2026-10-16",
-      "type": "profile",
-      "kind": "Fotograf dnia",
-      "title": "Alex Webb",
-      "text": "Fotograf Magnum, mistrz gęstego, nasyconego koloru. Jego kadry z Meksyku, Haiti i Karaibów układają kilka planów akcji w jednym ujęciu, w ostrym świetle i głębokich cieniach. Warto zacząć od książki „La Calle”.",
-      "src": "https://www.magnumphotos.com/photographer/alex-webb/",
-      "srcName": "Magnum Photos",
-      "links": [
-        [
-          "Portfolio w Magnum",
-          "https://www.magnumphotos.com/photographer/alex-webb/"
-        ],
-        [
-          "Instagram",
-          "https://www.instagram.com/alexwebbphoto/"
-        ]
-      ]
-    },
-    {
-      "id": "2026-10-16-dn-faranooka",
-      "date": "2026-10-16",
-      "type": "video",
-      "kind": "Film krótkometrażowy · sci-fi",
-      "title": "FARANOOKA",
-      "by": "Craig Bingham",
-      "text": "Mityczne fantasy na praktycznych efektach i eksperymentalnym dźwięku. W świecie wiecznej ciemności rodzi się dziecko niosące pierwsze światło, a łowca Angbor rusza w mrok, trochę jak u Dantego.",
-      "embed": {
-        "p": "yt",
-        "id": "2UjAN2zget0"
-      },
-      "dur": 413,
-      "img": "https://directorsnotes.com/wp-content/uploads/2026/10/faranooka_short_film_02.jpg",
-      "src": "https://directorsnotes.com/2026/10/14/craig-bingham-faranooka/",
-      "srcName": "Directors Notes"
-    },
-    {
-      "id": "2026-10-16-mv-tinariwen",
-      "date": "2026-10-16",
-      "type": "video",
-      "kind": "Teledysk · animacja",
-      "title": "Tinariwen – Erghad Afewo",
-      "by": "reż. Axel Digoix",
-      "text": "Rysowana, komiksowa animacja osadzona na Saharze, w której polityczny konflikt splata się z osobistym dramatem.",
-      "embed": {
-        "p": "yt",
-        "id": "Snu2cGohYC4"
-      },
-      "dur": 221,
-      "src": "https://www.promonews.tv/videos/2026/10/14/tinariwen-erghad-afewo-axel-digoix/96384",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-16-art-montblanc",
-      "date": "2026-10-16",
-      "type": "article",
-      "lang": "en",
-      "title": "Mont Blanc has grown by almost two metres",
-      "text": "The latest survey puts the summit at 4,807.47 m. The height of the ice cap shifts from year to year with snowfall and wind, so the mountain's official number keeps moving.",
-      "src": "https://www.euronews.com/video/2026/10/14/mont-blanc-rises-by-almost-two-metres-now-standing-at-480747-metres",
-      "srcName": "Euronews"
-    },
-    {
-      "id": "2026-10-16-mv-bicep-viper",
-      "date": "2026-10-16",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "BICEP & Clark – Viper",
-      "by": "reż. Ryan Doubiago",
-      "text": "Część trzyczęściowego filmu o dwóch brytyjskich ekipach na jednej 24-godzinnej imprezie. Kulminacja nocy nakręcona dynamiczną kamerą i własnym systemem bullet-time.",
-      "embed": {
-        "p": "yt",
-        "id": "xouLR3XcFWQ"
-      },
-      "dur": 286,
-      "src": "https://www.promonews.tv/videos/2026/10/07/bicep-viper-air-and-lemonder-ryan-doubiago/96487",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-16-dn-busy-bodies",
-      "date": "2026-10-16",
-      "type": "video",
-      "kind": "Animacja",
-      "title": "Busy Bodies",
-      "by": "Kate Renshaw-Lewis",
-      "text": "Ręcznie drukowana animacja w trzech kolorach: domowa „fabryka”, w której maleńcy robotnicy obsługują maszyny Rube’a Goldberga produkujące gumowe rękawiczki. Film o niewidocznej pracy stojącej za masową produkcją.",
-      "embed": {
-        "p": "yt",
-        "id": "k0po0DzYZws"
-      },
-      "dur": 348,
-      "img": "https://directorsnotes.com/wp-content/uploads/2026/10/busy_bodies_01.jpg",
-      "src": "https://directorsnotes.com/2026/10/01/kate-renshaw-lewis-busy-bodies/",
-      "srcName": "Directors Notes"
-    },
-    {
-      "id": "2026-10-16-art-stirling-2026",
-      "date": "2026-10-16",
-      "type": "article",
-      "lang": "en",
-      "title": "Lion Green Road housing wins the 2026 Stirling Prize",
-      "text": "A housing scheme took Britain's top architecture award this year, and Dezeen's weekly asks whether it was the right pick.",
-      "src": "https://www.dezeen.com/2026/10/15/lion-green-road-riba-stirling-prize-2026/",
-      "srcName": "Dezeen"
-    },
-    {
-      "id": "2026-10-16-mv-elmiene",
-      "date": "2026-10-16",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Elmiene & Fujii Kaze – Comets + Gold",
-      "by": "reż. Peter Reinstein",
-      "text": "Jedno ujęcie przez obiektyw 1200 mm: wschód księżyca obliczony co do sekundy i nakręcony na żywo za plecami wokalisty.",
-      "embed": {
-        "p": "yt",
-        "id": "7E9ZXITzgcc"
-      },
-      "dur": 190,
-      "src": "https://www.promonews.tv/videos/2026/10/15/elmiene-comets-and-gold-moon-rising-peter-reinstein/96649",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-16-dn-dont-puke",
-      "date": "2026-10-16",
-      "type": "video",
-      "kind": "Film krótkometrażowy · komedia",
-      "title": "Don't Puke",
-      "by": "Daniel Chisholm",
-      "text": "Siedem minut w głowie bardzo pijanej Charlie wracającej na kanapę. Subiektywna kamera, fotogrametria i Gaussian splatting oddają chwiejną dezorientację tej nocy.",
-      "embed": {
-        "p": "yt",
-        "id": "OIC4AUMNk0E"
-      },
-      "dur": 517,
-      "img": "https://directorsnotes.com/wp-content/uploads/2026/09/dont_puke_01.jpg",
-      "src": "https://directorsnotes.com/2026/10/05/daniel-chisholm-dont-puke/",
-      "srcName": "Directors Notes"
-    },
-    {
-      "id": "2026-10-16-art-tate-90s",
-      "date": "2026-10-16",
-      "type": "article",
-      "lang": "en",
-      "title": "Edward Enninful curates the 90s at Tate Britain",
-      "text": "A new show revisits 1990s Britain through fashion by Westwood and McQueen alongside photographs by Juergen Teller and Corinne Day. Runs until mid-February 2027.",
-      "src": "https://dazeddigital.com/art-photography/article/69376/1/photography-shows-2026-guide-exhibitions-london-denmark-new-york",
-      "srcName": "Dazed"
-    },
-    {
-      "id": "2026-10-16-mv-lambrini",
-      "date": "2026-10-16",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Lambrini Girls – Bang Bang Bang",
-      "by": "reż. Harv Frost",
-      "text": "Zespół gra w ciasnym pomieszczeniu: konfrontacja przechodzi we wspólny trans, przecinany zwolnionymi zbliżeniami.",
-      "embed": {
-        "p": "yt",
-        "id": "_JgO7EP9k7A"
-      },
-      "dur": 143,
-      "src": "https://www.promonews.tv/videos/2026/10/09/lambrini-girls-bang-bang-bang-harv-frost/96561",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-16-mv-lil-nas-x",
-      "date": "2026-10-16",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Lil Nas X – World's Greatest!",
-      "by": "reż. Phillip Youmans",
-      "text": "Wspomnienia z dzieciństwa, taniec i filmowe, nastrojowe kadry. Młodszy i obecny artysta idą obok siebie w hołdzie dla jego zmarłej matki.",
-      "embed": {
-        "p": "yt",
-        "id": "clkCS0Fk8Hk"
-      },
-      "dur": 369,
-      "src": "https://www.promonews.tv/videos/2026/10/12/lil-nas-x-world%E2%80%99s-greatest-phillip-youmans/96606",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-16-art-frieze",
-      "date": "2026-10-16",
-      "type": "article",
-      "lang": "en",
-      "title": "Frieze London blurs art, gaming and reality",
-      "text": "This year's edition of the London art fair leans into works that borrow from video games and interactive worlds, making visitors players as much as viewers.",
-      "src": "https://www.euronews.com/video/2026/10/15/uk-frieze-london-blurs-the-lines-between-art-gaming-and-reality",
-      "srcName": "Euronews"
-    },
-    {
-      "id": "2026-10-16-mv-knats",
-      "date": "2026-10-16",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Knats – Bowling Ball",
-      "by": "reż. Lulu Vicedomini",
-      "text": "Teledysk duetu jazzowego z Newcastle w reżyserii Lulu Vicedomini.",
-      "embed": {
-        "p": "yt",
-        "id": "k42lZqDbaZw"
-      },
-      "dur": 258,
-      "src": "https://www.promonews.tv/videos/2026/10/14/knats-bowling-ball-lulu-vicedomini/96405",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-16-art-wright-planetarium",
-      "date": "2026-10-16",
-      "type": "article",
-      "lang": "en",
-      "title": "Frank Lloyd Wright's planetarium restored",
-      "text": "Florida Southern College, home to the largest single-site collection of Wright buildings, has brought his campus planetarium back to life.",
-      "src": "https://www.dezeen.com/2026/10/15/florida-southern-college-frank-lloyd-wright-planetarium-restoration/",
-      "srcName": "Dezeen"
-    },
-    {
-      "id": "2026-10-16-art-glacier",
-      "date": "2026-10-16",
-      "type": "article",
-      "lang": "en",
-      "title": "Slovenia fights to keep its last glacier",
-      "text": "With the ice melting from every side, Slovenia is trying drastic measures to slow the disappearance of the country's final glacier.",
-      "src": "https://www.euronews.com/video/2026/10/15/it-melts-all-sides-slovenia-takes-drastic-measures-to-stop-its-last-glacier-from-vanishing",
-      "srcName": "Euronews"
-    },
-    {
-      "id": "2026-10-16-art-irish-rainforest",
-      "date": "2026-10-16",
-      "type": "article",
-      "lang": "en",
-      "title": "A guesthouse in an Irish rainforest",
-      "text": "Tokyo studio Schemata Architects has restored Linden House, a guesthouse tucked into one of Ireland's surviving temperate rainforests.",
-      "src": "https://www.dezeen.com/2026/10/15/schemata-architects-linden-house/",
-      "srcName": "Dezeen"
-    },
-    {
-      "id": "2026-10-16-art-golden-hour",
-      "date": "2026-10-16",
-      "type": "article",
-      "lang": "en",
-      "title": "Where golden hour looks best, according to a meteorologist",
-      "text": "A ranking of places with the most reliable warm, low evening light, topped by spots like Namibia's Etosha National Park. Useful reading for anyone who plans shoots around the sun.",
-      "src": "https://www.euronews.com/2026/10/16/these-are-the-worlds-best-destinations-for-golden-hour-according-to-a-meteorologist",
-      "srcName": "Euronews"
     }
   ]
 }
