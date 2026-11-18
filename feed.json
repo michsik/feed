@@ -1,6 +1,378 @@
 {
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "items": [
+    {
+      "date": "2026-11-18",
+      "type": "video",
+      "id": "2026-11-18-saint-laurent-french-water",
+      "kind": "Film modowy",
+      "title": "Saint Laurent – „French Water”",
+      "by": "reż. Jim Jarmusch",
+      "text": "Po wystawnej kolacji Charlotte Gainsbourg, Chloë Sevigny, Julianne Moore i Indya Moore błądzą po lustrzanych korytarzach w poszukiwaniu siebie nawzajem, ubrane w kolekcję Anthony'ego Vaccarello na lato 2021. Jarmusch robi z tego dziewięć minut sennego, lekko absurdalnego kina, nad którym czuwa obojętny kelner.",
+      "embed": {
+        "p": "yt",
+        "id": "f1Sty3Crl2E"
+      },
+      "dur": 540,
+      "img": "https://images-prod.anothermag.com/888/90-119-888-592/azure/another-prod/400/8/408178.jpg",
+      "src": "https://anothermag.com/fashion-beauty/13267/watch-jim-jarmuschs-surreal-star-studded-short-for-saint-laurent",
+      "srcName": "AnOther"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "news",
+      "id": "2026-11-18-sejm-odrzuca-wotum-nieufnosci",
+      "lang": "pl",
+      "title": "Rząd Tuska przetrwał głosowanie nad wotum nieufności",
+      "text": "Sejm odrzucił konstruktywne wotum nieufności złożone przez klub Rozwój Plus: za było 200 posłów, przeciw 242, a potrzeba było co najmniej 231 głosów. Wniosek poparły PiS, Rozwój Plus i obie Konfederacje, przeciw głosowała koalicja rządząca oraz Razem.",
+      "src": "https://tvn24.pl/polska/konstruktywne-wotum-nieufnosci-wobec-rzadu-donalda-tuska-jak-zaglosowano-w-sejmie-st9343795",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "photo",
+      "id": "2026-11-18-wm-01",
+      "title": "Nowy Jork, Hell's Kitchen i Sebastopol",
+      "by": "Jacob Riis, ok. 1890",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/35/Jacob_Riis_-_Hells_Kitchen_and_Sebastopol_-_photograph.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Jacob_Riis_-_Hells_Kitchen_and_Sebastopol_-_photograph.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "article",
+      "id": "2026-11-18-brudne-strony-radziszewski",
+      "lang": "pl",
+      "title": "Archiwum DIK Fagazine w Galerii Studio",
+      "by": "Patrycja Ignaczak",
+      "text": "Wystawa Karola Radziszewskiego na 21-lecie DIK Fagazine wyciąga na wierzch prywatne i marginalne queerowe historie Europy Środkowo-Wschodniej. Recenzentka chwali temat, ale uważa, że uporządkowana ekspozycja przypominająca czytelnię tłumi prowokacyjny charakter archiwum, a sama wystawa jest mocno męskocentryczna.",
+      "img": "https://magazynszum.pl/wp-content/uploads/2026/11/bs1a9119-1440x960.jpg",
+      "src": "https://magazynszum.pl/nie-az-tak-brudne-strony-karola-radziszewskiego-w-galerii-studio/",
+      "srcName": "Magazyn SZUM"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "photo",
+      "id": "2026-11-18-wm-02",
+      "title": "Nowy Jork, szwalnia przy Ludlow Street",
+      "by": "Jacob Riis, ok. 1890",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Jacob_Riis_-_A_Ludlow_Street_Sweater%27s_Shop.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Jacob_Riis_-_A_Ludlow_Street_Sweater%27s_Shop.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "news",
+      "id": "2026-11-18-eu-45-mld-euro-dla-ukrainy",
+      "lang": "pl",
+      "title": "KE proponuje kolejne 45 mld euro pożyczek dla Ukrainy na 2027 rok",
+      "text": "Komisja Europejska chce przeznaczyć 25 mld euro na ukraiński przemysł zbrojeniowy i 20 mld na wsparcie budżetu w zamian za reformy, a Kijów spłaciłby dług dopiero po otrzymaniu reparacji od Rosji. Przywódcy UE mają o tym rozmawiać na szczycie 26–27 listopada.",
+      "src": "https://kyivindependent.com/exclusive-eu-proposes-additional-45-billion-euros-for-ukraine-seeks-to-incentivize-allies-to-step-up/",
+      "srcName": "Kyiv Independent"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "news",
+      "id": "2026-11-18-etpc-odrzuca-wniosek-swieczkowskiego",
+      "lang": "pl",
+      "title": "Strasburg odrzuca wniosek Święczkowskiego i Sochańskiego",
+      "text": "Europejski Trybunał Praw Człowieka jednogłośnie odmówił zastosowania środka tymczasowego, o który prosili prezes i wiceprezes TK zawieszeni w obowiązkach. Komunikat w sprawie uchylenia ich immunitetów, rozpatrywanych we wtorek przez Zgromadzenie Ogólne TK, ma zostać ogłoszony w środę.",
+      "src": "https://tvn24.pl/polska/bogdan-swieczkowski-i-bartlomiej-sochanski-zwrocili-sie-do-europejskiego-trybunalu-praw-czlowieka-jest-odpowiedz-st9343563",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "photo",
+      "id": "2026-11-18-wm-03",
+      "title": "Raceland, Luizjana – przy piwie",
+      "by": "Russell Lee, 1938",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Raceland_Louisiana_Beer_Drinkers_Russell_Lee.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Raceland_Louisiana_Beer_Drinkers_Russell_Lee.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "article",
+      "id": "2026-11-18-astralne-cialo-czatbota",
+      "lang": "pl",
+      "title": "Czatbot udający zmarłą matkę na scenie",
+      "by": "Witold Mrozek",
+      "text": "W spektaklu Teatru Kombinat żałoba syna przechodzi w rozmowę widzów z botem naśladującym jego zmarłą matkę, co otwiera pytania o etykę cyfrowego wskrzeszania bliskich. Mrozek przegląda też inne polskie przedstawienia sięgające po AI i podejrzewa, że najwięcej pracy wykonuje ona za kulisami, przy pisaniu wniosków grantowych.",
+      "img": "https://dwutygodnik-storage.s3.eu-central-1.amazonaws.com/prod/public/media/uploads/1794564954946-11-v6ScaleWidthWzE0MDBd.jpeg",
+      "src": "https://www.dwutygodnik.com/artykul/12762-astralne-cialo-czatbota.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "video",
+      "id": "2026-11-18-paloma-faith-gone",
+      "kind": "Teledysk",
+      "title": "Paloma Faith – „Gone”",
+      "by": "reż. Theo Adams (Casino)",
+      "text": "Zaczyna się jak występ w studiu telewizyjnym z lat 70. czy 80., kręcony na kamerach z epoki, aż w połowie piosenki Paloma Faith rozszczepia się na dwie: jedna śpiewa dalej do kamer, druga błąka się po zapleczu, gdzie budują i oświetlają inne programy. Theo Adams, performer i reżyser teatralny, robi z tego zgrabną opowieść o rozdwojeniu scenicznej i prywatnej osoby.",
+      "embed": {
+        "p": "yt",
+        "id": "jdPP8z9Fja4"
+      },
+      "dur": 182,
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Paloma%20Faith%20Gone%20by%20Theo%20Adams.jpeg?itok=HAiff5ce",
+      "src": "https://www.promonews.tv/videos/2026/11/17/paloma-faith-gone-theo-adams/97013",
+      "srcName": "Promonews"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "photo",
+      "id": "2026-11-18-wm-04",
+      "title": "Oklahoma, pary na wiejskiej potańcówce",
+      "by": "Russell Lee, 1939",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Couples_at_square_dance._McIntosh_County,_Oklahoma,_1939_or_1940.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Couples_at_square_dance._McIntosh_County,_Oklahoma,_1939_or_1940.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "news",
+      "id": "2026-11-18-berlin-rozmowy-o-ukrainie",
+      "lang": "pl",
+      "title": "Zełenski zapowiada rozmowy z USA i Europą w Berlinie",
+      "text": "Jeszcze w tym tygodniu, prawdopodobnie 19 listopada, wysłannicy USA, Ukrainy i europejskich sojuszników mają w Berlinie uzgadniać stanowiska przed kolejnym etapem negocjacji z Rosją. Tego samego dnia kanclerz Merz ma gościć szczyt „koalicji chętnych”.",
+      "src": "https://kyivindependent.com/zelensky-announces-berlin-talks-with-us-european-allies-to-shape-next-phase-of-russia-negotiations/",
+      "srcName": "Kyiv Independent"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "news",
+      "id": "2026-11-18-prezydent-zmiany-w-rzadzie-piatek",
+      "lang": "pl",
+      "title": "Nawrocki w piątek zatwierdzi zmiany w rządzie",
+      "text": "Rzecznik prezydenta zapowiedział, że w piątek o 11.00 Karol Nawrocki dokona zmian w Radzie Ministrów. Na nominację czekają Agnieszka Bartol jako nowa ministra funduszy oraz Andrzej Domański, desygnowany na wicepremiera.",
+      "src": "https://tvn24.pl/polska/prezydent-karol-nawrocki-dokona-zmian-w-radzie-ministrow-komunikat-rafala-leskiewicza-st9343618",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "photo",
+      "id": "2026-11-18-wm-05",
+      "title": "Gee's Bend, Alabama – z wodą do domu",
+      "by": "Arthur Rothstein, 1937",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/10/Annie_Pettway_Lewis_Bendolph_carrying_water_in_Gee%27s_Bend,_Alabama.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Annie_Pettway_Lewis_Bendolph_carrying_water_in_Gee%27s_Bend,_Alabama.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "article",
+      "id": "2026-11-18-tehran-fashionistas",
+      "lang": "en",
+      "title": "Tehran's quiet fashion revolution",
+      "by": "Parisa Khoshnami",
+      "text": "With the state distracted by wartime threats, young women along Tehran's Iranshahr street increasingly go out bareheaded and dressed to be seen. The essay frames these everyday choices as a mass, unorganised shift in norms that the authorities answer only with sporadic crackdowns.",
+      "img": "https://images.aeonmedia.co/images/aadc8bad-88e2-4670-bc0a-b6a8c5190408/essay-gettyimages-2294390691.jpg?width=1200&quality=75&format=jpeg",
+      "src": "https://aeon.co/essays/its-not-political-the-young-fashionistas-of-tehran",
+      "srcName": "Aeon"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "photo",
+      "id": "2026-11-18-wm-06",
+      "title": "Dworzec autobusowy, poczekalnia dla kolorowych",
+      "by": "Esther Bubley, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/1943_Colored_Waiting_Room_Sign.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:1943_Colored_Waiting_Room_Sign.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "news",
+      "id": "2026-11-18-trump-gotow-spotkac-putina-w-chinach",
+      "lang": "pl",
+      "title": "Trump z Manili: mogę spotkać się z Putinem osobno w Chinach",
+      "text": "Przebywający na szczycie ASEAN na Filipinach Trump powiedział, że chętnie porozmawia z Putinem w cztery oczy przy okazji szczytu APEC w Shenzhen. Szef ukraińskiej dyplomacji ostrzegł, że rozmowy USA, Rosji i Chin bez Kijowa mogą tylko zachęcić Kreml do kontynuowania wojny.",
+      "src": "https://kyivindependent.com/trump-says-he-is-willing-to-hold-separate-talks-with-putin-in-china/",
+      "srcName": "Kyiv Independent"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "news",
+      "id": "2026-11-18-mswia-scenariusze-uchodzcy-zima",
+      "lang": "pl",
+      "title": "MSWiA przygotowuje się na zimową falę uchodźców z Ukrainy",
+      "text": "Resort analizuje trzy scenariusze, w tym masowy napływ, gdyby rosyjskie ataki na energetykę wywołały blackout w ukraińskich miastach – eksperci mówią nawet o 2,5 mln osób. Wiceminister Duszczyk uważa za najbardziej prawdopodobny przyjazd osób mających rodziny w Polsce i podkreśla, że sytuacji kryzysowej nie ma.",
+      "src": "https://www.rmf24.pl/fakty/polska/news-25-mln-uchodzcow-przyjedzie-do-polski-trzy-scenariusze-zimow,nIdn,1026388",
+      "srcName": "RMF24"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "video",
+      "id": "2026-11-18-tlc-no-scrubs",
+      "kind": "Teledysk · klasyka",
+      "title": "TLC – „No Scrubs”",
+      "by": "reż. Hype Williams",
+      "text": "Hype Williams wysyła TLC na futurystyczną stację kosmiczną: srebrno-niebieskie kombinezony, Chilli na huśtawce, Left Eye trenująca sztuki walki i chłodna, milenijna estetyka, która zdefiniowała wygląd R&B końca lat 90. Klip zdobył w 1999 roku MTV VMA za najlepszy teledysk grupy.",
+      "embed": {
+        "p": "yt",
+        "id": "FrLequ6dUdM"
+      },
+      "dur": 250,
+      "img": "https://i.ytimg.com/vi/FrLequ6dUdM/hqdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/No_Scrubs",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "photo",
+      "id": "2026-11-18-wm-07",
+      "title": "Asheville, skrzypek z gór",
+      "by": "Ben Shahn, 1937",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Fiddlin%27_Bill_Hensley,_mountain_fiddler,_Asheville,_North_Carolina_(LOC).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Fiddlin%27_Bill_Hensley,_mountain_fiddler,_Asheville,_North_Carolina_(LOC).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "article",
+      "id": "2026-11-18-winter-foxes",
+      "lang": "en",
+      "title": "Foxes at rest in the snow",
+      "by": "Kate Mothes",
+      "text": "Roeselien Raimond photographs foxes dozing calmly in wintry landscapes, a series that began with a chance meeting with a vixen during a snowstorm. She ties the images to the Zen idea that stillness, not pursuit, brings what we seek closer.",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/zen-fox-2.jpg",
+      "src": "https://www.thisiscolossal.com/2026/11/roeselien-raimond-zen-and-the-art-of-winter-foxes-photography/",
+      "srcName": "Colossal"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "photo",
+      "id": "2026-11-18-wm-08",
+      "title": "Natchez, Missisipi – handel końmi i mułami",
+      "by": "Ben Shahn, 1935",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Natchez,_Mississippi_October_1935_-_Lum_Bros_Horses_and_Mules_crop.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Natchez,_Mississippi_October_1935_-_Lum_Bros_Horses_and_Mules_crop.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "news",
+      "id": "2026-11-18-katastrofa-an-12-syberia",
+      "lang": "pl",
+      "title": "Katastrofa wojskowego An-12 na Syberii, zginęło 19 osób",
+      "text": "Rosyjski transportowiec rozbił się w obwodzie kemerowskim, a według resortu obrony nikt z 19 osób na pokładzie nie przeżył. Jako możliwą przyczynę wskazano usterkę techniczną.",
+      "src": "https://tvn24.pl/swiat/rosja-na-syberii-rozbil-sie-rosyjski-samolot-wojskowy-sa-zabici-st9344234",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "news",
+      "id": "2026-11-18-sge-zepak-male-reaktory",
+      "lang": "pl",
+      "title": "Sołowow i ZE PAK chcą zbudować sześć małych reaktorów",
+      "text": "Synthos Green Energy i ZE PAK podpisały umowę o budowie sześciu modułowych reaktorów jądrowych na terenach należących do ZE PAK w centralnej Polsce. Do końca roku finansowanie ma sięgnąć 3,5 mld zł, a wejście do projektu rozważa Polski Fundusz Rozwoju.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-17/miliardy-zlotych-na-male-reaktory-jadrowe-inwestycje-moze-wesprzec-panstwo/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "photo",
+      "id": "2026-11-18-wm-09",
+      "title": "San Francisco po trzęsieniu ziemi",
+      "by": "Arnold Genthe, 1906",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/07/San_Francisco_earthquake_and_fire_of_1906_-_Genthe_-_LOC.png",
+      "src": "https://commons.wikimedia.org/wiki/File:San_Francisco_earthquake_and_fire_of_1906_-_Genthe_-_LOC.png",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "article",
+      "id": "2026-11-18-tolstoy-vegetarian",
+      "lang": "en",
+      "title": "Tolstoy, the novelist who gave up meat",
+      "by": "Josh Jones",
+      "text": "After his spiritual conversion, Tolstoy abandoned aristocratic habits, stopped eating animals and argued in an 1891 essay that killing for food was morally wrong. His stance rippled through the international vegetarian and humanitarian movements of his era.",
+      "img": "https://cdn8.openculture.com/2026/11/15233344/portrait_lighter_colorful-1024x533.png",
+      "src": "https://www.openculture.com/2026/11/how-leo-tolstoy-became-a-vegetarian-and-jumpstarted-the-vegetarian-humanitarian-movements.html",
+      "srcName": "Open Culture"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "photo",
+      "id": "2026-11-18-wm-10",
+      "title": "Paryż, lewy brzeg Sekwany",
+      "by": "Charles Marville, ok. 1860",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/93/Charles_Marville,_The_Left_Bank_of_the_Seine_from_the_Pont_des_Saints-P%C3%A8res_-_Getty_Museum.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Charles_Marville,_The_Left_Bank_of_the_Seine_from_the_Pont_des_Saints-P%C3%A8res_-_Getty_Museum.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "video",
+      "id": "2026-11-18-kwn-risk-it-all",
+      "kind": "Teledysk · nagroda",
+      "title": "kwn – „risk it all”",
+      "by": "reż. Sophie Jones (Somesuch)",
+      "text": "Zwycięzca UK Music Video Awards 2026 w kategorii Best Hip Hop / Grime / Rap Video – UK. Sophie Jones składa zabawny hołd teledyskom R&B z ery Y2K: z limuzyny do klubu pełnego przyjaciół, z najazdami, odjazdami i przejściami w rytm bitu.",
+      "embed": {
+        "p": "yt",
+        "id": "dYd1TyhMK40"
+      },
+      "dur": 188,
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/KWN%20Risk%20It%20All%20by%20Sophie%20Jones.jpg?itok=RlfECZwO",
+      "src": "https://www.promonews.tv/videos/2026/07/01/kwn-risk-it-all-sophie-jones/95515",
+      "srcName": "Promonews"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "news",
+      "id": "2026-11-18-praga-zderzenie-pociagow",
+      "lang": "pl",
+      "title": "Zderzenie pociągów w Pradze, 46 rannych",
+      "text": "Dwa pociągi pasażerskie zderzyły się we wtorek rano w pobliżu dworca głównego w Pradze; jeden z nich według czeskich mediów zignorował sygnał stop. Większość obrażeń jest lekka lub średnia, a ruch wznowiono po około sześciu godzinach.",
+      "src": "https://kyivindependent.com/15-ukrainians-among-46-injured-in-prague-train-collision-2/",
+      "srcName": "Kyiv Independent"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "photo",
+      "id": "2026-11-18-wm-11",
+      "title": "Londyn, dorożkarze na postoju",
+      "by": "John Thomson, 1877",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/15/London_Cabmen.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:London_Cabmen.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "article",
+      "id": "2026-11-18-mary-lovelace-oneal",
+      "lang": "en",
+      "title": "Mary Lovelace O'Neal's posthumous Requiem",
+      "by": "Stephanie Wambugu",
+      "text": "The first exhibition since the abstract painter's death fills Boesky Gallery with blackened canvases cut through by neon gestures and half-glimpsed figures. The review also follows her path from segregated Mississippi to a pioneering career that fused formal daring with politics.",
+      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/11/Mary-Lovelace-O-Neal---Requiem-for-a-Daffodil--1997-_copyright-Estate-of-Mary-Lovelace-O-Neal-and-courtesy-of-Boesky-Gallery.jpg",
+      "src": "https://hyperallergic.com/what-mary-lovelace-oneal-left-behind/",
+      "srcName": "Hyperallergic"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "photo",
+      "id": "2026-11-18-wm-12",
+      "title": "Pani White w pracowni",
+      "by": "Clarence H. White, 1907",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/03/Clarence_H._White,_Mrs._White_-_In_the_Studio,_1907,_NGA_137857.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Clarence_H._White,_Mrs._White_-_In_the_Studio,_1907,_NGA_137857.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "article",
+      "id": "2026-11-18-martin-puryear-nexus",
+      "lang": "en",
+      "title": "The hidden violence in Martin Puryear's sculpture",
+      "by": "Jasmine Amussen",
+      "text": "Visiting Puryear's Nexus show at Atlanta's High Museum, the critic reads his wooden forms almost like words and finds unexpected relief in front of an early piece. She argues that his natural materials and craft traditions conceal a liberating kind of violence.",
+      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/11/IMG_2420-1.jpg",
+      "src": "https://hyperallergic.com/martin-puryears-liberatory-violence/",
+      "srcName": "Hyperallergic"
+    },
     {
       "date": "2026-11-17",
       "type": "video",
@@ -6038,273 +6410,6 @@
       "img": "https://magazynszum.pl/wp-content/uploads/2026/10/msn-ed-100826-089-1440x1080.jpg",
       "src": "https://magazynszum.pl/klasa-srednia-patrzy-na-geby-roboli-edward-dwurnik-duma-i-wstyd-w-muzeum-sztuki-nowoczesnej-w-warszawie/",
       "srcName": "Szum"
-    },
-    {
-      "id": "2026-10-18-lbb-fontaines-dc-tongue",
-      "date": "2026-10-18",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Fontaines D.C. – „Tongue”",
-      "by": "reż. PHC / John Angus Stewart (Academy Films)",
-      "text": "Surowa, ziarnista jazda przez nocny Nowy Jork, nakręcona w plenerze, w duchu lo-fi. Zespół wraca w klipie, który brzmi jak sam utwór: nerwowo i bez wygładzania.",
-      "embed": {
-        "p": "yt",
-        "id": "5OsIwKHppho"
-      },
-      "img": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-10/academy-films.572ie0hR.png",
-      "src": "https://lbbonline.com/news/fontaines-d-c-tongue-music-video",
-      "srcName": "LBB"
-    },
-    {
-      "id": "2026-10-18-art-ann-toebbe-paintings",
-      "date": "2026-10-18",
-      "type": "article",
-      "lang": "en",
-      "title": "Ann Toebbe paints rooms as they feel, not as they look",
-      "text": "The Chicago artist builds patterned interiors from gouache, oil and collage, bending perspective so homes turn into maps of memory. A selection is on show at Andrew Rafacz in Chicago until the end of October.",
-      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/toebbe-8.jpg",
-      "src": "https://www.thisiscolossal.com/2026/10/ann-toebbe-mixed-media-paintings/",
-      "srcName": "Colossal"
-    },
-    {
-      "id": "2026-10-18-pn-son-lux-out-into-us",
-      "date": "2026-10-18",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Son Lux – „Out Into Us”",
-      "by": "reż. Alex Cook (Caviar)",
-      "text": "Rodzina w samotnym domu na równinie szykuje się na nadciągającą burzę, aż okazuje się, że żywioł jest zbudowany jak dekoracja. Pięciominutowa wersja 17-minutowego utworu, powiązana z instalacją pokazywaną w amerykańskich muzeach.",
-      "embed": {
-        "p": "yt",
-        "id": "qOJ2taoQBwM"
-      },
-      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Son%20Lux%20%27Out%20Into%20Us%27%20by%20Alex%20Cook.png?itok=HUXbujUc",
-      "src": "https://www.promonews.tv/videos/2026/09/30/son-lux-out-us-alex-cook/96447",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-18-art-robin-f-williams-act-natural",
-      "date": "2026-10-18",
-      "type": "article",
-      "lang": "en",
-      "title": "Robin F. Williams mixes Disney princesses with cyborgs",
-      "text": "In a London pop-up during Frieze week, the Brooklyn painter fuses pop culture and art history to picture people slowly merging with their machines. The canvases make technology look both seductive and quietly horrifying, like a figure swallowed by a phone in bed.",
-      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/williams-6.jpg",
-      "src": "https://www.thisiscolossal.com/2026/10/robin-f-williams-paintings-act-natural/",
-      "srcName": "Colossal"
-    },
-    {
-      "id": "2026-10-18-pn-u2-silencio",
-      "date": "2026-10-18",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "U2 – „Silencio”",
-      "by": "reż. Cliqua (Somesuch)",
-      "text": "Klubowy salonik w Meksyku z czerwonymi kotarami i niebieskim światłem, jak wyjęty z filmów Lyncha. Zespół gra na środku, a wokół krążą wyrzutki, w tym sam diabeł.",
-      "embed": {
-        "p": "yt",
-        "id": "1mCN-RDh0-0"
-      },
-      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/U2%20%27Silencio%27%20by%20Cliqua.png?itok=3dzJBxLf",
-      "src": "https://www.promonews.tv/videos/2026/09/30/u2-silencio-cliqua/96480",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-18-pn-dfa1979-private-lives",
-      "date": "2026-10-18",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Death From Above 1979 – „Private Lives”",
-      "by": "reż. Eva Michon",
-      "text": "Kim Bodnia, aktor kultowego kina, tańczy sam w prywatnym studiu w Los Angeles. Czarno-biała taśma 16 mm i zdjęcia Edu Graua.",
-      "embed": {
-        "p": "yt",
-        "id": "jTU413OX9Ig"
-      },
-      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Death%20From%20Above%201979%20%27Private%20Lives%27%20by%20Eva%20Michon.png?itok=4QOQH749",
-      "src": "https://www.promonews.tv/videos/2026/10/05/death-above-1979-private-lives-eva-michon/96521",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-18-art-objects-with-narratives-pad",
-      "date": "2026-10-18",
-      "type": "article",
-      "lang": "en",
-      "title": "Collectible furniture that looks dug up rather than made",
-      "text": "Brussels gallery Objects with Narratives brought a show called What Remains? to PAD London, with an onyx coffee table shaped like a cushion and a rusted-steel shelf by Paul Cocksedge. Volcanic clay vessels, mohair lamps and patchwork copper lights complete the set.",
-      "img": "https://static.dezeen.com/uploads/2026/10/pad-london-objects-with-narratives-sq.jpg",
-      "src": "https://www.dezeen.com/2026/10/16/objects-with-narratives-collectible-design-pad/",
-      "srcName": "Dezeen"
-    },
-    {
-      "id": "2026-10-18-daft-punk-around-the-world",
-      "date": "2026-10-18",
-      "type": "video",
-      "kind": "Teledysk · klasyka",
-      "title": "Daft Punk – „Around the World”",
-      "by": "reż. Michel Gondry",
-      "text": "Gondry zamienił pętlę Daft Punk w żywą partyturę: roboty, mumie, szkielety, pływaczki i sportowcy z maleńkimi głowami krążą po scenie-płycie, a każda grupa tańczy dokładnie jeden instrument. Choreografię ułożyła Blanca Li, a klip z 1997 roku wciąż bywa podawany jako wzorcowy przykład wizualizacji muzyki.",
-      "embed": {
-        "p": "yt",
-        "id": "K0HSD_i2DvA"
-      },
-      "img": "https://i.ytimg.com/vi/K0HSD_i2DvA/hqdefault.jpg",
-      "src": "https://en.wikipedia.org/wiki/Around_the_World_(Daft_Punk_song)",
-      "srcName": "Wikipedia"
-    },
-    {
-      "id": "2026-10-18-pn-sugababes-ghost",
-      "date": "2026-10-18",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Sugababes – „Ghost”",
-      "by": "reż. Thomas James (Artclass)",
-      "text": "Gotycki, nocny kondukt żałobny, w którym trio idzie na cmentarz. Mroczniej i dziwniej niż w ich dotychczasowych klipach.",
-      "embed": {
-        "p": "yt",
-        "id": "5y0prFnG1e8"
-      },
-      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Screenshot%202026-09-28%20at%2014.02.37.png?itok=IO61Fq2w",
-      "src": "https://www.promonews.tv/videos/2026/09/28/sugababes-ghost-thomas-james/96432",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-18-art-sewell-killingstad",
-      "date": "2026-10-18",
-      "type": "article",
-      "lang": "en",
-      "title": "Why personal projects bring the best commissions",
-      "text": "Baltimore designer Sewell Killingstad says their animated buttercup lettering for Olivia Rodrigo's festival grew out of work made purely for fun. Their advice: build a distinct voice of your own, keep reaching out, and let the right clients find you.",
-      "img": "https://m.itsnicethat.com/original_images/sewell_grassstains.png?class=w1440",
-      "src": "https://www.itsnicethat.com/articles/sewell-killingstad-graphic-design-discover-151026",
-      "srcName": "It's Nice That"
-    },
-    {
-      "id": "2026-10-18-pn-charlie-jeer-jennifer",
-      "date": "2026-10-18",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Charlie Jeer – „Jennifer”",
-      "by": "reż. Douglas Reddan (FRIEND)",
-      "text": "Minimusical nakręcony w jednym ujęciu ze steadicamu: były saksofonista i trzech tancerzy przechodzą przez modernistyczny dom w stylizacjach z lat 70.",
-      "embed": {
-        "p": "yt",
-        "id": "9-iaBFppsME"
-      },
-      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/webform/jenniferstills_1.3.15.jpeg?itok=58SVVt5q",
-      "src": "https://www.promonews.tv/videos/2026/10/02/charlie-jeer-jennifer-douglas-reddan/96510",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-18-childish-gambino-this-is-america",
-      "date": "2026-10-18",
-      "type": "video",
-      "kind": "Teledysk · nagroda",
-      "title": "Childish Gambino – „This Is America”",
-      "by": "reż. Hiro Murai",
-      "text": "Klip zdobył nagrodę Grammy 2019 (61. gala) w kategorii Best Music Video, a na Camerimage nagrodzono jego zdjęcia. Murai prowadzi kamerę przez jeden magazyn, w którym taniec i nagłe akty przemocy przeplatają się tak, że widz nie nadąża z oddechem.",
-      "embed": {
-        "p": "yt",
-        "id": "VYOjWnS4cMY"
-      },
-      "img": "https://i.ytimg.com/vi/VYOjWnS4cMY/hqdefault.jpg",
-      "src": "https://en.wikipedia.org/wiki/This_Is_America_(Childish_Gambino_song)",
-      "srcName": "Wikipedia"
-    },
-    {
-      "id": "2026-10-18-art-aeon-deskilled-bodies",
-      "date": "2026-10-18",
-      "type": "article",
-      "lang": "en",
-      "title": "Outsourcing effort to gadgets may be weakening our bodies",
-      "text": "Philosopher Melanie Challenger argues that GPS, phones and AI are quietly eroding our sense of direction, memory and attention. She claims intelligence lives in physical engagement with the world, so removing all friction leaves us more fragile.",
-      "img": "https://images.aeonmedia.co/images/b060a785-e136-4e8e-bd82-6085cc21e62a/essay-final-nn11563596.jpg?width=1200&quality=75&format=jpeg",
-      "src": "https://aeon.co/essays/the-more-we-rely-on-tech-the-more-we-deskill-our-bodies",
-      "srcName": "Aeon"
-    },
-    {
-      "id": "2026-10-18-pn-pretty-sick-anarchy",
-      "date": "2026-10-18",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Pretty Sick – „Anarchy”",
-      "by": "reż. Rodrigo Inada",
-      "text": "Banda dzieciaków porywa wokalistkę Sabrinę Fuentes z samochodu, bo wierzy, że jej gitara ściągnie kosmitów. Szybka, absurdalna komedia akcji z punkowym zębem.",
-      "embed": {
-        "p": "yt",
-        "id": "NW3zr0tffr4"
-      },
-      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Pretty%20Sick%20%27Anarchy%27%20by%20Rodrigo%20Inada.png?itok=sf9X_vAs",
-      "src": "https://www.promonews.tv/videos/2026/10/07/pretty-sick-anarchy-rodrigo-inada/96552",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-18-art-punk-na-lemkowszczyznie",
-      "date": "2026-10-18",
-      "type": "article",
-      "lang": "pl",
-      "title": "Punkowy festiwal w sercu Beskidu Niskiego",
-      "text": "Konstanty Usenko wybrał się na Zdynia DIY Fest, oddolną imprezę organizowaną na terenie Łemkowskiej Watry, i splata relację z koncertów z historią wysiedleń Łemków. Są młode kobiece zespoły, wegańskie łemkowskie jedzenie i zero zasięgu w telefonie.",
-      "src": "https://www.dwutygodnik.com/artykul/12714-punk-na-lemkowszczyznie.html",
-      "srcName": "Dwutygodnik"
-    },
-    {
-      "id": "2026-10-18-pn-keo-be-happy",
-      "date": "2026-10-18",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Keo – „Be Happy”",
-      "by": "reż. Tommy Davis",
-      "text": "Londyński zespół gra w ogrodzie pełnym słoneczników, a montaż przeskakuje do ponurej sali kinowej. Napięcie rośnie, aż obie przestrzenie wybuchają energią.",
-      "embed": {
-        "p": "yt",
-        "id": "gCOc-aWn158"
-      },
-      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Keo%20%27Be%20Happy%27%20by%20Tommy%20Davis.png?itok=bLXyIi3z",
-      "src": "https://www.promonews.tv/videos/2026/09/29/keo-be-happy-tommy-davis/96459",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-18-syny-nag-champa",
-      "date": "2026-10-18",
-      "type": "video",
-      "kind": "Teledysk · nagroda",
-      "title": "Syny – „Nag Champa”",
-      "by": "reż. Sebastian Pańczyk",
-      "text": "Teledysk do utworu duetu Syny zdobył Grand Prix festiwalu Yach Film w 2019 roku oraz nagrodę za montaż. Sebastian Pańczyk był zarówno scenarzystą, jak i reżyserem klipu, który promował album „Sen” wydany przez Latarnię.",
-      "embed": {
-        "p": "yt",
-        "id": "47LDQue0jRg"
-      },
-      "img": "https://i.ytimg.com/vi/47LDQue0jRg/hqdefault.jpg",
-      "src": "https://platige.com/news/teledysk-syny-nag-champa-z-grand-prix-festiwalu-yach-film-2019/",
-      "srcName": "Platige Image"
-    },
-    {
-      "id": "2026-10-18-art-polski-plakat-warda",
-      "date": "2026-10-18",
-      "type": "article",
-      "lang": "pl",
-      "title": "Krótka historia polskiego plakatu",
-      "text": "Michał Warda, kurator Muzeum Plakatu w Wilanowie, opowiada, jak zabory, wojna, cenzura PRL i transformacja kształtowały polski plakat. Rozmowa dotyka też plakatów cyfrowych i nowej wystawy stałej muzeum.",
-      "src": "https://www.dwutygodnik.com/artykul/12710-szybko-utracona-niewinnosc.html",
-      "srcName": "Dwutygodnik"
-    },
-    {
-      "id": "2026-10-18-cgm-livka-poza-toba-nic",
-      "date": "2026-10-18",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Livka – „poza Tobą nic”",
-      "by": "reż. Alex Pak",
-      "text": "Pierwszy singiel Livki po debiutanckim albumie „z papieru”, otwierający nowy rozdział jej solowej kariery. Klip podkreśla zmianę wizerunku artystki.",
-      "embed": {
-        "p": "yt",
-        "id": "3hvuEvFtmdg"
-      },
-      "img": "https://cgm.pl/wp-content/uploads/2026/08/livka-poza-toba-nic-scaled.jpg",
-      "src": "https://cgm.pl/news/livka-otwiera-nowy-rozdzial-solowej-kariery-znakomitym-teledyskiem-do-singla-poza-toba-nic/",
-      "srcName": "CGM.pl"
     }
   ]
 }
