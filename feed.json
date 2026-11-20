@@ -1,6 +1,366 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "items": [
+    {
+      "date": "2026-11-20",
+      "type": "video",
+      "id": "2026-11-20-gentle-monster-intelligent-eyewear-joaquin-phoenix",
+      "kind": "Film modowy",
+      "title": "Gentle Monster – „Intelligent Eyewear” z Joaquinem Phoenixem",
+      "by": "reż. Jonathan Glazer",
+      "text": "Jonathan Glazer obsadza Joaquina Phoenixa w eksperymentalnym, podszytym czarnym humorem filmie, w którym niezwykła technologia staje się czymś zupełnie zwyczajnym. To kampania pierwszej kolekcji inteligentnych okularów koreańskiej marki, pełna napięcia i absurdu.",
+      "embed": {
+        "p": "yt",
+        "id": "Sk6g8t2vQFs"
+      },
+      "img": "https://theimpression.com/wp-content/uploads/2026/11/Gentle-Monster-ad-2026-The-Impression-001-2.jpg",
+      "src": "https://theimpression.com/gentle-monster-part-two-intelligent-eyewear-2026-ad-campaign-review/",
+      "srcName": "The Impression"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "news",
+      "id": "2026-11-20-szczyt-shenzhen-bez-przelomu",
+      "lang": "pl",
+      "title": "Szczyt Trump–Xi–Putin w Shenzhen bez przełomu w sprawie Ukrainy",
+      "text": "Przywódcy USA, Chin i Rosji przyjęli wspólny komunikat o stabilności strategicznej, zapewnili, że wojny nuklearnej nie da się wygrać, i poparli reformę ONZ. W sprawie Ukrainy nie odnotowano postępu, a Putin wykluczył bezpośrednie rozmowy z Kijowem po ukraińskich atakach na Most Krymski.",
+      "src": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/",
+      "srcName": "CBS News"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "photo",
+      "id": "2026-11-20-wm-01",
+      "title": "Johnstown, Pensylwania – domy robotnicze",
+      "by": "Walker Evans, 1935",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Walker_Evans,_Johnstown_housing,_Pennsylvania,_1935.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Walker_Evans,_Johnstown_housing,_Pennsylvania,_1935.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "article",
+      "id": "2026-11-20-ancient-greek-inventions",
+      "lang": "en",
+      "title": "Plato's alarm clock and other ancient Greek inventions",
+      "text": "A short video tour of Greek engineering, from a water-driven alarm clock credited to Plato to the Diolkos, a paved track for dragging ships across the Isthmus of Corinth. It also admits how little we know about how the famous war machines actually worked in battle.",
+      "img": "https://cdn8.openculture.com/2026/11/18222205/maxresdefault-66-1024x576.jpg",
+      "src": "https://www.openculture.com/2026/11/the-amazing-inventions-of-ancient-greece.html",
+      "srcName": "Open Culture"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "photo",
+      "id": "2026-11-20-wm-02",
+      "title": "Nowy Jork – dorożka w wiosennym deszczu",
+      "by": "Alfred Stieglitz, ok. 1899",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Spring_Showers,_the_Coach_MET_DP233007.jpg/1280px-Spring_Showers,_the_Coach_MET_DP233007.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Spring_Showers,_the_Coach_MET_DP233007.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "news",
+      "id": "2026-11-20-zmasowany-atak-rosji-alert-rcb",
+      "lang": "pl",
+      "title": "Zmasowany rosyjski atak na Ukrainę, polskie myśliwce poderwane",
+      "text": "W nocy Rosja zaatakowała ukraińskie miasta rakietami i dronami, co przedstawiano jako odwet za uderzenia w Most Krymski. RCB wysłało alert mieszkańcom części Lubelszczyzny i Podkarpacia, a Dowództwo Operacyjne poderwało lotnictwo i podniosło gotowość obrony powietrznej.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-20/podniesiono-gotowosc-nocny-alert-rcb-wojsko-poderwalo-mysliwce/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "photo",
+      "id": "2026-11-20-wm-03",
+      "title": "Indianapolis – przed domem towarowym Woolworth",
+      "by": "John Vachon, ok. 1940",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/38/F._W._Woolworth%27s,_Indianapolis,_c._1940.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:F._W._Woolworth%27s,_Indianapolis,_c._1940.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "news",
+      "id": "2026-11-20-berlin-koalicja-chetnych-kushner",
+      "lang": "pl",
+      "title": "Koalicja chętnych w Berlinie, Kushner: Rosja akceptuje gwarancje dla Ukrainy",
+      "text": "Zełenski oraz ponad 40 europejskich przywódców spotkali się w Berlinie z wysłannikami USA Kushnerem i Witkoffem, a Trump dołączył telefonicznie po rozmowie z Putinem. Kushner twierdzi, że Moskwa jest gotowa przyjąć gwarancje bezpieczeństwa dla Kijowa wzorowane na NATO, ale termin kolejnej rundy rozmów nie został ustalony.",
+      "src": "https://www.pbs.org/newshour/world/kushner-says-russia-is-comfortable-with-nato-like-security-guarantees-for-ukraine-to-end-war-after-trump-talks-with-putin",
+      "srcName": "PBS NewsHour / AP"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "photo",
+      "id": "2026-11-20-wm-04",
+      "title": "Londyn – woźnica omnibusu „Cast-Iron Billy”",
+      "by": "John Thomson, 1877",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/df/Cast-Iron_Billy_(6707471205).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Cast-Iron_Billy_(6707471205).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "article",
+      "id": "2026-11-20-american-gothic-afterlife",
+      "lang": "en",
+      "title": "How American Gothic became everyone's favourite parody",
+      "text": "A review of Wanda M. Corn's new book, which uses her decades-long archive of spoofs to trace how Grant Wood's 1930 painting turned into a cultural icon. It also revisits the backlash Wood faced and his often overlooked life story.",
+      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/11/Untitled-Design--5-.jpg",
+      "src": "https://hyperallergic.com/how-american-gothic-took-on-a-life-of-its-own/",
+      "srcName": "Hyperallergic"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "photo",
+      "id": "2026-11-20-wm-05",
+      "title": "Nowy Jork – chłopiec z kapeluszami na Bleecker Street",
+      "by": "Lewis Hine, ok. 1912",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Boy_carrying_hats._Blee-c-ker_St.,_N.Y._MET_DP237959.jpg/1280px-Boy_carrying_hats._Blee-c-ker_St.,_N.Y._MET_DP237959.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Boy_carrying_hats._Blee-c-ker_St.,_N.Y._MET_DP237959.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "video",
+      "id": "2026-11-20-beastie-boys-sabotage",
+      "kind": "Teledysk · klasyka",
+      "title": "Beastie Boys – „Sabotage”",
+      "by": "reż. Spike Jonze",
+      "text": "Spike Jonze przebrał zespół w tanie peruki i wąsy, tworząc pastisz czołówek policyjnych seriali z lat 70. pełen pościgów, skoków i wybuchowej energii. W 1994 roku klip przegrał wszystkie pięć nominacji do MTV VMA, a w 2009 stacja przyznała mu nagrodę jako teledyskowi, który powinien był wtedy wygrać.",
+      "embed": {
+        "p": "yt",
+        "id": "z5rRZdiu1UE"
+      },
+      "img": "https://i.ytimg.com/vi/z5rRZdiu1UE/hqdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/Sabotage_(Beastie_Boys_song)",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "news",
+      "id": "2026-11-20-trump-odpowiada-tuskowi",
+      "lang": "pl",
+      "title": "Trump odpowiada Tuskowi i mówi o dronach, które spadły w Polsce przez pomyłkę",
+      "text": "Pytany w Fox News o wpis premiera krytykujący nazwanie Putina przyjacielem, Trump stwierdził, że nic na to nie poradzi, a rosyjskie drony i rakiety miały trafić do Polski przypadkiem. Dodał też, że jego poparcie pomogło Tuskowi wygrać, choć w rzeczywistości przed wyborami w 2025 roku popierał Karola Nawrockiego.",
+      "src": "https://www.rp.pl/dyplomacja/art45518161-donald-trump-komentuje-wpis-donalda-tuska-w-polsce-przez-pomylke-ladowaly-drony-putina",
+      "srcName": "Rzeczpospolita"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "photo",
+      "id": "2026-11-20-wm-06",
+      "title": "Paryż – rue Geoffroy-Saint-Hilaire",
+      "by": "Eugène Atget, 1898",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Rue_Geoffroy-Saint-Hilaire_Atget_1898.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Rue_Geoffroy-Saint-Hilaire_Atget_1898.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "news",
+      "id": "2026-11-20-rozmowy-o-tk-zawieszone",
+      "lang": "pl",
+      "title": "Rozmowy o Trybunale Konstytucyjnym w Pałacu Prezydenckim zawieszone",
+      "text": "Prezydencki minister Zbigniew Bogucki poinformował, że trudne negocjacje z klubami w sprawie resetu TK zostały wstrzymane bez porozumienia. Uczestnicy mają w ciągu tygodnia przesłać własne propozycje, a w razie zbliżenia stanowisk rozmowy mogą zostać wznowione.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-19/negocjacje-ws-trybunalu-konstytucyjnego-prezydencki-minister-podal-szczegoly/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "photo",
+      "id": "2026-11-20-wm-07",
+      "title": "Hrabstwo Hale, Alabama – dzierżawcy bawełny",
+      "by": "Walker Evans, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/69/Frank_Tengle,_Bud_Fields,_and_Floyd_Burroughs,_cotton_sharecroppers,_Hale_County,_Alabama.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Frank_Tengle,_Bud_Fields,_and_Floyd_Burroughs,_cotton_sharecroppers,_Hale_County,_Alabama.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "article",
+      "id": "2026-11-20-handover-photo-book",
+      "lang": "en",
+      "title": "A photo book rescues forgotten images from hard drives",
+      "text": "Handover, the debut book from the new imprint Pig Iron Works, collects overlooked pictures from 27 photographers in London and Manchester. Instead of commissioning new work, the editors asked contributors to dig through their own archives.",
+      "img": "https://images-prod.dazeddigital.com/1200/0-0-2364-1576/azure/dazed-prod/1450/9/1459843.jpg",
+      "src": "https://www.dazeddigital.com/art-photography/article/71386/1/handover-photo-book-jesse-glazzard-photography-manchester",
+      "srcName": "Dazed"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "photo",
+      "id": "2026-11-20-wm-08",
+      "title": "Long Island City – „Ręka człowieka”, parowóz na torach",
+      "by": "Alfred Stieglitz, 1902",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Alfred_Stieglitz_-_The_Hand_of_Man_-_Google_Art_Project.jpg/1280px-Alfred_Stieglitz_-_The_Hand_of_Man_-_Google_Art_Project.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Alfred_Stieglitz_-_The_Hand_of_Man_-_Google_Art_Project.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "news",
+      "id": "2026-11-20-mts-mjanma-ludobojstwo-rohingja",
+      "lang": "pl",
+      "title": "MTS: Mjanma dopuściła się ludobójstwa na Rohingjach",
+      "text": "Międzynarodowy Trybunał Sprawiedliwości po raz pierwszy w historii uznał państwo za odpowiedzialne za ludobójstwo, stosunkiem głosów 9 do 6 sędziów. Mjanma ma ukarać winnych, umożliwić powrót uchodźców i w ciągu dwóch lat przedstawić plan zadośćuczynienia.",
+      "src": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya",
+      "srcName": "Al Jazeera"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "photo",
+      "id": "2026-11-20-wm-09",
+      "title": "Dover, Delaware – plac The Green",
+      "by": "John Vachon, ok. 1938",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/The_Green,_Dover_(Kent_County,_Delaware).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:The_Green,_Dover_(Kent_County,_Delaware).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "news",
+      "id": "2026-11-20-zakaz-nocnej-sprzedazy-alkoholu",
+      "lang": "pl",
+      "title": "Sejm przegłosował poprawki: nocny zakaz sprzedaży alkoholu w całym kraju",
+      "text": "Ustawa wprowadza zakaz handlu alkoholem w godzinach 22-6 z wyjątkiem gastronomii, a także zakaz reklamy i promocji typu 6+6. Posłowie przyjęli większość poprawek Senatu, odrzucając jednak zgodę na reklamę piwa bezalkoholowego.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-19/zakaz-nocnej-sprzedazy-alkoholu-sejm-podjal-decyzje/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "photo",
+      "id": "2026-11-20-wm-10",
+      "title": "Londyn – „Dom skazańca”",
+      "by": "John Thomson, 1877",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/f2/A_Convicts_Home_(6169602486).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:A_Convicts_Home_(6169602486).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "video",
+      "id": "2026-11-20-morrissey-zoom-zoom-the-little-boy",
+      "kind": "Teledysk",
+      "title": "Morrissey – „Zoom Zoom the Little Boy”",
+      "by": "reż. Lewis Cater (Tuff)",
+      "text": "Cichy, zaczytany chłopiec spędza dni nad coraz poważniejszymi książkami, a wokół niego stopniowo gromadzą się zwierzęta. Lewis Cater robi z tego spokojną, niemal baśniową przypowieść o tym, jak traktujemy planetę i co jeszcze możemy zmienić.",
+      "embed": {
+        "p": "yt",
+        "id": "wbR0DrBwtmU"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/webform/ZZ4.jpg?itok=F3Jg6P8P",
+      "src": "https://www.promonews.tv/videos/2026/11/18/morrissey-zoom-zoom-little-boy-lewis-cater/97020",
+      "srcName": "Promonews"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "article",
+      "id": "2026-11-20-teaching-sparrows-lost-songs",
+      "lang": "en",
+      "title": "A physicist tries to teach sparrows songs they have forgotten",
+      "text": "Argentine physicist Gabriel Mindlin found that some rufous-collared sparrow songs have vanished since the 1960s, so he rebuilt them with mathematical models. This short documentary follows his robotic tutors as they test whether young wild birds will learn the lost melodies.",
+      "img": "https://images.aeonmedia.co/images/f6569bab-ec9d-4c43-b83d-aba8d9e34b4d/dreams-of-birds-cover.jpg?width=1200&quality=75&format=auto",
+      "src": "https://aeon.co/videos/a-physicists-audacious-plan-to-teach-birds-long-lost-songs",
+      "srcName": "Aeon"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "photo",
+      "id": "2026-11-20-wm-11",
+      "title": "Nowy Jork – gazeciarze po popołudniowe wydanie",
+      "by": "Lewis Hine, ok. 1910",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/Newsboys_and_newsgirl._Getting_afternoon_papers._New_York_City._-_NARA_-_523329.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Newsboys_and_newsgirl._Getting_afternoon_papers._New_York_City._-_NARA_-_523329.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "news",
+      "id": "2026-11-20-zondacrypto-areszty",
+      "lang": "pl",
+      "title": "Trzy osoby aresztowane w aferze giełdy Zondacrypto",
+      "text": "Sąd na wniosek prokuratury zastosował trzymiesięczny areszt wobec udziałowca BitBay, dyrektorki finansowej i prawniczki spółki prowadzącej giełdę kryptowalut. Areszt można zamienić na poręczenie majątkowe w wysokości miliona złotych od osoby.",
+      "src": "https://tvn24.pl/polska/afera-zondacrypto-trzy-osoby-aresztowane-st9348024",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "photo",
+      "id": "2026-11-20-wm-12",
+      "title": "San Juan, Portoryko – Calle de Rafael Cordero",
+      "by": "Jack Delano, ok. 1941",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/46/Calle_de_Rafael_Cordero_in_San_Juan,_Puerto_Rico_LOC_2179157820.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Calle_de_Rafael_Cordero_in_San_Juan,_Puerto_Rico_LOC_2179157820.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "news",
+      "id": "2026-11-20-korea-pln-wzbogacanie-uranu",
+      "lang": "pl",
+      "title": "MAEA: Korea Północna rozbudowuje zakład wzbogacania uranu w Jongbjon",
+      "text": "Szef MAEA Rafael Grossi poinformował, że Pjongjang od września do października rozbudował zakład wzbogacania uranu, i nazwał to skrajnie niepokojącym. Korea Północna odrzuca żądania rozbrojenia, a inspektorzy agencji od lat nie mają tam dostępu.",
+      "src": "https://www.aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says",
+      "srcName": "Al Jazeera"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "article",
+      "id": "2026-11-20-vhils-silver-building-sao-paulo",
+      "lang": "en",
+      "title": "A São Paulo colonial house wrapped in emergency foil",
+      "text": "Vhils and Marcelo Cidade covered a colonial-style building in Pinheiros with reflective thermal blankets that still reveal its arches and ornament. The shimmering skin mirrors passersby and nods to Christo's wrapped Reichstag and Warhol's silver Factory.",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/vhils-5.jpg",
+      "src": "https://www.thisiscolossal.com/2026/11/vhils-marcelo-cidade-sao-paolo-2878/",
+      "srcName": "Colossal"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "news",
+      "id": "2026-11-20-holownia-ambasador-watykan",
+      "lang": "pl",
+      "title": "Hołownia bliżej placówki w Watykanie, decyzja należy do prezydenta",
+      "text": "Konwent Służby Zagranicznej pozytywnie zaopiniował kandydaturę wicemarszałka Sejmu na ambasadora przy Stolicy Apostolskiej. Pałac Prezydencki zapowiada jednak, że nie zrobi wyjątku dla jednej nominacji bez szerszego porozumienia z rządem w sprawie ambasadorów.",
+      "src": "https://tvn24.pl/swiat/szymon-holownia-ambasadorem-w-watykanie-komentarz-donalda-tuska-st9347258",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "article",
+      "id": "2026-11-20-lunapark-europa-wozniak",
+      "lang": "pl",
+      "title": "Ryszard Woźniak i opuszczony lunapark jako metafora Europy",
+      "text": "W radomskiej Elektrowni można do 22 listopada zobaczyć ponad sto obrazów Ryszarda Woźniaka z ostatniego ćwierćwiecza. Punktem wyjścia wystawy jest zamknięty warszawski lunapark, przez który artysta przygląda się polskim nastrojom wobec Unii Europejskiej.",
+      "img": "https://magazynszum.pl/wp-content/uploads/2026/11/fot-tomasz-mosionek-mcsw-doku-wozniak-lunapark-europa-261028-t1a9673-1440x960.jpg",
+      "src": "https://magazynszum.pl/lunapark-europa-ryszarda-wozniaka-w-mcsw-elektrownia-w-radomiu/",
+      "srcName": "Magazyn SZUM"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "article",
+      "id": "2026-11-20-jadro-ciemnosci-szczecin",
+      "lang": "pl",
+      "title": "Conrad w Szczecinie: język, który usprawiedliwia przemoc",
+      "text": "Anna Jazgarska recenzuje szczecińską inscenizację Jądra ciemności, która pokazuje, jak opowieść o kolonializmie przetrwała w dzisiejszym języku zysku, sukcesu i przygody. Spektakl bywa męczący, ale zmusza widza do spojrzenia na to, czego wolałby nie nazywać.",
+      "src": "https://www.dwutygodnik.com/artykul/12758-czy-kiedys-pan-sie-nasyci.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "video",
+      "id": "2026-11-20-kendrick-lamar-not-like-us",
+      "kind": "Teledysk · nagroda",
+      "title": "Kendrick Lamar – „Not Like Us”",
+      "by": "reż. Dave Free i Kendrick Lamar",
+      "text": "Zwycięzca nagrody Grammy 2025 w kategorii Best Music Video: triumfalny portret Compton, nakręcony przez Kendricka Lamara razem z Dave'em Free jako uliczna celebracja po głośnym konflikcie z Drake'iem. Tej samej nocy utwór zgarnął też statuetki za nagranie i piosenkę roku.",
+      "embed": {
+        "p": "yt",
+        "id": "H58vbez_m4E"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Kendrick%20Lamar%20Not%20Like%20Us%202_0.png?itok=zcrw774v",
+      "src": "https://www.promonews.tv/news/2025/02/03/2025-grammys-kendrick-lamars-not-us-wins-best-music-video/89914",
+      "srcName": "Promonews"
+    },
     {
       "date": "2026-11-19",
       "type": "video",
@@ -6258,241 +6618,6 @@
       "img": "https://dwutygodnik-storage.s3.eu-central-1.amazonaws.com/prod/public/media/uploads/1792136367127-1392288-352x500.jpg",
       "src": "https://www.dwutygodnik.com/artykul/12720-ukladanie-na-nowo.html",
       "srcName": "Dwutygodnik"
-    },
-    {
-      "id": "2026-10-20-fontaines-dc-japan",
-      "date": "2026-10-20",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Fontaines D.C. – „Japan”",
-      "by": "reż. Luna Carmoon (ProdCo)",
-      "text": "Autorka „Hoard” nakręciła dla zespołu mroczny trójkąt miłosny: Rosa i Kaspar (Charlie Heaton) wdają się w potajemny romans, a zaborczy mąż doprowadza historię do brutalnego finału.",
-      "embed": {
-        "p": "yt",
-        "id": "GPNbnromGgk"
-      },
-      "img": "https://images.slatecdn.net/yNLtkcZgQE1VSpPVYEAPRrb_9FSYrdECfj217NJzWi4/rs:fill:1200:630:1/q:80/aHR0cHM6Ly9zMy11cy13ZXN0LTEuYW1hem9uYXdzLmNvbS9tZWRpYS11cy13ZXN0c2xhdGVhcHBjb20vc2hvdHNtYWcvcHJvZHVjdGlvbi9uZXdzLzE2ZDQwMmZjLWViMTAtNDc0OS05MDk4LWEwYTYzMWRmODNlZS9qYXBhbi1jcm9wZWQuanBn?v=1&quality=70&format=jpeg",
-      "src": "https://shots.net/news/view/luna-carmoon-heads-to-japan-with-fontaines-dc",
-      "srcName": "Shots"
-    },
-    {
-      "id": "2026-10-20-zara-larsson-blue-moon",
-      "date": "2026-10-20",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Zara Larsson – „Blue Moon”",
-      "by": "reż. Charlotte Rutherford (Someday Studio)",
-      "text": "Larsson świeci w ciemności na parkingu motelu, dworcu autobusowym i billboardzie, po drodze zmieniając się we wróżkę i syrenę wyrzuconą na ląd. Brokatowe dopowiedzenie świata albumu „Midnight Sun”.",
-      "embed": {
-        "p": "yt",
-        "id": "LB72Mbd88mU"
-      },
-      "img": "https://imgix.bustle.com/uploads/image/2026/10/15/8273dbfb/photo-collagepng-7.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.5&fp-y=0.3854",
-      "src": "https://www.nylon.com/entertainment/charlotte-rutherford-zara-larsson-blue-moon-music-video",
-      "srcName": "Nylon"
-    },
-    {
-      "id": "2026-10-20-art-pneuhaus-camera-obscura",
-      "date": "2026-10-20",
-      "type": "article",
-      "lang": "en",
-      "title": "An inflatable room made of 221 camera obscuras",
-      "text": "Pneuhaus has built a walk-in inflatable that uses 221 tiny lenses and nothing but sunlight to project the sky and surroundings onto its curved inner walls. It records nothing at all, and is meant as a gentle counterpoint to surveillance that asks visitors to simply look more closely.",
-      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/pneuhaus-7.jpg",
-      "src": "https://www.thisiscolossal.com/2026/10/pneuhaus-compound-camera-3-inflatable-installation/",
-      "srcName": "Colossal"
-    },
-    {
-      "id": "2026-10-20-michael-kiwanuka-summer-clothes",
-      "date": "2026-10-20",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Michael Kiwanuka – „Summer Clothes”",
-      "by": "reż. YOUT",
-      "text": "Chłopiec w garniturze, rodzina i igła z nitką: klip inspirowany krawcami z Southampton śledzi pierwsze krawieckie próby dziecka. Cicha pochwała codziennej kreatywności na otwarcie nowej płyty.",
-      "embed": {
-        "p": "yt",
-        "id": "gyv7buFhdvk"
-      },
-      "img": "https://i.ytimg.com/vi/gyv7buFhdvk/hqdefault.jpg",
-      "src": "https://music.mxdwn.com/2026/10/03/news/michael-kiwanuka-shares-creative-new-single-video-summer-clothes/amp/",
-      "srcName": "mxdwn"
-    },
-    {
-      "id": "2026-10-20-andy-cant-wait",
-      "date": "2026-10-20",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "ANDY – „can't wait”",
-      "by": "reż. Harry Welsh (DIVISION)",
-      "text": "Australijski futbol jako scena dorastania: od boiska do szatni fizyczny kontakt młodego ANDY'ego z kolegami z drużyny staje się coraz bardziej intymny. Pot, czułość, humor i odrobina fantazji.",
-      "embed": {
-        "p": "yt",
-        "id": "2ZCumy6G294"
-      },
-      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/webform/PROMONEWS_01_1.jpg?itok=VHyA4Dym",
-      "src": "https://www.promonews.tv/videos/2026/10/19/andy-cant-wait-harry-welsh/96665",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-20-art-ramses-ii-statues-nile-delta",
-      "date": "2026-10-20",
-      "type": "article",
-      "lang": "en",
-      "title": "Colossal Ramses II statues found in a Nile Delta village",
-      "text": "Excavators at Behbeit Al-Hagar recovered a crowned stone head of Ramses II, suggesting a statue over eight metres tall, plus part of a pillar bearing his Horus name. The dig began after a local resident reported an inscribed stone on his land.",
-      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/10/846410211_1527305336097674_3525688836626315606_n.jpg",
-      "src": "https://hyperallergic.com/massive-king-ramses-ii-statues-unearthed-in-egypt/",
-      "srcName": "Hyperallergic"
-    },
-    {
-      "id": "2026-10-20-tate-mcrae-housewife",
-      "date": "2026-10-20",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Tate McRae – „Housewife”",
-      "by": "reż. Pierre-Ange Carlotti",
-      "text": "Fantazja o życiu „pani domu”: jacht u wybrzeży Lazurowego Wybrzeża, taniec w salonie rezydencji i wózek dziecięcy pełen gotówki. Pełno tu mrugnięć do Britney Spears, z czapką à la „Toxic” na czele.",
-      "embed": {
-        "p": "yt",
-        "id": "DPEodkHzH-s"
-      },
-      "img": "https://imgix.bustle.com/uploads/getty/2026/10/16/b2c824ec/new-york-ny-october.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
-      "src": "https://www.bustle.com/entertainment/tate-mcrae-housewife-music-video-britney-spears",
-      "srcName": "Bustle"
-    },
-    {
-      "id": "2026-10-20-yendry-no-me-vuelvo",
-      "date": "2026-10-20",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "YEИDRY – „No me vuelvo a enamorar”",
-      "by": "reż. Katharina Hingst (Aguita)",
-      "text": "Finał trylogii o życiu między Włochami a Dominikaną: artystka wraca do rodziny na wyspie, a babcia spina przeszłość z teraźniejszością. Szybki montaż występu, portretów i kolorowych przebitek.",
-      "embed": {
-        "p": "yt",
-        "id": "AKB5n5l2EPU"
-      },
-      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Screenshot%202026-10-19%20at%2009.42.02.png?itok=4mdSzPTi",
-      "src": "https://www.promonews.tv/videos/2026/10/19/ye%D0%B8dry-no-me-vuelvo-enamorar-katharina-hingst/96655",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-20-art-wisla-performans-pelczynska",
-      "date": "2026-10-20",
-      "type": "article",
-      "lang": "pl",
-      "title": "Wisła jako scena: performans Weroniki Pelczyńskiej",
-      "text": "Ada Tymińska opisuje site-specific „Wisła” z Chórem w Ruchu na lewym brzegu rzeki, wpisując go w nurt ekopoetyk i hydrofeminizmu. Docenia zaangażowanie ciał widzów, ale zauważa, że wyciszenie miejskiego hałasu czyni ten obraz rzeki zbyt sielankowym.",
-      "src": "https://www.dwutygodnik.com/artykul/12715-ciala-na-brzegu-wielkiej-rzeki.html",
-      "srcName": "Dwutygodnik"
-    },
-    {
-      "id": "2026-10-20-art-nik-arthur-duckweed-animation",
-      "date": "2026-10-20",
-      "type": "article",
-      "lang": "en",
-      "title": "Animating with duckweed, wool and fire",
-      "text": "Canadian animator Nik Arthur treats natural materials as collaborators, shooting analogue work frame by frame. For an A24 ident he and Emi Takahashi coaxed duckweed across Montreal swamp water and ran the footage in reverse.",
-      "img": "https://m.itsnicethat.com/original_images/nik-arthur-animation-itsnicethat-Still_1.1_-_A24_by_Nik_Arthur__Emi_Takaha.jpg?class=w1440",
-      "src": "https://www.itsnicethat.com/articles/nik-arthur-animation-discover-191026",
-      "srcName": "It's Nice That"
-    },
-    {
-      "id": "2026-10-20-forrest-nolan-make-it-to-the-end",
-      "date": "2026-10-20",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Forrest Nolan – „Make It To The End”",
-      "by": "reż. Jooystin i Lance Redeker (Sworn Friends Studios)",
-      "text": "Jeden z wyróżnionych przez IMVDb klipów tygodnia: nowy singiel Forresta Nolana w reżyserii duetu Jooystin i Lance Redeker, który sam też go zmontował.",
-      "embed": {
-        "p": "yt",
-        "id": "mHOaCgZqJ1o"
-      },
-      "img": "https://s3.amazonaws.com/images.imvdb.com/video/378526410917-forrest-nolan-make-it-to-the-end_music_video_ov.jpg?v=2",
-      "src": "https://imvdb.com/video/forrest-nolan/make-it-to-the-end",
-      "srcName": "IMVDb"
-    },
-    {
-      "id": "2026-10-20-art-feynman-down-with-heaven",
-      "date": "2026-10-20",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Art Feynman – „Down With Heaven”",
-      "by": "reż. Dillon Hayes i Hayden Mason",
-      "text": "Kolejny wybór z listy najlepszych nowych klipów IMVDb: Hayden Mason był tu jednocześnie współreżyserem i operatorem, a Dillon Hayes – montażystą.",
-      "embed": {
-        "p": "yt",
-        "id": "HfdomXUgvpc"
-      },
-      "img": "https://s3.amazonaws.com/images.imvdb.com/video/197050911572-art-feynman-down-with-heaven_music_video_ov.jpg?v=2",
-      "src": "https://imvdb.com/video/art-feynman/down-with-heaven",
-      "srcName": "IMVDb"
-    },
-    {
-      "id": "2026-10-20-art-pterodaktyl-anouk-herman",
-      "date": "2026-10-20",
-      "type": "article",
-      "lang": "pl",
-      "title": "Kryminał z czatów i Reddita: „Pterodaktyl” Anouk Herman",
-      "text": "Bohaterka powieści, Polka na emigracji w Norwegii, zaczyna badać śmierć wykładowcy, a narrację budują m.in. czaty, hasła z Wikipedii i wątki z forów. Magdalena Romanowska chwali grozę emigracyjnego doświadczenia i humor, choć gęsty początek bywa męczący.",
-      "src": "https://www.dwutygodnik.com/artykul/12721-groza-z-komputera.html",
-      "srcName": "Dwutygodnik"
-    },
-    {
-      "id": "2026-10-20-art-mcgirr-mcqueen-pile-on",
-      "date": "2026-10-20",
-      "type": "article",
-      "lang": "en",
-      "title": "When fashion criticism turns into a pile-on",
-      "text": "After Seán McGirr's exit from Alexander McQueen, the online mockery went far beyond critiquing his clothes. Dazed argues the industry should judge the work hard but resist cruelty toward a young designer handed an almost impossible legacy.",
-      "img": "https://images-prod.dazeddigital.com/1200/0-99-2842-1895/azure/dazed-prod/1450/7/1457806.jpg",
-      "src": "https://www.dazeddigital.com/fashion/article/71186/1/sean-mcgirr-leaves-alexander-mcqueen-online-fashion-criticism-internet-reaction",
-      "srcName": "Dazed"
-    },
-    {
-      "id": "2026-10-20-radiohead-karma-police",
-      "date": "2026-10-20",
-      "type": "video",
-      "kind": "Teledysk · klasyka",
-      "title": "Radiohead – „Karma Police”",
-      "by": "reż. Jonathan Glazer",
-      "text": "Kamera z miejsca kierowcy ściga mężczyznę nocną drogą, aż ten zapałką odwraca bieg wydarzeń – a cała historia mieści się w jednym zdaniu, tak jak chciał Glazer. Klip z 1997 r. dostał nagrodę MTV VMA za najlepszą reżyserię.",
-      "embed": {
-        "p": "yt",
-        "id": "1uYWYWPc9HU"
-      },
-      "img": "https://i.ytimg.com/vi/1uYWYWPc9HU/hqdefault.jpg",
-      "src": "https://en.wikipedia.org/wiki/Karma_Police",
-      "srcName": "Wikipedia"
-    },
-    {
-      "id": "2026-10-20-johnny-cash-hurt",
-      "date": "2026-10-20",
-      "type": "video",
-      "kind": "Teledysk · nagroda",
-      "title": "Johnny Cash – „Hurt”",
-      "by": "reż. Mark Romanek",
-      "text": "Nakręcone w muzeum House of Cash pożegnanie: archiwalne kadry młodego Casha, gnijące owoce jak w martwej naturze vanitas i June Carter patrząca na męża. Grammy 2004 za najlepszy krótki teledysk i nagroda MTV VMA 2003 za zdjęcia.",
-      "embed": {
-        "p": "yt",
-        "id": "8AHCfZTRGiI"
-      },
-      "img": "https://i.ytimg.com/vi/8AHCfZTRGiI/hqdefault.jpg",
-      "src": "https://en.wikipedia.org/wiki/Hurt_(Nine_Inch_Nails_song)",
-      "srcName": "Wikipedia"
-    },
-    {
-      "id": "2026-10-20-art-colombia-museo-nacional-removals",
-      "date": "2026-10-20",
-      "type": "article",
-      "lang": "en",
-      "title": "Colombia's government strips works from its national museum",
-      "text": "About 30 objects tied to LGBTQ+ history, feminism and the FARC peace deal were pulled from Bogotá's Museo Nacional on government orders, sparking street protests. Directors of six modern art museums have publicly voiced concern.",
-      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/10/GettyImages-2300222879.jpg",
-      "src": "https://hyperallergic.com/hundreds-protest-in-colombia-after-far-right-president-removes-works-from-national-museum/",
-      "srcName": "Hyperallergic"
     }
   ]
 }
