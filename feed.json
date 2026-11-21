@@ -1,6 +1,359 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "items": [
+    {
+      "date": "2026-11-21",
+      "type": "video",
+      "id": "2026-11-21-kenzo-yo-my-saint",
+      "kind": "Film modowy",
+      "title": "KENZO – „Yo! My Saint”",
+      "by": "reż. Ana Lily Amirpour",
+      "text": "Ana Lily Amirpour przepisuje słynną scenę sesji zdjęciowej z „Powiększenia” Antonioniego na rozmowę dwóch kobiet, z Kiko Mizuharą przed obiektywem i Karen O w roli asystentki fotografa. Film do kolekcji Kenzo wiosna-lato 2018 płynie w rytm piosenki „Yo! My Saint”, którą Karen O nagrała specjalnie do niego z Michaelem Kiwanuką.",
+      "embed": {
+        "p": "vimeo",
+        "id": "250736468"
+      },
+      "dur": 556,
+      "img": "https://images-prod.dazeddigital.com/1200/90-162-1347-898/azure/dazed-prod/1220/9/1229954.jpg",
+      "src": "https://www.dazeddigital.com/fashion/article/38600/1/ana-lily-amirpour-film-reimagines-blow-up-for-kenzo-starring-karen-o",
+      "srcName": "Dazed"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "news",
+      "id": "2026-11-21-rosyjskie-rakiety-ch101-w-polsce",
+      "lang": "pl",
+      "title": "Szef MON: w Polsce spadły dwie rosyjskie rakiety i dron",
+      "text": "Według Władysława Kosiniaka-Kamysza w piątek rano rakieta Ch-101 spadła w Nowym Lipowcu na Lubelszczyźnie, druga rakieta w okolicach Rudnika nad Sanem, a odrzutowy dron w Mołodyczu na Podkarpaciu. Nikt nie ucierpiał, a minister uznał incydent za celową prowokację Rosji w dniu ćwiczeń koalicji chętnych.",
+      "src": "https://www.rmf24.pl/fakty/polska/news-szef-mon-potwierdza-to-byla-rakieta-ch-101-data-nie-jest-prz,nIdn,1026966",
+      "srcName": "RMF24"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "photo",
+      "id": "2026-11-21-wm-01",
+      "title": "USA – mechanik przy silniku autobusu w garażu Greyhound",
+      "by": "Esther Bubley, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/91/Mechanic_working_on_a_bus_engine_at_the_garage_8d32777v.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Mechanic_working_on_a_bus_engine_at_the_garage_8d32777v.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "article",
+      "id": "2026-11-21-escher-math-worlds",
+      "lang": "en",
+      "title": "How Escher's art became a playground for mathematicians",
+      "text": "M.C. Escher was poor at school maths and never studied it, yet his tessellations and impossible spaces fascinated geometers and crystallographers. A new show at New York's National Museum of Mathematics traces those links.",
+      "img": "https://www.quantamagazine.org/wp-content/uploads/2042/11/ImageGallery_EscherMath-crSEENOTES-Social.webp",
+      "src": "https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/",
+      "srcName": "Quanta Magazine"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "news",
+      "id": "2026-11-21-rutte-w-warszawie",
+      "lang": "pl",
+      "title": "Sekretarz generalny NATO przyjeżdża do Warszawy po incydencie z rakietami",
+      "text": "Mark Rutte ma w sobotę odwiedzić Warszawę po tym, jak dwie rosyjskie rakiety i dron wleciały do Polski i spadły na jej terytorium. Premier Tusk ocenił, że mogła to być zamierzona prowokacja Moskwy.",
+      "src": "https://wilno.tvp.pl/96588043/dwie-rakiety-i-dron-pilna-wizyta-szefa-nato-w-polsce",
+      "srcName": "TVP"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "photo",
+      "id": "2026-11-21-wm-02",
+      "title": "Mogollon, Nowy Meksyk – zastępca szeryfa",
+      "by": "Russell Lee, 1940",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Deputy_sheriff_Mogollon_New_Mexico.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Deputy_sheriff_Mogollon_New_Mexico.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "article",
+      "id": "2026-11-21-notre-dame-gothic",
+      "lang": "en",
+      "title": "Why Notre-Dame's facade is a Gothic high point",
+      "text": "A video essay compares the Paris cathedral with earlier Gothic experiments at Saint-Denis and Laon. It also recalls how Victor Hugo helped save the building and how Viollet-le-Duc added features it never originally had.",
+      "img": "https://cdn8.openculture.com/2026/11/19220430/maxresdefault-65-1024x576.jpg",
+      "src": "https://www.openculture.com/2026/11/what-makes-notre-dame-cathedral-a-masterpiece-of-gothic-architecture.html",
+      "srcName": "Open Culture"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "news",
+      "id": "2026-11-21-wall-street-wyprzedaz-ai",
+      "lang": "pl",
+      "title": "Krach spółek AI na Wall Street, Nasdaq traci ponad 5 proc.",
+      "text": "W piątek Nasdaq spadł o 5,3 proc., a S&P 500 o 3,7 proc. i wszedł w fazę korekty po siedmiu spadkowych sesjach z rzędu. Inwestorzy masowo pozbywali się akcji spółek związanych ze sztuczną inteligencją, mocno traciły m.in. Nvidia i Broadcom, a kurs świeżo debiutującego Anthropic zjechał w dół.",
+      "src": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-20-223513707.html",
+      "srcName": "Yahoo Finance"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "video",
+      "id": "2026-11-21-timberlake-cry-me-a-river",
+      "kind": "Teledysk · klasyka",
+      "title": "Justin Timberlake – „Cry Me a River”",
+      "by": "reż. Francis Lawrence",
+      "text": "Francis Lawrence zamienił balladę o zdradzie w mroczny thriller o włamaniu: Timberlake wkrada się do domu byłej partnerki i nagrywa się tam z inną kobietą, a deszcz i chłodne światło budują napięcie jak w kinie noir. Teledysk zdobył dwie statuetki MTV VMA 2003 i do dziś uchodzi za jeden z najlepszych klipów XXI wieku.",
+      "embed": {
+        "p": "yt",
+        "id": "DksSPZTZES0"
+      },
+      "dur": 291,
+      "img": "https://i.ytimg.com/vi/DksSPZTZES0/maxresdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/Cry_Me_a_River_(Justin_Timberlake_song)",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "photo",
+      "id": "2026-11-21-wm-03",
+      "title": "Luizjana – stara Cajunka sięga po czosnek",
+      "by": "Russell Lee, 1938",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Old_Cajun_Woman_reaches_for_Garlic_1938.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Old_Cajun_Woman_reaches_for_Garlic_1938.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "article",
+      "id": "2026-11-21-mcdonagh-dziki-kon",
+      "lang": "pl",
+      "title": "McDonagh, CIA i pucz w Santiago",
+      "text": "Jakub Socha recenzuje nowy film Martina McDonagha, w którym Malkovich i Rockwell grają kłócących się agentów szykujących przewrót w Chile w 1973 roku. Docenia scenariusz i aktorstwo, ale uważa, że rozważania o śmierci i moralności pozostają płytkie.",
+      "src": "https://www.dwutygodnik.com/artykul/12772-wakacje-ze-smiercia.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "news",
+      "id": "2026-11-21-gpw-czarny-piatek",
+      "lang": "pl",
+      "title": "Najgorszy tydzień roku na GPW, WIG20 spada o 4,5 proc.",
+      "text": "Piątkowa sesja zakończyła się spadkiem WIG20 o 4,48 proc., do niewiele ponad 4000 punktów, a WIG stracił prawie 4 proc. Na nastroje wpłynęły wyprzedaż w USA, rozczarowujący debiut Anthropic, obawy o bańkę AI, słabnący złoty i rosyjskie obiekty nad Polską.",
+      "src": "https://tvn24.pl/biznes/rynki/gielda-w-warszawie-wig20-spada-o-4-48-proc-najgorszy-tydzien-roku-st9350212",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "photo",
+      "id": "2026-11-21-wm-04",
+      "title": "Robstown, Teksas – chłopiec skleja model samolotu",
+      "by": "Arthur Rothstein, 1942",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/12/Arthur_Rothstein,_Boy_building_a_model_airplane_as_girl_watches,_FSA_camp,_Robstown,_Texas,_1942.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Arthur_Rothstein,_Boy_building_a_model_airplane_as_girl_watches,_FSA_camp,_Robstown,_Texas,_1942.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "article",
+      "id": "2026-11-21-szymczykowska-urodziny",
+      "lang": "pl",
+      "title": "Urodziny jako przymus w obrazach Julii Szymczykowskiej",
+      "text": "Wystawa w warszawskiej Galerii Nocny Art Patrol pokazuje przygotowania do przyjęcia jako źródło presji i zmęczenia zamiast radości. Tytuł zapożyczony od Kantora zyskuje tu pokoleniowy, współczesny sens.",
+      "img": "https://magazynszum.pl/wp-content/uploads/2026/11/0-head-julia-szymczykowska-zaproszenie-olej-na-plotnie-150x200cm-2026-1440x1064.jpg",
+      "src": "https://magazynszum.pl/dzis-sa-moje-urodziny-julii-szymczykowskiej-w-galerii-nocny-art-patrol/",
+      "srcName": "Magazyn SZUM"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "news",
+      "id": "2026-11-21-trump-konferencja-centra-danych",
+      "lang": "pl",
+      "title": "Trump grozi podatkiem firmom budującym centra danych za granicą",
+      "text": "Po powrocie z Chin Trump zapowiedział wysoki podatek dla amerykańskich spółek, które zbudują centra danych poza USA, choć nie podał szczegółów. Przekonywał też, że Putin chce zakończyć wojnę w Ukrainie, mimo zmasowanego nocnego ataku Rosji.",
+      "src": "https://www.whec.com/ap-top-news/the-latest-trump-says-hell-block-us-companies-from-building-data-centers-abroad/",
+      "srcName": "AP"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "photo",
+      "id": "2026-11-21-wm-05",
+      "title": "New Jersey – dzieci przy zbiorze żurawiny",
+      "by": "Arthur Rothstein, 1938",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Child_labor,_cranberry_bog,_Burlington_County,_New_Jersey,_8a10151.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Child_labor,_cranberry_bog,_Burlington_County,_New_Jersey,_8a10151.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "video",
+      "id": "2026-11-21-red-rum-club-any-minute-now",
+      "kind": "Teledysk",
+      "title": "Red Rum Club – „Any Minute Now”",
+      "by": "reż. Ollie Bradley-Baker",
+      "text": "Jedno ujęcie bez cięć: wokalista Fran Doran zerka na zegarek, przemierza szybkim krokiem osiedle magazynów i wpada do studia, gdzie zespół już gra, a kamera krąży między muzykami. Ollie Bradley-Baker sam wyprodukował, nakręcił, zmontował i skolorował klip, który trzyma tempo od pierwszej do ostatniej sekundy.",
+      "embed": {
+        "p": "yt",
+        "id": "ocy37jbg6aQ"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/webform/RRC_AnyMinNow_ProRes422HQ.00_00_03_05.Still001%20Large.jpeg?itok=0pkNJpYP",
+      "src": "https://www.promonews.tv/videos/2026/11/19/red-rum-club-any-minute-now-ollie-bradley-baker/97042",
+      "srcName": "Promonews"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "article",
+      "id": "2026-11-21-the-body-costumes",
+      "lang": "en",
+      "title": "Dressing the Y2K cheerleaders of Netflix's The Body",
+      "text": "Costume designer Mirren Gordon-Crozier explains how she built a 2004 wardrobe for a drama about Catholic cheerleaders who make a pact with the devil. She worked from early-2000s runways and paparazzi shots, sourcing mostly vintage pieces and restoring designer bags by hand.",
+      "img": "https://images-prod.dazeddigital.com/1033/0-128-1033-689/azure/dazed-prod/1450/9/1459858.png",
+      "src": "https://www.dazeddigital.com/fashion/article/71388/1/the-body-netflix-costume-design-mirren-gordon-crozier-interview-y2k-fashion",
+      "srcName": "Dazed"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "news",
+      "id": "2026-11-21-domanski-wicepremierem",
+      "lang": "pl",
+      "title": "Domański wicepremierem, Bartol ministrą funduszy",
+      "text": "Prezydent Nawrocki powołał ministra finansów Andrzeja Domańskiego na wicepremiera, a dotychczasową ambasadorkę przy UE Agnieszkę Bartol na ministrę funduszy i polityki regionalnej. Kancelaria prezydenta podkreśliła, że był to obowiązek konstytucyjny, a odpowiedzialność za awans Domańskiego spoczywa na premierze.",
+      "src": "https://tvn24.pl/biznes/z-kraju/premier-oglasza-zmiany-w-rzadzie-andrzej-domanski-wicepremierem-i-agnieszka-bartol-ministra-funduszy-i-polityki-regionalnej-st9348770",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "photo",
+      "id": "2026-11-21-wm-06",
+      "title": "Wendell, Karolina Północna – rozmowa w sklepie wiejskim",
+      "by": "Marion Post Wolcott, 1939",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Mr._R._B._Whitley_visiting_in_his_general_store,_Wendell._Wake_County,_North_Carolina,_8c11136.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Mr._R._B._Whitley_visiting_in_his_general_store,_Wendell._Wake_County,_North_Carolina,_8c11136.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "article",
+      "id": "2026-11-21-hilma-af-klint-record",
+      "lang": "en",
+      "title": "A Hilma af Klint abstraction sells for a record $12.7M",
+      "text": "A 1920 painting from her Series III fetched sixteen times its top estimate at a Stockholm auction. It is the first abstract work by the Swedish pioneer to come to market in three decades.",
+      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/11/Hilma-af-Klint-Ser-III-No.-5-.jpg",
+      "src": "https://hyperallergic.com/rare-hilma-af-klint-painting-sells-for-staggering-12-7m/",
+      "srcName": "Hyperallergic"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "news",
+      "id": "2026-11-21-krzywy-rog-atak-balistyczny",
+      "lang": "pl",
+      "title": "Rosyjskie rakiety balistyczne uderzyły w centrum Krzywego Rogu",
+      "text": "W piątkowym ataku na miasto zginęli siedmioletni chłopiec i ratowniczka medyczna, a 21 osób zostało rannych. Pociski spadły w pobliżu bloków mieszkalnych i restauracji.",
+      "src": "https://tvn24.pl/swiat/wojna-w-ukrainie-atak-rakietami-balistycznymi-na-krzywy-rog-sa-zabici-w-tym-dziecko-st9350278",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "photo",
+      "id": "2026-11-21-wm-07",
+      "title": "Paryż – rue Basse-des-Ursins",
+      "by": "Charles Marville, ok. 1865",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/da/Charles_Marville,_Rue_Basse-des-Ursins,_ca._1853%E2%80%9370.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Charles_Marville,_Rue_Basse-des-Ursins,_ca._1853%E2%80%9370.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "article",
+      "id": "2026-11-21-zanzibar-beach-football",
+      "lang": "en",
+      "title": "Beach football in Zanzibar, from noon to nightfall",
+      "text": "Nico Therin photographed local players on white-sand pitches across three matches in harsh midday sun, golden afternoon light and darkness. The resulting small photobook celebrates the game in its simplest, most joyful form.",
+      "img": "https://m.itsnicethat.com/original_images/Nico-Therin-Zanzibar-Football-photograpy-Itsnicethat-6.jpg?class=w1440",
+      "src": "https://www.itsnicethat.com/articles/nico-therin-photography-zanzibar-project-171126",
+      "srcName": "It's Nice That"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "video",
+      "id": "2026-11-21-sia-chandelier",
+      "kind": "Teledysk · nagroda",
+      "title": "Sia – „Chandelier”",
+      "by": "reż. Sia i Daniel Askill (RadicalMedia)",
+      "text": "Jedenastoletnia Maddie Ziegler w blond peruce tańczy w zaniedbanym, pustym mieszkaniu choreografię Ryana Heffingtona, która jest jednocześnie dziecięca i rozpaczliwa. Klip był nominowany do nagrody Grammy 2015 w kategorii Best Music Video, a na MTV VMA 2014 wygrał za najlepszą choreografię.",
+      "embed": {
+        "p": "yt",
+        "id": "2vjPBrBU-TM"
+      },
+      "dur": 231,
+      "img": "https://i.ytimg.com/vi/2vjPBrBU-TM/maxresdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/Chandelier_(song)",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "news",
+      "id": "2026-11-21-sikorski-misja-nato-nad-ukraina",
+      "lang": "pl",
+      "title": "Sikorski chce wezwać Rosjan i proponuje misję NATO nad zachodnią Ukrainą",
+      "text": "Szef MSZ zapowiedział, że gdy wojsko dostarczy twarde dowody, zażąda od rosyjskich dyplomatów wyjaśnień w sprawie naruszenia przestrzeni powietrznej. Zaproponował też natowską misję ochrony nieba nad zachodnią Ukrainą, przyznając, że do tego pomysłu trzeba dopiero przekonać sojuszników.",
+      "src": "https://wiadomosci.wp.pl/rosyjskie-rakiety-w-polsce-sikorski-zapowiada-kroki-7353144130693120a",
+      "srcName": "WP"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "photo",
+      "id": "2026-11-21-wm-08",
+      "title": "Paryż – rue des Poitevins",
+      "by": "Charles Marville, ok. 1865",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Charles_Marville,_Rue_des_Poitevins,_de_la_rue_Hautefeuille,_ca._1853%E2%80%9370.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Charles_Marville,_Rue_des_Poitevins,_de_la_rue_Hautefeuille,_ca._1853%E2%80%9370.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "news",
+      "id": "2026-11-21-szczyt-ue-wielka-brytania",
+      "lang": "pl",
+      "title": "UE i Wielka Brytania porozumiały się w sprawie wymiany młodzieży",
+      "text": "Na szczycie UE–Wielka Brytania uzgodniono program, w ramach którego 100 tys. młodych ludzi z każdej strony będzie mogło mieszkać po drugiej stronie kanału do trzech lat, a Londyn wróci do Erasmusa+ od 2027 roku. Spór o opłaty za studia dla Europejczyków na brytyjskich uczelniach ma zostać rozstrzygnięty w ciągu pół roku.",
+      "src": "https://www.euronews.com/2026/11/20/young-europeans-win-a-route-back-to-the-uk-but-not-cheaper-university-fees-yet",
+      "srcName": "Euronews"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "photo",
+      "id": "2026-11-21-wm-09",
+      "title": "Waszyngton – lekcja z papierowymi bryłami",
+      "by": "Frances Benjamin Johnston, 1899",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/63/Washington,_D.C._public_schools,_1st_Div._-_class_making_geometric_forms_with_paper_LCCN2001703678.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Washington,_D.C._public_schools,_1st_Div._-_class_making_geometric_forms_with_paper_LCCN2001703678.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "news",
+      "id": "2026-11-21-huti-rakiety-rijad",
+      "lang": "pl",
+      "title": "Huti ostrzelali Rijad po saudyjskiej operacji w Hodejdzie",
+      "text": "W sobotę rano obrona powietrzna koalicji pod wodzą Arabii Saudyjskiej zestrzeliła trzy rakiety balistyczne wystrzelone przez Huti w stronę Rijadu, nie ma informacji o ofiarach. Atak nastąpił dzień po saudyjskiej operacji wymierzonej w portowe miasto Hodejda w Jemenie.",
+      "src": "https://gulfnews.com/world/gulf/saudi/saudi-led-coalition-says-downed-3-houthi-missiles-headed-for-riyadh-2-1.500755733",
+      "srcName": "Gulf News"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "photo",
+      "id": "2026-11-21-wm-10",
+      "title": "Karolina Północna – plantacja Burnside",
+      "by": "Frances Benjamin Johnston, 1938",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Burnside_plantation_Vance_County_North_Carolina_by_Frances_Benjamin_Johnston_1938.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Burnside_plantation_Vance_County_North_Carolina_by_Frances_Benjamin_Johnston_1938.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "photo",
+      "id": "2026-11-21-wm-11",
+      "title": "Kentucky – górnik węglowy",
+      "by": "Ben Shahn, 1935",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/94/Kentucky_coalminer.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Kentucky_coalminer.jpg",
+      "srcName": "Wikimedia Commons"
+    },
     {
       "date": "2026-11-20",
       "type": "video",
@@ -6315,309 +6668,6 @@
       "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/10/David-Reed_808_2024-2026_Image.jpg",
       "src": "https://hyperallergic.com/david-reed-went-where-lichtenstein-wouldnt/",
       "srcName": "Hyperallergic"
-    },
-    {
-      "id": "2026-10-21-u2-greatest-show-on-earth",
-      "date": "2026-10-21",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "U2 – „The Greatest Show On Earth”",
-      "by": "reż. Anton Corbijn (Merman)",
-      "text": "Corbijn zamienia U2 w wędrowną trupę cyrkową uwięzioną na kalifornijskiej pustyni: Bono jako konferansjer, reszta zespołu w gipsowych maskach, a ku nim ciągną kobiety niosące przedmioty z domów. Czarno-biały, elegijny western z przymrużeniem oka, sfotografowany przez Phedona Papamichaela.",
-      "embed": {
-        "p": "yt",
-        "id": "TUuVOW7XogA"
-      },
-      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/U2%20%27The%20Greatest%20Show%20On%20Earth%27%20by%20Anton%20Corbijn.png?itok=vbrDdFIB",
-      "src": "https://www.promonews.tv/videos/2026/10/20/u2-greatest-show-earth-anton-corbijn/96673",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-21-joy-crookes-painkiller",
-      "date": "2026-10-21",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Joy Crookes ft. Denzel Curry – „Painkiller”",
-      "by": "reż. Ethan & Tom (Partizan)",
-      "text": "Narracyjny klip śledzi Joy Crookes w Chicago, gdzie romans z ulicznie wyłowionym amantem powoli traci urok, a pewność siebie bohaterki topnieje. Zwrotkę Denzela Curry’ego oglądamy na ekranie karaoke, a obraz przeskakuje między ulicą a zdegradowaną fakturą starej taśmy.",
-      "embed": {
-        "p": "yt",
-        "id": "lz1R_bQqjiA"
-      },
-      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Joy%20Crookes%20ft%20Denzel%20Curry%20%27Painkiller%27%20by%20Ethan%20%26%20Tom3.png?itok=F6w_7Gi2",
-      "src": "https://www.promonews.tv/videos/2026/09/16/joy-crookes-ft-denzel-curry-painkiller-ethan-tom/96277",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-21-prada-simple-stories-hunter-schafer",
-      "date": "2026-10-21",
-      "type": "video",
-      "kind": "Film modowy",
-      "title": "Prada – „Simple Stories” z Hunter Schafer",
-      "by": "reż. Barry Jenkins",
-      "text": "Reżyser „Moonlight” nakręcił dla Prady jesienno-zimową kampanię z codziennych, intymnych chwil, w których ubranie staje się przedłużeniem ciała. W tej odsłonie bohaterką jest Hunter Schafer.",
-      "embed": {
-        "p": "yt",
-        "id": "RmzdK0Iu0Kc"
-      },
-      "img": "https://i.ytimg.com/vi/RmzdK0Iu0Kc/hqdefault.jpg",
-      "src": "https://www.youtube.com/watch?v=RmzdK0Iu0Kc",
-      "srcName": "Prada (YouTube)"
-    },
-    {
-      "id": "2026-10-21-mit-kamery-z-cekinami",
-      "date": "2026-10-21",
-      "type": "article",
-      "lang": "en",
-      "title": "MIT professors decorate campus cameras to protest surveillance",
-      "text": "Wykładowcy MIT oklejają kampusowe kamery cekinami, kryształkami i ruchomymi oczkami w proteście przeciw zakupowi ponad 500 kamer z funkcjami AI za 3 mln dolarów. Akcja nawiązuje do pracy Jill Magid z 2002 roku, a uczestnicy podkreślają, że studenci boją się protestować otwarcie.",
-      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/10/red-background-with-creature-1.jpg",
-      "src": "https://hyperallergic.com/the-mit-professors-bedazzling-security-cameras-to-highlight-campus-surveillance/",
-      "srcName": "Hyperallergic"
-    },
-    {
-      "id": "2026-10-21-django-django-feel-alright",
-      "date": "2026-10-21",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Django Django & Max Pope – „Feel Alright”",
-      "by": "reż. Jim Longden",
-      "text": "Max Pope śpiewa dla garstki emerytów w klubie robotniczym, gdzie obok toczą się partie bilardu i rzutki, aż przy barze siada tajemniczy szef wytwórni grany przez Vincenta Neffa. Powolna, sucha satyra na marzenia o wielkim przełomie.",
-      "embed": {
-        "p": "yt",
-        "id": "ME38uNwNQ9Y"
-      },
-      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Django%20Django%20ft%20Max%20Pope%20%27Feel%20Alright%27%20by%20Jim%20Longden2.png?itok=NsM4L3SK",
-      "src": "https://www.promonews.tv/videos/2026/10/08/django-django-ft-max-pope-feel-alright-jim-longden/96597",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-21-james-arthur-waste-my-tears",
-      "date": "2026-10-21",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "James Arthur – „Waste My Tears”",
-      "by": "reż. KC Locke",
-      "text": "Czarno-biały klip łączy kameralny występ Arthura z portretami dużej, zróżnicowanej obsady statystów, nawiązując do kampanii CK One z lat 90. i fotografii dokumentalnej. To opowieść o żalu, akceptacji i odnajdywaniu drogi z powrotem do siebie.",
-      "embed": {
-        "p": "yt",
-        "id": "IlzmHdvZGj8"
-      },
-      "dur": 180,
-      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/James%20Arthur%20%27Waste%20My%20Tears%27%20by%20KC%20Locke.png?itok=5sWQ-NAl",
-      "src": "https://www.promonews.tv/videos/2026/10/05/james-arthur-waste-my-tears-kc-locke/96529",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-21-mglawica-lew-webb",
-      "date": "2026-10-21",
-      "type": "article",
-      "lang": "en",
-      "title": "The Webb telescope's portrait of the Lion Nebula",
-      "text": "Teleskop Jamesa Webba sfotografował Mgławicę Lew (NGC 2392), której kształt przypominający pysk z grzywą tworzy gaz rozgrzany przez umierającą gwiazdę, dziś białego karła. Astronomowie szacują, że mgławica rozproszy się całkowicie w ciągu około 10 tysięcy lat.",
-      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/lion.jpeg",
-      "src": "https://www.thisiscolossal.com/2026/10/nasa-james-webb-space-telescope-lion-nebula/",
-      "srcName": "Colossal"
-    },
-    {
-      "id": "2026-10-21-prada-simple-stories-chen-haoyu",
-      "date": "2026-10-21",
-      "type": "video",
-      "kind": "Film modowy",
-      "title": "Prada – „Simple Stories” z Chen Haoyu",
-      "by": "reż. Barry Jenkins",
-      "text": "Kolejny rozdział kampanii Prady na jesień i zimę 2026: drobne gesty i prywatne momenty, którym kamera Jenkinsa nadaje wagę. Tym razem przed obiektywem Chen Haoyu.",
-      "embed": {
-        "p": "yt",
-        "id": "3tbVe0xRc_g"
-      },
-      "img": "https://i.ytimg.com/vi/3tbVe0xRc_g/hqdefault.jpg",
-      "src": "https://www.youtube.com/watch?v=3tbVe0xRc_g",
-      "srcName": "Prada (YouTube)"
-    },
-    {
-      "id": "2026-10-21-aphex-twin-come-to-daddy",
-      "date": "2026-10-21",
-      "type": "video",
-      "kind": "Teledysk · klasyka",
-      "title": "Aphex Twin – „Come to Daddy”",
-      "by": "reż. Chris Cunningham",
-      "text": "Nakręcony w 1997 roku na osiedlu Thamesmead, gdzie Kubrick kręcił „Mechaniczną pomarańczę”, klip wypuszcza z porzuconego telewizora upiora i hordę dzieci z twarzą Richarda D. Jamesa. Horror, który zdefiniował styl Cunninghama, zdobył Złotą Nikę Prix Ars Electronica i otwiera listę najlepszych teledysków lat 90. według Pitchforka.",
-      "embed": {
-        "p": "yt",
-        "id": "TZ827lkktYs"
-      },
-      "img": "https://i.ytimg.com/vi/TZ827lkktYs/hqdefault.jpg",
-      "src": "https://en.wikipedia.org/wiki/Come_to_Daddy_(song)",
-      "srcName": "Wikipedia"
-    },
-    {
-      "id": "2026-10-21-troye-sivan-party",
-      "date": "2026-10-21",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Troye Sivan – „Party”",
-      "by": "reż. Gordon von Steiner (Object & Animal)",
-      "text": "Troye Sivan w kolczudze w średniowiecznej mini-produkcji, która z przekąsem przerabia rycerskie romanse w duchu „Narzeczonej dla księcia”. Bitwa zamienia się w krótki film, a całość otwiera żartobliwy prolog z Ianem McKellenem.",
-      "embed": {
-        "p": "yt",
-        "id": "Yvl4QSAyWR4"
-      },
-      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Troye%20Sivan%20%27Party%27%20by%20GVS.png?itok=Wp1qwuij",
-      "src": "https://www.promonews.tv/videos/2026/09/21/troye-sivan-party-gordon-von-steiner/96329",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-21-pawilon-kiefer-chipperfield",
-      "date": "2026-10-21",
-      "type": "article",
-      "lang": "en",
-      "title": "Chipperfield builds a pavilion for a single Kiefer painting",
-      "text": "Berlińskie biuro David Chipperfield Architects zbudowało w Künzelsau betonowo-ceglany pawilon zaprojektowany wokół jednego obrazu Anselma Kiefera, Schwarze Flocken, za dużego na muzealne sale. Budynek nie ma klimatyzacji – przed mrozem chroni go trójwarstwowa ściana, a światło wpada przez świetliki w drewnianym dachu.",
-      "img": "https://static-2026.dezeen.com/uploads/2026/10/anselm-kiefer-pavilion-david-chipperfield-architects_dezeen_2364_hero_1.jpg",
-      "src": "https://www.dezeen.com/2026/10/20/anselm-kiefer-pavilion-david-chipperfield-architects-germany/",
-      "srcName": "Dezeen"
-    },
-    {
-      "id": "2026-10-21-anderson-paak-cordae-a-good-day",
-      "date": "2026-10-21",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Anderson .Paak & Cordae – „A Good Day”",
-      "by": "reż. Dave Meyers (SHOTCLOCK)",
-      "text": "Paak i Cordae grają braci, którzy rywalizują o względy sąsiadki, dopóki pewna krytycznie nastawiona dziewczynka nie wymierzy im sprawiedliwości. Slapstickowa komedia nakręcona tak, jakby była kreskówką z prawdziwymi aktorami.",
-      "embed": {
-        "p": "yt",
-        "id": "8zxzlAyMg2U"
-      },
-      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Anderson%20.Paak%2C%20Cordae%20%27A%20Good%20Day%27%20by%20Dave%20Meyers.png?itok=irm09wSU",
-      "src": "https://www.promonews.tv/videos/2026/09/18/anderson-paak-cordae-good-day-dave-meyers/96328",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-21-orville-peck-already-gone",
-      "date": "2026-10-21",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Orville Peck – „Already Gone”",
-      "by": "reż. Austin Peters (HeathCo)",
-      "text": "Szpital psychiatryczny staje się sceną musicalu o uzależnieniu i zdrowiu psychicznym: szpitalne rytuały przechodzą w układy taneczne, personel w chórek, a Noah Cyrus pojawia się jako pielęgniarka. Ukłon w stronę „Lotu nad kukułczym gniazdem”, w którym zamaskowany Peck odsłania więcej niż zwykle.",
-      "embed": {
-        "p": "yt",
-        "id": "FCtl_roHr9o"
-      },
-      "dur": 193,
-      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Orville%20Peck%20%27Already%20Gone%27%20by%20Austin%20Peters.png?itok=xII-ltdf",
-      "src": "https://www.promonews.tv/videos/2026/08/19/orville-peck-already-gone-austin-peters/95955",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-21-podgladanie-w-fotografii",
-      "date": "2026-10-21",
-      "type": "article",
-      "lang": "en",
-      "title": "Five photo projects that peek into private lives",
-      "text": "Dazed zebrał pięć projektów opartych na podglądaniu: od zdjęć cudzych czatów w nowojorskim metrze Jeffa Mermelsteina, przez hotelowe śledztwo Sophie Calle, po dziwności z Google Street View Jona Rafmana. Zestawienie zamykają wczesne filmy Andy'ego Warhola z lat 60.",
-      "img": "https://images-prod.dazeddigital.com/1200/0-0-3000-2000/azure/dazed-prod/1380/5/1385115.jpg",
-      "src": "https://www.dazeddigital.com/art-photography/article/71204/1/5-voyeuristic-photo-stories-offer-peek-into-private-lives-andy-warhol-jon-rafman",
-      "srcName": "Dazed"
-    },
-    {
-      "id": "2026-10-21-kasia-lins-smierc-w-bikini",
-      "date": "2026-10-21",
-      "type": "video",
-      "kind": "Teledysk · nagroda",
-      "title": "Kasia Lins – „Śmierć w bikini”",
-      "by": "reż. Maciej Aleksander Bierut, Kasia Lins, Karol Łakomiec",
-      "text": "Klip do przeróbki klasyka Republiki zdobył Fryderyka 2026 w kategorii Teledysk roku, wręczonego podczas gali w Warszawie w maju. Kasia Lins współreżyserowała go z Maciejem Aleksandrem Bierutem i operatorem Karolem Łakomcem.",
-      "embed": {
-        "p": "yt",
-        "id": "vU6D-FBzvfo"
-      },
-      "img": "https://www.ebilet.pl/now/app/uploads/2026/05/lins_desktop.jpg",
-      "src": "https://www.ebilet.pl/now/fryderyki-2026-rozdane-zobacz-kto-wygral-w-tym-roku/",
-      "srcName": "eBilet"
-    },
-    {
-      "id": "2026-10-21-natanya-show-me-right",
-      "date": "2026-10-21",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Natanya – „Show Me Right!”",
-      "by": "reż. Tally Francis (Bad Bones Films)",
-      "text": "Inspirowany musicalami sprzed Kodeksu Haysa klip krąży między snem pełnym nut a rewiową salą taneczną, badając napięcie między Natanyą-performerką a artystką. Rekwizyty wykonano ręcznie według realiów epoki, a kostiumy pochodzą z archiwów mody pierwszej połowy XX wieku.",
-      "embed": {
-        "p": "yt",
-        "id": "kcNnmhMmkvs"
-      },
-      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Natanya%20%27Show%20Me%20Right%27%20by%20Tally%20Francis.png?itok=dmECIQAT",
-      "src": "https://www.promonews.tv/videos/2026/09/23/natanya-show-me-right-tally-francis/96373",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-21-translations-bwa-katowice",
-      "date": "2026-10-21",
-      "type": "article",
-      "lang": "pl",
-      "title": "Wystawa, którą można przesłać dalej – „Translations” w BWA Katowice",
-      "text": "W BWA Katowice do 22 października można zobaczyć cyfrowe projekty rzeźbiarskie m.in. Adrianny Gajdziszewskiej, Julii Celer i kolektywu Córy Lęku, wybrane w otwartym naborze. Wystawa sprawdza, czy ekspozycję da się powielić w dowolnym miejscu i jak algorytmy zacierają granicę między oglądaniem a tworzeniem.",
-      "img": "https://magazynszum.pl/wp-content/uploads/2026/10/translations-bwa-katowice-3-1440x943.jpg",
-      "src": "https://magazynszum.pl/translations-w-bwa-katowice/",
-      "srcName": "Magazyn Szum"
-    },
-    {
-      "id": "2026-10-21-ex-re-radio-station",
-      "date": "2026-10-21",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Ex:Re – „Radio Station”",
-      "by": "reż. Angela Ricciardi",
-      "text": "Solowy projekt Eleny Tonry z Daughter w stylizowanym na vintage klipie: delikatne ujęcia wokalistki przeplatają się z migawkami Paryża, po którym się przechadza. Kręcone w dwa dni, swobodnie i niemal dokumentalnie, przez reżyserkę, która sama stała za kamerą.",
-      "embed": {
-        "p": "yt",
-        "id": "XTApTIg4qO4"
-      },
-      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Ex-%20Re%20%27Radio%20Station%27.png?itok=GYT2EUAP",
-      "src": "https://www.promonews.tv/videos/2026/10/01/exre-radio-station-angela-ricciardi/96472",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-21-taylor-swift-fate-of-ophelia",
-      "date": "2026-10-21",
-      "type": "video",
-      "kind": "Teledysk · nagroda",
-      "title": "Taylor Swift – „The Fate of Ophelia”",
-      "by": "reż. Taylor Swift",
-      "text": "Klip, który Taylor Swift wyreżyserowała sama, zdobył nagrodę Video of the Year na MTV Video Music Awards 2026. Był to jeden z najmocniejszych akcentów gali, na której obok Swift triumfowała Madonna.",
-      "embed": {
-        "p": "yt",
-        "id": "ko70cExuzZM"
-      },
-      "img": "https://i.ytimg.com/vi/ko70cExuzZM/hqdefault.jpg",
-      "src": "https://www.promonews.tv/news/2026/09/28/madonna-and-taylor-swift-are-big-winners-2026-mtv-video-music-awards/96411",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-21-dla-marii-czaplickiej",
-      "date": "2026-10-21",
-      "type": "article",
-      "lang": "pl",
-      "title": "Artystki uzupełniają archiwum Marii Czaplickiej",
-      "text": "W muzeum Nałkowskich w Wołominie do 31 października trwa wystawa poświęcona antropolożce i podróżniczce Marii Czaplickiej, badaczce związanej z Oksfordem. Prace m.in. Sylwii Chutnik, Moniki Drożyńskiej i Agnieszki Brzeżańskiej dopowiadają jej fragmentaryczną biografię i pytają o kobiece sposoby poznawania świata.",
-      "img": "https://magazynszum.pl/wp-content/uploads/2026/10/bgf5295-mn-dlamarii-web-1440x1080.jpg",
-      "src": "https://magazynszum.pl/dla-marii-cwiczenia-z-wyobrazni-historycznej-w-muzeum-im-zofii-i-waclawa-nalkowskich-w-wolominie/",
-      "srcName": "Magazyn Szum"
-    },
-    {
-      "id": "2026-10-21-cieplak-istoty-zalezne",
-      "date": "2026-10-21",
-      "type": "article",
-      "lang": "pl",
-      "title": "Anna Cieplak o rozpadzie patchworkowej rodziny",
-      "text": "W rozmowie z Olgą Wróbel Anna Cieplak opowiada o powieści Istoty zależne, w której bohaterki jej debiutu trafiają do Ekwadoru. Mówi o mało zauważanym rozpadzie rodzin patchworkowych, pracy emocjonalnej i o werbowaniu dzieci przez kartele w Guayaquil.",
-      "img": "https://dwutygodnik-storage.s3.eu-central-1.amazonaws.com/prod/public/media/uploads/1792136367127-1392288-352x500.jpg",
-      "src": "https://www.dwutygodnik.com/artykul/12720-ukladanie-na-nowo.html",
-      "srcName": "Dwutygodnik"
     }
   ]
 }
