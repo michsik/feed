@@ -1,6 +1,346 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "items": [
+    {
+      "date": "2026-11-22",
+      "type": "video",
+      "id": "2026-11-22-beatles-in-my-life",
+      "kind": "Teledysk",
+      "title": "The Beatles – „In My Life”",
+      "by": "reż. Jessica Swale i Irina Alexiu (Apple Corps)",
+      "text": "Nowy klip do piosenki z „Rubber Soul” to rodzinna saga z Liverpoolu, w której ukulele przechodzi z rąk do rąk od lat 40. aż po dziś. Owen Cooper z „Dojrzewania” prowadzi nas przez nabrzeże Mersey, Strawberry Field i ukłon w stronę okładki „Abbey Road”.",
+      "embed": {
+        "p": "yt",
+        "id": "KePvp0-hcn0"
+      },
+      "img": "https://themusicuniverse.com/wp-content/uploads/2026/11/thebeatlesinmylifevid.jpg",
+      "src": "https://themusicuniverse.com/the-beatles-celebrate-liverpool-with-in-my-life-video/",
+      "srcName": "The Music Universe"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "news",
+      "id": "2026-11-22-nato-wsparcie-wschodnia-granica",
+      "lang": "pl",
+      "title": "Sojusznicy wzmocnią ochronę wschodniej granicy Polski",
+      "text": "Szef MON Władysław Kosiniak-Kamysz zapowiedział silne wsparcie NATO po piątkowym wtargnięciu rosyjskich rakiet i drona w polską przestrzeń powietrzną. Szczegóły mają zostać przedstawione w poniedziałek na nadzwyczajnym posiedzeniu Rady Północnoatlantyckiej w Brukseli.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-21/szef-mon-zabral-glos-ws-wschodniej-granicy-polski-mowi-o-dodatkowych-wsparciu-nato/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "photo",
+      "id": "2026-11-22-wm-01",
+      "title": "Nowy Jork – kolej nadziemna nad Oak i New Chambers Street",
+      "by": "Berenice Abbott, ok. 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Oak_and_New_Chambers_Streets,_Manhattan_(NYPL_b13668355-482579).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Oak_and_New_Chambers_Streets,_Manhattan_(NYPL_b13668355-482579).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "article",
+      "id": "2026-11-22-des-cosmos-missing",
+      "lang": "en",
+      "title": "Twenty years of sky surveys hint the cosmic recipe is incomplete",
+      "text": "The Dark Energy Survey's final results, combined with DESI data, suggest dark energy may be weakening over time, which strains the standard model of cosmology. The signal falls short of a discovery, but researchers think the tension is real and await data from the Rubin Observatory.",
+      "img": "https://www.quantamagazine.org/wp-content/uploads/2026/11/DES-cr.CTIO-NOIRLab-NSF-AURA-T.-Matsopoulos-Social.jpg",
+      "src": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
+      "srcName": "Quanta Magazine"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "news",
+      "id": "2026-11-22-rutte-warszawa-bez-artykulu-5",
+      "lang": "pl",
+      "title": "Rutte w Warszawie: incydent z rakietami to nie sprawa dla artykułu 5",
+      "text": "Sekretarz generalny NATO nazwał rosyjskie obiekty nad Polską niebezpiecznymi i niedopuszczalnymi, ale ocenił, że nie uzasadniają one uruchomienia artykułu 5. Zapewnił, że Sojusz obroni każdy centymetr polskiego terytorium, a zestrzeliwanie rakiet jeszcze nad Ukrainą uznał za niepotrzebne.",
+      "src": "https://wiadomosci.wp.pl/rosyjskie-rakiety-w-polsce-szef-nato-wprost-o-uruchomieniu-art-5-7353494914320384a",
+      "srcName": "WP"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "photo",
+      "id": "2026-11-22-wm-02",
+      "title": "Nowy Jork – szkoła fryzjerów Tri-boro na Bowery",
+      "by": "Berenice Abbott, 1935",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/16/Tri-boro_Barber_School,_264_Bowery,_Manhattan_(NYPL_b13668355-482852).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Tri-boro_Barber_School,_264_Bowery,_Manhattan_(NYPL_b13668355-482852).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "article",
+      "id": "2026-11-22-valheim-smierc",
+      "lang": "pl",
+      "title": "Valheim, czyli schronienie w niekończącym się umieraniu",
+      "text": "Z okazji wersji 1.0 survivalowej gry studia Iron Gate autorka opisuje, jak rytm śmierci, odzyskiwania ekwipunku i odbudowy staje się dziwnie kojący. Najciekawsi okazują się jednak współgracze, bo wspólna rozgrywka obnaża nawyki i temperament każdego z nich.",
+      "img": "https://dwutygodnik-storage.s3.eu-central-1.amazonaws.com/prod/public/media/uploads/1794925108518-IMG7984.jpeg",
+      "src": "https://www.dwutygodnik.com/artykul/12770-gra-tysiaca-i-jednej-smierci.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "video",
+      "id": "2026-11-22-daft-punk-around-the-world",
+      "kind": "Teledysk · klasyka",
+      "title": "Daft Punk – „Around the World”",
+      "by": "reż. Michel Gondry (Partizan Midi Minuit)",
+      "text": "Gondry ustawia na scenie-płycie winylowej roboty, mumie, szkielety, pływaczki synchroniczne i lekkoatletów, a każda grupa tańczy do innego instrumentu utworu. Choreografia Blanki Li zamienia budowę house'owego numeru w żywą partyturę, którą widać jednym, nieprzerwanym spojrzeniem.",
+      "embed": {
+        "p": "yt",
+        "id": "K0HSD_i2DvA"
+      },
+      "dur": 242,
+      "src": "https://en.wikipedia.org/wiki/Around_the_World_(Daft_Punk_song)",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "news",
+      "id": "2026-11-22-sikorski-przydacz-ambasadorowie",
+      "lang": "pl",
+      "title": "Spór o ambasadorów: Sikorski oskarża Pałac o sabotowanie państwa",
+      "text": "Marcin Przydacz zarzucił MSZ wysłanie wniosków o agrément do kilkunastu stolic bez zgody prezydenta i zapowiedział, że tacy kandydaci nie dostaną listów uwierzytelniających. Radosław Sikorski odpowiedział, że otoczenie Karola Nawrockiego próbuje sparaliżować instytucje i zmienić ustrój metodą faktów dokonanych.",
+      "src": "https://wiadomosci.wp.pl/sikorski-uderzyl-w-prezydenta-sabotowanie-panstwa-polskiego-7353552290773024a",
+      "srcName": "WP"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "photo",
+      "id": "2026-11-22-wm-03",
+      "title": "Nowy Jork – Dolny Manhattan z pokładu S.S. Coamo",
+      "by": "Jack Delano, 1941",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/82/Jack_Delano,_Lower_Manhattan_seen_from_the_S.S._Coamo_leaving_New_York,_1941.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Jack_Delano,_Lower_Manhattan_seen_from_the_S.S._Coamo_leaving_New_York,_1941.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "article",
+      "id": "2026-11-22-malvestir-moma-ps1",
+      "lang": "en",
+      "title": "MoMA PS1 plans a big show on Latin American clothing",
+      "text": "Malvestir, opening in April 2027, gathers 20 artists and designers from across the Americas to look at what Latin American dress means today. It tackles brands borrowing Indigenous crafts, textile waste and the exoticising of Latin styles.",
+      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/Screenshot-2026-11-20-at-5.56.28---PM.jpg",
+      "src": "https://hyperallergic.com/a-sprawling-exhibition-of-latin-american-art-and-fashion-is-coming-to-nyc/",
+      "srcName": "Hyperallergic"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "news",
+      "id": "2026-11-22-sondaz-lider-prawicy-nawrocki",
+      "lang": "pl",
+      "title": "Sondaż: Nawrocki wyprzedza Kaczyńskiego jako lider prawicy",
+      "text": "W badaniu SW Research dla Rzeczpospolitej 23,8 proc. ankietowanych wskazało prezydenta jako lidera prawicy, a 19 proc. prezesa PiS. Dalej uplasowali się Krzysztof Bosak i Sławomir Mentzen, a jedna trzecia badanych nie miała zdania.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-21/polacy-wskazali-lidera-prawicy-nawrocki-wyprzedza-kaczynskiego/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "photo",
+      "id": "2026-11-22-wm-04",
+      "title": "Portoryko – scena z grudnia 1941",
+      "by": "Jack Delano, 1941",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/89/Puerto_Rico,_Dec._1941_1a34075v.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Puerto_Rico,_Dec._1941_1a34075v.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "article",
+      "id": "2026-11-22-teatr-lalek-fidelus",
+      "lang": "pl",
+      "title": "Julia Fidelus o teatrze lalek bez kompleksów",
+      "text": "Reżyserka mówi, że nie musi już udowadniać powagi lalkarstwa, choć w polskim teatrze wciąż uchodzi ono za rozrywkę dla dzieci. Opowiada o barierach finansowych, braku dostępności dla niesłyszących widzów i o swoim debiucie na Forum Młodej Reżyserii.",
+      "img": "https://dwutygodnik-storage.s3.eu-central-1.amazonaws.com/prod/public/media/uploads/1795094638873-fotzimakiewicz192Duy.jpeg",
+      "src": "https://www.dwutygodnik.com/artykul/12771-nie-mam-kompleksu-lalkarki.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "video",
+      "id": "2026-11-22-saint-laurent-summer-21-noe",
+      "kind": "Film modowy",
+      "title": "Saint Laurent – „Summer of '21” z Charlotte Rampling",
+      "by": "reż. Gaspar Noé (Saint Laurent)",
+      "text": "Gaspar Noé zamienia kampanię Saint Laurent na wiosnę-lato 2021 w hipnotyczny horror w duchu giallo, w którym Charlotte Rampling przewodzi sabatowi modelek w zamku. Całość pulsuje w rytm przeróbki „I Feel Love” autorstwa SebastiAna.",
+      "embed": {
+        "p": "yt",
+        "id": "Dd5vHr-RJPg"
+      },
+      "img": "https://images-prod.anothermag.com/1200/0-0-2000-1333/azure/another-prod/400/4/404244.jpg",
+      "src": "https://anothermag.com/fashion-beauty/13035/see-gaspar-noe-s-new-film-for-saint-laurent-starring-charlotte-rampling",
+      "srcName": "AnOther Magazine"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "news",
+      "id": "2026-11-22-snieg-zawieje-wschod-polski",
+      "lang": "pl",
+      "title": "Nadchodzi pierwszy śnieg i zawieje, najwięcej na wschodzie kraju",
+      "text": "Od nocy z niedzieli na poniedziałek w wielu regionach ma padać śnieg, a porywisty wiatr może tworzyć zawieje i ograniczać widoczność na drogach. W górach może spaść do 20 cm śniegu, a pod koniec tygodnia nadejdzie całodobowy mróz.",
+      "src": "https://www.twojapogoda.pl/wiadomosc/2026-11-22/odliczamy-do-sniezycy-w-tych-regionach-bedzie-najgorszej/",
+      "srcName": "TwojaPogoda"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "photo",
+      "id": "2026-11-22-wm-05",
+      "title": "Paryż – szmaciarz (chiffonier)",
+      "by": "Eugène Atget, ok. 1899",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Eug%C3%A8ne_Atget,_Chiffonier_-_Getty_Museum.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Atget,_Chiffonier_-_Getty_Museum.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "article",
+      "id": "2026-11-22-vivid-cereal-belskaya",
+      "lang": "en",
+      "title": "Nika Belskaya's Frankenstein worlds of archival imagery",
+      "text": "The Berlin designer behind Vivid Cereal stitches public-domain pictures together with contemporary touches, with her Georgian heritage running through projects like the cookbook Of Soil & Smoke. Her logos draw on childhood toys, mycology and physics.",
+      "img": "https://m.itsnicethat.com/original_images/12__NikaBelskaya-Itsnicethat-Feminism.png?class=w1440",
+      "src": "https://www.itsnicethat.com/articles/nika-belskaya-vivid-cereal-graphic-design-discover-191126",
+      "srcName": "It's Nice That"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "news",
+      "id": "2026-11-22-cop31-dogrywka-paliwa-kopalne",
+      "lang": "pl",
+      "title": "COP31 w dogrywce, spór o paliwa kopalne",
+      "text": "Szczyt klimatyczny w Antalyi przedłużył się o drugi dzień, a prezydencja przedstawiła nowy tekst porozumienia, który według niej może zyskać zgodę wszystkich stron. Wcześniejszy projekt skrytykowano za pominięcie paliw kopalnych po sprzeciwie Arabii Saudyjskiej i innych producentów.",
+      "src": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime",
+      "srcName": "Al Jazeera"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "photo",
+      "id": "2026-11-22-wm-06",
+      "title": "Paryż – gwardziści republikańscy przed Pałacem Sprawiedliwości",
+      "by": "Eugène Atget, ok. 1900",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/38/Eug%C3%A8ne_Atget,_Republican_Guards_in_Front_of_the_Palais_de_Justice_-_Getty_Museum.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Atget,_Republican_Guards_in_Front_of_the_Palais_de_Justice_-_Getty_Museum.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "article",
+      "id": "2026-11-22-salon-archive-explorer",
+      "lang": "en",
+      "title": "Salon closes, and its 31 years of writing go to the Internet Archive",
+      "text": "After the pioneering web magazine shut down, the Internet Archive launched Salon Explorer to browse more than 250,000 of its articles by over 20,000 writers. Old pages also remain viewable through the Wayback Machine.",
+      "img": "https://cdn8.openculture.com/2026/11/17223014/Screenshot-2026-11-17-at-10.41.33-PM-1024x634.png",
+      "src": "https://www.openculture.com/2026/11/explore-250000-articles-from-salons-31-year-history-at-the-internet-archive.html",
+      "srcName": "Open Culture"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "video",
+      "id": "2026-11-22-joy-crookes-painkiller",
+      "kind": "Teledysk · nagroda",
+      "title": "Joy Crookes feat. Denzel Curry – „Painkiller”",
+      "by": "reż. Ethan & Tom (Partizan)",
+      "text": "Klip duetu Ethan & Tom zdobył nagrodę UK Music Video Awards 2026 w kategorii Best R&B/Soul/Jazz Video (UK). To kolejny dowód, że Joy Crookes, tu w duecie z Denzelem Currym, ma jedno z najciekawszych wizualnych uniwersów brytyjskiego soulu.",
+      "embed": {
+        "p": "yt",
+        "id": "lz1R_bQqjiA"
+      },
+      "src": "https://lbbonline.com/work/182225",
+      "srcName": "LBB Online"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "news",
+      "id": "2026-11-22-iran-racjonowanie-pradu",
+      "lang": "pl",
+      "title": "Iran od niedzieli racjonuje prąd",
+      "text": "Z powodu szkód wojennych w sieci energetycznej Irańczycy mają być pozbawiani prądu nawet na dwie godziny dziennie, a w kilku prowincjach wprowadzono limity na dotowany chleb. Donald Trump wciąż nie zdecydował, czy postawić na rozmowy, czy na kolejne uderzenia.",
+      "src": "https://www.rferl.org/a/iran-electricity-ration-bread-trump-/33903259.html",
+      "srcName": "RFE/RL"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "photo",
+      "id": "2026-11-22-wm-07",
+      "title": "Nowy Jork – „Ikar”, robotnik na Empire State Building",
+      "by": "Lewis Hine, 1930",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/19/Icarus,_Empire_State_Building_MET_DP106525.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Icarus,_Empire_State_Building_MET_DP106525.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "article",
+      "id": "2026-11-22-gunnarsson-iceland-waves",
+      "lang": "en",
+      "title": "Storm waves on Iceland's coast in black and white",
+      "text": "Press photographer and rescue volunteer Vilhelm Gunnarsson shoots the rough seas of the Reykjanes Peninsula during and just after storms. One crest even takes on a face-like shape he calls a ghost.",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/gunnarsson-5.jpg",
+      "src": "https://www.thisiscolossal.com/2026/11/vilhelm-gunnarsson-iceland-ocean-photography/",
+      "srcName": "Colossal"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "news",
+      "id": "2026-11-22-krolewiec-eksplozje-baltyjsk",
+      "lang": "pl",
+      "title": "Eksplozje w obwodzie królewieckim, możliwy atak na bazę Floty Bałtyckiej",
+      "text": "Ukraińskie media donoszą o wybuchach w rosyjskiej enklawie, a celem miała być infrastruktura portowa w Bałtyjsku. Gubernator potwierdził ogłoszenie alarmu dronowego, ale żadna ze stron oficjalnie nie potwierdziła uderzenia.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-21/alarm-w-obwodzie-krolewieckim-donosza-o-eksplozjach-w-poblizu-rosyjskiej-bazy/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "photo",
+      "id": "2026-11-22-wm-08",
+      "title": "North Pownal – Addie Card, przędzalniczka w fabryce bawełny",
+      "by": "Lewis Hine, 1910",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Lewis_Hine_-_Addie_Card,_12_years._Spinner_in_North_Pownal_Cotton_Mill_MET_DP262027.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Lewis_Hine_-_Addie_Card,_12_years._Spinner_in_North_Pownal_Cotton_Mill_MET_DP262027.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "news",
+      "id": "2026-11-22-belgia-strajk-lotniska",
+      "lang": "pl",
+      "title": "Strajk generalny sparaliżuje w poniedziałek belgijskie lotniska",
+      "text": "Kontrola ruchu lotniczego Skeyes nie zapewni normalnej obsługi przez 14 godzin z powodu ogólnokrajowego protestu przeciw oszczędnościom rządu Barta De Wevera. Większość lotów z Brukseli i Charleroi zostanie odwołana.",
+      "src": "https://www.freemalaysiatoday.com/category/world/2026/11/22/belgium-faces-air-traffic-shutdown-due-to-national-strike-monday",
+      "srcName": "AFP"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "photo",
+      "id": "2026-11-22-wm-09",
+      "title": "Teksas – farma w Dust Bowl koło Dalhart",
+      "by": "Dorothea Lange, 1938",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Dust_Bowl_farm._Coldwater_District,_north_of_Dalhart,_Texas.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Dust_Bowl_farm._Coldwater_District,_north_of_Dalhart,_Texas.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "news",
+      "id": "2026-11-22-meksyk-el-chapo-isidro-zatrzymany",
+      "lang": "pl",
+      "title": "Meksyk: zatrzymano bossa kartelu z listy FBI, w Sinaloa wybuchły walki",
+      "text": "Siły specjalne schwytały Fausta Isidra Mezę Floresa, przywódcę kartelu Los Mazatlecos poszukiwanego przez FBI. Po zatrzymaniu doszło do strzelanin, a na ulicach płonęły samochody i stacje benzynowe.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-21/wojsko-dopadlo-czlowieka-z-listy-fbi-w-meksyku-rozpetalo-sie-pieklo/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-22",
+      "type": "photo",
+      "id": "2026-11-22-wm-10",
+      "title": "Oregon – farmerzy ze wspólną maszyną, West Carlton",
+      "by": "Dorothea Lange, 1939",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Dorothea_Lange,_Farmers_who_have_bought_machinery_cooperatively,_West_Carlton,_Yamhill_County,_Oregon,_1939.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Dorothea_Lange,_Farmers_who_have_bought_machinery_cooperatively,_West_Carlton,_Yamhill_County,_Oregon,_1939.jpg",
+      "srcName": "Wikimedia Commons"
+    },
     {
       "date": "2026-11-21",
       "type": "video",
@@ -6515,159 +6855,6 @@
       "img": "https://static-2026.dezeen.com/uploads/2026/10/radio-city-tower-liverpool-the-beatles-story_dezeen_2364_col_0.jpg",
       "src": "https://www.dezeen.com/2026/10/22/the-beatles-story-liverpool-relocation/",
       "srcName": "Dezeen"
-    },
-    {
-      "id": "2026-10-22-gucci-generation-gucci",
-      "date": "2026-10-22",
-      "type": "video",
-      "kind": "Film modowy",
-      "title": "Gucci – „Generation Gucci”",
-      "by": "reż. Jonathan Glazer (Academy Films / Wanda Productions)",
-      "text": "Jonathan Glazer i operator Darius Khondji nakręcili dla Gucci Demny nocny film zawieszony między jawą a snem. Ścieżka dźwiękowa przeskakuje od Miny przez Slipknota do Aznavoura.",
-      "embed": {
-        "p": "yt",
-        "id": "KH3rpTRwCq0"
-      },
-      "dur": 106,
-      "img": "https://d3q27bh1u24u2o.cloudfront.net/resized/1200/news_hero/2026-04/Generation-Gucci-Jonathan-Glazer-Slipknot-2026.dxtJhYn1.png",
-      "src": "https://lbbonline.com/news/generation-gucci-film-2026-jonathan-glazer-slipknot",
-      "srcName": "LBB Online"
-    },
-    {
-      "id": "2026-10-22-colorado-wildlife-crossing",
-      "date": "2026-10-22",
-      "type": "article",
-      "lang": "en",
-      "title": "A highway bridge just for animals",
-      "text": "Nad autostradą I-25 między Denver a Colorado Springs działa przejście tylko dla zwierząt, opisywane jako największe w Ameryce Północnej. W dziewięć miesięcy liczba zderzeń aut z dziką zwierzyną spadła o 91 procent.",
-      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/image_1.jpeg",
-      "src": "https://www.thisiscolossal.com/2026/10/colorado-i25-wildlife-crossing/",
-      "srcName": "Colossal"
-    },
-    {
-      "id": "2026-10-22-rogalski-stupor-arsenal",
-      "date": "2026-10-22",
-      "type": "article",
-      "lang": "pl",
-      "title": "Rogalski i zmęczone oko",
-      "text": "Recenzja wystawy Zbigniewa Rogalskiego „Stupor (11 IX)” w poznańskim Arsenale: kwitnące rośliny, ptasie skrzydła i tkaniny z rozmytymi napisami końcowymi filmów. Autorka uważa, że rocznicowe nawiązanie do 11 września przesłania prawdziwy temat – granice i zmęczenie widzenia.",
-      "img": "https://magazynszum.pl/wp-content/uploads/2026/10/zbigniew-rogalski-025-1440x1080.jpg",
-      "src": "https://magazynszum.pl/chyba-mam-cos-w-oku-stupor-11-ix-zbigniewa-rogalskiego-w-galerii-miejskiej-arsenal-w-poznaniu/",
-      "srcName": "Magazyn SZUM"
-    },
-    {
-      "id": "2026-10-22-rachel-chinouriri-pretty-girls",
-      "date": "2026-10-22",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "Rachel Chinouriri – „Pretty Girls”",
-      "by": "reż. Dora Paphides (Kode)",
-      "text": "Klip w duchu Y2K rozgrywa się w studiu o metalicznych barwach, gdzie taniec, występ i koncept zlewają się w jedno. Edytorski, dopracowany styl, energiczna choreografia i ruchliwa kamera nadają mu nieco nierealny charakter.",
-      "embed": {
-        "p": "yt",
-        "id": "Ewf11NeIMIQ"
-      },
-      "dur": 214,
-      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/webform/Screenshot%202026-10-15%20at%2017.19.46.jpg?itok=0a6B6j5s",
-      "src": "https://www.promonews.tv/videos/2026/10/21/rachel-chinouriri-pretty-girls-dora-paphides/96682",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-22-mark-mcnulty-clubland",
-      "date": "2026-10-22",
-      "type": "article",
-      "lang": "en",
-      "title": "Northern England's rave years on film",
-      "text": "Liverpoolski fotograf Mark McNulty wydał album z archiwum ponad tysiąca zdjęć z klubów północnej Anglii, najmocniejszych z lat 90., sprzed ery smartfonów. Są tam m.in. Chemical Brothers i wczesny Daft Punk bez masek.",
-      "img": "https://images-prod.dazeddigital.com/1200/0-147-2748-1832/azure/dazed-prod/1450/7/1457558.jpg",
-      "src": "https://www.dazeddigital.com/music/article/71166/1/mark-mcnulty-clubland-35-summers-love-photos-90s-clubbing",
-      "srcName": "Dazed"
-    },
-    {
-      "id": "2026-10-22-drift-aeolus",
-      "date": "2026-10-22",
-      "type": "article",
-      "lang": "en",
-      "title": "DRIFT sculpts the wind in glass and light",
-      "text": "Studio DRIFT pokazuje w Londynie instalację Aeolus: zawieszone szklane pręty ze światełkami, które reagują na ruch widzów. Na początek 2027 roku studio zapowiada własne muzeum w Amsterdamie.",
-      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/drift-2.gif",
-      "src": "https://www.thisiscolossal.com/2026/10/aeolus-studio-drift-light-glass-installation/",
-      "srcName": "Colossal"
-    },
-    {
-      "id": "2026-10-22-mia-bad-girls",
-      "date": "2026-10-22",
-      "type": "video",
-      "kind": "Teledysk · klasyka",
-      "title": "M.I.A. – „Bad Girls”",
-      "by": "reż. Romain Gavras",
-      "text": "Nakręcony w cztery dni w marokańskim Ouarzazate klip, w którym M.I.A. pilnikuje paznokcie na dachu driftującego auta, a kobiety w tradycyjnych strojach prowadzą wyścig wśród płonących cystern. Zdobył MTV VMA 2012 za reżyserię i zdjęcia, a Stereogum uznał go za najlepszy teledysk dekady 2010.",
-      "embed": {
-        "p": "yt",
-        "id": "2uYs0gJD-LE"
-      },
-      "dur": 252,
-      "src": "https://en.wikipedia.org/wiki/Bad_Girls_(M.I.A._song)",
-      "srcName": "Wikipedia"
-    },
-    {
-      "id": "2026-10-22-zmijewski-naturalista",
-      "date": "2026-10-22",
-      "type": "article",
-      "lang": "pl",
-      "title": "Żmijewski o naturalizmie i ciele",
-      "text": "Rozmowa z Arturem Żmijewskim o wystawie „Naturalista” w warszawskiej Fundacji Alina, gdzie zestawia obrazy medyczne ze zdjęciami zdrowych ciał. Artysta opisuje naturalizm jako formę nieufności i znieczulenia, przywołując Borowskiego i Szapocznikow.",
-      "img": "https://magazynszum.pl/wp-content/uploads/2026/10/2026-09-08-artur-zmijewski-naturalista-p2-1-16ab-fot-adam-gut-60x80cm-1440x1080.jpg",
-      "src": "https://magazynszum.pl/efekt-nalozen-rozmowa-z-arturem-zmijewskim/",
-      "srcName": "Magazyn SZUM"
-    },
-    {
-      "id": "2026-10-22-yard-theatre-shimazaki",
-      "date": "2026-10-22",
-      "type": "article",
-      "lang": "en",
-      "title": "London's Yard Theatre gets a permanent home",
-      "text": "Takero Shimazaki Architects zamienili tymczasowy od 2011 roku Yard Theatre w Hackney Wick w stałą scenę na 224 miejsca w dawnym browarze. Stara wieża dźwigu stała się 23-metrowym półprzezroczystym kominem wentylacyjnym.",
-      "img": "https://static-2026.dezeen.com/uploads/2026/10/yard-theatre-revamp-takero-shimazaki-architects-london_dezeen_2364_hero_0.jpg",
-      "src": "https://www.dezeen.com/2026/10/21/yard-theatre-revamp-takero-shimazaki-architects-london/",
-      "srcName": "Dezeen"
-    },
-    {
-      "id": "2026-10-22-charli-xcx-house",
-      "date": "2026-10-22",
-      "type": "video",
-      "kind": "Teledysk · nagroda",
-      "title": "Charli xcx feat. John Cale – „House”",
-      "by": "reż. Mitch Ryan",
-      "text": "Mroczny, gotycki klip do pierwszego utworu z muzyki do „Wichrowych Wzgórz” Emerald Fennell, w którym monolog Johna Cale’a robi się coraz bardziej złowieszczy. W 2026 roku nominowany do UK Music Video Awards w kategorii najlepsze zdjęcia (gala 4 listopada).",
-      "embed": {
-        "p": "yt",
-        "id": "Xgp7wlBfASA"
-      },
-      "dur": 196,
-      "src": "https://www.promonews.tv/news/2026/10/06/uk-music-video-awards-2026-all-nominations-years-ukmvas-announced/96513",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-22-art-world-ai-writing",
-      "date": "2026-10-22",
-      "type": "article",
-      "lang": "en",
-      "title": "The art world's AI-written prose",
-      "text": "Valentina Di Liscia otwiera tekst akapitem napisanym przez AI, by pokazać pusty, przesadnie pewny siebie ton, który zalewa świat sztuki. Rozumie przeciążonych artystów, ale bogatym muzeom i agencjom PR nie daje taryfy ulgowej.",
-      "src": "https://hyperallergic.com/dear-art-world-we-can-tell-when-youre-using-ai/",
-      "srcName": "Hyperallergic"
-    },
-    {
-      "id": "2026-10-22-david-reed-terrible-idea",
-      "date": "2026-10-22",
-      "type": "article",
-      "lang": "en",
-      "title": "David Reed's paintings and drawings together",
-      "text": "John Yau omawia nowojorską wystawę Davida Reeda, która rzadko zestawia jego obrazy i rysunki z lat 2013–2026. Krytyk łączy je z Newmanem, Pierem della Francescą i Tiepolem oraz z grą koloru i przezroczystości.",
-      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/10/David-Reed_808_2024-2026_Image.jpg",
-      "src": "https://hyperallergic.com/david-reed-went-where-lichtenstein-wouldnt/",
-      "srcName": "Hyperallergic"
     }
   ]
 }
