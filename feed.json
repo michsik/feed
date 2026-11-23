@@ -1,6 +1,370 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "items": [
+    {
+      "date": "2026-11-23",
+      "type": "video",
+      "id": "2026-11-23-sleep-theory-giving-in",
+      "kind": "Teledysk",
+      "title": "Sleep Theory – „Giving In”",
+      "by": "reż. Lewis Cater (Reserved Entry)",
+      "text": "Wokalista metalowego Sleep Theory Cullen Moore w kółko grzebie samego siebie żywcem, a potem wygrzebuje się na powierzchnię, by zacząć od nowa. Mroczna, filmowa metafora walki z nałogiem, która nie ma końca.",
+      "embed": {
+        "p": "yt",
+        "id": "4OawAhaCrus"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/webform/ST9.jpg?itok=88b4FFaU",
+      "src": "https://www.promonews.tv/videos/2026/11/12/sleep-theory-giving-lewis-cater/96947",
+      "srcName": "Promonews"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "news",
+      "id": "2026-11-23-nato-rada-rakiety-ch101",
+      "lang": "pl",
+      "title": "Rada NATO obraduje dziś o rosyjskich rakietach w Polsce",
+      "text": "Prokuratura w Lublinie ustaliła, że wszystkie trzy obiekty, które spadły w piątek na Lubelszczyźnie i Podkarpaciu, to rakiety manewrujące Ch-101 wyprodukowane w czwartym kwartale 2026 r. w Dubnej. W poniedziałek w Brukseli zbiera się w tej sprawie Rada Północnoatlantycka, a Polskę reprezentuje wiceszef MON Paweł Zalewski.",
+      "src": "https://tvn24.pl/polska/prokuratura-podala-jakie-rakiety-spadly-we-wschodniej-polsce-nowe-informacje-st9352226",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "photo",
+      "id": "2026-11-23-wm-01",
+      "title": "Nowy Jork, „growler gang” przy piwie",
+      "by": "Jacob Riis, ok. 1887",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Jacob_Riis_-_A_growler_gang_in_session.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Jacob_Riis_-_A_growler_gang_in_session.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "article",
+      "id": "2026-11-23-yoshitomo-nara-new-york",
+      "lang": "en",
+      "title": "Yoshitomo Nara's defiant children return to New York",
+      "text": "Nara's first New York solo show in about ten years fills two David Zwirner galleries with nearly 100 paintings, drawings and bronzes of his big-headed figures, whose innocent faces hide a rebellious streak. The show also follows his move into clay after the 2011 Tōhoku earthquake and runs until 12 December, with an SFMOMA retrospective planned for next autumn.",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/new-nara-hero.jpg",
+      "src": "https://www.thisiscolossal.com/2026/11/yoshitomo-nara-new-york/",
+      "srcName": "Colossal"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "news",
+      "id": "2026-11-23-iran-trump-grozby-bahrajn",
+      "lang": "pl",
+      "title": "Trump grozi Iranowi uderzeniami po Nowym Roku",
+      "text": "Prezydent USA zapowiedział, że bez porozumienia Iran może zostać zaatakowany po Nowym Roku, a obecne rozmowy nazwał bezcelowymi. Wcześniej irańska Gwardia Rewolucyjna ostrzelała rakietami i dronami dwie amerykańskie bazy w Bahrajnie, a w cieśninie Ormuz zaatakowano kolejne tankowce.",
+      "src": "https://www.rmf24.pl/fakty/swiat/news-donald-trump-grozi-iranowi-atakami-po-nowym-roku-sa-teraz-ba,nIdn,1027197",
+      "srcName": "RMF24"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "photo",
+      "id": "2026-11-23-wm-02",
+      "title": "Alabama, przydrożna buda z Coca-Colą",
+      "by": "Walker Evans, ok. 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Coca-Cola_shack_in_Alabama_by_Walker_Evans.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Coca-Cola_shack_in_Alabama_by_Walker_Evans.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "news",
+      "id": "2026-11-23-cop31-bez-porozumienia",
+      "lang": "pl",
+      "title": "Szczyt klimatyczny COP31 zakończył się fiaskiem",
+      "text": "Rozmowy w Antalyi, przedłużone o dwa dni, zakończyły się bez porozumienia, bo UE, Wielka Brytania, Norwegia i państwa wyspiarskie odrzuciły tekst pomijający paliwa kopalne. To pierwsza taka porażka od Kopenhagi w 2009 r., a sporne kwestie przechodzą na rozmowy w Bonn i COP32 w Addis Abebie.",
+      "src": "https://www.yahoo.com/news/world/articles/cop31-turkey-collapses-without-deal-000618355.html",
+      "srcName": "Yahoo News / bne IntelliNews"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "photo",
+      "id": "2026-11-23-wm-03",
+      "title": "Berlin, troje dzieci",
+      "by": "Heinrich Zille, ok. 1900",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/70/Heinrich_Zille_drei_Kinder.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Heinrich_Zille_drei_Kinder.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "video",
+      "id": "2026-11-23-prada-candy-leau",
+      "kind": "Film modowy",
+      "title": "Prada – „Candy L'Eau” z Léą Seydoux",
+      "by": "reż. Wes Anderson i Roman Coppola",
+      "text": "Trzyczęściowa reklama perfum, w której Léa Seydoux nie potrafi wybrać między dwoma adoratorami o imionach Julius i Gene. Pastelowy ukłon w stronę „Jules i Jim” Truffauta, z francuskim popem lat 60. w tle.",
+      "embed": {
+        "p": "yt",
+        "id": "OnsXlxYiH6c"
+      },
+      "dur": 180,
+      "img": "https://thefilmstage.com/wp-content/uploads/2013/04/prada.png",
+      "src": "https://thefilmstage.com/watch-wes-anderson-roman-coppola-evoke-jules-and-jim-in-three-minute-prada-ad/",
+      "srcName": "The Film Stage"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "article",
+      "id": "2026-11-23-callum-abbott-free-fonts",
+      "lang": "en",
+      "title": "Callum Abbott builds whole publications out of type",
+      "text": "Asked to redesign the 200-plus-page Other Almanac without adding a single new image, the designer leaned on around 40 mostly free typefaces, loud colour and dramatic scale. He also explains how his covers for Mutt Art Review rearrange a fixed set of 1970s-flavoured fonts in new layouts each issue.",
+      "img": "https://m.itsnicethat.com/original_images/Mutt-Issue5-COVER.jpg?class=w1440",
+      "src": "https://www.itsnicethat.com/articles/callum-abbott-other-almanac-mutt-art-review-graphic-design-publication-project-181126",
+      "srcName": "It's Nice That"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "news",
+      "id": "2026-11-23-szczyt-v4-bratyslawa-budzet",
+      "lang": "pl",
+      "title": "Tusk na szczycie V4 i Austrii w Bratysławie",
+      "text": "Premierzy Polski, Czech, Węgier i Słowacji oraz kanclerz Austrii rozmawiają dziś na Zamku Bratysławskim głównie o unijnym budżecie na lata 2028–2034. Propozycja Antonia Costy zakłada mniejszy budżet i przekazanie części wpływów z ETS do Brukseli, a w czwartek odbędzie się nadzwyczajny szczyt UE w tej sprawie.",
+      "src": "https://wiadomosci.wp.pl/tusk-jedzie-na-szczyt-v4-na-stole-migracja-i-miliardy-z-ue-7353865150633984a",
+      "srcName": "WP"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "photo",
+      "id": "2026-11-23-wm-04",
+      "title": "Nowy Orlean, bezrobotni przed biurem FERA",
+      "by": "Ben Shahn, 1935",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/62/FERA_New_Orleans_1935_Looking.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:FERA_New_Orleans_1935_Looking.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "news",
+      "id": "2026-11-23-dymer-dron-blok",
+      "lang": "pl",
+      "title": "Rosyjski dron zburzył część bloku pod Kijowem",
+      "text": "W Dymerze w obwodzie kijowskim po ataku drona zawaliła się część pięciopiętrowego budynku mieszkalnego. Według Zełenskiego pod gruzami może być co najmniej 14 osób.",
+      "src": "https://ca.news.yahoo.com/least-14-people-missing-russian-085938398.html",
+      "srcName": "Reuters"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "photo",
+      "id": "2026-11-23-wm-05",
+      "title": "Arlington, czekając na autobus",
+      "by": "Esther Bubley, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Waiting_for_the_bus_at_Arlington_Farms_LC-USW3-026037-E.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Waiting_for_the_bus_at_Arlington_Farms_LC-USW3-026037-E.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "article",
+      "id": "2026-11-23-chemistry-became-biology",
+      "lang": "en",
+      "title": "How chemistry turned into life, as the story stands now",
+      "text": "From the Miller experiment of 1952 to the long feud between RNA-world, metabolism-first and lipid-first camps, origin-of-life research is moving towards seeing life as a gradual continuum rather than a single leap. Synthetic cells that grow and divide in the lab are helping researchers test how simple molecules could start behaving like living things.",
+      "img": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Origin-of-Life-cr.Mark-Belan-Social.jpg",
+      "src": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+      "srcName": "Quanta Magazine"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "news",
+      "id": "2026-11-23-nawrocki-argentyna-chile",
+      "lang": "pl",
+      "title": "Nawrocki rusza z wizytą do Argentyny i Chile",
+      "text": "Prezydent spotka się w dniach 23–27 listopada z Javierem Mileiem i José Antonio Kastem, odwiedzi też chilijską kopalnię Sierra Gorda z udziałem KGHM. Kancelaria wskazuje, że celem są rozmowy w gronie G20 przed grudniowym szczytem w Miami.",
+      "src": "https://www.rmf24.pl/fakty/polityka/news-od-ponad-20-lat-nie-bylo-prezydenta-polski-w-tej-czesci-swia,nIdn,1027184",
+      "srcName": "RMF24"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "photo",
+      "id": "2026-11-23-wm-06",
+      "title": "Nowy Jork, Bottle Alley przy Baxter Street",
+      "by": "Jacob Riis, ok. 1888",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bottle_Alley.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Bottle_Alley.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "video",
+      "id": "2026-11-23-nirvana-smells-like-teen-spirit",
+      "kind": "Teledysk · klasyka",
+      "title": "Nirvana – „Smells Like Teen Spirit”",
+      "by": "reż. Samuel Bayer",
+      "text": "Debiut Samuela Bayera: szkolny apel, cheerleaderki z anarchią na swetrach i widownia, która w końcu rusza do pogo i rozsadza plan. Cobain sam przemontował finał, dorzucając zbliżenie własnej twarzy.",
+      "embed": {
+        "p": "yt",
+        "id": "hTWKbfoikeg"
+      },
+      "dur": 301,
+      "img": "https://i.ytimg.com/vi/hTWKbfoikeg/hqdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "news",
+      "id": "2026-11-23-bengazi-rosyjska-korweta",
+      "lang": "pl",
+      "title": "Wybuch na rosyjskim okręcie w libijskim Bengazi",
+      "text": "Zacumowany w porcie w Bengazi rosyjski okręt, prawdopodobnie korweta Mierkurij, stanął w ogniu po eksplozji, którą wstępnie przypisuje się atakowi drona. Nikt nie przyznał się do ataku, a władze wschodniej Libii zapowiedziały kroki prawne i dyplomatyczne.",
+      "src": "https://tvn24.pl/swiat/libia-wybuch-na-rosyjskim-okrecie-w-bazie-morskiej-w-bengazi-st9352278",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "photo",
+      "id": "2026-11-23-wm-07",
+      "title": "Belle Glade, szyld przy juke joincie",
+      "by": "Marion Post Wolcott, 1941",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/33/%22ATLANTIC_ALE_and_BEER%22_%22Full_of_Good_Cheer%22_sign,_from-_African_American_migratory_workers_by_a_'juke_joint'._Belle_Glade,_Florida,_February_1941_(cropped).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:%22ATLANTIC_ALE_and_BEER%22_%22Full_of_Good_Cheer%22_sign,_from-_African_American_migratory_workers_by_a_'juke_joint'._Belle_Glade,_Florida,_February_1941_(cropped).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "article",
+      "id": "2026-11-23-sew-their-names-quilts",
+      "lang": "en",
+      "title": "Quilts that stitch back the names of the enslaved",
+      "text": "Since 2021, women in Lowndes County, Alabama, have gathered weekly to embroider the names of people once enslaved by members of a local church into quilts. The project, Sew Their Names, has now landed in Auburn's Jule Collins Smith Museum, shown alongside regional artists such as Bill Traylor and Noah Purifoy.",
+      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/11/2026-Sew-Their-Names-Installation-Photos-012-copy.jpg",
+      "src": "https://hyperallergic.com/threading-the-names-of-alabamas-black-belt-history/",
+      "srcName": "Hyperallergic"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "news",
+      "id": "2026-11-23-dezinformacja-krolewiec",
+      "lang": "pl",
+      "title": "Rosja rozsiewa fałszywki o ataku na obwód królewiecki",
+      "text": "Resort cyfryzacji ostrzega przed rosyjskimi przekazami, według których w uderzeniu dronów na Bałtijsk mieli uczestniczyć polscy, litewscy i niemieccy żołnierze. Wiceminister Paweł Olszewski apeluje, by korzystać wyłącznie z oficjalnych komunikatów polskich służb.",
+      "src": "https://tvn24.pl/biznes/ze-swiata/wiceminister-odnotowujemy-liczne-rosyjskie-falszywe-przekazy-st9351843",
+      "srcName": "TVN24 / PAP"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "photo",
+      "id": "2026-11-23-wm-08",
+      "title": "Londyn, uliczny pokaz latarni magicznej",
+      "by": "John Thomson, 1877",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/John_Thomson_Magic_Lantern_Peep_Show_1877.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:John_Thomson_Magic_Lantern_Peep_Show_1877.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "news",
+      "id": "2026-11-23-morawiecki-rejestruje-partie",
+      "lang": "pl",
+      "title": "Morawiecki rejestruje partię Rozwój Plus",
+      "text": "Były premier złożył wniosek o rejestrację ugrupowania Rozwój Plus – Ruch Mateusza Morawieckiego i przedstawia je jako alternatywę dla wyborców Tuska i Brauna. Do ruchu dołączył były polityk PO Bogusław Sonik, a posłowie mają już myśleć o listach wyborczych.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-22/partia-rozwoj-plus-i-wspolpraca-z-bylym-politykiem-ko-morawiecki-ujawnia/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "video",
+      "id": "2026-11-23-smashing-pumpkins-tonight-tonight",
+      "kind": "Teledysk · nagroda",
+      "title": "The Smashing Pumpkins – „Tonight, Tonight”",
+      "by": "reż. Jonathan Dayton i Valerie Faris",
+      "text": "Hołd dla „Podróży na Księżyc” Mélièsa z teatralnymi dekoracjami i lalkami Wayne'a White'a zgarnął sześć statuetek MTV VMA 1996, w tym Teledysk Roku i Najlepszą Reżyserię. Rok później był też nominowany do Grammy w kategorii Best Music Video, Short Form.",
+      "embed": {
+        "p": "yt",
+        "id": "NOG3eus4ZSo"
+      },
+      "dur": 255,
+      "img": "https://i.ytimg.com/vi/NOG3eus4ZSo/hqdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/Tonight,_Tonight_(The_Smashing_Pumpkins_song)",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "photo",
+      "id": "2026-11-23-wm-09",
+      "title": "Berlin, podwórko kamienicy",
+      "by": "Heinrich Zille, ok. 1900",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Heinrich_Zille_Hinterhof.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Heinrich_Zille_Hinterhof.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "article",
+      "id": "2026-11-23-selkie-family-folklore",
+      "lang": "en",
+      "title": "The Irish families who claimed seals as ancestors",
+      "text": "Irish folklore is full of families said to descend from selkies, seals that could slip off their skins and live as humans, often after being captured and forced into marriage. Jordan Lee Borgman reads these tales as stories about broken bonds with nature, where love and harm sit side by side and some damage can never be undone.",
+      "img": "https://images.aeonmedia.co/images/0cd99f4c-ddf6-43aa-b167-ea096fe4a0e7/essay-selkie-final-illustration.jpg?width=1200&quality=75&format=jpeg",
+      "src": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family",
+      "srcName": "Aeon"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "news",
+      "id": "2026-11-23-krasnodar-atak-dronow",
+      "lang": "pl",
+      "title": "Ukraińskie drony nad Krajem Krasnodarskim",
+      "text": "Według ukraińskich mediów celem nocnego ataku były siedziba Rosgwardii w Krasnodarze i rafineria w Afipskim, a lotnisko w Krasnodarze czasowo wstrzymało ruch. Lokalne władze potwierdziły odparcie ataku, ale nie podały informacji o zniszczeniach.",
+      "src": "https://polsatnews.pl/wiadomosc/2026-11-22/zapach-spalenizny-i-dym-uderzenie-ukrainy-doniesienia-mediow",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "photo",
+      "id": "2026-11-23-wm-10",
+      "title": "Alabama, wnętrze wiejskiego sklepu",
+      "by": "Walker Evans, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/General_store_interior_Alabama_USA.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:General_store_interior_Alabama_USA.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "photo",
+      "id": "2026-11-23-wm-11",
+      "title": "Luizjana, domy robotników plantacji trzciny",
+      "by": "Ben Shahn, 1935",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Homes_of_laborers_on_Sugar_Plantation,_Plaquemines_Parish,_Louisiana_1935.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Homes_of_laborers_on_Sugar_Plantation,_Plaquemines_Parish,_Louisiana_1935.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "article",
+      "id": "2026-11-23-biennale-rybie-oko",
+      "lang": "pl",
+      "title": "Młoda sztuka nad Bałtykiem: 12. Biennale Rybie Oko",
+      "text": "Maja Gomulska ocenia słupsko-ustecki przegląd młodych artystów pod hasłem Jeszcze się zdziwicie, chwaląc klimat spotkania i instalację Aleksandra Adamau jako najmocniejszy punkt. Zwycięska praca Agaty Klepki i kuratorskie teksty dopisujące znaczenia na siłę wypadają w jej oczach znacznie słabiej.",
+      "img": "https://magazynszum.pl/wp-content/uploads/2026/11/aleksander-adamau-podgrodzie-fot-k-tomasik--9201-1440x942.jpg",
+      "src": "https://magazynszum.pl/wprowadzenie-do-sztuki-mlodych-drugiej-dekady-xxi-wieku-12-biennale-rybie-oko/",
+      "srcName": "Magazyn SZUM"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "photo",
+      "id": "2026-11-23-wm-12",
+      "title": "Montana, tabliczka w barze",
+      "by": "Marion Post Wolcott, 1941",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Positively_no_beer_sold_to_Indians_1941.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Positively_no_beer_sold_to_Indians_1941.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "article",
+      "id": "2026-11-23-kastor-i-polluks-bobula",
+      "lang": "pl",
+      "title": "Poniemiecka wieś, wiosna 1946: Kastor i Polluks Bobuli",
+      "text": "Powieść Macieja Bobuli opowiada o wysiedlonych i osadnikach w dolnośląskiej wsi tuż po wojnie, a stary niemiecki cmentarz spina całą historię. Recenzent docenia przede wszystkim jej gwałtowną, wielogłosową narrację mieszającą style i konwencje.",
+      "img": "https://www.dwutygodnik.com/_next/image?url=https%3A%2F%2Fdwutygodnik-storage.s3.eu-central-1.amazonaws.com%2Fprod%2Fpublic%2Fmedia%2Fuploads%2F1793906405024-IMG7974.jpeg&w=1920&q=75",
+      "src": "https://www.dwutygodnik.com/artykul/12753-zjawiska-patologiczne.html",
+      "srcName": "Dwutygodnik"
+    },
     {
       "date": "2026-11-22",
       "type": "video",
@@ -6714,146 +7078,6 @@
       "text": "Od 26 października około kilometra Oxford Street w Londynie, między Orchard Street a Great Portland Street, jest zamknięte dla samochodów. To pierwszy etap zamiany słynnej ulicy handlowej w deptak.",
       "img": "https://static-2026.dezeen.com/uploads/2026/10/oxford-street-pedestrianisation_dezeen_2364_col_sq.jpg",
       "src": "https://www.dezeen.com/2026/10/27/photos-walkable-oxford-street-pedestrianisation-begins/",
-      "srcName": "Dezeen"
-    },
-    {
-      "id": "2026-10-23-on-shape-of-dreams-zendaya",
-      "date": "2026-10-23",
-      "type": "video",
-      "kind": "Film modowy",
-      "title": "On – „Shape of Dreams” z Zendayą",
-      "by": "reż. Spike Jonze (MJZ)",
-      "text": "Spike Jonze zamienił premierę kolekcji, którą Zendaya zaprojektowała z On i stylistą Law Roachem, w trzyminutowy surrealistyczny sen o ruchu i kształcie marzeń. Zdjęcia robił Jasper Wolf.",
-      "embed": {
-        "p": "yt",
-        "id": "6NVAzWEgTXo"
-      },
-      "dur": 180,
-      "img": "https://thefilmstage.com/wp-content/uploads/2026/04/Zendaya.jpg",
-      "src": "https://thefilmstage.com/watch-spike-jonze-directs-zendaya-in-shape-of-dreams-campaign/",
-      "srcName": "The Film Stage"
-    },
-    {
-      "id": "2026-10-23-bondi-sculpture-by-the-sea",
-      "date": "2026-10-23",
-      "type": "article",
-      "lang": "en",
-      "title": "Sculptures along Bondi's cliffs",
-      "text": "Na nadmorskiej trasie z Bondi w Sydney znów stanęły dziesiątki rzeźb z całego świata w ramach darmowej wystawy Sculpture by the Sea. Wśród nich gigantyczna dłoń wyrastająca z ziemi i stojak na litery jak ze Scrabble; pokaz trwa do 2 listopada.",
-      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/bondi-1.jpg",
-      "src": "https://www.thisiscolossal.com/2026/10/bondi-beach-sculpture-by-the-sea-exhibition-2026/",
-      "srcName": "Colossal"
-    },
-    {
-      "id": "2026-10-23-tokarczuk-swiata-jest-za-duzo",
-      "date": "2026-10-23",
-      "type": "article",
-      "lang": "pl",
-      "title": "Tokarczuk: za dużo świata?",
-      "text": "Adam Woźniak recenzuje „Świata jest za dużo” – panoramę kilkudziesięciu losów od XIX do XXI wieku, zaczynającą się w zrujnowanej wrocławskiej kamienicy w 1945 roku. Krytyk uważa, że mnogość szkicowo potraktowanych postaci bardziej przytłacza, niż wciąga.",
-      "src": "https://www.dwutygodnik.com/artykul/12717-puste-przebiegi.html",
-      "srcName": "Dwutygodnik"
-    },
-    {
-      "id": "2026-10-23-girl-in-red-blue",
-      "date": "2026-10-23",
-      "type": "video",
-      "kind": "Teledysk",
-      "title": "girl in red – „blue”",
-      "by": "reż. Isak Jenssen (Onzonz)",
-      "text": "Nakręcona w Oslo historia pary oglądanej przez lata, złożona z drobnych chwil, które zbudowały i rozbiły ten związek. Wśród scen fabularnych pojawia się fragment cyjanotypii odbitej na prawdziwym denimie.",
-      "embed": {
-        "p": "yt",
-        "id": "p0-pdE1GmUA"
-      },
-      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/girl%20in%20red%20%27Blue%27%20by%20Isak%20Jenssen.png?itok=n8-34AXr",
-      "src": "https://www.promonews.tv/videos/2026/10/20/girl-red-blue-isak-jenssen/96612",
-      "srcName": "Promonews"
-    },
-    {
-      "id": "2026-10-23-london-coffee-lampposts-1897",
-      "date": "2026-10-23",
-      "type": "article",
-      "lang": "en",
-      "title": "London's lampposts that poured coffee",
-      "text": "W 1897 roku na wystawie z okazji jubileuszu królowej Wiktorii pokazano latarnie, które za pół pensa nalewały kawę, kakao i herbatę, a potem kilka stanęło m.in. na Leicester Square. Fałszywe monety i drogie utrzymanie sprawiły, że zniknęły jeszcze przed 1900 rokiem.",
-      "img": "https://cdn8.openculture.com/2026/10/20223734/Refreshment-Lamp-London-1890s.jpg",
-      "src": "https://www.openculture.com/2026/10/in-1897-londons-lampposts-dispensed-hot-coffee-tea-and-fluid-beef.html",
-      "srcName": "Open Culture"
-    },
-    {
-      "id": "2026-10-23-mocak-stan-posiadania",
-      "date": "2026-10-23",
-      "type": "article",
-      "lang": "pl",
-      "title": "MOCAK opowiada o własnym kryzysie",
-      "text": "Wystawa „Stan posiadania” w krakowskim MOCAK-u pokazuje kolekcję razem z magazynami i archiwami, w czasie gdy muzeum po zmianach dyrekcji walczy z kłopotami finansowymi. Łukasz Gazur docenia odwagę tej próby, ale wskazuje białe plamy w zbiorach.",
-      "src": "https://www.dwutygodnik.com/artykul/12719-byle-do-wiosny.html",
-      "srcName": "Dwutygodnik"
-    },
-    {
-      "id": "2026-10-23-dj-snake-lil-jon-turn-down-for-what",
-      "date": "2026-10-23",
-      "type": "video",
-      "kind": "Teledysk · klasyka",
-      "title": "DJ Snake & Lil Jon – „Turn Down for What”",
-      "by": "reż. Daniels (Daniel Kwan i Daniel Scheinert)",
-      "text": "Zanim nakręcili „Wszystko wszędzie naraz”, Daniels zrobili klip, w którym taneczna euforia przebija się przez sufity piętro po piętrze, z Danielem Kwanem i Sunitą Mani w rolach głównych. Wygrał m.in. VMA za reżyserię i UKMVA za wideo roku 2014, a na YouTube przekroczył miliard wyświetleń.",
-      "embed": {
-        "p": "yt",
-        "id": "HMUDVMiITOU"
-      },
-      "img": "https://i.ytimg.com/vi/HMUDVMiITOU/hqdefault.jpg",
-      "src": "https://en.wikipedia.org/wiki/Turn_Down_for_What",
-      "srcName": "Wikipedia"
-    },
-    {
-      "id": "2026-10-23-oldenburg-six-themes",
-      "date": "2026-10-23",
-      "type": "article",
-      "lang": "en",
-      "title": "Oldenburg's six favourite objects",
-      "text": "Galeria Paula Cooper w Nowym Jorku zbiera rzeźby Claesa Oldenburga pół wieku po tym, jak pokazano je razem po raz pierwszy. Geometryczna mysz, wtyczka, niedopałki, klamerka, gumka do maszyny i rękawica z piłką – wystawa od 5 listopada.",
-      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/oldenburg-6.jpeg",
-      "src": "https://www.thisiscolossal.com/2026/10/claes-oldenburg-six-themes-sculpture-art-history/",
-      "srcName": "Colossal"
-    },
-    {
-      "id": "2026-10-23-rihanna-we-found-love",
-      "date": "2026-10-23",
-      "type": "video",
-      "kind": "Teledysk · nagroda",
-      "title": "Rihanna feat. Calvin Harris – „We Found Love”",
-      "by": "reż. Melina Matsoukas",
-      "text": "Kręcona w Belfaście i na polach hrabstwa Down opowieść o parze, którą jednocześnie spaja i niszczy uzależnienie. Klip zdobył MTV VMA za wideo roku 2012 i Grammy za najlepszy krótki teledysk w 2013 roku.",
-      "embed": {
-        "p": "yt",
-        "id": "tg00YEETFzg"
-      },
-      "dur": 276,
-      "img": "https://i.ytimg.com/vi/tg00YEETFzg/hqdefault.jpg",
-      "src": "https://en.wikipedia.org/wiki/We_Found_Love_(music_video)",
-      "srcName": "Wikipedia"
-    },
-    {
-      "id": "2026-10-23-clare-torry-great-gig-in-the-sky",
-      "date": "2026-10-23",
-      "type": "article",
-      "lang": "en",
-      "title": "The voice that made 'The Great Gig in the Sky'",
-      "text": "Clare Torry, młoda wokalistka wezwana do studia w ostatniej chwili, prawie bez wskazówek zaimprowizowała bezsłowną partię, która stała się sercem „Dark Side of the Moon”. W 2005 roku wywalczyła współautorstwo utworu.",
-      "src": "https://www.openculture.com/2026/10/how-clare-torry-made-gig-in-the-sky-great.html",
-      "srcName": "Open Culture"
-    },
-    {
-      "id": "2026-10-23-beatles-story-liverpool-relocation",
-      "date": "2026-10-23",
-      "type": "article",
-      "lang": "en",
-      "title": "The Beatles Story moves into a 1960s mall",
-      "text": "Muzeum The Beatles Story ma się przenieść z Royal Albert Dock do centrum handlowego St Johns z 1969 roku i dawnej wieży Radio City. Przeprowadzka jest planowana na 2028 rok.",
-      "img": "https://static-2026.dezeen.com/uploads/2026/10/radio-city-tower-liverpool-the-beatles-story_dezeen_2364_col_0.jpg",
-      "src": "https://www.dezeen.com/2026/10/22/the-beatles-story-liverpool-relocation/",
       "srcName": "Dezeen"
     }
   ]
