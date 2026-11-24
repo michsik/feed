@@ -1,6 +1,357 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "items": [
+    {
+      "date": "2026-11-24",
+      "type": "video",
+      "id": "2026-11-24-hard-life-boyfriends",
+      "kind": "Teledysk",
+      "title": "hard life – „boyfriends”",
+      "by": "reż. Greg Barth (Common People Studio)",
+      "text": "Właścicielka pubu wciska zespół do toalety, a rosnący tłum starszych facetów zwraca się przeciw frontmanowi Murrayowi – aż spod jego skóry wychodzi coś zupełnie innego. Groteskowa, protetyczna satyra Grega Bartha na męską zazdrość i kruche ego.",
+      "embed": {
+        "p": "yt",
+        "id": "b_MKDZzcKyc"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/webform/Greg%20Barth%20-%20Hard%20Life%20-%20Boyfriends.00_02_08_24.Still005.png?itok=HECdrVy9",
+      "src": "https://www.promonews.tv/videos/2026/11/23/hard-life-boyfriends-greg-barth/97078",
+      "srcName": "Promonews"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "news",
+      "id": "2026-11-24-rosyjski-dron-nad-lubelszczyzna",
+      "lang": "pl",
+      "title": "Rosyjski dron krótko naruszył polską przestrzeń powietrzną",
+      "text": "W poniedziałek wieczorem, podczas rosyjskiego ataku na zachodnią Ukrainę, dron na krótko wleciał nad Polskę; dowódca operacyjny wydał zgodę na jego zestrzelenie, ale z niej nie skorzystano, gdy obiekt zawrócił na wschód. RCB wysłało alert o zagrożeniu atakiem z powietrza do mieszkańców 15 powiatów Lubelszczyzny oraz Chełma, Zamościa i Białej Podlaskiej, odwołany przed północą.",
+      "src": "https://www.dziennikwschodni.pl/artykul/394305,syreny-zawyly-na-lubelszczyznie-rosyjski-dron-naruszyl-polska-przestrzen-powietrzna",
+      "srcName": "Dziennik Wschodni"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "photo",
+      "id": "2026-11-24-wm-01",
+      "title": "Paryż, szyld sklepu przy rue Saint-Louis-en-l'Île",
+      "by": "Eugène Atget, ok. 1900",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/54/Eug%C3%A8ne_Atget,_Shop_Sign,_rue_Saint-Louis-en-l'%C3%8Ele_-_Getty_Museum.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Atget,_Shop_Sign,_rue_Saint-Louis-en-l'%C3%8Ele_-_Getty_Museum.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "article",
+      "id": "2026-11-24-dna-repair-gene-editing",
+      "lang": "en",
+      "title": "The quiet repair crews that make gene editing possible",
+      "text": "Our DNA gets damaged constantly, sometimes tens of thousands of times a day per cell, and a set of elegant repair pathways keeps fixing it. Quanta explains how CRISPR and base editing hijack those very mechanisms, and why their imperfections still make editing risky.",
+      "src": "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/",
+      "srcName": "Quanta Magazine",
+      "img": "https://www.quantamagazine.org/wp-content/uploads/2026/11/DNA-Repair-cr-Ada-Zejun-Shen-Social.jpg"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "news",
+      "id": "2026-11-24-rosja-satelita-nuklearny",
+      "lang": "pl",
+      "title": "Wywiady NATO ostrzegają przed rosyjskim satelitą z ładunkiem jądrowym",
+      "text": "Według niemieckich mediów służby państw NATO alarmują, że Rosja może w najbliższych tygodniach wynieść na orbitę satelitę z głowicą jądrową, której wybuch mógłby niszczyć inne satelity i zakłócić m.in. GPS i łączność. Rzecznik Kremla Dmitrij Pieskow stwierdził, że trudno poważnie traktować te doniesienia.",
+      "src": "https://rmf24.pl/fakty/swiat/news-rosja-szykuje-satelite-z-ladunkiem-jadrowym-wywiady-nato-ala,nIdn,1027293",
+      "srcName": "RMF24"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "photo",
+      "id": "2026-11-24-wm-02",
+      "title": "Brooklyn, magazyn przy Water i Dock Street",
+      "by": "Berenice Abbott, ok. 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Warehouse,_Water_and_Dock_Streets,_Brooklyn_(NYPL_b13668355-482805).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Warehouse,_Water_and_Dock_Streets,_Brooklyn_(NYPL_b13668355-482805).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "news",
+      "id": "2026-11-24-iran-cyberataki-na-statki",
+      "lang": "pl",
+      "title": "USA podejrzewają Iran o cyberataki na około 50 statków",
+      "text": "Według Wall Street Journal celem hakerów były jednostki przewożące ropę i LNG, a część załóg otrzymała groźby, m.in. o bombach na pokładzie. Głównym podejrzanym jest Iran, choć Amerykanie biorą pod uwagę także udział Rosji.",
+      "src": "https://www.rp.pl/konflikty-zbrojne/art45532791-splona-w-piekle-nieoficjalnie-iran-z-rosja-mogly-dokonac-serii-cyberatakow-na-statki",
+      "srcName": "Rzeczpospolita / PAP"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "photo",
+      "id": "2026-11-24-wm-03",
+      "title": "Newark, gazeciarz Roland",
+      "by": "Lewis Hine, 1924",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Lewis_Hine,_Roland,_newsboy,_Newark,_New_Jersey,_1924.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Lewis_Hine,_Roland,_newsboy,_Newark,_New_Jersey,_1924.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "video",
+      "id": "2026-11-24-burberry-wrapped-in-burberry-korine",
+      "kind": "Film modowy",
+      "title": "Burberry – „Wrapped in Burberry: Celebrating 170 Years”",
+      "by": "reż. Harmony Korine",
+      "text": "Na 170-lecie marki Harmony Korine zamienia Longleat House w świąteczną imprezę, na której Pierce Brosnan i Fiona Shaw grają gospodarzy, a bawią się m.in. Cara Delevingne, Nico Parker i Dwyane Wade. Brytyjska tradycja w wersji lekko szalonej.",
+      "embed": {
+        "p": "yt",
+        "id": "LNDJde_oNAk"
+      },
+      "dur": 91,
+      "img": "https://theimpression.com/wp-content/uploads/2026/11/Burberry-holiday-2026-ad-campaign-Pierce-Brosnan-scaled.jpeg",
+      "src": "https://theimpression.com/burberry-festive-2026-campaign-pierce-brosnan/",
+      "srcName": "The Impression"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "news",
+      "id": "2026-11-24-nvidia-huang-wraca",
+      "lang": "pl",
+      "title": "Jensen Huang przywrócony na stanowisko prezesa Nvidii",
+      "text": "Rada dyrektorów Nvidii jednogłośnie przywróciła Huanga na stanowiska CEO i przewodniczącego, choć jeszcze kilka dni wcześniej odrzuciła jego ofertę powrotu; odszedł po skandalu związanym z romansem z kobietą podejrzewaną o szpiegostwo na rzecz Chin, a Donald Trump twierdzi, że jego interwencja była kluczowa. Akcje spółki wzrosły na otwarciu o 33 proc., a Nasdaq zyskiwał ponad 6 proc.",
+      "src": "https://www.pbs.org/newshour/nation/nvidia-board-unanimously-reinstates-jensen-huang-as-ceo-and-chairman",
+      "srcName": "PBS NewsHour"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "photo",
+      "id": "2026-11-24-wm-04",
+      "title": "Dallas, Elm Street nocą",
+      "by": "Arthur Rothstein, 1942",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Elm_St_at_night_Dallas_TX_1942.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Elm_St_at_night_Dallas_TX_1942.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "article",
+      "id": "2026-11-24-paris-photo-photobooks",
+      "lang": "en",
+      "title": "At Paris Photo, the real action was in the photobooks",
+      "text": "Looking back on Paris Photo 2026, It's Nice That argues the photobook floor felt more open and alive than the gallery booths, calling a book an exhibition between two covers. Picks include Julie Joubert's Foreign Legion portraits, Keisha Scarville's award-winning Passports and Adam Rouhana's Before Freedom.",
+      "src": "https://www.itsnicethat.com/features/paris-photo-2026-photobooks-photography-spotlight-231126",
+      "srcName": "It's Nice That",
+      "img": "https://m.itsnicethat.com/original_images/Julie_Joubert_Patria_Nostra_01.jpg?class=w1440"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "news",
+      "id": "2026-11-24-collegium-humanum-immunitety",
+      "lang": "pl",
+      "title": "Prokuratura chce uchylenia immunitetów Kołodziejczaka, Leniart i Milewskiego",
+      "text": "Wnioski trafiły do marszałka Sejmu Włodzimierza Czarzastego; Michał Kołodziejczak i Daniel Milewski są podejrzewani o wręczanie łapówek w zamian za fikcyjne dyplomy, m.in. z Collegium Humanum. Ewa Leniart ma być podejrzana o przyjęcie łapówki w 2021 roku, w sprawie niezwiązanej z uczelnią.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-23/ruch-prokuratury-ws-collegium-humanum-trzy-wnioski-o-uchylenie-immunitetow/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "photo",
+      "id": "2026-11-24-wm-05",
+      "title": "Chicago, wielkanocny poranek na South Side",
+      "by": "Russell Lee, 1941",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_Known_Restrictions_Easter_morning_on_the_Southside_of_Chicago,_Illinois_by_Russell_Lee,_1941_(LOC)_(290626707).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:No_Known_Restrictions_Easter_morning_on_the_Southside_of_Chicago,_Illinois_by_Russell_Lee,_1941_(LOC)_(290626707).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "news",
+      "id": "2026-11-24-ukraina-atakuje-rafinerie",
+      "lang": "pl",
+      "title": "Ukraiński atak zatrzymał rafinerię w Nowoszachtyńsku",
+      "text": "Po trwającym ponad sześć godzin ataku dronów i rakiet rafineria w obwodzie rostowskim, mogąca przerabiać do 7,5 mln ton ropy rocznie, wstrzymała pracę; zaatakowano też rafinerię Łukoilu w Permie i przepompownię ropy w Tatarstanie. Według Reutersa ukraińskie ataki zakłóciły pracę 15 z 35 największych rosyjskich rafinerii.",
+      "src": "https://www.rp.pl/konflikty-zbrojne/art45531881-ukrainski-atak-zatrzymal-rosyjska-rafinerie-uderzenie-trwalo-ponad-szesc-godzin",
+      "srcName": "Rzeczpospolita"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "photo",
+      "id": "2026-11-24-wm-06",
+      "title": "Paryż, wyburzanie Butte des Moulins pod Avenue de l'Opéra",
+      "by": "Charles Marville, ok. 1877",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Charles_Marville_-_Demolition_of_Butte_des_Moulins_for_Avenue_de_l'Op%C3%A9ra.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Charles_Marville_-_Demolition_of_Butte_des_Moulins_for_Avenue_de_l'Op%C3%A9ra.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "video",
+      "id": "2026-11-24-radiohead-just",
+      "kind": "Teledysk · klasyka",
+      "title": "Radiohead – „Just”",
+      "by": "reż. Jamie Thraves",
+      "text": "Mężczyzna leży na chodniku w londyńskim City i odmawia wyjaśnienia dlaczego – a gdy w końcu mówi, napisy znikają, a przechodnie kładą się obok niego. Jedna z najsłynniejszych zagadek w historii teledysku, nakręcona w dwa dni w 1995 roku.",
+      "embed": {
+        "p": "yt",
+        "id": "oIFLtNYI3Ls"
+      },
+      "img": "https://i.ytimg.com/vi/oIFLtNYI3Ls/hqdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/Just_(song)",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "news",
+      "id": "2026-11-24-wybory-senat-lubuskie",
+      "lang": "pl",
+      "title": "Zdzisława Różańska wygrała wybory uzupełniające do Senatu w Lubuskiem",
+      "text": "Wdowa po gen. Mirosławie Różańskim, popierana przez Koalicję 15 Października, zdobyła 42,68 proc. głosów w okręgu nr 20, wyprzedzając Janusza Kubickiego. Frekwencja wyniosła zaledwie 13,78 proc.",
+      "src": "https://wydarzenia.interia.pl/lubuskie/news-zdzislawa-rozanska-wybrana-do-senatu-wiadomo-jakie-poparcie,nId,23577364",
+      "srcName": "Interia"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "photo",
+      "id": "2026-11-24-wm-07",
+      "title": "Paryż, róg rue de Seine i rue de l'Échaudé",
+      "by": "Eugène Atget, 1924",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Coin_de_la_rue_de_Seine_et_de_la_rue_de_l'Echaud%C3%A9,_6%C3%A8me_arrondissement,_Paris,_PH7391.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Coin_de_la_rue_de_Seine_et_de_la_rue_de_l'Echaud%C3%A9,_6%C3%A8me_arrondissement,_Paris,_PH7391.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "article",
+      "id": "2026-11-24-su-blackwell-book-sculptures",
+      "lang": "en",
+      "title": "Su Blackwell carves fairytales out of old books",
+      "text": "The British artist cuts and folds the pages of secondhand volumes into butterflies, birds and tiny folkloric scenes. Her new London show, Pathway of Crumbs, takes its cue from Hansel and Gretel.",
+      "src": "https://www.thisiscolossal.com/2026/11/su-blackwell-vintage-books/",
+      "srcName": "Colossal",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/blackwell-10.jpg"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "news",
+      "id": "2026-11-24-przemysl-pazdziernik",
+      "lang": "pl",
+      "title": "Polski przemysł wyhamował w październiku, mocno spada produkcja dóbr trwałych",
+      "text": "Produkcja sprzedana przemysłu wzrosła w październiku tylko o 0,1 proc. rok do roku, a produkcja trwałych dóbr konsumpcyjnych spadła o 11,7 proc. W branżach takich jak meble czy AGD polscy producenci mierzą się z rosnącym importem z Chin.",
+      "src": "https://www.egospodarka.pl/199507,Polski-przemysl-hamuje-magazyny-bija-rekordy-Import-z-Chin-zmienia-uklad-sil,1,56,1.html",
+      "srcName": "eGospodarka.pl"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "photo",
+      "id": "2026-11-24-wm-08",
+      "title": "Nowy Jork, stare i nowe miasto",
+      "by": "Alfred Stieglitz, 1910",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Stieglitz-NewYorkOldNew.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Stieglitz-NewYorkOldNew.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "news",
+      "id": "2026-11-24-uk-sankcje-mjanma-rohingja",
+      "lang": "pl",
+      "title": "Wielka Brytania nakłada sankcje na dowódców armii Mjanmy",
+      "text": "Po orzeczeniu sądu ONZ, że Mjanma dopuściła się ludobójstwa na Rohingja w 2017 roku, Londyn objął sankcjami pięciu wysokich rangą wojskowych. Szef MSZ Ed Miliband zapowiedział też przepisy blokujące dostawy paliwa lotniczego do Mjanmy i podniesienie sprawy w Radzie Bezpieczeństwa ONZ.",
+      "src": "https://www.lbc.co.uk/article/uk-sanctions-myanmar-president-genocide-ruling-5HjdnRP_2/",
+      "srcName": "LBC"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "photo",
+      "id": "2026-11-24-wm-09",
+      "title": "Springfield, uliczna paczka na rogu Margaret i Water Street",
+      "by": "Lewis Hine, ok. 1916",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/59/(Street_gang_-_cor(ner)_Margaret_and_Water_Streets_-_4-30_P.M.)_Location-_Springfield,_Massachusetts._LOC_7985821930.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:(Street_gang_-_cor(ner)_Margaret_and_Water_Streets_-_4-30_P.M.)_Location-_Springfield,_Massachusetts._LOC_7985821930.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "video",
+      "id": "2026-11-24-dj-snake-lil-jon-turn-down-for-what",
+      "kind": "Teledysk · nagroda",
+      "title": "DJ Snake & Lil Jon – „Turn Down for What”",
+      "by": "reż. Daniels (Prettybird)",
+      "text": "Klip duetu Daniels (późniejszych twórców „Wszystko wszędzie naraz”) wygrał MTV VMA 2014 za najlepszą reżyserię oraz Video of the Year na UK Music Video Awards 2014, a w 2015 roku był nominowany do Grammy za najlepszy teledysk. Mężczyzna, którego tańczące biodra przebijają kolejne stropy, to komediowy chaos w najlepszym wydaniu.",
+      "embed": {
+        "p": "yt",
+        "id": "HMUDVMiITOU"
+      },
+      "img": "https://i.ytimg.com/vi/HMUDVMiITOU/hqdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/Turn_Down_for_What",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "news",
+      "id": "2026-11-24-ptasia-grypa-warminsko-mazurskie",
+      "lang": "pl",
+      "title": "Ognisko ptasiej grypy na fermie indyków na Warmii i Mazurach",
+      "text": "Wirusa H5N1 wykryto na fermie w Lipinkach w gminie Biskupiec, gdzie hodowano ponad 18,7 tys. indyków. To 20. ognisko w regionie w tym roku, a w całym kraju odnotowano ich już 144 na fermach towarowych.",
+      "src": "https://naszdziennik.pl/polska/349121,warminsko-mazurskie-ognisko-grypy-ptakow-na-fermie-indykow-w-powiecie-nowomiejskim.html",
+      "srcName": "Nasz Dziennik / PAP"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "photo",
+      "id": "2026-11-24-wm-10",
+      "title": "Versailles (Connecticut), miasteczko przędzalni",
+      "by": "Jack Delano, 1940",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9c/The_mill_town_of_Versailles,_Connecticut_(cropped).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:The_mill_town_of_Versailles,_Connecticut_(cropped).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "article",
+      "id": "2026-11-24-saint-laurent-le-smoking-60",
+      "lang": "en",
+      "title": "Le Smoking turns 60 with a star-filled Saint Laurent campaign",
+      "text": "Saint Laurent marks six decades of the women's tuxedo Yves Saint Laurent introduced in 1966, dressing Charli xcx, ROSÉ, Kate Moss and Zoë Kravitz in it. The campaign lands while the house is still between creative directors.",
+      "src": "https://www.dazeddigital.com/fashion/article/71397/1/charli-xcx-connor-storrie-and-rose-are-le-smoking-hot-for-saint-laurent",
+      "srcName": "Dazed",
+      "img": "https://images-prod.dazeddigital.com/1200/203-0-2063-1375/azure/dazed-prod/1450/9/1459977.jpg"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "photo",
+      "id": "2026-11-24-wm-11",
+      "title": "Nowy Jork, kamienica przy Gansevoort Street 53",
+      "by": "Berenice Abbott, ok. 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Gansevoort_Street,_No._53,_Manhattan_(NYPL_b13668355-482675).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Gansevoort_Street,_No._53,_Manhattan_(NYPL_b13668355-482675).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "article",
+      "id": "2026-11-24-borges-invasion-film",
+      "lang": "en",
+      "title": "The sci-fi noir Borges helped write",
+      "text": "Hugo Santiago's 1969 debut Invasión, co-scripted by Jorge Luis Borges and Adolfo Bioy Casares, recasts the siege of Troy in a thinly disguised Buenos Aires. Suppressed after the 1976 coup and later rebuilt from prints found in France, it can now be watched free online.",
+      "src": "https://www.openculture.com/2026/11/when-jorge-luis-borges-co-wrote-a-surreal-sci-fi-noir-film-invasion-1969.html",
+      "srcName": "Open Culture",
+      "img": "https://cdn8.openculture.com/2026/11/16202842/Invasion19-2048x1225-1-1024x613.jpg"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "article",
+      "id": "2026-11-24-zycie-na-weglu-wroclaw",
+      "lang": "pl",
+      "title": "Turów w gablotach: „Życie na węglu” we Wrocławiu",
+      "text": "Muzeum Etnograficzne opowiada o kompleksie Turów i wysiedlonych wsiach przez wywiady z mieszkańcami, hałdę węgla i przedmioty z Wigancic Żytawskich. Recenzentka chwali odwagę pytań o przyszłość zagłębi, ale brakuje jej szerszego kontekstu i wyraźniejszej narracji.",
+      "src": "https://magazynszum.pl/weglowe-asamblaze-zycie-na-weglu-ludzie-krajobrazy-dziedzictwo-w-obliczu-transformacji-energetycznej-w-muzeum-etnograficznym-we-wroclawiu/",
+      "srcName": "Magazyn SZUM",
+      "img": "https://magazynszum.pl/wp-content/uploads/2026/11/widok-wystawy-xxxzycie-na-weglu-fot.-wojciech-rogowicz-8-1440x1268.jpg"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "article",
+      "id": "2026-11-24-kuron-villas-biopiki",
+      "lang": "pl",
+      "title": "Kuroń i Villas na ekranie: dwa biopiki, jeden kłopot",
+      "text": "Łukasz Homziuk ocenia „Naszą rewolucję” Domalewskiego o Jacku i Gajce Kuroniach oraz „Violettę Villas” Bielawskiej. Docenia aktorstwo Jakubika i Drzymalskiej, lecz oba filmy uważa za zbyt grzeczne i niespójne scenariuszowo.",
+      "src": "https://www.dwutygodnik.com/artykul/12773-nie-ma-milosci-bez-wolnosci.html",
+      "srcName": "Dwutygodnik"
+    },
     {
       "date": "2026-11-23",
       "type": "video",
