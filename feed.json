@@ -1,6 +1,375 @@
 {
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "items": [
+    {
+      "date": "2026-11-25",
+      "type": "video",
+      "id": "2026-11-25-gucci-generation-gucci",
+      "kind": "Film modowy",
+      "title": "Gucci – „Generation Gucci”",
+      "by": "reż. Jonathan Glazer (Academy Films / Wanda Productions)",
+      "text": "Motel w świetle pełni księżyca, ludzie mijający się na granicy jawy i snu, a ścieżka dźwiękowa skacze od Miny przez Slipknot do Aznavoura. Glazer w niecałe dwie minuty zamienia kampanię modową w niepokojący, hipnotyczny sen.",
+      "embed": {
+        "p": "yt",
+        "id": "KH3rpTRwCq0"
+      },
+      "dur": 106,
+      "src": "https://lbbonline.com/news/generation-gucci-film-2026-jonathan-glazer-slipknot",
+      "srcName": "LBB Online"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "news",
+      "id": "2026-11-25-etpc-polska-usnarz-gorny",
+      "lang": "pl",
+      "title": "Strasburg: Polska naruszyła konwencję w sprawie migrantów z Usnarza Górnego",
+      "text": "Europejski Trybunał Praw Człowieka uznał, że Polska złamała zakaz nieludzkiego traktowania wobec części z 32 Afgańczyków koczujących w 2021 r. na granicy z Białorusią. Sędziowie podkreślili jednak, że państwa mogą kontrolować, a nawet całkowicie zamknąć granicę, pod warunkiem wcześniejszego rozpoznania osób szczególnie zagrożonych.",
+      "src": "https://tvn24.pl/polska/wyrok-etpc-polska-naruszyla-konwencje-praw-czlowieka-w-sprawie-imigrantow-st9354776",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "photo",
+      "id": "2026-11-25-wm-01",
+      "title": "Nowy Jork, Central Park",
+      "by": "Arnold Genthe, ok. 1910",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/ed/New_York_City_views,_Central_Park_LOC_agc.7a01931.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:New_York_City_views,_Central_Park_LOC_agc.7a01931.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "article",
+      "id": "2026-11-25-old-acropolis-museum-reopens",
+      "lang": "en",
+      "title": "Athens' Old Acropolis Museum reopens after nearly two decades",
+      "by": "Anna Lee",
+      "text": "Greece's first purpose-built museum, an 1874 building beside the Parthenon, has reopened after a €6.2 million renovation that adds digital displays and windows onto live conservation work. Officials used the occasion to press Britain again for the return of the Parthenon Sculptures.",
+      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/11/GettyImages-2306017189.jpg",
+      "src": "https://hyperallergic.com/after-a-two-decade-renovation-the-old-acropolis-museum-reopens/",
+      "srcName": "Hyperallergic"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "photo",
+      "id": "2026-11-25-wm-02",
+      "title": "Daytona Beach, studenci Bethune-Cookman College",
+      "by": "Gordon Parks, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Daytona_Beach,_Florida._Bethune-Cookman_College._Students_learning_modern_dairy_methods_(LOC).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Daytona_Beach,_Florida._Bethune-Cookman_College._Students_learning_modern_dairy_methods_(LOC).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "news",
+      "id": "2026-11-25-chodzinski-zarzuty-zondacrypto",
+      "lang": "pl",
+      "title": "Były agent CBA Artur Chodziński z zarzutami w aferze Zondacrypto",
+      "text": "Prokuratura Krajowa zarzuciła mu płatną protekcję, m.in. przyjęcie ponad 650 tys. zł w zamian za obiecywane wpływy w Sejmie i Kancelarii Prezydenta, oraz nielegalną działalność detektywistyczną. Śledczy wnioskują o trzymiesięczny areszt, a Chodziński nie przyznaje się do winy.",
+      "src": "https://tvn24.pl/polska/przesluchanie-bylego-agenta-cba-artura-chodzinskiego-w-prokuraturze-uslyszal-zarzuty-st9354588",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "photo",
+      "id": "2026-11-25-wm-03",
+      "title": "Nowy Orlean, róg Royal i St. Peter",
+      "by": "Frances Benjamin Johnston, ok. 1937",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Royal_St_Peter_New_Orleans.jpg/1280px-Royal_St_Peter_New_Orleans.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Royal_St_Peter_New_Orleans.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "news",
+      "id": "2026-11-25-us-tariffs-eu-china-16-economies",
+      "lang": "pl",
+      "title": "USA szykują nowe cła na UE, Chiny i 14 innych gospodarek",
+      "text": "Według źródeł AP administracja Trumpa wkrótce ogłosi podwyżki ceł jako odpowiedź na subsydiowaną nadprodukcję przemysłową, po zakończeniu wielomiesięcznego dochodzenia biura USTR. Nowe taryfy mają zastąpić szerokie cła z 2025 r., które Sąd Najwyższy uchylił w lutym.",
+      "src": "https://www.wral.com/news/ap/d97ed-us-ready-to-slap-tariffs-on-china-eu-and-others-over-subsidized-production-ap-sources-say/",
+      "srcName": "AP"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "article",
+      "id": "2026-11-25-ceramics-studio-stage-lutz-kinoy",
+      "lang": "en",
+      "title": "Matthew Lutz-Kinoy turns a working pottery studio into a theatre",
+      "by": "Phillip Pyle",
+      "text": "At Amant in New York, The Mud Room builds a raised platform with a kiln and potters' nooks that doubles as a stage, where a performance about a curator-turned-restaurateur unfolds as diners eat. Surrounding paintings poke fun at art-world pretension with nods to Haring, Douglas and Guston.",
+      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/11/IMG_4720.jpg",
+      "src": "https://hyperallergic.com/when-a-ceramics-studio-becomes-a-stage/",
+      "srcName": "Hyperallergic"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "video",
+      "id": "2026-11-25-kojaque-thats-gonna-be-me",
+      "kind": "Teledysk",
+      "title": "Kojaque – „That's Gonna Be Me”",
+      "by": "reż. Kojaque, Robert Bass (Pulse Films)",
+      "text": "Dubliński raper przyciska twarz do szyby kserokopiarki, a potem wpada w rozpędzony moshpit, w którym każdy uczestnik też ląduje pod szkłem kopiarki. Surowy, duszny obraz frustracji kimś, kogo społeczeństwo próbuje powielić na jedno kopyto.",
+      "embed": {
+        "p": "yt",
+        "id": "57Da0_FfxsM"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/webform/TGBM_Kojaque_HERO_V5_Prep_For_GRADE.00_02_30_07.Still054.jpeg?itok=h7FfCYNG",
+      "src": "https://www.promonews.tv/videos/2026/11/18/kojaque-thats-gonna-be-me-kojaque-robert-bass/97008",
+      "srcName": "Promonews"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "news",
+      "id": "2026-11-25-pentagon-wstrzymuje-patrioty-ukraina",
+      "lang": "pl",
+      "title": "Pentagon miał wstrzymać dostawę ok. 60 rakiet Patriot dla Ukrainy",
+      "text": "Według „Financial Times” szef Pentagonu Pete Hegseth zablokował eksport pocisków PAC-3 opłaconych przez zachodnich sojuszników Kijowa, choć resort zaprzecza zmianie polityki. Zełenski apeluje o zgodę na transfer i twierdzi, że USA chcą zamknąć rozmowy pokojowe w grudniu lub styczniu.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-24/zwrot-w-sprawie-dostaw-dla-ukrainy-szef-pentagonu-mial-zaciagnac-hamulec/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "photo",
+      "id": "2026-11-25-wm-04",
+      "title": "Calipatria, w kolejce po zasiłek",
+      "by": "Dorothea Lange, 1937",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Waiting_for_relief_checks_during_Great_depression.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Waiting_for_relief_checks_during_Great_depression.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "article",
+      "id": "2026-11-25-ghent-altarpiece-detail",
+      "lang": "en",
+      "title": "The Ghent Altarpiece, perhaps the most detailed painting ever made",
+      "by": "Colin Marshall",
+      "text": "The van Eyck brothers' Adoration of the Mystic Lamb, commissioned by merchant Jodocus Vijd for what is now St. Bavo's Cathedral, is one of the first great masterpieces of oil painting. Its minute detail and play of light can be explored online in extreme close-up, though nothing replaces seeing it in Ghent.",
+      "img": "https://cdn8.openculture.com/2026/11/22221549/hq720-1.jpg",
+      "src": "https://www.openculture.com/2026/11/behold-the-most-detailed-painting-in-history-the-ghent-altarpiece.html",
+      "srcName": "Open Culture"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "photo",
+      "id": "2026-11-25-wm-05",
+      "title": "Halifax, fontanna przed sądem",
+      "by": "John Vachon, 1938",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Segregation_1938b.jpg/1280px-Segregation_1938b.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Segregation_1938b.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "news",
+      "id": "2026-11-25-v4-list-ets2-opoznienie",
+      "lang": "pl",
+      "title": "Tusk i premierzy V4 chcą odroczenia ETS2 do 2030 roku",
+      "text": "Szefowie rządów Polski, Węgier, Słowacji i Czech napisali do Ursuli von der Leyen, że nowy system opłat za emisje z transportu i ogrzewania oznacza dziesiątki miliardów euro obciążeń dla ludzi i firm. Osiem państw, w tym Niemcy i Hiszpania, sprzeciwia się z kolei dalszym opóźnieniom.",
+      "src": "https://rmf24.pl/fakty/swiat/news-ets2-to-dziesiatki-miliardow-euro-obciazen-premierzy-v4-alar,nIdn,1027453",
+      "srcName": "RMF24"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "photo",
+      "id": "2026-11-25-wm-06",
+      "title": "Waszyngton, marynarze pod wiśniami",
+      "by": "Esther Bubley, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/07/Sailors_posing_for_their_picture_under_the_cherry_blossoms_8d27132v.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Sailors_posing_for_their_picture_under_the_cherry_blossoms_8d27132v.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "news",
+      "id": "2026-11-25-gaza-zginal-szef-bezpieczenstwa-hamasu",
+      "lang": "pl",
+      "title": "Izraelski nalot zabił szefa wewnętrznych służb Hamasu w Gazie",
+      "text": "W uderzeniu na zachodnią część miasta Gaza zginął Naim Abu Nahel, a łącznie izraelskie ataki zabiły we wtorek siedem osób. Hamas zapewnia, że trzyma się zawieszenia broni z października 2025 r., a Izrael kontroluje już około dwóch trzecich Strefy Gazy.",
+      "src": "https://www.rte.ie/news/world/2026/1124/1600447-israel-gaza/",
+      "srcName": "RTÉ / Reuters"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "article",
+      "id": "2026-11-25-louise-giovanelli-false-suns",
+      "lang": "en",
+      "title": "Louise Giovanelli on curtains, light and a beautiful carcass",
+      "by": "Sayori Radda",
+      "text": "Ahead of her White Cube show In the Light of False Suns, the British painter talks about her studio routine and the Old Master techniques she taught herself. She also explains the cinematic and religious sources behind her shimmering women and curtains, and a new meat-carcass painting meant to unsettle.",
+      "img": "https://images-prod.anothermag.com/1200/276-900-1242-828/azure/another-prod/480/0/480469.jpeg",
+      "src": "https://www.anothermag.com/art-photography/17652/louise-giovanelli-in-the-light-of-false-suns-white-cube",
+      "srcName": "AnOther Magazine"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "video",
+      "id": "2026-11-25-mia-bad-girls",
+      "kind": "Teledysk · klasyka",
+      "title": "M.I.A. – „Bad Girls”",
+      "by": "reż. Romain Gavras (Iconoclast)",
+      "text": "Pustynia pod Warzazat w Maroku, samochody driftujące na dwóch kołach i M.I.A. spokojnie malująca paznokcie w pędzącym aucie – Gavras zamienił saudyjski zakaz prowadzenia aut przez kobiety w pełen buntu spektakl. Klip zdobył nagrodę MTV VMA 2012 za reżyserię i do dziś uchodzi za jeden z najlepszych teledysków dekady.",
+      "embed": {
+        "p": "yt",
+        "id": "2uYs0gJD-LE"
+      },
+      "dur": 252,
+      "img": "https://s3.amazonaws.com/images.imvdb.com/video/158684142283-m.i.a.-bad-girls_music_video_ov.jpg",
+      "src": "https://imvdb.com/video/m.i.a./bad-girls",
+      "srcName": "IMVDb"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "news",
+      "id": "2026-11-25-camm-mr-polska-wielka-brytania",
+      "lang": "pl",
+      "title": "Polska i Wielka Brytania wspólnie opracują pocisk CAMM-MR",
+      "text": "W Gdyni podpisano międzyrządowe porozumienie o rozwoju przeciwlotniczej rakiety średniego zasięgu, która ma razić cele na ponad 100 km. Pociski mają trafić m.in. na fregaty Miecznik i do wielowarstwowej obrony powietrznej kraju.",
+      "src": "https://defence24.pl/polityka-obronna/polsko-brytyjskie-pociski-dla-miecznika-i-nie-tylko-podpisano-wazne-porozumienie",
+      "srcName": "Defence24"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "photo",
+      "id": "2026-11-25-wm-07",
+      "title": "Hokkaido, wioska Ajnów",
+      "by": "Arnold Genthe, 1908",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/View_of_Ainu_village_LOC_agc.7a10197.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:View_of_Ainu_village_LOC_agc.7a10197.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "article",
+      "id": "2026-11-25-network-perfect-resilience",
+      "lang": "en",
+      "title": "Four tiny patterns decide whether a network can survive any failure",
+      "by": "Ben Brubaker",
+      "text": "Computer scientists Stefan Schmid and Matthias Bentert proved that exactly four minimal structures prevent a network from rerouting data around every possible broken link using only local rules. Networks free of them can always be made perfectly resilient, but because the patterns are so simple, many dense real-world networks probably contain them.",
+      "img": "https://www.quantamagazine.org/wp-content/uploads/2026/11/net-resilience-cr.DVDP-Social.jpg",
+      "src": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
+      "srcName": "Quanta Magazine"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "photo",
+      "id": "2026-11-25-wm-08",
+      "title": "Nowy Orlean, pralnia Asher",
+      "by": "Marion Post Wolcott, 1940",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/NewOrleansAsherLaundry1940.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:NewOrleansAsherLaundry1940.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "news",
+      "id": "2026-11-25-rijad-atak-pif-tower",
+      "lang": "pl",
+      "title": "Atak na najwyższy wieżowiec Rijadu, 11 rannych",
+      "text": "Saudyjska obrona cywilna poinformowała o rannych po uderzeniu w dzielnicę finansową KAFD, gdzie według świadków trafiony został 385-metrowy PIF Tower. Za atakiem najpewniej stoją jemeńscy Huti, którzy uszkodzili ten sam budynek kilka dni wcześniej.",
+      "src": "https://www.rmf24.pl/fakty/swiat/news-atak-na-najwyzszy-wiezowiec-w-stolicy-arabii-saudyjskiej-sa-,nIdn,1027508",
+      "srcName": "RMF24"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "photo",
+      "id": "2026-11-25-wm-09",
+      "title": "Newark (Ohio), poranek",
+      "by": "Clarence H. White, ok. 1905",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Clarence_H._White,_Morning,_c.1905,_NGA_150208.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Clarence_H._White,_Morning,_c.1905,_NGA_150208.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "news",
+      "id": "2026-11-25-nawrocki-milei-g20",
+      "lang": "pl",
+      "title": "Milei popiera Polskę w G20 po rozmowie z Nawrockim",
+      "text": "Podczas pierwszej od 31 lat wizyty polskiego prezydenta w Argentynie Javier Milei zadeklarował twarde wsparcie dla polskich starań o miejsce w G20. Rozmowy dotyczyły też handlu, zbrojeniówki i geologii, a w środę Nawrocki leci do Chile.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-24/nawrocki-w-argentynie-jasny-komunikat-po-zakonczeniu-rozmow/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "article",
+      "id": "2026-11-25-festiwal-metaformy-lalki",
+      "lang": "pl",
+      "title": "Metaformy: lalkarstwo zdecydowanie nie tylko dla dzieci",
+      "by": "Adrianna Łakomiak",
+      "text": "Na festiwalu Metaformy szkoły lalkarskie z wielu krajów pokazały wszystko od spektakli dla najmłodszych po mroczne monodramy o depresji i szaleństwie. Brak konkursu sprzyja tu wymianie doświadczeń, a teatr formy okazuje się dużo szerszy niż klasyczna lalka.",
+      "img": "https://dwutygodnik-storage.s3.eu-central-1.amazonaws.com/prod/public/media/uploads/1795437371897-87453970626510031086685807069798772881870499n.png.jpeg",
+      "src": "https://www.dwutygodnik.com/artykul/12777-lalki-nie-animuje-sie-bezkarnie.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "video",
+      "id": "2026-11-25-daria-zawialow-fifi-hollywood",
+      "kind": "Teledysk · nagroda",
+      "title": "Daria Zawiałow – „FIFI HOLLYWOOD”",
+      "by": "reż. Nikodem Marek, Kuba Wójcik (Lemon Film)",
+      "text": "Klip nominowany do Fryderyka 2024 w kategorii Teledysk Roku, który zdobył też Grand Prix i nagrodę w kategorii pop na 6. PL Music Video Awards. To jeden z najgłośniejszych polskich klipów 2023 roku, zrealizowany przez duet Nikodem Marek i Kuba Wójcik.",
+      "embed": {
+        "p": "yt",
+        "id": "dhVNVdi8aJI"
+      },
+      "dur": 214,
+      "img": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=png/kultura/files/news/526396/main/janerka-mrozu.png",
+      "src": "https://www.wroclaw.pl/kultura/fryderyki-2024-lista-zwyciezcow-kto-wygral-wyniki-lech-janerka-mrozu",
+      "srcName": "wroclaw.pl"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "news",
+      "id": "2026-11-25-sarkozy-bruni-proces",
+      "lang": "pl",
+      "title": "Sarkozy i Carla Bruni staną przed sądem",
+      "text": "Były prezydent Francji i jego żona odpowiedzą za próbę wpływania na świadka Ziada Takieddine'a, który oskarżał Sarkozy'ego o libijskie finansowanie kampanii z 2007 r. Proces ma ruszyć w listopadzie 2027 r., a grozi im do 10 lat więzienia.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-24/klopoty-bylego-prezydenta-francji-nicolas-sarkozy-i-jego-zona-carla-bruni-stana-przed-sadem/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "photo",
+      "id": "2026-11-25-wm-10",
+      "title": "Nipomo, obóz zbieraczy grochu",
+      "by": "Dorothea Lange, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Migrant_Mother,_alternative_version_(LOC_fsa.8b29523).jpg/1280px-Migrant_Mother,_alternative_version_(LOC_fsa.8b29523).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Migrant_Mother,_alternative_version_(LOC_fsa.8b29523).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "article",
+      "id": "2026-11-25-jezyca-szaulinska",
+      "lang": "pl",
+      "title": "Debiut Katarzyny Szaulińskiej o kobiecie, która zmienia się w jeża",
+      "by": "Magdalena Romanowska",
+      "text": "W powieści Jeżyca bohaterka po traumie przeżytej na wsi odkrywa rodzinny dar przemiany w jeża, a groteska miesza się z ludową metafizyką i pragnieniem zemsty. Recenzentka chwali niejednoznaczny obraz wsi i to, że magia nie zostaje racjonalnie wytłumaczona.",
+      "src": "https://www.dwutygodnik.com/artykul/12778-bal-na-zlomowisku.html",
+      "srcName": "Dwutygodnik"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "photo",
+      "id": "2026-11-25-wm-11",
+      "title": "Minneapolis, młyny i wagony",
+      "by": "John Vachon, 1939",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flour_mills-railroad_cars-Minneapolis-1939.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Flour_mills-railroad_cars-Minneapolis-1939.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "photo",
+      "id": "2026-11-25-wm-12",
+      "title": "Nowy Orlean, St. Peter Street",
+      "by": "Frances Benjamin Johnston, ok. 1937",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/717-723_St._Peter_St.,_New_Orleans,_Orleans_Parish,_Louisiana.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:717-723_St._Peter_St.,_New_Orleans,_Orleans_Parish,_Louisiana.jpg",
+      "srcName": "Wikimedia Commons"
+    },
     {
       "date": "2026-11-24",
       "type": "video",
