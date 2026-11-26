@@ -1,6 +1,373 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "items": [
+    {
+      "date": "2026-11-26",
+      "type": "video",
+      "id": "2026-11-26-nectar-woode-only-want-you",
+      "kind": "Teledysk",
+      "title": "Nectar Woode – „Only Want You”",
+      "by": "reż. Lea Otovic (The Banquet)",
+      "text": "Lea Otovic splata trzy kameralne historie o miłości, samotności i tęsknocie, rozgrywające się w ciągu jednej londyńskiej nocy. Czuły, aktorsko prowadzony klip do soulowego utworu brytyjskiej wokalistki.",
+      "embed": {
+        "p": "yt",
+        "id": "ZT3BcUbOp1M"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/webform/Nectar%20Woode0.jpg?itok=6FBl0Zxu",
+      "src": "https://www.promonews.tv/videos/2026/11/25/nectar-woode-only-want-you-lea-otovic/97102",
+      "srcName": "Promonews"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "photo",
+      "id": "2026-11-26-wm-01",
+      "title": "Paryż, Place du Châtelet",
+      "by": "Charles Marville, ok. 1865",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Charles_Marville,_Place_du_Châtelet,_ca._1853–70.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Charles_Marville,_Place_du_Châtelet,_ca._1853–70.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "news",
+      "id": "2026-11-26-usa-cla-14-partnerow",
+      "lang": "pl",
+      "title": "USA ogłosiły nowe cła na 14 partnerów, w tym UE i Chiny",
+      "text": "Biuro Przedstawiciela Handlowego USA zapowiedziało cła za nadwyżki mocy produkcyjnych, a najwyższą stawkę, 20 proc., mają dostać Chiny i Wietnam. Dla UE, Japonii i Korei Płd. obowiązuje limit 15 proc. z wcześniejszych porozumień, a Meksyk i Norwegia na razie uniknęły ceł.",
+      "src": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target",
+      "srcName": "Al Jazeera"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "photo",
+      "id": "2026-11-26-wm-02",
+      "title": "Ellis Island, rodzina imigrantów w przechowalni bagażu",
+      "by": "Lewis Hine, 1905",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Lewis_W._Hine_-_Immigrant_Family_in_the_Baggage_Room_of_Ellis_Island_-_Google_Art_Project.jpg/1280px-Lewis_W._Hine_-_Immigrant_Family_in_the_Baggage_Room_of_Ellis_Island_-_Google_Art_Project.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Lewis_W._Hine_-_Immigrant_Family_in_the_Baggage_Room_of_Ellis_Island_-_Google_Art_Project.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "article",
+      "id": "2026-11-26-alison-luchs-museum-rizzler",
+      "lang": "en",
+      "title": "The 78-year-old curator fluent in Gen Z slang",
+      "by": "Rhea Nayyar",
+      "text": "Alison Luchs, a sculpture specialist at the National Gallery of Art in Washington, has gone viral explaining ancient objects and myths through Gen Z slang and pop culture in short videos. She and the museum's comms head talk about the series' millions of views, two Webbys and how each clip gets made.",
+      "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/11/Alison-Luchs_Sydni-Myers_National-Gallery--2-.jpg",
+      "src": "https://hyperallergic.com/how-alison-luchs-the-museum-rizzler-became-gen-zs-goated-art-historian/",
+      "srcName": "Hyperallergic"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "news",
+      "id": "2026-11-26-rzad-uchwala-tk-nbp",
+      "lang": "pl",
+      "title": "Rząd przyjął uchwałę, by ratować finanse Trybunału przed blokadą NBP",
+      "text": "Rada Ministrów ostrzega, że wstrzymanie przez NBP zleceń płatniczych zagraża działaniu Trybunału Konstytucyjnego. Premier i minister finansów mają chronić interes Skarbu Państwa, a minister Żurek zapowiada plan B dla finansowania sądu.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-25/funkcjonowanie-tk-zagrozone-pilny-komunikat-rzadu/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "photo",
+      "id": "2026-11-26-wm-03",
+      "title": "Nowy Jork, wnętrze Penn Station",
+      "by": "Berenice Abbott, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Penn_Station,_Interior,_Manhattan_(NYPL_b13668355-482562).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Penn_Station,_Interior,_Manhattan_(NYPL_b13668355-482562).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "article",
+      "id": "2026-11-26-visa-base-design-refresh",
+      "lang": "en",
+      "title": "Visa gets a standalone V and its own typeface",
+      "by": "Rob Alderson",
+      "text": "Base Design has given Visa a new V symbol taken from the wordmark's wingtip, a system of horizontal bands and a narrow typeface, Visa Sans, made with Displaay and covering 115 languages. The aim is to catch younger eyes while keeping the familiar blue and yellow, and the project even includes a new sound for a successful payment.",
+      "img": "https://m.itsnicethat.com/original_images/16_PRESS_Visa.jpg?class=w1440",
+      "src": "https://www.itsnicethat.com/articles/base-design-visa-brand-refresh-graphic-design-project-241126",
+      "srcName": "It's Nice That"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "video",
+      "id": "2026-11-26-verve-bitter-sweet-symphony",
+      "kind": "Teledysk · klasyka",
+      "title": "The Verve – „Bitter Sweet Symphony”",
+      "by": "reż. Walter Stern (Academy Films)",
+      "text": "Richard Ashcroft idzie jednym ujęciem przez londyński chodnik i nie ustępuje nikomu, wpadając na przechodniów i nie zwalniając ani na chwilę. Debiut Sterna w Academy Films z 1997 roku stał się jednym z najczęściej przywoływanych teledysków brytyjskiego britpopu.",
+      "embed": {
+        "p": "yt",
+        "id": "1lyu1KKwC74"
+      },
+      "img": "https://i.ytimg.com/vi/1lyu1KKwC74/hqdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/Walter_Stern_(director)",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "photo",
+      "id": "2026-11-26-wm-04",
+      "title": "Welch (Wirginia Zachodnia), sobotnie popołudnie na ulicy",
+      "by": "Russell Lee, 1946",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/00/Saturday_afternoon_street_scene._Welch,_McDowell_County,_West_Virginia._-_NARA_-_541004.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Saturday_afternoon_street_scene._Welch,_McDowell_County,_West_Virginia._-_NARA_-_541004.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "news",
+      "id": "2026-11-26-ukraina-blackout-piec-obwodow",
+      "lang": "pl",
+      "title": "Rosyjskie ataki pozbawiły prądu pięć obwodów Ukrainy",
+      "text": "Uderzenia zabiły co najmniej pięć osób i uszkodziły energetykę m.in. w obwodach dniprowskim i zaporoskim. Zaporoska elektrownia atomowa po raz 17. w tym roku straciła zasilanie zewnętrzne i działa na generatorach.",
+      "src": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions",
+      "srcName": "Al Jazeera"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "photo",
+      "id": "2026-11-26-wm-05",
+      "title": "Paryż, wnętrze mieszkania",
+      "by": "Eugène Atget, ok. 1910",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Eugène_Atget,_Paris_Interior,_ca._1910.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Eugène_Atget,_Paris_Interior,_ca._1910.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "news",
+      "id": "2026-11-26-tusk-apel-pit-cit",
+      "lang": "pl",
+      "title": "Tusk apeluje do Nawrockiego o podpis pod zmianami w PIT i CIT",
+      "text": "Ustawa podnosi pierwszy próg podatkowy do 130 tys. zł, wprowadza stawkę 24 proc. do 150 tys. zł i wyższy CIT dla dużych firm. Premier przypomina, że prezydent zawetował już 50 ustaw, a zmiany objęłyby ok. 3,5 mln podatników.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-25/donald-tusk-zaapelowal-do-karola-nawrockiego-chodzi-o-zmiany-w-podatkach/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "photo",
+      "id": "2026-11-26-wm-06",
+      "title": "Chicago, naprawa wagonów na torach Illinois Central",
+      "by": "Jack Delano, 1942",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/50/Frank_Williams,_working_on_the_car_repair_tracks_at_an_Illinois_Central_Railroad_yard.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Frank_Williams,_working_on_the_car_repair_tracks_at_an_Illinois_Central_Railroad_yard.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "article",
+      "id": "2026-11-26-johnnie-shand-kydd-ramsholt",
+      "lang": "en",
+      "title": "Johnnie Shand Kydd trades the YBAs for Suffolk marshes",
+      "by": "Daisy Woodward",
+      "text": "The photographer best known for chronicling the Young British Artists has published Ramsholt, black-and-white landscapes of reedbeds and trees shot on a daily 50-minute walk with a Rolleiflex and a 5x4 camera. His accompanying text ties the village to his family history and to how easily such a landscape can vanish.",
+      "img": "https://images-prod.anothermag.com/1075/0-24-1075-716/azure/another-prod/480/0/480506.jpg",
+      "src": "https://www.anothermag.com/art-photography/17657/from-the-ybas-to-the-suffolk-marshes-johnnie-shand-kydd-new-perspective",
+      "srcName": "AnOther"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "news",
+      "id": "2026-11-26-strefa-zakazu-lotow-wschod",
+      "lang": "pl",
+      "title": "MON chce strefy zakazu lotów przy wschodniej granicy",
+      "text": "Wiceminister Cezary Tomczyk zapowiada wąski pas zakazu lotów przy granicy, który ułatwi pilotom zestrzeliwanie obcych obiektów. Przepisy mają wejść w życie na przełomie grudnia i stycznia, po zeszłotygodniowym wlocie trzech rosyjskich obiektów.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-25/tomczyk-mowil-o-strefie-zakazu-lotow-padla-data/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "video",
+      "id": "2026-11-26-kendrick-lamar-humble",
+      "kind": "Teledysk · nagroda",
+      "title": "Kendrick Lamar – „HUMBLE.”",
+      "by": "reż. Dave Meyers i the little homies",
+      "text": "Klip, który zdobył nagrodę Grammy za najlepszy teledysk w 2018 roku (60. gala), pokonując m.in. Becka i JAY-Z. Seria precyzyjnie skomponowanych, surrealnych obrazów – od parafrazy Ostatniej Wieczerzy po płonące głowy – zamienia się w wizualny manifest.",
+      "embed": {
+        "p": "yt",
+        "id": "tvTRZJ-4EyI"
+      },
+      "img": "https://i.ytimg.com/vi/tvTRZJ-4EyI/hqdefault.jpg",
+      "src": "https://www.grammy.com/awards/categories/best-music-video/2018/",
+      "srcName": "GRAMMY.com"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "photo",
+      "id": "2026-11-26-wm-07",
+      "title": "Nowy Jork, Mulberry Bend",
+      "by": "Jacob Riis, ok. 1888",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mulberry_Bend-Jacob_Riis.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Mulberry_Bend-Jacob_Riis.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "article",
+      "id": "2026-11-26-zvyagintsev-minotaur",
+      "lang": "en",
+      "title": "Zvyagintsev's Minotaur, a revenge thriller about the war",
+      "by": "Nick Chen",
+      "text": "Andrey Zvyagintsev's first film since leaving Russia, a Cannes Grand Prix winner loosely based on a Chabrol thriller, follows a businessman forced to pick which employees get sent to the front as his marriage collapses. The director rejects the propaganda label, though some Ukrainian critics object to what they see as a both-sides framing.",
+      "img": "https://images-prod.dazeddigital.com/1200/azure/dazed-prod/1450/9/1459748.jpg",
+      "src": "https://www.dazeddigital.com/film-tv/article/71381/1/andrey-zvyagintsev-minotaur-director-iris-lebedeva-film-interview",
+      "srcName": "Dazed"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "photo",
+      "id": "2026-11-26-wm-08",
+      "title": "Alabama, wiejska szkoła",
+      "by": "Walker Evans, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/05/Alabama_schoolhouse_by_Walker_Evans.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Alabama_schoolhouse_by_Walker_Evans.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "news",
+      "id": "2026-11-26-irak-sad-kurdystan-granice",
+      "lang": "pl",
+      "title": "Sąd w Iraku: Bagdad może przejąć granice i ropę Kurdystanu",
+      "text": "Federalny Sąd Najwyższy pozwolił rządowi wysłać wojsko na przejścia graniczne regionu kurdyjskiego i nadzorować pola naftowe. Władze Kurdystanu nazwały to zamachem na swoje konstytucyjne prawa.",
+      "src": "https://www.aljazeera.com/news/2026/11/25/iraqs-top-court-rules-government-can-take-over-kurdish-borders-oil-fields",
+      "srcName": "Al Jazeera"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "photo",
+      "id": "2026-11-26-wm-09",
+      "title": "Paryż, plac przed Operą",
+      "by": "Charles Marville, 1878",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/12/Charles_Marville,_Place_de_l'Opéra,_1878.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Charles_Marville,_Place_de_l'Opéra,_1878.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "news",
+      "id": "2026-11-26-kair-pozar-autostrada",
+      "lang": "pl",
+      "title": "Pożar na autostradzie w Kairze, co najmniej 30 zabitych",
+      "text": "Według egipskich mediów państwowych przewróciła się cysterna z paliwem, a ogień objął auta w dzielnicy Warrak. Minister zdrowia uprzedza, że bilans ofiar może jeszcze wzrosnąć.",
+      "src": "https://www.euronews.com/2026/11/25/at-least-30-killed-in-highway-fire-in-cairo-district",
+      "srcName": "Euronews"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "photo",
+      "id": "2026-11-26-wm-10",
+      "title": "Nowy Jork, MacDougal Alley",
+      "by": "Berenice Abbott, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/5b/MacDougal_Alley,_between_West_8th_Street_and_Washington_Square_North,_Manhattan_(NYPL_b13668355-482859).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:MacDougal_Alley,_between_West_8th_Street_and_Washington_Square_North,_Manhattan_(NYPL_b13668355-482859).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "video",
+      "id": "2026-11-26-stella-mccartney-wild-horses",
+      "kind": "Film modowy",
+      "title": "Stella McCartney – „Wild Horses” z Kylie Jenner",
+      "by": "reż. Gia Coppola",
+      "text": "Kylie Jenner brodzi w oceanie u boku wytresowanego konia w krótkim filmie promującym zimową kolekcję Stelli McCartney. Zdjęcia nakręciła Autumn Durald Arkapaw, a kampania ma zwracać uwagę na los dzikich koni w Ameryce.",
+      "embed": {
+        "p": "vimeo",
+        "id": "1238448330"
+      },
+      "dur": 77,
+      "img": "https://r.fashionunited.com/t7MszFEhRdZ6Ox1JOiBsqy0opiY0i_LBJXSEgOpjS_0/resize:fit:1200:630:0/gravity:ce/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMTAvMjYvc21jMjYtd2kxNi1jYW1wYWlnbi0xNng5LTIxNWJqY2xiLTIwMjYtMTAtMjYuanBlZw.jpeg",
+      "src": "https://fashionunited.uk/news/fashion/stella-mccartney-casts-kylie-jenner-in-short-film-wild-horses/2026102691032",
+      "srcName": "FashionUnited"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "article",
+      "id": "2026-11-26-ancient-tavern-baghdad",
+      "lang": "en",
+      "title": "A 3,800-year-old tavern near Baghdad?",
+      "by": "Jessica Esther Saraceni",
+      "text": "At Tell Muhammad on the Tigris, archaeologists found a room with a curved mudbrick counter, a basin possibly used for brewing, and a cuneiform tablet recording a witnessed loan of barley and beer. The team has also traced a stretch of the city's massive outer wall and reed-and-clay pipes that fed a cistern.",
+      "img": "https://archaeology.org/wp-content/uploads/2026/11/News-20261120-Iraq-Tell-Muhammad-Fortification.jpg",
+      "src": "https://archaeology.org/news/2026/11/20/possible-ancient-tavern-investigated-near-baghdad/",
+      "srcName": "Archaeology Magazine"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "news",
+      "id": "2026-11-26-izrael-eisenkot-lieberman",
+      "lang": "pl",
+      "title": "Eisenkot ma pierwszego koalicjanta, Netanjahu wciąż premierem",
+      "text": "Partia Jaszar Gadiego Eisenkota podpisze umowę z ugrupowaniem Awigdora Liebermana, to pierwszy sojusz od październikowych wyborów. Eisenkot ma czas do 6 grudnia, by zbudować rząd, inaczej szansę dostanie Netanjahu.",
+      "src": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government",
+      "srcName": "Al Jazeera"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "photo",
+      "id": "2026-11-26-wm-11",
+      "title": "Paryż, dawna Szkoła Medyczna przy rue de la Bûcherie",
+      "by": "Eugène Atget, ok. 1900",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Eugène_Atget,_Ancienne_école_de_Médecine_rue_de_la_Bûcherie_15_(03)_-_Gallica.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Eugène_Atget,_Ancienne_école_de_Médecine_rue_de_la_Bûcherie_15_(03)_-_Gallica.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "article",
+      "id": "2026-11-26-nic-nie-widac-lublin",
+      "lang": "pl",
+      "title": "Niewidzialne choroby na wystawie w lubelskiej UTOPII",
+      "text": "Zbiorowa wystawa „Nic nie widać” w Centrum Kultury w Lublinie zajmuje się chorobami psychicznymi, psychosomatycznymi i cywilizacyjnymi, których nie widać, a które dotykają ludzi i całe społeczeństwo. Nowe media i malarstwo traktują chorobę zarówno dosłownie, jak i jako metaforę kryzysu współczesnych relacji.",
+      "img": "https://magazynszum.pl/wp-content/uploads/2026/11/nic-nie-widac-34-1440x960.jpg",
+      "src": "https://magazynszum.pl/nic-nie-widac-w-utopii-laboratorium-idei-i-form-w-centrum-kultury-w-lublinie/",
+      "srcName": "Magazyn SZUM"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "photo",
+      "id": "2026-11-26-wm-12",
+      "title": "Chicago, warsztat lokomotyw Chicago and North Western",
+      "by": "Jack Delano, 1942",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chicago_and_Northwestern_railroad_locomotive_shop_fsac.1a34676u.jpg/1280px-Chicago_and_Northwestern_railroad_locomotive_shop_fsac.1a34676u.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Chicago_and_Northwestern_railroad_locomotive_shop_fsac.1a34676u.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "news",
+      "id": "2026-11-26-posel-krol-areszt",
+      "lang": "pl",
+      "title": "Poseł Wojciech Król zostaje w areszcie",
+      "text": "Sąd Okręgowy w Katowicach prawomocnie utrzymał areszt dla zawieszonego posła KO i szefa Rady Mediów Narodowych. Prokuratura Europejska zarzuca mu korupcję przy modernizacji torowisk w metropolii śląskiej.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-25/posel-ko-wojciech-krol-w-areszcie-zapadla-nowa-decyzja-sadu/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "news",
+      "id": "2026-11-26-oligarchowie-pozew-polska",
+      "lang": "pl",
+      "title": "Rosyjscy oligarchowie pozwali Polskę na ponad 460 mln zł",
+      "text": "Właściciele grupy Technonicol domagają się w moskiewskim sądzie odszkodowania za przejętą fabrykę wełny mineralnej w Wykrotach. Rozprawę odroczono do 15 kwietnia.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-25/rosyjscy-oligarchowie-pozwali-polske-zadaja-prawie-pol-miliarda-zlotych/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "article",
+      "id": "2026-11-26-silent-swiatlo-elblag",
+      "lang": "pl",
+      "title": "Malarstwo i poezja o świetle w elbląskiej Galerii EL",
+      "text": "Wystawa „SILENT ŚWIATŁO” zestawia obrazy Grażyny Smalej z tekstem poetki Małgorzaty Lebdy, traktując światło jako doświadczenie, a nie motyw. Autorki próbują uchwycić rzeczy ulotne, takie jak błysk, powidok czy tęcza.",
+      "img": "https://magazynszum.pl/wp-content/uploads/2026/11/silent-swiatlo-galeria-el-2-fot.-bartek-zalewski-1440x1080.jpg",
+      "src": "https://magazynszum.pl/silent-swiatlo-grazyny-smalej-i-malgorzaty-lebdy-w-centrum-sztuki-galeria-el-w-elblagu/",
+      "srcName": "Magazyn SZUM"
+    },
     {
       "date": "2026-11-25",
       "type": "video",
