@@ -1,6 +1,367 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "items": [
+    {
+      "date": "2026-11-27",
+      "type": "video",
+      "id": "2026-11-27-skepta-secrets-of-patriarchy",
+      "kind": "Teledysk",
+      "title": "Skepta – „Secrets Of Patriarchy”",
+      "by": "reż. Alex Acy (Object & Animal)",
+      "text": "Skepta, skupiony i nieporuszony, przemierza ponure, chaotyczne miasto, załatwiając codzienne sprawy – powtarzane ujęcia, ostry montaż i nagłe zwroty oddają presję, jaką niesie jego pozycja. Kanadyjski reżyser Alex Acy, świeżo nagrodzony jako debiutant na UKMVA, robi z rutyny trzymający w napięciu thriller.",
+      "embed": {
+        "p": "yt",
+        "id": "RhSuan_P6z4"
+      },
+      "img": "https://admin.promonews.tv/sites/default/files/styles/bmvd_list/public/Skepta%20%27Secrets%20Of%20Patriarchy%27%20by%20Alex%20Acy.png?itok=kfZbvlG6",
+      "src": "https://www.promonews.tv/videos/2026/11/26/skepta-secrets-patriarchy-alex-acy/97090",
+      "srcName": "Promonews"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "news",
+      "id": "2026-11-27-swieczkowski-zawieszony",
+      "lang": "pl",
+      "title": "Bogdan Święczkowski odsunięty od orzekania na rok",
+      "text": "Sąd dyscyplinarny Trybunału Konstytucyjnego zdecydował o 12-miesięcznej przerwie w czynnościach służbowych prezesa TK Bogdana Święczkowskiego. To pokłosie zarządzenia sędzi Anny Korwin-Piotrowskiej, która od końca października kieruje pracami Trybunału.",
+      "src": "https://tvn24.pl/polska/sad-dyscyplinarny-zdecydowal-w-sprawie-bogdana-swieczkowskiego-st9359469",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "photo",
+      "id": "2026-11-27-wm-01",
+      "title": "Berlin, pomnik cesarza i Zamek Miejski",
+      "by": "Heinrich Zille, ok. 1900",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/82/Heinrich_Zille,_Nationaldenkmal_und_Stadtschloß,_um_1900.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Heinrich_Zille,_Nationaldenkmal_und_Stadtschloß,_um_1900.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "article",
+      "id": "2026-11-27-mental-illness-culture",
+      "lang": "en",
+      "title": "Does mental illness look the same in every culture?",
+      "by": "Alexander Pereira",
+      "text": "Starting from the 1994 death of a Hong Kong schoolgirl that suddenly made anorexia visible in the region, a Stanford philosopher asks whether psychiatric disorders are universal or shaped by local ideas. He argues that culture does not just colour how distress is expressed but can causally create and reshape illnesses.",
+      "img": "https://images.aeonmedia.co/images/52cd7554-7970-47c1-b2e1-b1f2609d4c56/essay-2011-04-26t120000z_177609120_gm1e74q1iax01_rtrmadp_3_china.jpg?width=1200&quality=75&format=jpeg",
+      "src": "https://aeon.co/essays/are-mental-illnesses-universal-or-are-they-culturally-specific",
+      "srcName": "Aeon"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "photo",
+      "id": "2026-11-27-wm-02",
+      "title": "Londyn, uliczny sprzedawca kart",
+      "by": "John Thomson, 1877",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/ed/%22Tickets%22_the_Card-Dealer_(6056577306).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:%22Tickets%22_the_Card-Dealer_(6056577306).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "news",
+      "id": "2026-11-27-tk-finansowanie-bgk",
+      "lang": "pl",
+      "title": "Rząd przenosi finansowanie Trybunału do BGK",
+      "text": "Po tym, jak NBP wstrzymał realizację płatności z kont TK, pieniądze dla Trybunału mają płynąć przez pomocniczy rachunek w Banku Gospodarstwa Krajowego. Minister finansów Andrzej Domański zapewnia, że Trybunał będzie mógł działać.",
+      "src": "https://www.rmf24.pl/fakty/polska/news-premier-tusk-zdecydowal-trybunal-konstytucyjny-z-nowym-zrodl,nIdn,1027777",
+      "srcName": "RMF24"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "photo",
+      "id": "2026-11-27-wm-03",
+      "title": "Londyn, życie ulicy",
+      "by": "John Thomson, 1877",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/3f/From_'Street_Life_in_London',_1877,_by_John_Thomson_and_Adolphe_Smith._(6257456398).jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:From_'Street_Life_in_London',_1877,_by_John_Thomson_and_Adolphe_Smith._(6257456398).jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "news",
+      "id": "2026-11-27-mon-palantir-umowa",
+      "lang": "pl",
+      "title": "MON ma dziś podpisać umowę z Palantirem na system dowodzenia z AI",
+      "text": "Resort obrony zapowiedział na piątek zawarcie kontraktu na Maven Smart System, który w polskiej armii ma działać pod nazwą Saturn i łączyć dane z dronów, satelitów i radarów we wspólny obraz pola walki. Aktywiści i część polityków domagali się wcześniej audytu i debaty w parlamencie.",
+      "src": "https://radar.rp.pl/wojsko-polskie/art45548401-mon-podpisze-umowe-z-palantir-technologies-jest-data",
+      "srcName": "Rzeczpospolita"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "video",
+      "id": "2026-11-27-kenzo-here-now-gregg-araki",
+      "kind": "Film modowy",
+      "title": "KENZO – „Here Now”",
+      "by": "reż. Gregg Araki (Barnstormer)",
+      "text": "Na kolekcję jesień-zima 2015 Humberto Leon i Carol Lim poprosili Gregga Arakiego o coś w rodzaju dopisanego po 20 latach rozdziału jego „Teenage Apocalypse Trilogy”. Wyszedł neonowy, pulpowy kalifornijski sen o zbuntowanej młodzieży z Avanem Jogią i Jacobem Artistem – kultowe kino queer w modowym przebraniu.",
+      "embed": {
+        "p": "vimeo",
+        "id": "132682691"
+      },
+      "dur": 369,
+      "img": "https://www.interviewmagazine.com/wp-content/uploads/2015/07/img-kenzo-x-gregg-araki_182451751739.jpg",
+      "src": "https://www.interviewmagazine.com/fashion/kenzo-x-gregg-araki-fw-2015",
+      "srcName": "Interview Magazine"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "news",
+      "id": "2026-11-27-cba-enea-totalizator-pkw",
+      "lang": "pl",
+      "title": "CBA przeszukało Eneę, Totalizator Sportowy i PKW",
+      "text": "Śledztwo dotyczy płatnej protekcji i powoływania się na wpływy w instytucjach państwowych, m.in. przy przyspieszaniu decyzji spółek Skarbu Państwa. Zarzuty usłyszało dotąd 11 osób, a prokuratura zażądała od PKW danych o wpłatach na kampanię z lat 2015-2023.",
+      "src": "https://tvn24.pl/biznes/z-kraju/cba-przeszukalo-siedziby-enei-totalizatora-sportowego-i-pkw-st9357564",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "photo",
+      "id": "2026-11-27-wm-04",
+      "title": "Wenecja, kanał",
+      "by": "Alfred Stieglitz, 1894",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Stieglitz-Venetian_Canal.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Stieglitz-Venetian_Canal.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "article",
+      "id": "2026-11-27-nan-goldin-hayward",
+      "lang": "en",
+      "title": "Nan Goldin's raw worlds at the Hayward Gallery",
+      "by": "Zak Freeman",
+      "text": "A review of Goldin's London show, which runs from her era-defining photographs of New York's countercultural fringe to her slideshow about opioid addiction. It frames her as both a successor to Eggleston and an activist whose PAIN campaign now rivals her art in fame.",
+      "img": "https://images-prod.anothermag.com/566/0-349-566-377/azure/another-prod/480/0/480483.jpg",
+      "src": "https://www.anothermag.com/art-photography/17653/nan-goldin-you-never-did-anything-wrong-review-exhibition-hayward-gallery",
+      "srcName": "AnOther"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "photo",
+      "id": "2026-11-27-wm-05",
+      "title": "Blythe, uchodźcy z Oklahomy przy drodze",
+      "by": "Dorothea Lange, 1936",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/80/Dorothea_Lange,_Drought_refugees_from_Oklahoma_camping_by_the_roadside,_Blythe,_California,_1936.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Dorothea_Lange,_Drought_refugees_from_Oklahoma_camping_by_the_roadside,_Blythe,_California,_1936.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "news",
+      "id": "2026-11-27-islandia-katastrofa-statku-polak",
+      "lang": "pl",
+      "title": "Zatonął kuter u wybrzeży Islandii, zginął Polak",
+      "text": "Islandzki statek rybacki poszedł na dno około 100 km od wschodniego wybrzeża wyspy, a trzy z 17 osób na pokładzie nie przeżyły. MSZ potwierdziło, że wśród ofiar jest obywatel Polski, a drugi Polak z załogi jest bezpieczny.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-26/katastrofa-statku-u-wybrzezy-islandii-zginal-polak-drugi-jest-ranny/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "photo",
+      "id": "2026-11-27-wm-06",
+      "title": "Oakland, sklep z napisem „I am an American”",
+      "by": "Dorothea Lange, 1942",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/83/JapaneseAmericanGrocer1942.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:JapaneseAmericanGrocer1942.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "news",
+      "id": "2026-11-27-trump-putin-agresja-europa",
+      "lang": "pl",
+      "title": "Trump: prosiłem Putina o koniec agresji wobec Europy",
+      "text": "Prezydent USA napisał, że podczas rozmów w Chinach wezwał Putina do wycofania się z wszelkich militarnych działań wobec Europy i że wierzy w realną szansę na porozumienie Rosji z Ukrainą. O rozmowach poinformował też sekretarza generalnego NATO Marka Ruttego podczas spotkania w Mar-a-Lago.",
+      "src": "https://tvn24.pl/swiat/donald-trump-zaapelowal-do-wladimira-putina-o-zaprzestanie-agresji-w-europie-st9359509",
+      "srcName": "TVN24"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "video",
+      "id": "2026-11-27-radiohead-karma-police",
+      "kind": "Teledysk · klasyka",
+      "title": "Radiohead – „Karma Police”",
+      "by": "reż. Jonathan Glazer",
+      "text": "Kamera z tylnego siedzenia samochodu, w którym siedzi Thom Yorke, nocą ściga uciekającego przez pustkowie mężczyznę – aż role nagle się odwracają. Glazer chciał opowieści, którą da się zamknąć w jednym zdaniu, i stworzył jeden z najbardziej hipnotycznych klipów lat 90.",
+      "embed": {
+        "p": "yt",
+        "id": "1uYWYWPc9HU"
+      },
+      "dur": 264,
+      "img": "https://i.ytimg.com/vi/1uYWYWPc9HU/hqdefault.jpg",
+      "src": "https://en.wikipedia.org/wiki/Karma_Police",
+      "srcName": "Wikipedia"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "news",
+      "id": "2026-11-27-zelenski-ostrzega-atak-energetyka",
+      "lang": "pl",
+      "title": "Zełenski ostrzega przed kolejnym zmasowanym atakiem Rosji",
+      "text": "Według ukraińskiego wywiadu Moskwa kończy przygotowania do dużego uderzenia w energetykę i infrastrukturę krytyczną, a po nocnych atakach ekipy przywracały prąd w sześciu obwodach. Kijów naciska na partnerów w sprawie dostaw rakiet do Patriotów, sam zaś uderzył m.in. w rosyjskie lotnisko wojskowe.",
+      "src": "https://www.pbs.org/newshour/world/zelenskyy-warns-of-imminent-major-russian-attack-on-ukraines-power-grid",
+      "srcName": "AP / PBS NewsHour"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "photo",
+      "id": "2026-11-27-wm-07",
+      "title": "Waszyngton, witryna lombardu",
+      "by": "Esther Bubley, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Washington,_D.C._A_pawnshop_window_8d41637v.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Washington,_D.C._A_pawnshop_window_8d41637v.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "article",
+      "id": "2026-11-27-yilki-horses-anatolia",
+      "lang": "en",
+      "title": "Photographing the semi-wild Yilki horses of Anatolia",
+      "by": "Kate Mothes",
+      "text": "British-Turkish photographer Nur Tucker follows the herds of horses that were set loose once tractors and trucks made them redundant, and the people who still drive them across rugged terrain. Her new book with Hemeria treats the animals as living heritage caught between freedom and loss.",
+      "img": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/yilki-4.jpeg",
+      "src": "https://www.thisiscolossal.com/2026/11/the-untold-story-of-the-yilki-horse-nur-tucker-book/",
+      "srcName": "Colossal"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "photo",
+      "id": "2026-11-27-wm-08",
+      "title": "Waszyngton, marynarz fotografuje dziewczynę przed Kapitolem",
+      "by": "Esther Bubley, 1943",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sailor_taking_a_picture_of_his_girlfriend_8d26783v.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Sailor_taking_a_picture_of_his_girlfriend_8d26783v.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "news",
+      "id": "2026-11-27-iran-kuwejt-wlosi",
+      "lang": "pl",
+      "title": "Irańskie drony nad Kuwejtem, zginęło dwóch Włochów",
+      "text": "Odłamki zestrzelonych dronów śmiertelnie raniły dwóch Włochów pracujących dla Rheinmetallu przy systemach obrony powietrznej Kuwejtu. Kuwejckie wojsko nazwało atak irańską agresją, a premier Meloni złożyła kondolencje rodzinom ofiar.",
+      "src": "https://www.polsatnews.pl/wiadomosc/2026-11-26/iran-zaatakowal-w-kuwejcie-nie-zyje-dwoch-wlochow/",
+      "srcName": "Polsat News"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "photo",
+      "id": "2026-11-27-wm-09",
+      "title": "Chiny, maszerujący żołnierze",
+      "by": "Arthur Rothstein, 1946",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/40/Arthur_Rothstein_-_marching_Chinese_troops_ppmsca.07799.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Arthur_Rothstein_-_marching_Chinese_troops_ppmsca.07799.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "news",
+      "id": "2026-11-27-usa-sad-obywatelstwo-urodzenie",
+      "lang": "pl",
+      "title": "Sąd w USA blokuje nowe ograniczenia obywatelstwa z urodzenia",
+      "text": "Sędzia federalny Christopher Cooper uznał, że prezydent nie może tworzyć nowych wyjątków od konstytucyjnej zasady obywatelstwa dla dzieci urodzonych w USA. Rozporządzenia Trumpa z sierpnia celowały m.in. w tzw. turystykę porodową, a Biały Dom zapowiada sprzeciw wobec wyroku.",
+      "src": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship",
+      "srcName": "Al Jazeera"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "video",
+      "id": "2026-11-27-johnny-cash-hurt",
+      "kind": "Teledysk · nagroda",
+      "title": "Johnny Cash – „Hurt”",
+      "by": "reż. Mark Romanek",
+      "text": "Nagroda Grammy 2004 za najlepszy krótki teledysk (Best Short Form Music Video) oraz statuetka MTV VMA 2003 za zdjęcia przy sześciu nominacjach. Romanek zestawia schorowanego Casha w zamkniętym muzeum jego imienia z archiwalnymi kadrami z młodości – to poruszające pożegnanie nagrane na kilka miesięcy przed śmiercią artysty.",
+      "embed": {
+        "p": "yt",
+        "id": "8AHCfZTRGiI"
+      },
+      "dur": 228,
+      "img": "https://i.ytimg.com/vi/8AHCfZTRGiI/hqdefault.jpg",
+      "src": "https://www.grammy.com/awards/categories/best-music-video/2004/",
+      "srcName": "Grammy.com / Wikipedia"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "news",
+      "id": "2026-11-27-egipt-pozar-cysterny",
+      "lang": "pl",
+      "title": "Pożar cysterny w Kairze: 31 ofiar śmiertelnych",
+      "text": "Na obwodnicy Kairu w Gizie przewróciła się cysterna z paliwem, a ogień strawił 27 pojazdów w godzinach szczytu. Prokuratura zatrzymała 21-letniego kierowcę, który miał w nią uderzyć, a opozycja domaga się rozliczenia odpowiedzialnych.",
+      "src": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31",
+      "srcName": "Al Jazeera"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "photo",
+      "id": "2026-11-27-wm-10",
+      "title": "Chiny, matka z dziećmi",
+      "by": "Arthur Rothstein, 1946",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/24/Arthur_Rothstein_-_Chinese_mother_with_children_ppmsca.07798.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Arthur_Rothstein_-_Chinese_mother_with_children_ppmsca.07798.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "article",
+      "id": "2026-11-27-kanal-museum-brussels",
+      "lang": "en",
+      "title": "Brussels' old Citroën garage reopens as the Kanal museum",
+      "by": "Amy Peacock",
+      "text": "A 1930s industrial car garage has become a 40,000-square-metre museum of modern art and architecture, programmed together with the Centre Pompidou. The Atelier Kanal consortium of EM2N, NoAarchitecten and Sergison Bates restored the building and slotted three new volumes inside it.",
+      "img": "https://static-2026.dezeen.com/uploads/2026/11/kanal-museum-brussels-renovation-atelier-kanal-sq2_dezeen_2364_col_0.jpg",
+      "src": "https://www.dezeen.com/2026/11/26/kanal-museum-brussels-renovation-atelier-kanal/",
+      "srcName": "Dezeen"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "photo",
+      "id": "2026-11-27-wm-11",
+      "title": "Waszyngton, szkolna klasa z wiatraczkami",
+      "by": "Frances Benjamin Johnston, 1899",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Children_in_a_classroom_blowing_pinwheels_in_a_Washington,_D.C.,_grade_school_LCCN2001703714.jpg",
+      "src": "https://commons.wikimedia.org/wiki/File:Children_in_a_classroom_blowing_pinwheels_in_a_Washington,_D.C.,_grade_school_LCCN2001703714.jpg",
+      "srcName": "Wikimedia Commons"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "article",
+      "id": "2026-11-27-swanson-tv-dinner",
+      "lang": "en",
+      "title": "How leftover Thanksgiving turkey gave birth to the TV dinner",
+      "by": "Colin Marshall",
+      "text": "In 1953 Swanson found itself with some 260 tons of unsold frozen turkey, and a salesman inspired by airline meal trays proposed packing it into ready-to-heat trays. The idea rode the explosive spread of television sets in American homes, selling ten million units the following year.",
+      "img": "https://cdn8.openculture.com/2026/11/25223251/Swanson_Turkey_Dinner_Horizontal-1024x576.png",
+      "src": "https://www.openculture.com/2026/11/how-a-thanksgiving-crisis-inspired-the-invention-of-swansons-tv-dinner-1953.html",
+      "srcName": "Open Culture"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "article",
+      "id": "2026-11-27-philadelphia-ballroom-kareem-bah",
+      "lang": "en",
+      "title": "Inside Philadelphia's kiki ballroom scene",
+      "by": "Laura Pitcher",
+      "text": "Launching Dazed's State of Youth series, 22-year-old Philadelphia photographer Kareem Bah documents a Halloween kiki ball in his hometown. Bah learned ballroom by studying old tapes online and now sees his own camera as a way to keep that archive going.",
+      "img": "https://images-prod.dazeddigital.com/1200/123-41-2877-1918/azure/dazed-prod/1460/0/1460284.jpg",
+      "src": "https://www.dazeddigital.com/art-photography/article/71420/1/these-photos-capture-the-raw-energy-of-philadelphia-s-ballroom-scene",
+      "srcName": "Dazed"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "article",
+      "id": "2026-11-27-elzbieta-cieslar-wspomnienie",
+      "lang": "pl",
+      "title": "Wspomnienie o Elżbiecie Cieślar, współtwórczyni Galerii Repassage",
+      "by": "Maryla Sitkowska",
+      "text": "Zmarła w wieku 92 lat rzeźbiarka, projektantka i aktywistka, która razem z mężem Emilem tworzyła duet artystyczny i w latach 1973–1978 prowadziła warszawską galerię Repassage. Tekst przypomina jej drogę od uczennicy Jarnuszkiewicza i Hansena do jednej z kluczowych postaci polskiej neoawangardy lat 70.",
+      "img": "https://magazynszum.pl/wp-content/uploads/2026/11/1.-1977-05-09-el-cieslar-na-wyst-stembery-fot-j-malicki-dia-001-1440x960.jpg",
+      "src": "https://magazynszum.pl/bisia-elzbieta-cieslar-1934-2026/",
+      "srcName": "Magazyn SZUM"
+    },
     {
       "date": "2026-11-26",
       "type": "video",
